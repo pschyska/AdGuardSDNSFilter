@@ -11,7 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: pull upstream
+        run: |
+          git config user.email "git@github.com"
+          git config user.name "GitHub Actions"
+          git config pull.rebase true
+          git pull https://github.com/AdguardTeam/AdGuardSDNSFilter "${{ github.head_ref || github.ref_name }}"
+          git push --force origin "${{ github.head_ref || github.ref_name }}"
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
