@@ -1,3 +1,11 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1081
+||iterable.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1079
+||cdn.rollbar.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1075
+||pi.pardot.com^
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1073
+||rb.gy^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/131918
 ||kinesis.eu-west-1.amazonaws.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1059
