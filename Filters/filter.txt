@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-10-31T12:19:08.715Z
+! Last modified: 2022-10-31T18:14:50.249Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||kzsfip3v.cfd^
 ||lephaush.net^
 ||grootcho.com^
 ||zausosti.net^
@@ -3029,6 +3030,7 @@ vkcdnservice.appspot.com^
 ||affairscollar.com^
 ||affairsmithbloke.com^
 ||affairsquicker.com^
+||affall.com^
 ||affasi.com^
 ||affbot1.com^
 ||affbot3.com^
@@ -3299,6 +3301,7 @@ vkcdnservice.appspot.com^
 ||alcogeltomfool.com^
 ||alcoholicsort.com^
 ||alcroconawa.com^
+||alcult.com^
 ||aldeaamputee.com^
 ||aleailarm.com^
 ||alecclause.com^
@@ -3846,6 +3849,7 @@ vkcdnservice.appspot.com^
 ||assumptivestation.com^
 ||assuranceapprobationblackbird.com^
 ||assurancelocusmat.com^
+||assurednesssalesmanmaud.com^
 ||assuremath.com^
 ||ast2ya4ee8wtnax.com^
 ||astancerta.fun^
@@ -5631,6 +5635,7 @@ vkcdnservice.appspot.com^
 ||chimamanndgaocozmi.com^
 ||chimarssensory.com^
 ||china-netwave.com^
+||chineegibbet.com^
 ||chingmathecia.website^
 ||chinikscouxia.com^
 ||chinitnam.com^
@@ -6785,6 +6790,7 @@ vkcdnservice.appspot.com^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
 ||delayyawn.com^
+||delbertgobans.com^
 ||delempanyi.one^
 ||deliciousinvestor.com^
 ||delightfulold.com^
@@ -9104,6 +9110,7 @@ vkcdnservice.appspot.com^
 ||getsurv2you.org^
 ||getterobes.cam^
 ||gettine.com^
+||gettingtoe.com^
 ||gettraffnews.com^
 ||getxml.org^
 ||getyoursoft.ru^
@@ -11607,6 +11614,7 @@ vkcdnservice.appspot.com^
 ||laidwhenadmiring.com^
 ||lailoljiqsi.com^
 ||lainaumi.com^
+||lainmpatoio.xyz^
 ||lakequincy.com^
 ||lakvandula.com^
 ||lalaping.com^
@@ -11918,6 +11926,7 @@ vkcdnservice.appspot.com^
 ||liqpvvxngdbo.xyz^
 ||lirelt.com^
 ||lirsmmnsaixa.com^
+||liskwculeepiw.com^
 ||lislepostsax.com^
 ||lisponightingale.com^
 ||listenmolly.com^
@@ -13027,6 +13036,7 @@ vkcdnservice.appspot.com^
 ||mutenessdollyheadlong.com^
 ||mutteredslashfolly.com^
 ||mutux.cfd^
+||muvalryhktvr.com^
 ||muvimtim.com^
 ||muwootch.com^
 ||muyoozrkkyr.com^
@@ -13897,6 +13907,7 @@ vkcdnservice.appspot.com^
 ||oklast.com^
 ||oko.net^
 ||okoniteblart.com^
+||okqapmnpyox.com^
 ||okraenrolls.com^
 ||oksdyydvwrbrjf.xyz^
 ||oktpage.com^
@@ -14551,6 +14562,7 @@ vkcdnservice.appspot.com^
 ||peacto.com^
 ||peakclick.com^
 ||peanic.com^
+||pearanceofam.xyz^
 ||pebadu.com^
 ||peciet.com^
 ||peckleooze.com^
@@ -15252,6 +15264,7 @@ vkcdnservice.appspot.com^
 ||profitablegatetocontent.com^
 ||profitabletrustednetwork.com^
 ||profitpeelers.com^
+||profsitu.com^
 ||prognosisshallowpliant.com^
 ||programminghonourable.com^
 ||progressproceeding.com^
@@ -15988,6 +16001,7 @@ vkcdnservice.appspot.com^
 ||recentlyunknowninterested.com^
 ||recentpoisoncoma.com^
 ||recentrecentturf.com^
+||recessioncomply.com^
 ||recessiongesturebarnacle.com^
 ||recesssignary.com^
 ||rechampouinerai.website^
@@ -16013,6 +16027,7 @@ vkcdnservice.appspot.com^
 ||reddenjaguarsuitcase.com^
 ||reddenmusician.com^
 ||reddsdainful.com^
+||redeemspectacular.com^
 ||redewdit.pro^
 ||redirect-ads.com^
 ||redirect2719.ws^
@@ -16056,6 +16071,7 @@ vkcdnservice.appspot.com^
 ||refraidinterva.xyz^
 ||refrainskiereatable.com^
 ||refraintupaiid.com^
+||refrigeratorgranddifficult.com^
 ||refugedcuber.com^
 ||refurt.com^
 ||refuserates.com^
@@ -17483,6 +17499,7 @@ vkcdnservice.appspot.com^
 ||sobakenchmaphk.com^
 ||sobalf.com^
 ||sobbathing.com^
+||sobbingservingcolony.com^
 ||soburge.com^
 ||socalleddemocratstripe.com^
 ||soccup.com^
@@ -18341,6 +18358,7 @@ vkcdnservice.appspot.com^
 ||tenezratio.com^
 ||tengmoneron.com^
 ||tennubifaces.com^
+||tensorsbancos.com^
 ||tenthsfrumpy.com^
 ||tentmess.com^
 ||teosredic.com^
@@ -18789,6 +18807,7 @@ vkcdnservice.appspot.com^
 ||tqlkg.com^
 ||tqrvftsbdagk.xyz^
 ||tqwloexv.com^
+||tqykympih.com^
 ||tr563.com^
 ||tracedexplore.com^
 ||tracepath.cc^
@@ -19517,6 +19536,7 @@ vkcdnservice.appspot.com^
 ||uulvtpbx.com^
 ||uuocyltqnjgj.com^
 ||uuydabxaindfsb.xyz^
+||uvbpclcpw.com^
 ||uvbyty.com^
 ||uvooadlxfosmh.com^
 ||uwbcefluof.com^
@@ -19882,6 +19902,7 @@ vkcdnservice.appspot.com^
 ||voluumtracker.com^
 ||voluumtrk.com^
 ||voluumtrk3.com^
+||vonjntkstyuyk.com^
 ||vooculok.com^
 ||voonogoa.net^
 ||vooshagy.net^
@@ -20754,6 +20775,7 @@ vkcdnservice.appspot.com^
 ||xvbelink.com^
 ||xvika.com^
 ||xvlcbwlgpy.com^
+||xvttywwhgxwlg.com^
 ||xvwebllndr.com^
 ||xvxxbrzhjunco.com^
 ||xwktyiydn.com^
@@ -23206,6 +23228,7 @@ vkcdnservice.appspot.com^
 ||d2mic0r0bo3i6z.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
+||d2mw3lu2jj5laf.cloudfront.net^
 ||d2n726m6x5iwwx.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
 ||d2nlytvx51ywh9.cloudfront.net^
@@ -29456,7 +29479,6 @@ vkcdnservice.appspot.com^
 ||api.fouanalytics.com^
 ||api.getlevelten.com^
 ||api.innomdc.com^
-||api.ipify.org^
 ||api.retargetly.com^
 ||api.segment.io^
 ||api3847.d41.co^
@@ -34191,6 +34213,9 @@ vkcdnservice.appspot.com^
 ||jieshareme.xyz^
 ||vrmgwvz.cn^
 ||ognlaigk.fun^
+||lpxmall.com^
+||msnignsx.xyz^
+||zt-uc-baidu.cc^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
