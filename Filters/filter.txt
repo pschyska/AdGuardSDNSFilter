@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-01T06:18:31.972Z
+! Last modified: 2022-11-01T12:20:08.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28177,6 +28177,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||jetv.xyz^
 ||lider90.com^
 ||diken.xyz^
 ||likevertising.com^
@@ -34255,6 +34256,7 @@ vkcdnservice.appspot.com^
 ||txzlc.cn^
 ||ftanya.ltd^
 ||shouyefrom.xyz^
+||ixuchch.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
