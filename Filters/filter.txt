@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-03T06:11:10.258Z
+! Last modified: 2022-11-03T12:15:45.999Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||aglagzoq.com^
+||monkeysloveyou.com^
+||robsardri.com^
+||morningglory101.io^
 ||3c5.com^
 ||kzsfip3v.cfd^
 ||lephaush.net^
@@ -13324,7 +13328,6 @@ vkcdnservice.appspot.com^
 ||moneycosmos.com^
 ||moneymakercdn.com^
 ||monkeybroker.net^
-||monkeysloveyou.com^
 ||monksentrance.com^
 ||monkyank.com^
 ||monocotwhorry.com^
@@ -28672,6 +28675,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||referans.xyz^
 ||jetv.xyz^
 ||lider90.com^
 ||diken.xyz^
@@ -34766,6 +34770,17 @@ vkcdnservice.appspot.com^
 ||ezxws.cyou^
 ||xcvhy.xyz^
 ||fafa1688.xyz^
+||rawgsjd.cn^
+||mingtians.top^
+||kuaile789.ink^
+||qstzar.cn^
+||rsnignsz.xyz^
+||qnieo.fun^
+||simi456.me^
+||simi567.me^
+||smtwm61.com^
+||lgnlaigl.fun^
+||vciddepi.cyou^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
