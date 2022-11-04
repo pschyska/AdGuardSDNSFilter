@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-04T06:10:44.183Z
+! Last modified: 2022-11-04T12:17:27.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||dersoova.net^
+||icsamghkxdv.com^
 ||aglagzoq.com^
 ||monkeysloveyou.com^
 ||robsardri.com^
@@ -34859,6 +34861,9 @@ vkcdnservice.appspot.com^
 ||akfhe.xyz^
 ||jessicarace.com^
 ||vvfht.fun^
+||mhsksgj.cn^
+||2022shoupidan1024.xyz^
+||2022fada1028.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
