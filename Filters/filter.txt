@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-05T12:13:45.638Z
+! Last modified: 2022-11-05T18:09:14.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -28842,7 +28842,6 @@ vkcdnservice.appspot.com^
 ||november-lax.com^
 ||octopuspop.com^
 ||redirectvoluum.com^
-||searchteria.co.jp^
 ||speead.jp^
 ||textad.net^
 ||trafficstars.com^
@@ -32679,7 +32678,6 @@ vkcdnservice.appspot.com^
 ||eblnzoq.cn^
 ||eclczg.cn^
 ||ecudsc.cn^
-||ecukwai.com^
 ||edwad.co^
 ||edzyhx.cn^
 ||ee2g.top^
@@ -32718,6 +32716,7 @@ vkcdnservice.appspot.com^
 ||erwgj.xyz^
 ||esajfsd.cn^
 ||esiws.com^
+||esjzj.cyou^
 ||esnignsw.xyz^
 ||esnoownmw.fun^
 ||etgameshop.com^
@@ -32797,6 +32796,7 @@ vkcdnservice.appspot.com^
 ||fyyqq.top^
 ||fz2c.top^
 ||fz8g.top^
+||fzckwij.cn^
 ||galvanic.name^
 ||gangtabli.top^
 ||gass.top^
@@ -33024,6 +33024,7 @@ vkcdnservice.appspot.com^
 ||iotewq.xyz^
 ||ioxjce.xyz^
 ||ipqc5ejfe.icu^
+||ir002423.cn^
 ||ishoutu.net^
 ||isroeiq.cn^
 ||iswgnn.com^
@@ -33048,6 +33049,7 @@ vkcdnservice.appspot.com^
 ||ixqkgc.cn^
 ||ixuchch.cn^
 ||iy20.com^
+||iytrn.xyz^
 ||iyuedu.cn.com^
 ||izzcwww7.live^
 ||izzcwww7.world^
@@ -33239,6 +33241,7 @@ vkcdnservice.appspot.com^
 ||lhot.xyz^
 ||lhpzz.love^
 ||lianfu.shop^
+||liangmei20221031.xyz^
 ||lianliankanms.top^
 ||liebaovip.com^
 ||ling07.icu^
@@ -33318,6 +33321,7 @@ vkcdnservice.appspot.com^
 ||merbleue.hk^
 ||meredithnice.com^
 ||meta-wx.com^
+||mgnlaigx.fun^
 ||mgtcw.top^
 ||mhsksgj.cn^
 ||miatip.cn^
@@ -33774,6 +33778,7 @@ vkcdnservice.appspot.com^
 ||sghmvum.cn^
 ||sgnlaigb.fun^
 ||shamodesha.com^
+||shangke.asia^
 ||shangrongxin.cn^
 ||shaokaodaren.top^
 ||shcd.me^
@@ -33994,6 +33999,7 @@ vkcdnservice.appspot.com^
 ||usmhimw.cn^
 ||usnignst.xyz^
 ||usnoownmt.fun^
+||utci9.cn^
 ||utijs.xyz^
 ||utll.cn^
 ||utywsi.cn^
@@ -34166,6 +34172,7 @@ vkcdnservice.appspot.com^
 ||xcjwq.world^
 ||xcmno.xyz^
 ||xcvhy.xyz^
+||xcvsw.xyz^
 ||xcvtg.xyz^
 ||xcvur.xyz^
 ||xcwzq.xyz^
@@ -34423,15 +34430,6 @@ vkcdnservice.appspot.com^
 ||zzycj.com^
 ||zzyl.mobi^
 ||zzzhuoxiaqu.online^
-||mgnlaigx.fun^
-||utci9.cn^
-||ir002423.cn^
-||esjzj.cyou^
-||xcvsw.xyz^
-||fzckwij.cn^
-||shangke.asia^
-||iytrn.xyz^
-||liangmei20221031.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
