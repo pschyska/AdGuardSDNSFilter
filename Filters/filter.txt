@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-06T12:14:35.179Z
+! Last modified: 2022-11-06T18:09:32.094Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||updatemobilee.com^
+||ocwagmlizb.com^
 ||owkuwquf.com^
 ||querulous-type.com^
 ||dersoova.net^
@@ -10977,8 +10979,8 @@ vkcdnservice.appspot.com^
 ||hecticpassenger.com^
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
-||hedmisrepu.com^
 ||hedmisrepu.co^
+||hedmisrepu.com^
 ||hedrvszms.com^
 ||heebauch.com^
 ||heedenglish.com^
@@ -11200,8 +11202,8 @@ vkcdnservice.appspot.com^
 ||holiestcoseys.com^
 ||holitt.com^
 ||hollekeamboina.com^
-||hollercatastrophe.com^
 ||hollercatastrophe.co^
+||hollercatastrophe.com^
 ||hollerscanelos.com^
 ||holptimawa.com^
 ||holydelicatessen.com^
@@ -15753,8 +15755,8 @@ vkcdnservice.appspot.com^
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajikrqhbqth.xyz^
-||palama2.com^
 ||palama2.co^
+||palama2.com^
 ||paletteadulatory.com^
 ||palibs.tech^
 ||palmicplod.com^
@@ -19565,8 +19567,8 @@ vkcdnservice.appspot.com^
 ||surv2you.net^
 ||surv2you.org^
 ||surveillancelandmorgue.com^
-||survey2you.com^
 ||survey2you.co^
+||survey2you.com^
 ||survey2you.net^
 ||survey2you.org^
 ||survey4you.co^
@@ -23697,6 +23699,7 @@ vkcdnservice.appspot.com^
 ||googletrackmanager.com^
 ||goraps.com^
 ||gourmetads.com^
+||goutee.top^
 ||goverua.com^
 ||goviral-content.com^
 ||gpsecureads.com^
@@ -29485,6 +29488,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||delikatsov.com^
 ||relap.mail.ru^
 ||api.ucheba.ru^
 ||banners.tapclap.com^
@@ -32087,8 +32091,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Nov 2022 09:55 UTC+7
-! Version: 2211010955
+! Last modified: 06 Nov 2022 23:02 UTC+7
+! Version: 2211062302
 ! Blocked: 1.552 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35906,6 +35910,9 @@ vkcdnservice.appspot.com^
 ||caleblindsaydawson.cn^
 ||dahounian.top^
 ||72agg.com^
+||caxxetj.cn^
+||jzngisya.xyz^
+||iyurw.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
