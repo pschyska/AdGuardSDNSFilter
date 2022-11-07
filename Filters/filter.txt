@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-07T12:17:34.976Z
+! Last modified: 2022-11-07T18:10:29.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||ojqbnqdwycws.com^
 ||mpmqqbinaakpsqu.xyz^
 ||fensough.xyz^
 ||heptaneleaner.com^
@@ -35,7 +36,6 @@
 ||monkeysloveyou.com^
 ||robsardri.com^
 ||morningglory101.io^
-||3c5.com^
 ||kzsfip3v.cfd^
 ||lephaush.net^
 ||grootcho.com^
@@ -30114,6 +30114,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ratel-ad.com^
 ||cdn.mixx-ad.net^
 ||dating-z.shop^
 ||vukipoerg.com^
@@ -33626,6 +33627,7 @@ vkcdnservice.appspot.com^
 ||0f4l.xyz^
 ||0l9x.cn^
 ||0p7w.cn^
+||1104piaoba2022.xyz^
 ||11111.host^
 ||1118cctv.ltd^
 ||1527ego.com^
@@ -33636,6 +33638,7 @@ vkcdnservice.appspot.com^
 ||1lx.co^
 ||1n4o.icu^
 ||1papa.top^
+||1porp.top^
 ||1so8inqb.cn^
 ||1wkg.cn^
 ||2022fada1028.xyz^
@@ -33795,6 +33798,7 @@ vkcdnservice.appspot.com^
 ||6v6.work^
 ||7080ys.top^
 ||71sas.com^
+||72agg.com^
 ||72asa.com^
 ||745c.cn^
 ||767drv.cn^
@@ -33835,6 +33839,7 @@ vkcdnservice.appspot.com^
 ||addihj.cn^
 ||adkisdh3897.xyz^
 ||ads-6686.top^
+||aeg32y.top^
 ||aeimmmj.cn^
 ||aengbalz.fun^
 ||afij001.xyz^
@@ -33872,6 +33877,7 @@ vkcdnservice.appspot.com^
 ||ajzs.xyz^
 ||ajzsa.xyz^
 ||akfhe.xyz^
+||akk1556.com^
 ||akmh043.vip^
 ||akmh047.vip^
 ||akmh049.vip^
@@ -33912,6 +33918,7 @@ vkcdnservice.appspot.com^
 ||azfqoeq.cn^
 ||azfrij.cn^
 ||b88392.top^
+||b8f40t2i.cn^
 ||badaniop.top^
 ||badcniop.top^
 ||baddniop.top^
@@ -33934,6 +33941,7 @@ vkcdnservice.appspot.com^
 ||bbt114.cn^
 ||bbzerk.cn^
 ||bdcse.xyz^
+||bdjg.xyz^
 ||bdzkrl.cn^
 ||bengbaly.fun^
 ||beolit.cn^
@@ -33944,6 +33952,7 @@ vkcdnservice.appspot.com^
 ||bgilefj.cn^
 ||bgnlaigv.fun^
 ||bh0874.online^
+||bhcwr.cn^
 ||bhicxb.cn^
 ||bhny.asia^
 ||bhujiwwb.top^
@@ -33988,7 +33997,9 @@ vkcdnservice.appspot.com^
 ||c9tt3jj.top^
 ||caimei.me^
 ||caiyeml.pw^
+||caleblindsaydawson.cn^
 ||cattleman.cn^
+||caxxetj.cn^
 ||cccf.store^
 ||ccio6rope.cyou^
 ||cckb.online^
@@ -34079,6 +34090,7 @@ vkcdnservice.appspot.com^
 ||dabaicai.ink^
 ||dabao.run^
 ||dahaifa.com^
+||dahounian.top^
 ||daibu.me^
 ||daizi.love^
 ||dajewoi.top^
@@ -34101,6 +34113,7 @@ vkcdnservice.appspot.com^
 ||dextsz.cn^
 ||df5b.top^
 ||dfes68.com^
+||dfggq.com^
 ||dfsvhv88.com^
 ||dgrrvpl.cn^
 ||dhm1.top^
@@ -34170,6 +34183,7 @@ vkcdnservice.appspot.com^
 ||emblvw.cn^
 ||emgqmsn.cn^
 ||emjysmk.cn^
+||emptz.cyou^
 ||enrosr.cn^
 ||envkrev.cn^
 ||eofemms.cn^
@@ -34181,6 +34195,7 @@ vkcdnservice.appspot.com^
 ||epdchc.cn^
 ||eprxasz.cn^
 ||eqj2a3bx.cn^
+||eqpzy.cyou^
 ||ertdsi.cc^
 ||erwgj.xyz^
 ||esajfsd.cn^
@@ -34211,6 +34226,7 @@ vkcdnservice.appspot.com^
 ||ezmppjg.cn^
 ||ezxws.cyou^
 ||f05.xyz^
+||f3go4jpwa.shop^
 ||fadacaitp.com^
 ||fafa1688.xyz^
 ||fangfeng001.xyz^
@@ -34261,6 +34277,7 @@ vkcdnservice.appspot.com^
 ||furrnbb.cn^
 ||fvffd678.xyz^
 ||fwmbjrl.cn^
+||fwwjbvz.cn^
 ||fxdwdwv.cn^
 ||fyyqq.top^
 ||fz2c.top^
@@ -34363,6 +34380,7 @@ vkcdnservice.appspot.com^
 ||gzvxqwi.cn^
 ||h1ek.xyz^
 ||h56hg7.site^
+||haiao.wang^
 ||haitan.site^
 ||hanldsw.cn^
 ||haohaopao.top^
@@ -34381,6 +34399,7 @@ vkcdnservice.appspot.com^
 ||heip3keop.cyou^
 ||hekcctie.cyou^
 ||helilong.xyz^
+||helloweb.vip^
 ||helloworldisbeautiful.net^
 ||hengbalp.fun^
 ||hengximuye.ren^
@@ -34520,6 +34539,7 @@ vkcdnservice.appspot.com^
 ||iy20.com^
 ||iytrn.xyz^
 ||iyuedu.cn.com^
+||iyurw.xyz^
 ||izzcwww7.live^
 ||izzcwww7.world^
 ||izzcwww8.xyz^
@@ -34605,6 +34625,7 @@ vkcdnservice.appspot.com^
 ||jy7izgie.xyz^
 ||jyuyjxx.cn^
 ||jz8b.top^
+||jzngisya.xyz^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
 ||ka185ly.site^
@@ -34728,6 +34749,7 @@ vkcdnservice.appspot.com^
 ||llsynmll.fun^
 ||llyhbqn.cn^
 ||lmcraft.pw^
+||lmlmvip.com^
 ||lo9b.top^
 ||lomo.cool^
 ||lorlsblh.cyou^
@@ -34831,6 +34853,7 @@ vkcdnservice.appspot.com^
 ||msnignsx.xyz^
 ||msnoownmx.fun^
 ||mstgc.com^
+||mt66g.com^
 ||mthdqs.cn^
 ||mtk.pub^
 ||mtlsari.cn^
@@ -34893,6 +34916,7 @@ vkcdnservice.appspot.com^
 ||nfwtime.com^
 ||nfwvip.com^
 ||nfzplus.com^
+||ngnlaigc.fun^
 ||ngqph.cn^
 ||nhgds.xyz^
 ||nhlnfiq.cn^
@@ -34905,8 +34929,10 @@ vkcdnservice.appspot.com^
 ||njamlya.top^
 ||nkcfhm.cn^
 ||nkevca.cn^
+||nkgutoa.cn^
 ||nlsynmlc.fun^
 ||nmfww.xyz^
+||nmhte.xyz^
 ||nngzfd.cn^
 ||nongchanlianhe.top^
 ||nongjih.cn^
@@ -35093,6 +35119,7 @@ vkcdnservice.appspot.com^
 ||qdxsodq.cn^
 ||qf1d.top^
 ||qfgall.cn^
+||qg8bq.top^
 ||qg9z.cn^
 ||qhiqgrf.cn^
 ||qhrixol.cn^
@@ -35338,6 +35365,7 @@ vkcdnservice.appspot.com^
 ||syr66.com.cn^
 ||sz7g.top^
 ||szlhsc.cn^
+||sznj91.com^
 ||t06.xyz^
 ||t22g.icu^
 ||t4sb9dq7.site^
@@ -35402,6 +35430,7 @@ vkcdnservice.appspot.com^
 ||twpfa.cn^
 ||twrkcbs.cn^
 ||twuafbj.cn^
+||tx99y.net^
 ||txfhfdd.cn^
 ||txie.club^
 ||txlidi.ink^
@@ -35423,6 +35452,7 @@ vkcdnservice.appspot.com^
 ||u0083.com^
 ||u05.xyz^
 ||u5ree6.com^
+||u756fvjp.cn^
 ||u8hdqyug.co^
 ||u8hdqyug.live^
 ||u8hdqyugs.xyz^
@@ -35572,6 +35602,7 @@ vkcdnservice.appspot.com^
 ||weio6nkoe.cyou^
 ||wephone.club^
 ||weqvpmw.cn^
+||wergy.xyz^
 ||wfkspcs.cn^
 ||wgnlaige.fun^
 ||wgttjk.cn^
@@ -35604,6 +35635,7 @@ vkcdnservice.appspot.com^
 ||wqkxlke.cn^
 ||wqprtyg.cn^
 ||wqyloitd.cn^
+||wrjgeh.com^
 ||wslits.cn^
 ||wsnignse.xyz^
 ||wsnoownme.fun^
@@ -35695,6 +35727,7 @@ vkcdnservice.appspot.com^
 ||xox8956.com^
 ||xox9298.com^
 ||xox9325.com^
+||xp2tb80s.xyz^
 ||xpahu.com^
 ||xpdyqax.cn^
 ||xqoekp.cn^
@@ -35829,6 +35862,7 @@ vkcdnservice.appspot.com^
 ||zengbalg.fun^
 ||zgcydvu.cn^
 ||zglzkg.com^
+||zgnlaigq.fun^
 ||zhaishanghui.shop^
 ||zhangheng.me^
 ||zhangwanwan.online^
@@ -35873,6 +35907,7 @@ vkcdnservice.appspot.com^
 ||zrbn.ltd^
 ||zrysogsiq.uno^
 ||zsgwed.cn^
+||zsnignsq.xyz^
 ||zsnoownmq.fun^
 ||zt-uc-baidu.cc^
 ||zt5g.top^
@@ -35899,39 +35934,6 @@ vkcdnservice.appspot.com^
 ||zzycj.com^
 ||zzyl.mobi^
 ||zzzhuoxiaqu.online^
-||ngnlaigc.fun^
-||bhcwr.cn^
-||u756fvjp.cn^
-||bdjg.xyz^
-||zsnignsq.xyz^
-||eqpzy.cyou^
-||1porp.top^
-||nmhte.xyz^
-||f3go4jpwa.shop^
-||xp2tb80s.xyz^
-||helloweb.vip^
-||qg8bq.top^
-||caleblindsaydawson.cn^
-||dahounian.top^
-||72agg.com^
-||caxxetj.cn^
-||jzngisya.xyz^
-||iyurw.xyz^
-||zgnlaigq.fun^
-||b8f40t2i.cn^
-||fwwjbvz.cn^
-||lmlmvip.com^
-||emptz.cyou^
-||wergy.xyz^
-||aeg32y.top^
-||akk1556.com^
-||dfggq.com^
-||mt66g.com^
-||tx99y.net^
-||nkgutoa.cn^
-||haiao.wang^
-||wrjgeh.com^
-||1104piaoba2022.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -41635,8 +41637,6 @@ vkcdnservice.appspot.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-||1.gunsuo.com^
-||wenxue.weimeifan.net^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -41663,6 +41663,7 @@ vkcdnservice.appspot.com^
 ||1.feihua.com^
 ||1.feihua.net.cn^
 ||1.glook.cn^
+||1.gunsuo.com^
 ||1.hnyouneng.com^
 ||1.idc100.com^
 ||1.isanxia.com^
@@ -41808,7 +41809,7 @@ vkcdnservice.appspot.com^
 ||a1.gexing.me^
 ||a1.lshou.com^
 ||a1.q6u.com^
-||a1.qqtn.com^
+||a1.qqan.com^
 ||a1.shusanqi.com^
 ||a1.sumiaowang.com^
 ||a1.syfj.net^
@@ -42137,6 +42138,7 @@ vkcdnservice.appspot.com^
 ||img.zuowen8.com^
 ||img.zuowenwang.net^
 ||img1.eywdf.com^
+||img1.hblds.com^
 ||img1.leyun365.com^
 ||img1.qqwangming6.com^
 ||img1.yulu99.com^
@@ -42375,6 +42377,7 @@ vkcdnservice.appspot.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wenhua.jiaoshou.com^
+||wenxue.weimeifan.net^
 ||whfpbc.99.com.cn^
 ||wj.jiancai365.cn^
 ||wm.mipcdn.com^
