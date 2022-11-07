@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-07T06:11:26.014Z
+! Last modified: 2022-11-07T12:17:34.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||mpmqqbinaakpsqu.xyz^
+||fensough.xyz^
+||heptaneleaner.com^
 ||updatemobilee.com^
 ||ocwagmlizb.com^
 ||owkuwquf.com^
@@ -12649,6 +12652,7 @@ vkcdnservice.appspot.com^
 ||klkus.xyz^
 ||klmwrwnvdjje.com^
 ||klonedaset.org^
+||kloperd.com^
 ||kloynfsag.com^
 ||klruiogdkhgtha.com^
 ||klsdee.com^
@@ -31008,8 +31012,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-10-31 09:49:00 CET
-# entries:        956
+# last updated:   2022-11-07 12:51:02 CET
+# entries:        957
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -35924,6 +35928,10 @@ vkcdnservice.appspot.com^
 ||dfggq.com^
 ||mt66g.com^
 ||tx99y.net^
+||nkgutoa.cn^
+||haiao.wang^
+||wrjgeh.com^
+||1104piaoba2022.xyz^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
