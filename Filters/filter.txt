@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-08T06:11:02.806Z
+! Last modified: 2022-11-08T12:18:46.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1886,6 +1886,7 @@ vkcdnservice.appspot.com^
 ||27417130d3.com^
 ||2748cfaad3.com^
 ||277ryf6nabi0.com^
+||27a25cc598.com^
 ||27f51e5610.com^
 ||27vckaccbto7p761.pro^
 ||2803e11a21.com^
@@ -5586,6 +5587,7 @@ vkcdnservice.appspot.com^
 ||blessingsome.com^
 ||blewtheleledm.one^
 ||bligqrrlglcmw.com^
+||blindlydutra.com^
 ||blindlyidle.com^
 ||blindlytinsel.com^
 ||blinkadr.com^
@@ -8905,6 +8907,7 @@ vkcdnservice.appspot.com^
 ||embodimentabstain.com^
 ||embogsoarers.com^
 ||embtrk.com^
+||embuebreme.com^
 ||emccgujavc.xyz^
 ||emediate.dk^
 ||ememoricane.info^
@@ -11359,6 +11362,7 @@ vkcdnservice.appspot.com^
 ||huckauhy.com^
 ||hucolt.com^
 ||hudggknrylp.com^
+||hudsongivin.com^
 ||hududushy.com^
 ||hugeincome.cf^
 ||hugelyantony.com^
@@ -12115,6 +12119,7 @@ vkcdnservice.appspot.com^
 ||jebure.com^
 ||jechesmacaltont.info^
 ||jeckiqcdfbmcxa.xyz^
+||jeckoort.com^
 ||jecoglegru.com^
 ||jecumapu.com^
 ||jeehathu.com^
@@ -17828,6 +17833,7 @@ vkcdnservice.appspot.com^
 ||riskoccur.com^
 ||risolk.com^
 ||risopsuphu.com^
+||rissianpotiche.com^
 ||rithimyphu.com^
 ||ritualwarily.com^
 ||riverhit.com^
@@ -19452,6 +19458,7 @@ vkcdnservice.appspot.com^
 ||studentstunnel.com^
 ||stuffedprofessional.com^
 ||stuffpotencydisciple.com^
+||stugsoda.com^
 ||stumbledmadeiraselfcontrol.com^
 ||stunninglover.com^
 ||stunningruin.com^
@@ -25865,6 +25872,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||sgbm.info^
 ||publi.atresmediapublicidad.com^
 ||landings.zcoptry.com^
 ||banners.inforchannel.com.br^
@@ -29493,6 +29501,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
 ||api.ucheba.ru^
@@ -33622,6 +33631,9 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||ygcn.ltd^
+||dinyqgv.cn^
+||riqnhxq.cn^
 ||001adafg.xyz^
 ||004fsdljasd.xyz^
 ||0272aa.com^
@@ -34371,7 +34383,6 @@ vkcdnservice.appspot.com^
 ||gujiadayuan.top^
 ||guojinfeng123.top^
 ||gv4e.top^
-||gvofl.com^
 ||gwf0.icu^
 ||gwmrb.cn^
 ||gwwsevy.cn^
@@ -34733,7 +34744,6 @@ vkcdnservice.appspot.com^
 ||lggff.com^
 ||lgh2.fun^
 ||lgnlaigl.fun^
-||lhgjewelry.com^
 ||lhippac.cn^
 ||lhot.xyz^
 ||lhpzz.love^
