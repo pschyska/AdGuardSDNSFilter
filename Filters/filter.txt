@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-09T12:19:38.607Z
+! Last modified: 2022-11-09T18:10:43.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5926,6 +5926,7 @@ vkcdnservice.appspot.com^
 ||brighteroption.com^
 ||brightonclick.com^
 ||brightshare.com^
+||brigi-jar.com^
 ||brillspedlars.com^
 ||briolenproc.pics^
 ||brioletredeyes.com^
@@ -33671,6 +33672,7 @@ vkcdnservice.appspot.com^
 ||renxingganwu.com^
 ||51fa.shop^
 ||iftjwuu.cn^
+||picnewsss.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -41835,6 +41837,7 @@ vkcdnservice.appspot.com^
 ||xinju.cc^
 ||xitongku.cc^
 ||xne1ocient87zxz.360doc.cn^
+||bchina-1.xsfaya.com^
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
