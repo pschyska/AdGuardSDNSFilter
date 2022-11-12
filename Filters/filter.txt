@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-12T06:10:26.093Z
+! Last modified: 2022-11-12T12:13:32.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -10193,7 +10193,6 @@ vkcdnservice.appspot.com^
 ||getjad.io^
 ||getmari.com^
 ||getnewsfirst.com^
-||getnotix.co^
 ||getoptad360.com^
 ||getp.xyz^
 ||getpdaiddaily.com^
@@ -14763,8 +14762,6 @@ vkcdnservice.appspot.com^
 ||notifyoutspoken.com^
 ||notifypicture.info^
 ||notifysrv.com^
-||notiks.io^
-||notiksio.com^
 ||notionnalisent.xyz^
 ||notix.io^
 ||notorietycheerypositively.com^
@@ -33510,6 +33507,11 @@ vkcdnservice.appspot.com^
 ||xinzhanggui.wang^
 ||wzngisye.xyz^
 ||qmpkoiv.cn^
+||shuaige20221105.xyz^
+||nisihu.com.cn^
+||lzwdq.xyz^
+||t34kk9.top^
+||j721s.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
