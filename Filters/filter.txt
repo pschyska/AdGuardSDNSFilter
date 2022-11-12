@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-11T18:10:53.961Z
+! Last modified: 2022-11-12T00:46:03.139Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -23,7 +23,6 @@
 !
 !
 ||searchmarquis.com^
-||falsenalice.com^
 ||tegronews.com^
 ||guesswhatnews.com^
 ||luronews.com^
@@ -6090,6 +6089,7 @@ vkcdnservice.appspot.com^
 ||bullads.net^
 ||bulletprofitads.com^
 ||bulletprofitpop.com^
+||bulletproxy.ch^
 ||bullionyield.com^
 ||bulrev.com^
 ||bulsogle.net^
@@ -6402,6 +6402,7 @@ vkcdnservice.appspot.com^
 ||cawsspjzhtgz.com^
 ||cawxsnkf.top^
 ||caxlbwivi.xyz^
+||caxtondegame.com^
 ||cb9e43b2a0.com^
 ||cba-fed-igh.com^
 ||cbba8228b1.com^
@@ -9788,6 +9789,7 @@ vkcdnservice.appspot.com^
 ||floccischlump.com^
 ||flockgallies.com^
 ||flocktanjib.com^
+||flogmacaroni.com^
 ||flogspci.com^
 ||flomigo.com^
 ||flongssecos.com^
@@ -16708,6 +16710,7 @@ vkcdnservice.appspot.com^
 ||prerogativefranticinfractructure.com^
 ||presentlyarch.com^
 ||presidentrestoration.com^
+||presidentscaredlow.com^
 ||pressingequation.com^
 ||pressingmiscellaneoustry.com^
 ||pressize.com^
@@ -19307,6 +19310,7 @@ vkcdnservice.appspot.com^
 ||spinaleighth.com^
 ||spinbiased.com^
 ||spinbox.net^
+||spinbox1.com^
 ||spinsterremnantstooped.com^
 ||spirab.com^
 ||spiralstab.com^
@@ -19508,6 +19512,7 @@ vkcdnservice.appspot.com^
 ||steepedgoofed.com^
 ||steepto.com^
 ||steessay.com^
+||steful.com^
 ||steghaiwhy.com^
 ||steghsolio.com^
 ||steinfqwe6782beck.com^
@@ -20121,6 +20126,7 @@ vkcdnservice.appspot.com^
 ||thebaicidylls.com^
 ||thebarrowtol.xyz^
 ||thebestgame2020.com^
+||thechleads.pro^
 ||theconatyclub.com^
 ||thecoolposts.com^
 ||theerdax.com^
@@ -21385,6 +21391,7 @@ vkcdnservice.appspot.com^
 ||vazypteke.pro^
 ||vbcuthpqnomhh.com^
 ||vbeas.xyz^
+||vbfqpakg.com^
 ||vbnrkihyar.xyz^
 ||vbrw.xyz^
 ||vbscgrnkoceya.com^
@@ -21917,6 +21924,7 @@ vkcdnservice.appspot.com^
 ||wdagdictse.com^
 ||wdanjsscqabsi.com^
 ||wdeliv.net^
+||wdjimokgc.com^
 ||wdroweavewerre.xyz^
 ||wdvnvwayfcy.com^
 ||wea5lkaf63loos8a.com^
@@ -22305,6 +22313,7 @@ vkcdnservice.appspot.com^
 ||wpush.org^
 ||wpvktqejs.com^
 ||wpwocgjsqselo.xyz^
+||wqbvkaktneml.com^
 ||wqedkddqge.com^
 ||wqennyectdnvx.com^
 ||wqlkp.com^
@@ -23032,6 +23041,7 @@ vkcdnservice.appspot.com^
 ||zhcmuccccixz.com^
 ||zhmzsjvkii.com^
 ||zhnlyyrr.com^
+||zhokar.com^
 ||zhtlvag.com^
 ||zhulik2ne1voruy1d.com^
 ||zi8ivy4b0c7l.com^
@@ -23464,6 +23474,7 @@ vkcdnservice.appspot.com^
 ||adsummos.net^
 ||adsupermarket.com^
 ||adsvert.com^
+||adsync.tech^
 ||adtarget.com.tr^
 ||adtdp.com^
 ||adtear.com^
@@ -24814,6 +24825,7 @@ vkcdnservice.appspot.com^
 ||img.servint.net^
 ||inrdeals.com^
 ||ipp.littlecdn.com^
+||join.megaphonetv.com^
 ||karma.mdpcdn.com^
 ||lp.ncdownloader.com^
 ||madisonlogic.com^
@@ -33894,6 +33906,11 @@ vkcdnservice.appspot.com^
 ||xwdsp.com^
 ||ygcn.ltd^
 ||z66ggsh.top^
+||jqnggnsa.fun^
+||nzvpewi.cn^
+||ribffmg.cn^
+||cvbdw.xyz^
+||fwrpq.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
