@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-13T18:09:26.071Z
+! Last modified: 2022-11-14T00:42:59.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5440,6 +5440,7 @@ vkcdnservice.appspot.com^
 ||bhoiprlwdld.com^
 ||bhqhxbrmd.xyz^
 ||bhrbbwup.xyz^
+||bibbybegazes.com^
 ||biblesausage.com^
 ||bicdpciw.com^
 ||bicyclelistworst.com^
@@ -6251,6 +6252,7 @@ vkcdnservice.appspot.com^
 ||callingorator.com^
 ||calmlydung.com^
 ||calmsbocking.com^
+||calomelsiti.com^
 ||calvali.com^
 ||calxespatin.com^
 ||camads.net^
@@ -8072,6 +8074,7 @@ vkcdnservice.appspot.com^
 ||dimessing-parker.com^
 ||dimfarlow.com^
 ||dimlmhowvkrag.xyz^
+||dimnatriazin.com^
 ||dimpawlam.com^
 ||dimplemain.com^
 ||dimpuxoh.net^
@@ -8379,6 +8382,7 @@ vkcdnservice.appspot.com^
 ||drailsaculeus.com^
 ||drainlot.com^
 ||drako2sha8de09.com^
+||dramwh.com^
 ||drapefabric.com^
 ||drasticdrama.com^
 ||drasticmean.com^
@@ -8560,6 +8564,7 @@ vkcdnservice.appspot.com^
 ||dyppdxwstrf.xyz^
 ||dysses.com^
 ||dysuriasps.com^
+||dywtsmojcrjahj.com^
 ||dz4ad.com^
 ||dzhjmp.com^
 ||dzienkudrow.com^
@@ -9128,6 +9133,7 @@ vkcdnservice.appspot.com^
 ||etheopportu.biz^
 ||ethicel.com^
 ||ethikuma.link^
+||ethimdownth.xyz^
 ||ethnicbrotherhoodunmoved.com^
 ||etioh.com^
 ||etivat.com^
@@ -9429,6 +9435,7 @@ vkcdnservice.appspot.com^
 ||faultsderange.com^
 ||faultspiano.com^
 ||faused.com^
+||fauvesez.net^
 ||fauxtitters.com^
 ||favaqo.xyz^
 ||favourablequickdelve.com^
@@ -9932,6 +9939,7 @@ vkcdnservice.appspot.com^
 ||fruine.com^
 ||fruzrotula.com^
 ||fryawlauk.com^
+||frypanbushlet.com^
 ||fsalfrwdr.com^
 ||fsitel.com^
 ||fsobjvtkew.com^
@@ -10966,6 +10974,7 @@ vkcdnservice.appspot.com^
 ||hecticpassenger.com^
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
+||hedgehogpoachsay.com^
 ||hedmisrepu.co^
 ||hedmisrepu.com^
 ||hedrvszms.com^
@@ -11876,6 +11885,7 @@ vkcdnservice.appspot.com^
 ||ipsowrite.com^
 ||iptautup.com^
 ||iqbkkhhsgk.com^
+||iqdflfpchlmtnt.com^
 ||iqtest365.online^
 ||iqzgqivb.com^
 ||irardijjyawmool.xyz^
@@ -12045,6 +12055,7 @@ vkcdnservice.appspot.com^
 ||japhezul.com^
 ||jarbirdkorait.com^
 ||jashautchord.com^
+||jasuurqvtqisud.xyz^
 ||jatsekse.net^
 ||jaubeebe.net^
 ||jauchuwa.net^
@@ -12535,6 +12546,7 @@ vkcdnservice.appspot.com^
 ||kgftlnvgql.com^
 ||kglmkkejuu.com^
 ||kgmwgccdkpy.com^
+||kgokkvava.com^
 ||kgpabtukhwrp.com^
 ||kgthputeelbyp.com^
 ||kgua0o66bcw8.com^
@@ -14949,6 +14961,7 @@ vkcdnservice.appspot.com^
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
 ||nycjyvsyk.com^
+||nydbehindforh.xyz^
 ||nyetm2mkch.com^
 ||nygvejyn.com^
 ||nygwcwsvnu.com^
@@ -17346,6 +17359,7 @@ vkcdnservice.appspot.com^
 ||rechampouinerai.website^
 ||rechaptalisent.xyz^
 ||reciar.com^
+||recipesunny.com^
 ||reciprocaldandy.com^
 ||reckinbuttiten.pro^
 ||recklessmarine.com^
@@ -19463,6 +19477,7 @@ vkcdnservice.appspot.com^
 ||surediscourageconcerning.com^
 ||surelyconvinced.com^
 ||surestmiswire.com^
+||surewashedalphabet.com^
 ||surfmdia.com^
 ||surftraditioncommonplace.com^
 ||surge.systems^
@@ -20641,6 +20656,7 @@ vkcdnservice.appspot.com^
 ||uihxtyagqysh.com^
 ||uimserv.net^
 ||uj0g7.com^
+||ujautifuleed.xyz^
 ||ujccccb.com^
 ||ujljbwnr.com^
 ||ujlvongqbjouubp.xyz^
@@ -21844,6 +21860,7 @@ vkcdnservice.appspot.com^
 ||wirratailage.com^
 ||wirsauco.com^
 ||wishjus.com^
+||wistfulcomet.com^
 ||wistot.com^
 ||witalfieldt.com^
 ||withdromnit.pro^
@@ -22171,6 +22188,7 @@ vkcdnservice.appspot.com^
 ||xkpgguajr.com^
 ||xkunjfkb.com^
 ||xkybwner.xyz^
+||xlbgvltooha.com^
 ||xldcdnd.com^
 ||xlengcomyf.com^
 ||xlgfvswcljeazr.com^
@@ -33604,6 +33622,11 @@ vkcdnservice.appspot.com^
 ||uav6d52c.cn^
 ||9eu7c.top^
 ||glovemall.cn^
+||tqnggnsi.fun^
+||sm3nq.cn^
+||joh4t.cn^
+||fkjdz.cyou^
+||clvkg.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
