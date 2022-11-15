@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-15T00:42:03.172Z
+! Last modified: 2022-11-15T12:14:22.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||weatherplllatform.com^
 ||push-sdk.net^
 ||anzu.io^
 ||compulsionspotsbeacon.com^
@@ -3837,9 +3838,9 @@ vkcdnservice.appspot.com^
 ||ancdwlavstghmr.com^
 ||anchovymedieval.com^
 ||anchovysuccession.com^
+||anciengoddize.com^
 ||ancientsend.com^
 ||anciet.com^
-||anciengoddize.com^
 ||ancpurqgir.com^
 ||andbegant.one^
 ||anddecoyblizzard.com^
@@ -12942,7 +12943,6 @@ vkcdnservice.appspot.com^
 ||laundryrespond.com^
 ||laurieinevitablyhistorian.com^
 ||lauriestatuestroll.com^
-||loutedpewing.com^
 ||lauwhada.com^
 ||lavabosmotlier.com^
 ||lavageethion.com^
@@ -13335,6 +13335,7 @@ vkcdnservice.appspot.com^
 ||louses.net^
 ||lousierphones.com^
 ||lousyfastened.com^
+||loutedpewing.com^
 ||lovapy.com^
 ||lovemateforyou.com^
 ||loverevenue.com^
@@ -25179,6 +25180,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||hb.rayjump.com^
 ||ad.snaptube.app^
 ||gdl.i9dhjx.ru^
 ||mobidriven.com^
@@ -29732,6 +29734,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||my.urdreama.cfd^
 ||referans.xyz^
 ||jetv.xyz^
 ||lider90.com^
@@ -30973,8 +30976,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-11-10 08:13:54 CET
-# entries:        959
+# last updated:   2022-11-15 08:53:03 CET
+# entries:        960
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -31247,6 +31250,7 @@ vkcdnservice.appspot.com^
 ||img06.en25.com^
 ||insight.nikkasystems.com^
 ||instant.page^
+||interactions.sesamy.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
 ||invite.leanlab.co^
@@ -33669,6 +33673,15 @@ vkcdnservice.appspot.com^
 ||4vml0.cn^
 ||eskay.cn^
 ||ertjo.xyz^
+||dktoo.site^
+||uzngisyt.xyz^
+||1108jiuba2022.xyz^
+||wocexaa.cn^
+||86o0h.top^
+||qicewar.cn^
+||bvpaovs.cn^
+||albyprd.cn^
+||hxapafn.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
