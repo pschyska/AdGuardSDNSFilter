@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-15T18:09:55.889Z
+! Last modified: 2022-11-16T00:42:47.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||masturbaseinvegas.com^
 ||internalpound.com^
 ||concernedcommon.com^
 ||weatherplllatform.com^
@@ -11100,8 +11101,8 @@ vkcdnservice.appspot.com^
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
 ||hedgehogpoachsay.com^
-||hedmisrepu.com^
 ||hedmisrepu.co^
+||hedmisrepu.com^
 ||hedrvszms.com^
 ||heebauch.com^
 ||heedenglish.com^
@@ -11323,8 +11324,8 @@ vkcdnservice.appspot.com^
 ||holiestcoseys.com^
 ||holitt.com^
 ||hollekeamboina.com^
-||hollercatastrophe.com^
 ||hollercatastrophe.co^
+||hollercatastrophe.com^
 ||hollerscanelos.com^
 ||holptimawa.com^
 ||holydelicatessen.com^
@@ -15913,8 +15914,8 @@ vkcdnservice.appspot.com^
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajikrqhbqth.xyz^
-||palama2.com^
 ||palama2.co^
+||palama2.com^
 ||paletteadulatory.com^
 ||palibs.tech^
 ||palmicplod.com^
@@ -17333,7 +17334,6 @@ vkcdnservice.appspot.com^
 ||qstukqmsddqgs.com^
 ||qtbb6.com^
 ||qthynj2.com^
-||qt.upwithpansit.com^
 ||qtvbgetlfxnw.com^
 ||qtzvsufbkpxin.com^
 ||quackdamaging.com^
@@ -19758,8 +19758,8 @@ vkcdnservice.appspot.com^
 ||surv2you.net^
 ||surv2you.org^
 ||surveillancelandmorgue.com^
-||survey2you.com^
 ||survey2you.co^
+||survey2you.com^
 ||survey2you.net^
 ||survey2you.org^
 ||survey4you.co^
@@ -21193,6 +21193,7 @@ vkcdnservice.appspot.com^
 ||upush.co^
 ||upwate.com^
 ||upwelf.com^
+||upwithpansit.com^
 ||uqbeohoajdqvcfe.xyz^
 ||uqimgeulpygyo.com^
 ||uqsgsfhd.com^
@@ -33972,6 +33973,11 @@ vkcdnservice.appspot.com^
 ||z66ggsh.top^
 ||zdy1.xyz^
 ||zw2b9.cn^
+||gkofzfi.cn^
+||oqnggnsk.fun^
+||jpai.xyz^
+||itheq.xyz^
+||gpsncbo.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
