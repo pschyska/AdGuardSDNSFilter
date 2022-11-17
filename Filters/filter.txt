@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-17T06:10:11.066Z
+! Last modified: 2022-11-17T12:15:00.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -8638,6 +8638,7 @@ vkcdnservice.appspot.com^
 ||dwetwdstom1020.com^
 ||dwightadjoining.com^
 ||dwirow.com^
+||dwrdjfdxtoel.com^
 ||dwugpwfgi.com^
 ||dxmjyxksvc.com^
 ||dxpxlt.com^
@@ -19262,6 +19263,7 @@ vkcdnservice.appspot.com^
 ||sousefulhea.buzz^
 ||souvamoo.net^
 ||souvenirsattachedcountenance.com^
+||souvoana.xyz^
 ||souwhair.com^
 ||spaceshipads.com^
 ||spaderonium.com^
@@ -22426,6 +22428,7 @@ vkcdnservice.appspot.com^
 ||wyeartxqomvw.com^
 ||wyfxgvxxi.xyz^
 ||wyhwcgvchpmdf.com^
+||wyjaxvuejinse.com^
 ||wynather.com^
 ||wynvalur.com^
 ||wyorrmuftjp.com^
@@ -32376,8 +32379,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Nov 2022 11:18 UTC+7
-! Version: 2211171118
+! Last modified: 17 Nov 2022 15:20 UTC+7
+! Version: 2211171520
 ! Blocked: 1.494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33960,6 +33963,7 @@ vkcdnservice.appspot.com^
 ||lzngisyl.xyz^
 ||6u4j.icu^
 ||wglbx.ltd^
+||dharkyu.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -41356,6 +41360,8 @@ vkcdnservice.appspot.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||daima.ssata.cn^
+||abcd.zle.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
