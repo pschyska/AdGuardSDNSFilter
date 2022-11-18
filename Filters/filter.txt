@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-18T12:14:38.161Z
+! Last modified: 2022-11-18T18:09:45.407Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -24793,6 +24793,7 @@ vkcdnservice.appspot.com^
 ||ad.reklamport.com^
 ||ad.wsod.com^
 ||ads-sg.tiktok.com^
+||ads-yallo-production.imgix.net^
 ||ads.audio.thisisdax.com^
 ||ads.sportradar.com^
 ||adsales.snidigital.com^
@@ -34009,6 +34010,9 @@ vkcdnservice.appspot.com^
 ||qzos9ou.xyz^
 ||5ilss.top^
 ||027dir.com^
+||qvyzdox.cn^
+||nijnqwem.xyz^
+||uyjhbawd.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
