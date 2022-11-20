@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-20T00:45:28.046Z
+! Last modified: 2022-11-20T06:09:39.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30483,7 +30483,6 @@ vkcdnservice.appspot.com^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||ad.activetk.cf^
 ||ad.xdomain.ne.jp^
-||velawhagru.com^
 ||af-next.com^
 ||pr-agent.jp^
 ||ad-paradise.com^
@@ -30497,7 +30496,6 @@ vkcdnservice.appspot.com^
 ||adcent.jp^
 ||pokoran.com^
 ||world-ad.jp^
-||qrclevrfjw.com^
 ||devo.jp^
 ||ad.ddo.jp^
 ||blogroll.click^
@@ -30670,7 +30668,6 @@ vkcdnservice.appspot.com^
 ||ad.net-tool.jp^
 ||ads.metropolis.co.jp^
 ||ads.nicovideo.jp^
-||affili.dmm.com^
 ||api.unthem.com^
 ||arms.livedoor.net^
 ||assoc-amazon.jp^
@@ -30691,7 +30688,6 @@ vkcdnservice.appspot.com^
 ||i2iserv.com^
 ||image-rentracks.com^
 ||itgear.jp^
-||jpg-server.com^
 ||link-trade.net^
 ||logping.exblog.jp^
 ||mcnt.jp^
@@ -34071,6 +34067,7 @@ vkcdnservice.appspot.com^
 ||fztimyc.cn^
 ||kjhxw.xyz^
 ||zjai.xyz^
+||y88m2.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
