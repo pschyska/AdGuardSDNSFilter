@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-22T06:10:36.726Z
+! Last modified: 2022-11-22T12:15:19.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1334,6 +1334,8 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1zjr9cc2zx7cg.cloudfront.net^
+||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
 ||creative.live.missav.com^
 ||ad.apl164.me^
@@ -7032,6 +7034,7 @@ vkcdnservice.appspot.com^
 ||cloudlogobox.com^
 ||cloudnetstorage.com^
 ||cloutbeliefphantom.com^
+||cloyingombres.com^
 ||clozetempts.com^
 ||clrstm.com^
 ||clubpenguinclub.com^
@@ -7358,6 +7361,7 @@ vkcdnservice.appspot.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||coqnaoubj.xyz^
+||coquethamaul.com^
 ||cor8ni3shwerex.com^
 ||cordha.com^
 ||cordydikes.guru^
@@ -15393,6 +15397,7 @@ vkcdnservice.appspot.com^
 ||ofenge.com^
 ||offalakazaman.com^
 ||offchatotor.com^
+||offerentsentedo.com^
 ||offerimage.com^
 ||offersbid.com^
 ||offerstrackingnow.com^
@@ -17080,6 +17085,7 @@ vkcdnservice.appspot.com^
 ||pteelsaw.net^
 ||pteenoum.com^
 ||pteftagu.com^
+||pterylaroak.com^
 ||ptesigliglu.com^
 ||ptetchie.net^
 ||ptewarin.net^
@@ -19798,6 +19804,7 @@ vkcdnservice.appspot.com^
 ||sulfitevariola.com^
 ||sulkydozeperceive.com^
 ||sulkypowerheads.com^
+||sullageprancy.com^
 ||sullensregimes.com^
 ||sultingcoem.com^
 ||sumbalowen.com^
@@ -21350,6 +21357,7 @@ vkcdnservice.appspot.com^
 ||usinesmycete.xyz^
 ||usingswhoring.com^
 ||uslioert.com^
+||uslycoloursewo.com^
 ||usounoul.com^
 ||ussele.com^
 ||ussiagoverse.xyz^
@@ -25214,7 +25222,6 @@ vkcdnservice.appspot.com^
 ||d2na2p72vtqyok.cloudfront.net^
 ||d2nlytvx51ywh9.cloudfront.net^
 ||d2nz8k4xyoudsx.cloudfront.net^
-||d2o03z2xnyxlz5.cloudfront.net^
 ||d2ojfulajn60p5.cloudfront.net^
 ||d2pxbld8wrqyrk.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
@@ -26388,6 +26395,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||courteous-development.com^
 ||planet-news.ru^
 ||hunterers.com^
 ||zpcode11.com^
@@ -34148,6 +34156,8 @@ vkcdnservice.appspot.com^
 ||zzngisyq.xyz^
 ||knmwrkw.xyz^
 ||tfaftemail.com^
+||xiaohui.ink^
+||iwqetbj.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
