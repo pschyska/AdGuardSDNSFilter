@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-22T18:10:09.975Z
+! Last modified: 2022-11-23T00:37:22.712Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -33993,6 +33993,7 @@ vkcdnservice.appspot.com^
 ||5ilss.top^
 ||678tktp.com^
 ||6u4j.icu^
+||79zxcv.com^
 ||828239sam.com^
 ||86o0h.top^
 ||897263tqs.com^
@@ -34048,9 +34049,11 @@ vkcdnservice.appspot.com^
 ||iddhui.com^
 ||iftjwuu.cn^
 ||ijkqwopm.xyz^
+||ikjnwd.xyz^
 ||itheq.xyz^
 ||itjew.xyz^
 ||iuerxw.xyz^
+||iwqetbj.cn^
 ||j721s.top^
 ||jiedu.fun^
 ||jknmsdpo.xyz^
@@ -34064,7 +34067,9 @@ vkcdnservice.appspot.com^
 ||kjcvw.xyz^
 ||kjhxw.xyz^
 ||kjndc.xyz^
+||klxwe.xyz^
 ||kmjbwejnr.xyz^
+||knmwrkw.xyz^
 ||kvtlll.top^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
@@ -34075,6 +34080,7 @@ vkcdnservice.appspot.com^
 ||lpaysfr.cn^
 ||lqnggnsl.fun^
 ||lrkporm.cn^
+||luotuoma.xin^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
@@ -34104,6 +34110,7 @@ vkcdnservice.appspot.com^
 ||pyyhkn.com^
 ||q88j2.top^
 ||qdc7y9x.xyz^
+||qfgfpi.cn^
 ||qiangqi.shop^
 ||qicewar.cn^
 ||qmpkoiv.cn^
@@ -34113,6 +34120,8 @@ vkcdnservice.appspot.com^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
 ||renxingganwu.com^
+||renzw.xyz^
+||rgfqcly.cn^
 ||ribffmg.cn^
 ||riqnhxq.cn^
 ||rqnggnsz.fun^
@@ -34126,6 +34135,7 @@ vkcdnservice.appspot.com^
 ||sqnggnsb.fun^
 ||szngisyb.xyz^
 ||t34kk9.top^
+||tfaftemail.com^
 ||toijr.xyz^
 ||tptp001.buzz^
 ||tqnggnsi.fun^
@@ -34135,6 +34145,8 @@ vkcdnservice.appspot.com^
 ||tzngisyi.xyz^
 ||u09.xyz^
 ||uav6d52c.cn^
+||ubln.top^
+||uibqwl.xyz^
 ||uqnggnst.fun^
 ||usbkngf.cn^
 ||usnczrq.cn^
@@ -34145,9 +34157,11 @@ vkcdnservice.appspot.com^
 ||vggzftw.cn^
 ||vjianshen1688.com^
 ||vqdjcy.com^
+||wapsmne.cyou^
 ||wfhuzaj.cn^
 ||wgdacc.com^
 ||wglbx.ltd^
+||whrc.xyz^
 ||wocexaa.cn^
 ||wqnggnse.fun^
 ||wyqaafplm.live^
@@ -34155,6 +34169,7 @@ vkcdnservice.appspot.com^
 ||wzngisye.xyz^
 ||xf2pf.top^
 ||xhsrw.xyz^
+||xiaohui.ink^
 ||xinzhanggui.wang^
 ||xpdjsd.cn^
 ||xwdsp.com^
@@ -34171,24 +34186,15 @@ vkcdnservice.appspot.com^
 ||zjai.xyz^
 ||zjttaqx.cn^
 ||zjws.xyz^
-||zw2b9.cn^
-||wapsmne.cyou^
 ||zvxwvny.cn^
-||qfgfpi.cn^
-||uibqwl.xyz^
-||klxwe.xyz^
-||whrc.xyz^
-||ikjnwd.xyz^
-||79zxcv.com^
+||zw2b9.cn^
 ||zzngisyq.xyz^
-||knmwrkw.xyz^
-||tfaftemail.com^
-||xiaohui.ink^
-||iwqetbj.cn^
-||rgfqcly.cn^
-||renzw.xyz^
-||ubln.top^
-||luotuoma.xin^
+||qapsmny.cyou^
+||xlhnkpw.cn^
+||xdaigua.cn^
+||weilin.xin^
+||lgjxw.xyz^
+||j41.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
