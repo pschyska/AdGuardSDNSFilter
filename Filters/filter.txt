@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-23T06:09:49.979Z
+! Last modified: 2022-11-23T12:14:17.474Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30441,6 +30441,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads.dygdigital.com^
 ||ads.igfhaber.com^
 ||ad.hepsiburada.com^
 ||ad.reklm.com^
@@ -32516,9 +32517,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Nov 2022 10:17 UTC+7
-! Version: 2211231017
-! Blocked: 1.494 rules
+! Last modified: 23 Nov 2022 16:36 UTC+7
+! Version: 2211231636
+! Blocked: 1.495 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -32534,6 +32535,7 @@ vkcdnservice.appspot.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||adnetwork.vn^
+||adp.vnecdn.net^
 ||ads-admin.hubs.vn^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads.botbanhang.vn^
@@ -32631,6 +32633,9 @@ vkcdnservice.appspot.com^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
 ||klick.vn^
+||la.vnecdn.net^
+||la2.vnecdn.net^
+||la3.vnecdn.net^
 ||lavamedia.vn^
 ||lavanetwork.net^
 ||log-vietnamplus-vn.cdn.ampproject.org^
@@ -33724,9 +33729,6 @@ vkcdnservice.appspot.com^
 ||kv-analytics.kiotviet.vn^
 ||la.vietid.net^
 ||la.vnbusiness.vn^
-||la.vnecdn.net^
-||la2.vnecdn.net^
-||la3.vnecdn.net^
 ||lamthong.net^
 ||landingpagelagi.vn^
 ||lg.lotus.vn^
@@ -34201,6 +34203,11 @@ vkcdnservice.appspot.com^
 ||ifautzg.cn^
 ||sganilglb.cyou^
 ||gzzb.xyz^
+||bfsqtsn.cn^
+||qz15.top^
+||065yuyu.com^
+||lksdj.com^
+||ptijx.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
