@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-24T12:15:08.852Z
+! Last modified: 2022-11-24T18:09:36.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,11 +22,17 @@
 !
 !
 !
+||jpovulldaghw.com^
+||sgnetwork.co^
 ||bulky-battle.com^
 ||sizokiwhe.pro^
 ||upset.xsuffer.com^
 ||anorrecenturybr.com^
 ||thomasbarlowpro.com^
+||dhlyikbubkibk.com^
+||shauptab.net^
+||mantedtonisms.com^
+||hdatssfpxrwbxs.com^
 ||ovalfunny.com^
 ||rubymillsnpro.com^
 ||itecoust.com^
@@ -26462,6 +26468,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||pb.plat.services^
 ||ouqyid.com^
 ||adservob.com^
 ||adnitro.pro^
@@ -34027,16 +34034,22 @@ vkcdnservice.appspot.com^
 ||035caop.com^
 ||049uing.com^
 ||053tyfg.com^
+||058tyfg.com^
+||064ioio.com^
 ||065yuyu.com^
 ||0ftyz.top^
+||0smg.top^
 ||1106yh.com^
 ||1108jiuba2022.xyz^
+||1158tp.com^
+||360600.xyz^
 ||362728tdg.com^
 ||44j4oo2a.cn^
 ||4vml0.cn^
 ||516624.com^
 ||51fa.shop^
 ||5ilss.top^
+||65688qp.com^
 ||678tktp.com^
 ||6u4j.icu^
 ||79zxcv.com^
@@ -34048,9 +34061,11 @@ vkcdnservice.appspot.com^
 ||aiedwhb.cn^
 ||albyprd.cn^
 ||b4jy.top^
+||b53.xyz^
 ||baiduhaoba.com^
 ||bendan.shop^
 ||bfsqtsn.cn^
+||bjws.xyz^
 ||bjzb.xyz^
 ||bqnggnsv.fun^
 ||bvpaovs.cn^
@@ -34071,6 +34086,8 @@ vkcdnservice.appspot.com^
 ||dsfsdft4324.xyz^
 ||dvaimso.cn^
 ||eapsmnw.cyou^
+||eganilglw.cyou^
+||egrnmic.cn^
 ||epmf4.cn^
 ||eqnggnsw.fun^
 ||eqyzc.cyou^
@@ -34080,6 +34097,7 @@ vkcdnservice.appspot.com^
 ||fiwyjar.cn^
 ||fkjdz.cyou^
 ||fknrtpp.cn^
+||fsdnp.cyou^
 ||fvtrx.cyou^
 ||fwrpq.cyou^
 ||fypcy.cyou^
@@ -34089,6 +34107,7 @@ vkcdnservice.appspot.com^
 ||glovemall.cn^
 ||gpsncbo.cn^
 ||gzzb.xyz^
+||h12h.fun^
 ||hbcl.ltd^
 ||hjgrc.xyz^
 ||hxapafn.cn^
@@ -34105,8 +34124,10 @@ vkcdnservice.appspot.com^
 ||iwqetbj.cn^
 ||j41.xyz^
 ||j721s.top^
+||japsmna.cyou^
 ||jiedu.fun^
 ||jknmsdpo.xyz^
+||jmm8a.xyz^
 ||jnkmwr.xyz^
 ||joh4t.cn^
 ||jpai.xyz^
@@ -34120,10 +34141,12 @@ vkcdnservice.appspot.com^
 ||klxwe.xyz^
 ||kmjbwejnr.xyz^
 ||knmwrkw.xyz^
+||koojsc.cn^
 ||kvtlll.top^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
 ||lgjxw.xyz^
+||lhare.xyz^
 ||lihuan.store^
 ||ljlg.xyz^
 ||ljrot.icu^
@@ -34149,6 +34172,7 @@ vkcdnservice.appspot.com^
 ||nveuiqh.cn^
 ||nypswiu.cn^
 ||nzvpewi.cn^
+||oicvvnm.cn^
 ||oivgqnt.cn^
 ||ok-11-cai.cc^
 ||oqnggnsk.fun^
@@ -34174,12 +34198,15 @@ vkcdnservice.appspot.com^
 ||qz15.top^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
+||qzsfmbt.cn^
 ||renxingganwu.com^
 ||renzw.xyz^
 ||rgfqcly.cn^
 ||ribffmg.cn^
 ||riqnhxq.cn^
+||rmm7ss.top^
 ||rqnggnsz.fun^
+||rss9f.top^
 ||ruohe.fun^
 ||rzngisyz.xyz^
 ||s4ls9.top^
@@ -34198,6 +34225,7 @@ vkcdnservice.appspot.com^
 ||tqnggnsi.fun^
 ||troxa.xyz^
 ||trqhf.xyz^
+||trqpfc.cn^
 ||txnwq.xyz^
 ||tzngisyi.xyz^
 ||u09.xyz^
@@ -34211,6 +34239,7 @@ vkcdnservice.appspot.com^
 ||uzngisyt.xyz^
 ||v09.xyz^
 ||vadypb.cn^
+||vagvedi.cn^
 ||vggzftw.cn^
 ||vjianshen1688.com^
 ||vqdjcy.com^
@@ -34219,6 +34248,7 @@ vkcdnservice.appspot.com^
 ||wfhuzaj.cn^
 ||wgdacc.com^
 ||wglbx.ltd^
+||wgpsfdg.cn^
 ||whrc.xyz^
 ||wocexaa.cn^
 ||wqnggnse.fun^
@@ -34240,6 +34270,7 @@ vkcdnservice.appspot.com^
 ||yoiqacw.cn^
 ||z66ggsh.top^
 ||zdy1.xyz^
+||zgfckf.mobi^
 ||zhhgmh.mobi^
 ||zhvo.top^
 ||ziedwr.com^
@@ -34249,29 +34280,6 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||japsmna.cyou^
-||trqpfc.cn^
-||koojsc.cn^
-||jmm8a.xyz^
-||egrnmic.cn^
-||lhare.xyz^
-||qzsfmbt.cn^
-||058tyfg.com^
-||064ioio.com^
-||eganilglw.cyou^
-||0smg.top^
-||zgfckf.mobi^
-||h12h.fun^
-||b53.xyz^
-||vagvedi.cn^
-||fsdnp.cyou^
-||65688qp.com^
-||1158tp.com^
-||wgpsfdg.cn^
-||rss9f.top^
-||bjws.xyz^
-||oicvvnm.cn^
-||rmm7ss.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
