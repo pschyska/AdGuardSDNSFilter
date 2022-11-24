@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-24T06:09:37.792Z
+! Last modified: 2022-11-24T12:15:08.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||bulky-battle.com^
+||sizokiwhe.pro^
 ||upset.xsuffer.com^
 ||anorrecenturybr.com^
 ||thomasbarlowpro.com^
@@ -1389,6 +1391,7 @@
 ||ad.phaserep.com^
 ||tontent.pouvideo.cc^
 ||a.streamoupload.com^
+||vast.holmesmind.com^
 ||ad.holmesmind.com^
 ||j83ad.speedrun.com^
 ||tontent.powv1deo.cc^
@@ -26459,6 +26462,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ouqyid.com^
 ||adservob.com^
 ||adnitro.pro^
 ||courteous-development.com^
@@ -34263,6 +34267,11 @@ vkcdnservice.appspot.com^
 ||fsdnp.cyou^
 ||65688qp.com^
 ||1158tp.com^
+||wgpsfdg.cn^
+||rss9f.top^
+||bjws.xyz^
+||oicvvnm.cn^
+||rmm7ss.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
