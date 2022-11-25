@@ -1,3 +1,9 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
+! Blocked by CNAME track.customer.io
+@@||e.customeriomail.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1115
+! Blocked by CNAME tapfiliate.com
+@@||partner.everydays.de^|
 ! https://github.com/easylist/easylist/pull/14208
 ! Blocked by CNAME online-metrix.net
 @@||login.eki-net.com^|
