@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-25T06:09:54.883Z
+! Last modified: 2022-11-25T12:14:08.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -21029,7 +21029,6 @@ vkcdnservice.appspot.com^
 ||tysolomona.co^
 ||tysolomonau.com^
 ||tytostaracar.lol^
-||tzegilo.com^
 ||tzhkydcgdmbz.com^
 ||u0054.com^
 ||u0064.com^
@@ -34297,6 +34296,12 @@ vkcdnservice.appspot.com^
 ||hnws.xyz^
 ||lkjrx.xyz^
 ||wganilgle.cyou^
+||wpozwh.com^
+||5pe6.fun^
+||hqdfh.mobi^
+||yfue99.xyz^
+||dbmcmhh.cn^
+||xqcjfcb.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
