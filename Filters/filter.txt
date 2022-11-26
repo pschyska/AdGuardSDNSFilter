@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-26T00:35:18.751Z
+! Last modified: 2022-11-26T06:09:04.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -32602,9 +32602,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Nov 2022 09:35 UTC+7
-! Version: 2211250935
-! Blocked: 1.496 rules
+! Last modified: 26 Nov 2022 09:58 UTC+7
+! Version: 2211260958
+! Blocked: 1.492 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33630,7 +33630,6 @@ vkcdnservice.appspot.com^
 ||ads.home.vn^
 ||ads.homedy.net^
 ||ads.ictnews.vn^
-||ads.khoahocdoisong.vn^
 ||ads.kiemsat.vn^
 ||ads.lamchame.vn^
 ||ads.laodongbinhduong.org.vn^
@@ -33662,7 +33661,6 @@ vkcdnservice.appspot.com^
 ||adserver.muaban.net^
 ||adserver.trangphim.net^
 ||adsgo.nhipcaudautu.vn^
-||adsnetonline.work^
 ||adsplus.vn^
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
@@ -33740,7 +33738,6 @@ vkcdnservice.appspot.com^
 ||app.sbz.workers.dev^
 ||avoadsservices.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
-||banhtv.org^
 ||banner.5giay.vn^
 ||banner.etargeting.mobifone.vn^
 ||banner.thadaco.vn^
@@ -33749,7 +33746,6 @@ vkcdnservice.appspot.com^
 ||bgadx.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
-||bluemaulpuffs.com^
 ||btrack.homedy.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
@@ -34338,6 +34334,8 @@ vkcdnservice.appspot.com^
 ||pmcppla.cn^
 ||simi1234.com^
 ||lxrhw.xyz^
+||qganilgly.cyou^
+||hqqpw.mobi^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
