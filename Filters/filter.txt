@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-28T06:10:18.058Z
+! Last modified: 2022-11-28T12:14:22.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||wugabts.com^
+||flaxim.com^
+||booptuwa.net^
+||mtdkhfguafqijx.com^
+||oodrampi.com^
+||sameplace.lol^
 ||ofchildr.buzz^
 ||regadsacademy.com^
 ||eraltradiansid.com^
@@ -15736,7 +15742,6 @@ vkcdnservice.appspot.com^
 ||onxquxhoygaji.com^
 ||oo00.biz^
 ||oocdqgado.xyz^
-||oodrampi.com^
 ||oodraune.com^
 ||oodroglu.net^
 ||oodsauns.net^
@@ -18656,7 +18661,6 @@ vkcdnservice.appspot.com^
 ||salync.com^
 ||samage-bility.icu^
 ||samazd.com^
-||sameplace.lol^
 ||samghasps.com^
 ||samplerpouch.com^
 ||samsienshrivel.com^
@@ -25785,6 +25789,8 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||sitewithg.me^
+||bugs2022.com^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
 ||adx-*.dbankedge.cn^
@@ -31594,8 +31600,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-11-15 08:53:03 CET
-# entries:        960
+# last updated:   2022-11-28 10:27:02 CET
+# entries:        963
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -31855,6 +31861,7 @@ vkcdnservice.appspot.com^
 ||gamblingsyndication.com^
 ||gameanalytics.com^
 ||gase.hit.gemius.pl^
+||get.s-onetag.com^
 ||greatstoryvideo.se^
 ||gwen.insertcoin.se^
 ||hapyak.com^
@@ -34450,6 +34457,9 @@ vkcdnservice.appspot.com^
 ||ocive.xyz^
 ||qptnew.com^
 ||szzb.xyz^
+||weeuqek.cn^
+||clw99.mobi^
+||i7x3.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
