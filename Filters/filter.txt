@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-11-30T06:10:20.378Z
+! Last modified: 2022-11-30T12:14:58.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||arthwhilearthu.com^
+||cutopporting.com^
+||get-partner.life^
 ||jpivxtsxpkn.com^
 ||interviewdegenerateperspective.com^
 ||agraffesalps.com^
@@ -30441,7 +30444,6 @@ vkcdnservice.appspot.com^
 !
 ||my.urdreama.cfd^
 ||referans.xyz^
-||jetv.xyz^
 ||lider90.com^
 ||diken.xyz^
 ||likevertising.com^
@@ -33849,6 +33851,11 @@ vkcdnservice.appspot.com^
 ||epfmfqh.cn^
 ||qowg.top^
 ||iblimq.xyz^
+||benditao.biz^
+||hsypwju.cn^
+||yes-24-go.cc^
+||summer5188.com^
+||xinrern.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
