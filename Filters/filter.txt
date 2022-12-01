@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-01T06:10:33.456Z
+! Last modified: 2022-12-01T12:15:08.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -26549,6 +26549,8 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||mucmoapa.com^
+||cibgphkiqbjk.com^
 ||publi.atresmediapublicidad.com^
 ||banners.inforchannel.com.br^
 ||popunder.online^
@@ -33890,6 +33892,9 @@ vkcdnservice.appspot.com^
 ||gkcmei.xyz^
 ||h6cp.icu^
 ||hssebb.xyz^
+||yangliu.ink^
+||gknybkl.cn^
+||htkk1.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -41284,6 +41289,7 @@ vkcdnservice.appspot.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||ll.k743.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -41468,7 +41474,6 @@ vkcdnservice.appspot.com^
 ||a1.zhanzhang.net^
 ||a15d55423.5tps.xyz^
 ||a3.jandan.net^
-||aa.0755rc.com^
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
 ||aaa.tumanyi.com^
