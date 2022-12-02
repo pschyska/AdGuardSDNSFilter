@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-02T00:36:24.883Z
+! Last modified: 2022-12-02T06:09:22.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3299,6 +3299,7 @@ vkcdnservice.appspot.com^
 ||aezhvlybcijv.com^
 ||afa9bdfa63bf7.com^
 ||afaaugct.com^
+||afcnuchxgo.com^
 ||afcontent.net^
 ||afcyhf.com^
 ||afdads.com^
@@ -32816,8 +32817,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Dec 2022 11:19 UTC+7
-! Version: 2212011119
+! Last modified: 02 Dec 2022 11:59 UTC+7
+! Version: 2212021159
 ! Blocked: 797 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -33921,6 +33922,7 @@ vkcdnservice.appspot.com^
 ||lbzx.xyz^
 ||bmmogb.xyz^
 ||htkk2.top^
+||bh2q.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
