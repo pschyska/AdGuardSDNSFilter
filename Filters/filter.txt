@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-03T06:08:25.726Z
+! Last modified: 2022-12-03T12:11:23.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31762,8 +31762,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-11-28 10:27:02 CET
-# entries:        963
+# last updated:   2022-12-03 10:03:49 CET
+# entries:        964
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -32119,6 +32119,7 @@ vkcdnservice.appspot.com^
 ||munchkin.marketo.net^
 ||my.hellobar.com^
 ||n.dyntrk.com^
+||n24mobse.nuggad.net^
 ||n24se.nuggad.net^
 ||nbes.nu^
 ||network.ad.nu^
@@ -33968,6 +33969,10 @@ vkcdnservice.appspot.com^
 ||gcxp.xyz^
 ||jieshimaya.xyz^
 ||82ip.top^
+||ofqldv.cn^
+||tx888.wang^
+||whqxj.xyz^
+||dangongshijie.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
