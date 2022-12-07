@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-07T06:09:32.002Z
+! Last modified: 2022-12-07T12:12:58.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -11825,6 +11825,7 @@ vkcdnservice.appspot.com^
 ||hrmationeng.xyz^
 ||hrptaxegfly.com^
 ||hrsaeecwvkg.com^
+||hrscompetepickles.com^
 ||hrsstrokecocoon.com^
 ||hrtennaarn.com^
 ||hrtyc.com^
@@ -18777,6 +18778,7 @@ vkcdnservice.appspot.com^
 ||rothermophony.com^
 ||rothoglyro.pro^
 ||rothupegri.com^
+||rotondahogs.com^
 ||rouar.com^
 ||rouinfernapean.com^
 ||roujonoa.net^
@@ -19093,6 +19095,7 @@ vkcdnservice.appspot.com^
 ||sangogne.com^
 ||sanjibroupy.com^
 ||sankaudacityrefine.com^
+||sansaramedulla.website^
 ||santonpardal.com^
 ||santosseorita.com^
 ||saouknatst.com^
@@ -24021,6 +24024,7 @@ vkcdnservice.appspot.com^
 ||zsxqjjobfb.com^
 ||ztech.gq^
 ||zubivu.com^
+||zudaichy.com^
 ||zughoocm.com^
 ||zugnogne.com^
 ||zugo.com^
@@ -31599,6 +31603,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||gposrzz.cn^
 ||kvbgoc.com^
 ||jcreje.com^
 ||99886aaa.com^
@@ -34150,7 +34155,6 @@ vkcdnservice.appspot.com^
 ||gkofzfi.cn^
 ||glovemall.cn^
 ||gmkmkn.xyz^
-||gposrzz.cn^
 ||gpsncbo.cn^
 ||guanggao1257.com^
 ||guanhoulz.com^
@@ -42662,6 +42666,8 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
+@@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
 ! Blocked by CNAME track.customer.io
 @@||e.customeriomail.com^|
