@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-07T00:41:09.791Z
+! Last modified: 2022-12-07T06:09:32.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5888,6 +5888,7 @@ vkcdnservice.appspot.com^
 ||bluntedhalvah.com^
 ||bluriceberg.com^
 ||blurredtiredom.com^
+||blwfecgxdes.com^
 ||bmalbgbljljwc.com^
 ||bmcdn2.com^
 ||bmcdn3.com^
@@ -8136,6 +8137,7 @@ vkcdnservice.appspot.com^
 ||decknetwork.net^
 ||deckthroughout.com^
 ||declarationextra.com^
+||declinedmildlyreckon.com^
 ||declivecists.casa^
 ||decoctionembedded.com^
 ||decodebodo.com^
@@ -9934,6 +9936,7 @@ vkcdnservice.appspot.com^
 ||fer2oxheou4nd.com^
 ||ferdictivesone.xyz^
 ||feredletrighro.info^
+||ferese.com^
 ||feridgiuntelic.com^
 ||fermacyupplow.com^
 ||fermentsinewencase.com^
@@ -11657,6 +11660,7 @@ vkcdnservice.appspot.com^
 ||hjxfsrvm.com^
 ||hkeynjiwpgvfzr.com^
 ||hkhnmasegg.com^
+||hklykolnls.com^
 ||hkoxlirf.com^
 ||hledoziequt.com^
 ||hllowvsion.click^
@@ -11793,6 +11797,7 @@ vkcdnservice.appspot.com^
 ||hovoptelo.com^
 ||howeve.com^
 ||howledmintier.com^
+||howningretoneand.com^
 ||howoverlapsuspicious.com^
 ||howtubray.com^
 ||hoydenlooms.website^
@@ -12769,6 +12774,7 @@ vkcdnservice.appspot.com^
 ||jksdcwgjfm.xyz^
 ||jkshqcgulrws.com^
 ||jksmegmqccrur.com^
+||jkttvpoxmk.com^
 ||jkunsukpfjd.com^
 ||jkyapexvfh.com^
 ||jlawxfdyafr.com^
@@ -16526,6 +16532,7 @@ vkcdnservice.appspot.com^
 ||parmackdormice.com^
 ||paroup.com^
 ||parralltaxator.com^
+||parrecleftne.com^
 ||parringepigene.com^
 ||parrssulk.com^
 ||parth2enerocis9tsust2ricus7pidata.com^
@@ -19580,6 +19587,7 @@ vkcdnservice.appspot.com^
 ||siftshortagepopped.com^
 ||sifuglie.com^
 ||sigerait.net^
+||sighcrowdivorce.com^
 ||sightjutfar.com^
 ||sigilsspeiss.com^
 ||significbystal.club^
@@ -20679,6 +20687,7 @@ vkcdnservice.appspot.com^
 ||tcache.ml^
 ||tcatholicyclea.com^
 ||tcdnwha.com^
+||tclbvqaxqf.com^
 ||tcoekdwnuveaisk.com^
 ||tcpcharms.com^
 ||tcppu.com^
@@ -34085,6 +34094,7 @@ vkcdnservice.appspot.com^
 ||bvpaovs.cn^
 ||bvwxfok.cn^
 ||bzngisyv.xyz^
+||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
 ||cichiji.top^
@@ -34199,6 +34209,7 @@ vkcdnservice.appspot.com^
 ||kmpjrjz.cn^
 ||knmwrkw.xyz^
 ||koojsc.cn^
+||kptygka.cn^
 ||kq7k.icu^
 ||kufmbwm.cn^
 ||kvtlll.top^
@@ -34276,11 +34287,32 @@ vkcdnservice.appspot.com^
 ||qganilgly.cyou^
 ||qiangqi.shop^
 ||qicewar.cn^
+||qlzjwgb.cn^
 ||qmpkoiv.cn^
 ||qowg.top^
 ||qptnew.com^
 ||qq2ux.top^
 ||qqnggnsy.fun^
+||qs0jfd.com^
+||qs0jfd.xyz^
+||qs9jfd.com^
+||qs9jfd.xyz^
+||qsj8fd.com^
+||qsj8fd.xyz^
+||qsjf7d.com^
+||qsjf7d.xyz^
+||qsjfd1.com^
+||qsjfd1.xyz^
+||qsjfd2.com^
+||qsjfd2.xyz^
+||qsjfd3.com^
+||qsjfd3.xyz^
+||qsjfd4.com^
+||qsjfd4.xyz^
+||qsjfd5.com^
+||qsjfd5.xyz^
+||qsjfd6.com^
+||qsjfd6.xyz^
 ||qvyzdox.cn^
 ||qycw.xyz^
 ||qz15.top^
@@ -34310,16 +34342,28 @@ vkcdnservice.appspot.com^
 ||sganilglb.cyou^
 ||shouzhi.biz^
 ||shuaige20221105.xyz^
+||siduohua.top^
 ||simi1234.com^
 ||simi2345.com^
 ||sjcm.fun^
 ||sjjk.ltd^
+||skfj2d.com^
+||skfj2d.xyz^
+||skfj3d.com^
+||skfj3d.xyz^
+||skfj4d.com^
+||skfj4d.xyz^
+||skfj5d.com^
+||skfj5d.xyz^
+||skfjd1.com^
+||skfjd1.xyz^
 ||sm3nq.cn^
 ||sqnggnsb.fun^
 ||summer5188.com^
 ||szngisyb.xyz^
 ||szzb.xyz^
 ||t34kk9.top^
+||tchpniy.cn^
 ||techgcr.cn^
 ||tfaftemail.com^
 ||tffytdo.cn^
@@ -34398,6 +34442,7 @@ vkcdnservice.appspot.com^
 ||ynyikk.com^
 ||yoiqacw.cn^
 ||z66ggsh.top^
+||zbpx.xyz^
 ||zdy1.xyz^
 ||zgfckf.mobi^
 ||zgfdczj.mobi^
@@ -34411,10 +34456,10 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||kptygka.cn^
-||tchpniy.cn^
-||zbpx.xyz^
-||qlzjwgb.cn^
+||s7w53.icu^
+||qectme.xyz^
+||jatytuo.cn^
+||mrzhao.life^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
