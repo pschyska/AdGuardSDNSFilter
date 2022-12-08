@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-08T12:13:00.824Z
+! Last modified: 2022-12-08T18:08:52.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -868,7 +868,6 @@
 ||ppcnt.us^
 ||ppcnt.eu^
 ||ppcnt.co^
-||1571627030.rsc.cdn77.org^
 ||terrasdsdstd.com^
 ||snessubsets.pro^
 ||ftd.agency^
@@ -1604,11 +1603,6 @@
 ||st1.bhol.co.il^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
 ||pijama.*.elasticbeanstalk.com^
-! https://github.com/AdguardTeam/AdguardFilters/issues/64374
-||partner.pocketing.tv^
-! https://github.com/AdguardTeam/AdguardFilters/issues/21316
-! https://github.com/AdguardTeam/AdguardFilters/issues/19658
-||adf.acrosspf.com^
 ||ap.delfi.ee^
 ||ado.delfi.ee^
 !
@@ -31093,7 +31087,6 @@ vkcdnservice.appspot.com^
 ://r.reklam*.com^
 ://say.ac^
 ||venediktaciri.com^
-||1686607364.rsc.cdn77.org^
 ||aadserving.com^
 ||acxdyn.com^
 ||ad*.bilgin.pro^
@@ -34236,6 +34229,7 @@ vkcdnservice.appspot.com^
 ||ceu5.icu^
 ||chengduda.top^
 ||cichiji.top^
+||cjkl.online^
 ||clvkg.xyz^
 ||clw99.mobi^
 ||crleii.xyz^
@@ -34284,6 +34278,7 @@ vkcdnservice.appspot.com^
 ||gdugga.com^
 ||gfqfjau.cn^
 ||gfxjjpo.cn^
+||ggsdogn.cn^
 ||gkcmei.xyz^
 ||gknybkl.cn^
 ||gkofzfi.cn^
@@ -34297,6 +34292,7 @@ vkcdnservice.appspot.com^
 ||h12h.fun^
 ||h6cp.icu^
 ||hbcl.ltd^
+||hhgxbxk.cn^
 ||hjgrc.xyz^
 ||hmgzhqe.cn^
 ||hnws.xyz^
@@ -34306,6 +34302,7 @@ vkcdnservice.appspot.com^
 ||hsypwju.cn^
 ||htkk1.top^
 ||htkk2.top^
+||huilianji.com^
 ||hxapafn.cn^
 ||i46.xyz^
 ||i7x3.fun^
@@ -34338,6 +34335,7 @@ vkcdnservice.appspot.com^
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
+||kdegznb.cn^
 ||kjanfwss.xyz^
 ||kjcvw.xyz^
 ||kjhxw.xyz^
@@ -34397,6 +34395,7 @@ vkcdnservice.appspot.com^
 ||ocive.xyz^
 ||odfykc.cn^
 ||oehhq.xyz^
+||oehwv.xyz^
 ||ofqldv.cn^
 ||oicvvnm.cn^
 ||oivgqnt.cn^
@@ -34427,7 +34426,9 @@ vkcdnservice.appspot.com^
 ||qfgfpi.cn^
 ||qganilgly.cyou^
 ||qiangqi.shop^
+||qibmrq.xyz^
 ||qicewar.cn^
+||qingfeng.homes^
 ||qlzjwgb.cn^
 ||qmpkoiv.cn^
 ||qowg.top^
@@ -34523,6 +34524,7 @@ vkcdnservice.appspot.com^
 ||txnwq.xyz^
 ||tzngisyi.xyz^
 ||u09.xyz^
+||u1885.com^
 ||uav6d52c.cn^
 ||ubln.top^
 ||uibqwl.xyz^
@@ -34551,6 +34553,7 @@ vkcdnservice.appspot.com^
 ||wgpsfdg.cn^
 ||whqxj.xyz^
 ||whrc.xyz^
+||wmgocya.cn^
 ||wocexaa.cn^
 ||wotmvdc.cn^
 ||wpozwh.com^
@@ -34571,6 +34574,7 @@ vkcdnservice.appspot.com^
 ||xlhnkpw.cn^
 ||xpdjsd.cn^
 ||xqcjfcb.cn^
+||xtzx.xyz^
 ||xwdsp.com^
 ||y88m2.top^
 ||yangliu.ink^
@@ -34596,19 +34600,10 @@ vkcdnservice.appspot.com^
 ||zjai.xyz^
 ||zjttaqx.cn^
 ||zjws.xyz^
+||zk6.me^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||ggsdogn.cn^
-||hhgxbxk.cn^
-||qingfeng.homes^
-||qibmrq.xyz^
-||xtzx.xyz^
-||oehwv.xyz^
-||cjkl.online^
-||kdegznb.cn^
-||wmgocya.cn^
-||huilianji.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
