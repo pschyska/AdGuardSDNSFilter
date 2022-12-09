@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-09T12:12:45.796Z
+! Last modified: 2022-12-09T18:08:42.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||vmzqwmbrip.com^
+||theupgradedata.com^
 ||theloveapproach.com^
 ||neeladou.net^
 ||blfoddifghcmeyc.com^
@@ -27352,6 +27354,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||temporarympay.com^
 ||hjheaijhafgfgbaaaei.ru^
 ||hjcbehchdddcegcfaaei.ru^
 ||pb.plat.services^
@@ -27552,7 +27555,6 @@ vkcdnservice.appspot.com^
 ||zkbkat.com^
 ||uqystk.com^
 ||j1oxqq05ry.ru^
-||temporarympay.com^
 ||1qi.info^
 ||aomngb.com^
 ||q0mn5t187u.ru^
@@ -32079,6 +32081,33 @@ vkcdnservice.appspot.com^
 ||ab.tweakers.nl^
 
 !
+! Source name: EasyList Dutch ad servers third-party
+! Source: https://raw.githubusercontent.com/easylist/easylistdutch/master/easylistdutch/block_third_party_server.txt
+!
+||adrequest.net^
+||adshim.com^
+||affiliatepartners.com^
+||affiliateprogramma.eu^
+||believe-the-hype.be^
+||botndm.nl^
+||crnsgngrpj.nl^
+||dntblckmpls.nl^
+||ds1.nl^
+||dt51.net^
+||dt71.net^
+||gratis-neuken.com^
+||nojazz.eu^
+||nonstoppartner.net^
+||online-banners.nl^
+||optoutadvertising.com^
+||sponsorkliks.com^
+||static-dscn.net^
+||tools.islive.nl^
+||travelads.be^
+||vpscash.nl^
+||xpartners.nl^
+
+!
 ! Source name: EasyList Germany ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 !
@@ -32266,7 +32295,6 @@ vkcdnservice.appspot.com^
 ||network-marketing24.com^
 ||network-media.info^
 ||networx.me^
-||nonstoppartner.net^
 ||notenpartner.de^
 ||nwave.de^
 ||onlymega.com^
@@ -34281,6 +34309,7 @@ vkcdnservice.appspot.com^
 ||bvpaovs.cn^
 ||bvwxfok.cn^
 ||bzngisyv.xyz^
+||capldfw.cn^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -34320,6 +34349,7 @@ vkcdnservice.appspot.com^
 ||ertjo.xyz^
 ||eskay.cn^
 ||ezngisyw.xyz^
+||faw7.top^
 ||fdxpfeb.cn^
 ||fiwyjar.cn^
 ||fkjdz.cyou^
@@ -34340,6 +34370,7 @@ vkcdnservice.appspot.com^
 ||gkofzfi.cn^
 ||glovemall.cn^
 ||gmkmkn.xyz^
+||gogfhq.xyz^
 ||gpsncbo.cn^
 ||guanggao1257.com^
 ||guanhoulz.com^
@@ -34387,11 +34418,13 @@ vkcdnservice.appspot.com^
 ||jnkmwr.xyz^
 ||joh4t.cn^
 ||jpai.xyz^
+||jpgtpbl.cn^
 ||jqnggnsa.fun^
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kdegznb.cn^
+||kecms.xyz^
 ||kjanfwss.xyz^
 ||kjcvw.xyz^
 ||kjhxw.xyz^
@@ -34412,6 +34445,7 @@ vkcdnservice.appspot.com^
 ||kzngisyd.xyz^
 ||lambda.center^
 ||lapsmnl.cyou^
+||lbjc.xyz^
 ||lbzx.xyz^
 ||lejso.com^
 ||lezbrja.cn^
@@ -34429,6 +34463,7 @@ vkcdnservice.appspot.com^
 ||luotuoma.xin^
 ||lwhqa.xyz^
 ||lxrhw.xyz^
+||lzcgsbe.cn^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
@@ -34517,6 +34552,7 @@ vkcdnservice.appspot.com^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
 ||qzsfmbt.cn^
+||rebies.xyz^
 ||renxingganwu.com^
 ||renzw.xyz^
 ||rgfqcly.cn^
@@ -34557,16 +34593,19 @@ vkcdnservice.appspot.com^
 ||skfjd1.com^
 ||skfjd1.xyz^
 ||sm3nq.cn^
+||somaliainc.com^
 ||sqnggnsb.fun^
 ||summer5188.com^
 ||szngisyb.xyz^
 ||szzb.xyz^
 ||t34kk9.top^
+||taotaogeren.xyz^
 ||tchpniy.cn^
 ||techgcr.cn^
 ||tfaftemail.com^
 ||tffytdo.cn^
 ||tian-ting.ink^
+||tinymarket.store^
 ||toijr.xyz^
 ||toskmisway.com^
 ||tptp001.buzz^
@@ -34597,6 +34636,7 @@ vkcdnservice.appspot.com^
 ||vggzftw.cn^
 ||vibber.download^
 ||vjianshen1688.com^
+||vmax-ktv.com^
 ||vqdjcy.com^
 ||vqjxlie.cn^
 ||wapsmne.cyou^
@@ -34660,17 +34700,6 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||capldfw.cn^
-||jpgtpbl.cn^
-||vmax-ktv.com^
-||gogfhq.xyz^
-||rebies.xyz^
-||faw7.top^
-||tinymarket.store^
-||taotaogeren.xyz^
-||somaliainc.com^
-||kecms.xyz^
-||lzcgsbe.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -42873,6 +42902,9 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/136509
+! Blocked by CNAME c.msn.com
+@@||c.office.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1131
 @@||surveymyopinion.researchnow.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1114
