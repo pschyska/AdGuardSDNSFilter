@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-10T12:12:36.499Z
+! Last modified: 2022-12-10T18:08:04.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -4200,6 +4200,7 @@ vkcdnservice.appspot.com^
 ||aosnimcbskyhy.top^
 ||aosqspgc.com^
 ||aotitabcsqqsp.com^
+||aouzon.com^
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apaqrwiegxnjpyq.com^
@@ -4901,6 +4902,7 @@ vkcdnservice.appspot.com^
 ||awltovhc.com^
 ||awmbed.com^
 ||awmdelivery.com^
+||awmjjvcjcnlw.com^
 ||awmserve.com^
 ||awnexus.com^
 ||awnxcexsy.xyz^
@@ -15041,6 +15043,7 @@ vkcdnservice.appspot.com^
 ||mottlespouffed.live^
 ||moudmarauds.com^
 ||moundgrandmotherel.com^
+||mountainbender.xyz^
 ||mouraipoucuk.com^
 ||mouseryearlike.com^
 ||moutoofa.com^
@@ -15885,6 +15888,7 @@ vkcdnservice.appspot.com^
 ||nxqdqtvirwj.com^
 ||nxqxhthxn.xyz^
 ||nxtck.com^
+||nxtpsh.com^
 ||nxtpsh.top^
 ||nxuktkuoazvizd.com^
 ||nxunnmhiieuibv.com^
@@ -20287,6 +20291,7 @@ vkcdnservice.appspot.com^
 ||spiritedirreparablemiscarriage.com^
 ||spirliesalse.com^
 ||spirub.com^
+||spitue.com^
 ||spitzerpfunde.com^
 ||spitzeslamprey.uno^
 ||spiuft.com^
@@ -21129,6 +21134,7 @@ vkcdnservice.appspot.com^
 ||thapsooz.net^
 ||tharbadir.com^
 ||thatdhostler.com^
+||thathatrowthena.com^
 ||thathechoxe.com^
 ||thatitgivesm.biz^
 ||thatobjective.pro^
@@ -21566,6 +21572,7 @@ vkcdnservice.appspot.com^
 ||trackapi.net^
 ||trackcapitalvane.com^
 ||tracker-tds.info^
+||tracker-tds.site^
 ||trackeverything.co^
 ||trackmundo.com^
 ||tracks20.com^
@@ -21617,6 +21624,7 @@ vkcdnservice.appspot.com^
 ||trantshargar.com^
 ||traost.com^
 ||trapasol.com^
+||trapexpansionmoss.com^
 ||trappedpump.com^
 ||trappedtree.com^
 ||trapsaminohut.com^
@@ -22665,6 +22673,7 @@ vkcdnservice.appspot.com^
 ||viliaff.com^
 ||vilith.com^
 ||villageeatable.com^
+||villasquinttolerance.com^
 ||vimfulmortis.com^
 ||vimmenced.club^
 ||vimohustu.com^
@@ -24331,6 +24340,7 @@ vkcdnservice.appspot.com^
 ||zoxetijy.xyz^
 ||zozolilla.com^
 ||zphzyy9zq.cfd^
+||zpicteod.com^
 ||zpjkvuyqxu.com^
 ||zpmkwufagp.com^
 ||zpreland.com^
@@ -34431,11 +34441,13 @@ vkcdnservice.appspot.com^
 ||9795x.com^
 ||99997aaa.com^
 ||9eu7c.top^
+||9xg2.fun^
 ||a78wt.top^
 ||abenshishabi.com^
 ||aiedwhb.cn^
 ||aiupiyd.cn^
 ||albyprd.cn^
+||aqsj.xyz^
 ||b4jy.top^
 ||b53.xyz^
 ||baiduhaoba.com^
@@ -34455,6 +34467,7 @@ vkcdnservice.appspot.com^
 ||bvwxfok.cn^
 ||bzngisyv.xyz^
 ||capldfw.cn^
+||cdn-go.net^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -34465,6 +34478,7 @@ vkcdnservice.appspot.com^
 ||crleii.xyz^
 ||csgw.xyz^
 ||csiteadmin.com^
+||cusfcif.cn^
 ||cvbdw.xyz^
 ||cvcddno.cn^
 ||cvemhco.cn^
@@ -34501,6 +34515,7 @@ vkcdnservice.appspot.com^
 ||fknrtpp.cn^
 ||folgsl.xyz^
 ||fsdnp.cyou^
+||ftdmfxq.cn^
 ||fvtrx.cyou^
 ||fwrpq.cyou^
 ||fypcy.cyou^
@@ -34525,6 +34540,7 @@ vkcdnservice.appspot.com^
 ||h6cp.icu^
 ||hbcl.ltd^
 ||hhgxbxk.cn^
+||hhizcfv.cn^
 ||hjgrc.xyz^
 ||hmgzhqe.cn^
 ||hnws.xyz^
@@ -34565,6 +34581,7 @@ vkcdnservice.appspot.com^
 ||jpai.xyz^
 ||jpgtpbl.cn^
 ||jqnggnsa.fun^
+||jtxw.cloud^
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
@@ -34661,6 +34678,7 @@ vkcdnservice.appspot.com^
 ||qectme.xyz^
 ||qfgfpi.cn^
 ||qganilgly.cyou^
+||qgcbht.xyz^
 ||qiangqi.shop^
 ||qibmrq.xyz^
 ||qicewar.cn^
@@ -34749,6 +34767,7 @@ vkcdnservice.appspot.com^
 ||techgcr.cn^
 ||tfaftemail.com^
 ||tffytdo.cn^
+||thsrh.xyz^
 ||tian-ting.ink^
 ||tinymarket.store^
 ||toijr.xyz^
@@ -34845,15 +34864,6 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||ftdmfxq.cn^
-||cusfcif.cn^
-||aqsj.xyz^
-||cdn-go.net^
-||qgcbht.xyz^
-||thsrh.xyz^
-||9xg2.fun^
-||jtxw.cloud^
-||hhizcfv.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
