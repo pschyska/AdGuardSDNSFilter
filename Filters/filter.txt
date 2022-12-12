@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-12T12:13:32.222Z
+! Last modified: 2022-12-12T18:09:11.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||vlcdownloads.com^
 ||sprintainokeg.xyz^
 ||doobaupu.xyz^
 ||ulmxelnonbeao.xyz^
@@ -1406,6 +1407,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.petel.bg^
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||rek5.savefrom.net^
 ||creative.live.missav.com^
@@ -2483,6 +2485,7 @@ vkcdnservice.appspot.com^
 ||9itmr1lzaltn.com^
 ||9kkf51ovqex1.com^
 ||9rendezvous-l.com^
+||9s4l9nik.de^
 ||9t5.me^
 ||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
@@ -4336,6 +4339,7 @@ vkcdnservice.appspot.com^
 ||avulsedcherty.com^
 ||avuthoumse.com^
 ||avwincall.info^
+||avymtcvmescu.com^
 ||awafthealer.com^
 ||awaitbackseatprod.com^
 ||awaitcola.com^
@@ -13670,6 +13674,7 @@ vkcdnservice.appspot.com^
 ||ofmscgesmjmo.com^
 ||ofnumeltor.com^
 ||ofpiplupon.com^
+||ofqvwaosjq.com^
 ||ofregahen.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
@@ -17565,6 +17570,7 @@ vkcdnservice.appspot.com^
 ||sjomilbedwarf.digital^
 ||sjqqkayldq.com^
 ||sjtactic.com^
+||skcapepyshdr.xyz^
 ||skelity.com^
 ||skellbillard.com^
 ||skenqaamefeoncfegrytbuvksebpefer.com^
@@ -19729,6 +19735,7 @@ vkcdnservice.appspot.com^
 ||ulukdliketobeparto.xyz^
 ||ululateguereza.life^
 ||umbrellaomendear.com^
+||umdvyiea.com^
 ||umekana.ru^
 ||umentrandings.xyz^
 ||umgangrubbler.com^
@@ -29982,6 +29989,7 @@ vkcdnservice.appspot.com^
 ||ad-sun.de^
 ||ad.netzquadrat.de^
 ||ad4cash.de^
+||ad4m.at^
 ||ad4mat.de^
 ||adalizer.com^
 ||adbutler.de^
@@ -30003,6 +30011,7 @@ vkcdnservice.appspot.com^
 ||adreport.de^
 ||adrolays.de^
 ||ads-im-netz.de^
+||ads4allweb.de^
 ||adscads.de^
 ||adsister.com^
 ||adspectacle.net^
@@ -30861,7 +30870,6 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
 ||24network.it^
-||ad4m.at^
 ||ad4mat.it^
 ||adagionet.com^
 ||adasta.it^
@@ -31349,9 +31357,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Dec 2022 22:58 UTC+7
-! Version: 2212062258
-! Blocked: 797 rules
+! Last modified: 12 Dec 2022 22:42 UTC+7
+! Version: 2212122242
+! Blocked: 799 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31659,6 +31667,7 @@ vkcdnservice.appspot.com^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.568play.vn^
+||ads.6svn.com^
 ||ads.admatrix.vn^
 ||ads.alophim.org^
 ||ads.autonet.com.vn^
@@ -31707,6 +31716,7 @@ vkcdnservice.appspot.com^
 ||ads.vovlive.vn^
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
+||ads.xemtivisohd.net^
 ||ads1.careerbuilder.vn^
 ||ads8.fpt.vn^
 ||adserver.lag.vn^
@@ -32125,6 +32135,7 @@ vkcdnservice.appspot.com^
 ||058tyfg.com^
 ||064ioio.com^
 ||065yuyu.com^
+||076lvo.xyz^
 ||0ftyz.top^
 ||0smg.top^
 ||1106yh.com^
@@ -32145,6 +32156,7 @@ vkcdnservice.appspot.com^
 ||678tktp.com^
 ||6u4j.icu^
 ||79zxcv.com^
+||7x1u.icu^
 ||828239sam.com^
 ||82ip.top^
 ||86o0h.top^
@@ -32153,6 +32165,7 @@ vkcdnservice.appspot.com^
 ||8q2h.icu^
 ||91pk.love^
 ||9795x.com^
+||99885aaa.com^
 ||99997aaa.com^
 ||9eu7c.top^
 ||9xg2.fun^
@@ -32218,6 +32231,7 @@ vkcdnservice.appspot.com^
 ||eidphap.cn^
 ||emfrig.xyz^
 ||enzagpt.cn^
+||eoqygep.cn^
 ||epfmfqh.cn^
 ||epmf4.cn^
 ||eqnggnsw.fun^
@@ -32239,8 +32253,10 @@ vkcdnservice.appspot.com^
 ||fwrpq.cyou^
 ||fypcy.cyou^
 ||fztimyc.cn^
+||gctd.xyz^
 ||gcxp.xyz^
 ||gdugga.com^
+||gdxinya.com^
 ||gfqfjau.cn^
 ||gfxjjpo.cn^
 ||ggsdogn.cn^
@@ -32255,6 +32271,7 @@ vkcdnservice.appspot.com^
 ||gscohm.xyz^
 ||guanggao1257.com^
 ||guanhoulz.com^
+||gxniihk.cn^
 ||gyhyhyq.website^
 ||gzzb.xyz^
 ||h12h.fun^
@@ -32343,6 +32360,7 @@ vkcdnservice.appspot.com^
 ||lpaysfr.cn^
 ||lqnggnsl.fun^
 ||lrkporm.cn^
+||lsbebm.xyz^
 ||luotuoma.xin^
 ||lwhqa.xyz^
 ||lxrhw.xyz^
@@ -32356,6 +32374,7 @@ vkcdnservice.appspot.com^
 ||mrzhao.life^
 ||myproteincn.com^
 ||n0633.com^
+||necmdow.cn^
 ||nhtieoo.cn^
 ||nijnqwem.xyz^
 ||ningsiy.xin^
@@ -32493,6 +32512,7 @@ vkcdnservice.appspot.com^
 ||tian-ting.ink^
 ||tinymarket.store^
 ||toijr.xyz^
+||topboo.xyz^
 ||toskmisway.com^
 ||tptp001.buzz^
 ||tpvdcqw.cn^
@@ -32540,6 +32560,7 @@ vkcdnservice.appspot.com^
 ||wotmvdc.cn^
 ||wpozwh.com^
 ||wqnggnse.fun^
+||wvggzak.cn^
 ||wxumevd.cn^
 ||wyplmjufd.live^
 ||wyqaafplm.live^
@@ -32548,6 +32569,7 @@ vkcdnservice.appspot.com^
 ||xafc.xyz^
 ||xdaigua.cn^
 ||xf2pf.top^
+||xfwxhyd.cn^
 ||xgvfkge.cn^
 ||xhsrw.xyz^
 ||xianzhice.com^
@@ -32555,6 +32577,7 @@ vkcdnservice.appspot.com^
 ||xinrern.cn^
 ||xinzhanggui.wang^
 ||xlhnkpw.cn^
+||xn--2qus9awz1a6ygowgbua.xn--fiqs8s^
 ||xpdjsd.cn^
 ||xqcjfcb.cn^
 ||xtzx.xyz^
@@ -32588,19 +32611,6 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||lsbebm.xyz^
-||gxniihk.cn^
-||xfwxhyd.cn^
-||necmdow.cn^
-||gctd.xyz^
-||gdxinya.com^
-||7x1u.icu^
-||topboo.xyz^
-||eoqygep.cn^
-||076lvo.xyz^
-||wvggzak.cn^
-||xn--2qus9awz1a6ygowgbua.xn--fiqs8s^
-||99885aaa.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
