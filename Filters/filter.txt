@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-12T18:09:11.803Z
+! Last modified: 2022-12-13T00:39:55.015Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||schinuskolobia.com^
 ||vlcdownloads.com^
 ||sprintainokeg.xyz^
 ||doobaupu.xyz^
@@ -3973,6 +3974,7 @@ vkcdnservice.appspot.com^
 ||arousestatic.com^
 ||arquilavaan.com^
 ||arraignmentinclose.com^
+||arrenothanca.xyz^
 ||arridedoregano.tech^
 ||arrivalselfcontrolrealization.com^
 ||arrivedeuropean.com^
@@ -4035,6 +4037,7 @@ vkcdnservice.appspot.com^
 ||asgclickpp.com^
 ||asgorebysschan.com^
 ||asgust.com^
+||ashadofe.com^
 ||ashamedbirchpoorly.com^
 ||ashamemafia.com^
 ||ashhgo.com^
@@ -6738,6 +6741,7 @@ vkcdnservice.appspot.com^
 ||czechose.com^
 ||czh5aa.xyz^
 ||d-agency.net^
+||d08q4os3homh.de^
 ||d0efb7d9aeb478d.com^
 ||d0f7c10e2e.com^
 ||d0f85db8ee56f5c6.com^
@@ -9068,6 +9072,7 @@ vkcdnservice.appspot.com^
 ||glaksads.net^
 ||glalsoow.com^
 ||glandtest.com^
+||glangs.com^
 ||glareart.com^
 ||glargoun.uk^
 ||glasselderly.com^
@@ -9270,6 +9275,7 @@ vkcdnservice.appspot.com^
 ||governessmagnituderecoil.com^
 ||goverytra.com^
 ||govowhaca.com^
+||gpybqmhplmiv.com^
 ||gpylmwtjiy.com^
 ||gqbnybhhjwe.com^
 ||gqsbxqfyxvjveb.xyz^
@@ -11181,6 +11187,7 @@ vkcdnservice.appspot.com^
 ||labelsapotas.space^
 ||labfrsmdxqj.xyz^
 ||labortiontrifee.com^
+||labourerindicator.com^
 ||labourmuttering.com^
 ||labporno.com^
 ||labsappland.com^
@@ -11811,6 +11818,7 @@ vkcdnservice.appspot.com^
 ||lunoidgulsach.com^
 ||luomjtajrhaqan.xyz^
 ||luracancamus.com^
+||luralgaqp.com^
 ||lurefuleuryon.com^
 ||lurgaimt.net^
 ||lushcrush.com^
@@ -12661,6 +12669,7 @@ vkcdnservice.appspot.com^
 ||mp3bars.com^
 ||mp3dance.today^
 ||mp3pro.xyz^
+||mpa4xbbs6m73.de^
 ||mpanyinady.com^
 ||mpaphqjb.com^
 ||mpay69.com^
@@ -14508,6 +14517,7 @@ vkcdnservice.appspot.com^
 ||peirs5tbakchios.com^
 ||peitet.com^
 ||pejqoq4cafo3bg9yqqqtk5e6s6.com^
+||pekskcknwxoyoxb.com^
 ||pelagicmismate.com^
 ||peltaush.click^
 ||peltingcatwood.com^
@@ -15089,6 +15099,7 @@ vkcdnservice.appspot.com^
 ||ppcnt.pro^
 ||ppcpnvwskrdnev.com^
 ||ppctrck.com^
+||ppfcgfdcmoq.com^
 ||ppfrlfe.com^
 ||ppikhedas.com^
 ||pportunitytos.xyz^
@@ -15429,6 +15440,7 @@ vkcdnservice.appspot.com^
 ||ptapjmp.com^
 ||ptarepjx.com^
 ||ptaulratch.com^
+||ptaungoo.xyz^
 ||ptauphiw.net^
 ||ptauxofi.net^
 ||ptawe.com^
@@ -15552,6 +15564,7 @@ vkcdnservice.appspot.com^
 ||purchasertormentscoundrel.com^
 ||puresinew.com^
 ||purgma.com^
+||purpes.com^
 ||purpleads.io^
 ||purplecode.pro^
 ||purpleflag.net^
@@ -16892,6 +16905,7 @@ vkcdnservice.appspot.com^
 ||s3pe5ye7ri8a.com^
 ||s4block.com^
 ||s4elk8ir1exrkc.com^
+||s5qj82thv3dw.de^
 ||s83ovp6qyhco.com^
 ||s99i.org^
 ||s9jp9xogfz.com^
@@ -17642,6 +17656,7 @@ vkcdnservice.appspot.com^
 ||slippersferry.com^
 ||slipperspromisingyearn.com^
 ||slipperyheight.pro^
+||slobcarpstun.com^
 ||sloeri.com^
 ||sloi1.com^
 ||slothnge.com^
@@ -19965,6 +19980,7 @@ vkcdnservice.appspot.com^
 ||uqbeohoajdqvcfe.xyz^
 ||uqimgeulpygyo.com^
 ||uqsgsfhd.com^
+||urambled.com^
 ||urdmorgytjnbn.xyz^
 ||urechar.com^
 ||urgdom.com^
@@ -20053,6 +20069,7 @@ vkcdnservice.appspot.com^
 ||uuknlfqi.com^
 ||uulvtpbx.com^
 ||uuocyltqnjgj.com^
+||uusiccyeuyrc.com^
 ||uuydabxaindfsb.xyz^
 ||uvbyty.com^
 ||uvooadlxfosmh.com^
@@ -21193,6 +21210,7 @@ vkcdnservice.appspot.com^
 ||wrotos.com^
 ||wrotr.com^
 ||wrxqupnusmdewe.com^
+||wryaihxiwjkvu.com^
 ||wrygraphicstheme.com^
 ||wryweirdy.com^
 ||wsgbfgtjxv.com^
@@ -32611,6 +32629,8 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||nmidhnz.cn^
+||rhcknl.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
