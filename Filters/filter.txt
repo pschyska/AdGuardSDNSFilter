@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-15T18:08:05.685Z
+! Last modified: 2022-12-16T00:35:56.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -31416,6 +31416,7 @@ vkcdnservice.appspot.com^
 ||82ip.top^
 ||86o0h.top^
 ||8861203.com^
+||88kids.mobi^
 ||897263tqs.com^
 ||8q2h.icu^
 ||91pk.love^
@@ -31427,13 +31428,16 @@ vkcdnservice.appspot.com^
 ||9xg2.fun^
 ||a78wt.top^
 ||abenshishabi.com^
+||adiexjy.cn^
 ||aiedwhb.cn^
 ||aiupiyd.cn^
 ||albyprd.cn^
+||aoouvdi.cn^
 ||apcilnf.cn^
 ||aqsj.xyz^
 ||b4jy.top^
 ||b53.xyz^
+||b6c4.top^
 ||baiduhaoba.com^
 ||bdhcpll.cn^
 ||bendan.shop^
@@ -31452,6 +31456,7 @@ vkcdnservice.appspot.com^
 ||bzngisyv.xyz^
 ||ca30f.top^
 ||capldfw.cn^
+||caudojq.cn^
 ||ccl1.icu^
 ||cdn-go.net^
 ||ceqerq.xyz^
@@ -31503,6 +31508,7 @@ vkcdnservice.appspot.com^
 ||ezngisyw.xyz^
 ||faw7.top^
 ||fdxpfeb.cn^
+||ffujdjd.cn^
 ||fiwyjar.cn^
 ||fkjdz.cyou^
 ||fknrtpp.cn^
@@ -31537,6 +31543,7 @@ vkcdnservice.appspot.com^
 ||h12h.fun^
 ||h6cp.icu^
 ||hbcl.ltd^
+||hcdjy.xyz^
 ||hhgxbxk.cn^
 ||hhizcfv.cn^
 ||hjgrc.xyz^
@@ -31549,6 +31556,7 @@ vkcdnservice.appspot.com^
 ||htkk1.top^
 ||htkk2.top^
 ||huilianji.com^
+||huineihan.com^
 ||hxapafn.cn^
 ||i46.xyz^
 ||i7x3.fun^
@@ -31603,6 +31611,7 @@ vkcdnservice.appspot.com^
 ||kvtlll.top^
 ||kxizloe.cn^
 ||kydb.xyz^
+||kyrj.xyz^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
 ||lambda.center^
@@ -31630,6 +31639,7 @@ vkcdnservice.appspot.com^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
+||meikdein.xyz^
 ||mhhsa.xyz^
 ||mjkyydz.cn^
 ||mqnggnsx.fun^
@@ -31791,6 +31801,7 @@ vkcdnservice.appspot.com^
 ||troxa.xyz^
 ||trqhf.xyz^
 ||trqpfc.cn^
+||tsmirk.xyz^
 ||tx888.wang^
 ||txnwq.xyz^
 ||tzngisyi.xyz^
@@ -31812,6 +31823,7 @@ vkcdnservice.appspot.com^
 ||vfqnhif.cn^
 ||vggzftw.cn^
 ||vibber.download^
+||vipzhuan.xyz^
 ||vjianshen1688.com^
 ||vmax-ktv.com^
 ||vqdjcy.com^
@@ -31836,6 +31848,7 @@ vkcdnservice.appspot.com^
 ||wxumevd.cn^
 ||wyplmjufd.live^
 ||wyqaafplm.live^
+||wyqwrfghj.live^
 ||wzdy.xyz^
 ||wzngisye.xyz^
 ||xafc.xyz^
@@ -31885,19 +31898,12 @@ vkcdnservice.appspot.com^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||aoouvdi.cn^
-||ffujdjd.cn^
-||kyrj.xyz^
-||wyqwrfghj.live^
-||hcdjy.xyz^
-||tsmirk.xyz^
-||88kids.mobi^
-||meikdein.xyz^
-||vipzhuan.xyz^
-||b6c4.top^
-||huineihan.com^
-||adiexjy.cn^
-||caudojq.cn^
+||lntnhtc.cn^
+||upftflc.cn^
+||1205qitiao2022.xyz^
+||iltelo.xyz^
+||xpqy.xyz^
+||kvkggg.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
