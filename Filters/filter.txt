@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-19T06:09:41.379Z
+! Last modified: 2022-12-19T12:12:43.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||amltaqap.com^
 ||pumpaiss.net^
 ||fb960dbd5f.com^
 ||oneegrou.net^
@@ -20484,6 +20485,7 @@ vkcdnservice.appspot.com^
 ||cuelinks.com^
 ||currentlyobsessed.me^
 ||cybmas.com^
+||czilladx.com^
 ||dable.io^
 ||dailystuffall.com^
 ||datawrkz.com^
@@ -28016,8 +28018,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-12-17 14:24:23 CET
-# entries:        973
+# last updated:   2022-12-19 10:40:31 CET
+# entries:        974
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -28264,6 +28266,7 @@ vkcdnservice.appspot.com^
 ||eteppy.com^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
 ||events-collector.spot.im^
+||evtr.nordiskemedier.dk^
 ||expo.ads.ramsalt.com^
 ||extern.prisjakt.nu^
 ||external.reseguiden.se^
@@ -29133,8 +29136,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Dec 2022 20:33 UTC+7
-! Version: 2212172033
+! Last modified: 19 Dec 2022 14:13 UTC+7
+! Version: 2212191413
 ! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -30465,6 +30468,9 @@ vkcdnservice.appspot.com^
 ||zenknho.cn^
 ||fqsokh.xyz^
 ||hztv.xyz^
+||lubao-food.mobi^
+||zzwzsic.cn^
+||81cdn.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
