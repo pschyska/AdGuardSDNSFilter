@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-20T06:09:20.120Z
+! Last modified: 2022-12-20T12:12:49.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||xhyjrivwa.com^
+||gointhe.space^
+||3d55ty.cfeucdn.com^
+||pornjustx.com^
+||tumblebit.com^
 ||amltaqap.com^
 ||pumpaiss.net^
 ||fb960dbd5f.com^
@@ -6921,7 +6926,6 @@ vkcdnservice.appspot.com^
 ||d0f7c10e2e.com^
 ||d0f85db8ee56f5c6.com^
 ||d0main.ru^
-||d1aa9f6zukqylf.cloudfront.net^
 ||d1bcb5ca9f.com^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
@@ -9214,7 +9218,6 @@ vkcdnservice.appspot.com^
 ||getsharedstore.com^
 ||getsomespecials.com^
 ||getsurv2you.net^
-||getsurv2you.org
 ||getsurv2you.org^
 ||getsurv4you.org^
 ||getterobes.cam^
@@ -15942,7 +15945,6 @@ vkcdnservice.appspot.com^
 ||routerhydrula.com^
 ||routeserve.info^
 ||rouvoute.net^
-||rouwhapt.com
 ||rouwhapt.com^
 ||rouwhoor.com^
 ||rovettobirse.com^
@@ -18038,7 +18040,6 @@ vkcdnservice.appspot.com^
 ||tpn134.com^
 ||tqlkg.com^
 ||tqrvftsbdagk.xyz^
-||tr-usual.xyz
 ||tr-usual.xyz^
 ||tr563.com^
 ||tracedexplore.com^
@@ -20224,7 +20225,6 @@ vkcdnservice.appspot.com^
 ||zzdb5p4upiug.com^
 ||zzghcckpzlhob.com^
 ||vpn-offers.org^
-! Pi hole
 ! Third-party
 ||123date.me^
 ||152media.com^
@@ -21693,7 +21693,6 @@ vkcdnservice.appspot.com^
 ||wmmediacorp.com^
 ||wordego.com^
 ||worthathousandwords.com^
-||wsec.multiscreensite.com^
 ||x4300tiz.com^
 ||xandr.com^
 ||xgpub.com^
@@ -21938,6 +21937,7 @@ vkcdnservice.appspot.com^
 ||d19gkl2iaav80x.cloudfront.net^
 ||d19y03yc9s7c1c.cloudfront.net^
 ||d1a3jb5hjny5s4.cloudfront.net^
+||d1aa9f6zukqylf.cloudfront.net^
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
@@ -29488,8 +29488,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Dec 2022 14:13 UTC+7
-! Version: 2212191413
+! Last modified: 20 Dec 2022 15:40 UTC+7
+! Version: 2212201540
 ! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -30291,6 +30291,7 @@ vkcdnservice.appspot.com^
 ||5pe6.fun^
 ||65688qp.com^
 ||66668aaa.com^
+||66669aaa.com^
 ||66885aaa.com^
 ||678tktp.com^
 ||6u4j.icu^
@@ -30325,12 +30326,14 @@ vkcdnservice.appspot.com^
 ||b6c4.top^
 ||baiduhaoba.com^
 ||batiao20221209.xyz^
+||bcykbhb.cn^
 ||bdhcpll.cn^
 ||bendan.shop^
 ||benditao.biz^
 ||beqokg.xyz^
 ||bfsqtsn.cn^
 ||bh2q.fun^
+||bhsvlym.cn^
 ||binjlwz.cn^
 ||bjfc.xyz^
 ||bjws.xyz^
@@ -30353,6 +30356,7 @@ vkcdnservice.appspot.com^
 ||cjkl.online^
 ||clvkg.xyz^
 ||clw99.mobi^
+||cnnanxing.mobi^
 ||cpgo.xyz^
 ||crleii.xyz^
 ||csekct.xyz^
@@ -30371,6 +30375,7 @@ vkcdnservice.appspot.com^
 ||dbixooy.cn^
 ||dbmcmhh.cn^
 ||dbwmpqd.cn^
+||dcmh.xyz^
 ||dfkd.xyz^
 ||dfncojkle.xyz^
 ||dharkyu.cn^
@@ -30420,6 +30425,7 @@ vkcdnservice.appspot.com^
 ||gfqfjau.cn^
 ||gfqquls.cn^
 ||gfxjjpo.cn^
+||ggqnre.xyz^
 ||ggsdogn.cn^
 ||gkcmei.xyz^
 ||gkiho.xyz^
@@ -30453,6 +30459,7 @@ vkcdnservice.appspot.com^
 ||htkk2.top^
 ||huilianji.com^
 ||huineihan.com^
+||huxnbnk.cn^
 ||hxapafn.cn^
 ||hztv.xyz^
 ||i46.xyz^
@@ -30491,6 +30498,7 @@ vkcdnservice.appspot.com^
 ||jpgtpbl.cn^
 ||jqnggnsa.fun^
 ||jtxw.cloud^
+||jugboja.cn^
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
@@ -30829,12 +30837,8 @@ vkcdnservice.appspot.com^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||jugboja.cn^
-||huxnbnk.cn^
-||dcmh.xyz^
-||ggqnre.xyz^
-||bcykbhb.cn^
-||66669aaa.com^
+||kzhjpnv.cn^
+||mdfiaub.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
