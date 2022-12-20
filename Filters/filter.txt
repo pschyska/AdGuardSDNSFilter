@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-20T12:12:49.154Z
+! Last modified: 2022-12-20T18:08:28.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||montlusa.top^
 ||xhyjrivwa.com^
 ||gointhe.space^
 ||3d55ty.cfeucdn.com^
