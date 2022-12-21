@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-21T12:12:25.406Z
+! Last modified: 2022-12-21T18:08:31.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||admanmedia.com^
 ||0redire.com^
 ||celxkpdir.com^
 ||mkopli-1.live^
@@ -20587,7 +20588,6 @@ vkcdnservice.appspot.com^
 ||admamba.com^
 ||adman.gr^
 ||admanage.com^
-||admanmedia.com^
 ||admarketplace.net^
 ||admaster.net^
 ||admatic.com.tr^
@@ -30454,6 +30454,7 @@ vkcdnservice.appspot.com^
 ||02asdf.com^
 ||033dfgh.com^
 ||035caop.com^
+||046zxnm.com^
 ||049uing.com^
 ||053tyfg.com^
 ||056opui.com^
@@ -30462,6 +30463,7 @@ vkcdnservice.appspot.com^
 ||065yuyu.com^
 ||076lvo.xyz^
 ||085cczz.com^
+||096iokj.com^
 ||0ftyz.top^
 ||0smg.top^
 ||1106yh.com^
@@ -30471,6 +30473,7 @@ vkcdnservice.appspot.com^
 ||1158tp.com^
 ||1205qitiao2022.xyz^
 ||1qm5.top^
+||2hvl4.fun^
 ||360600.xyz^
 ||362728tdg.com^
 ||3v4w.top^
@@ -30510,10 +30513,12 @@ vkcdnservice.appspot.com^
 ||adiexjy.cn^
 ||aiedwhb.cn^
 ||aiupiyd.cn^
+||akfdpto.cn^
 ||albyprd.cn^
 ||aoouvdi.cn^
 ||apcilnf.cn^
 ||aqsj.xyz^
+||auwehnw.cn^
 ||b4jy.top^
 ||b53.xyz^
 ||b6c4.top^
@@ -30533,6 +30538,7 @@ vkcdnservice.appspot.com^
 ||bjzb.xyz^
 ||bmmogb.xyz^
 ||bqge.xyz^
+||bqgw.xyz^
 ||bqnggnsv.fun^
 ||bvpaovs.cn^
 ||bvwxfok.cn^
@@ -30607,6 +30613,7 @@ vkcdnservice.appspot.com^
 ||fqsokh.xyz^
 ||fsdnp.cyou^
 ||ftdmfxq.cn^
+||fvdoics.cn^
 ||fvtrx.cyou^
 ||fwrpq.cyou^
 ||fypcy.cyou^
@@ -30720,6 +30727,7 @@ vkcdnservice.appspot.com^
 ||kyzx.xyz^
 ||kzehh.com^
 ||kzezz.com^
+||kzhjpnv.cn^
 ||kzngisyd.xyz^
 ||lambda.center^
 ||lapsmnl.cyou^
@@ -30746,9 +30754,11 @@ vkcdnservice.appspot.com^
 ||lwhqa.xyz^
 ||lxrhw.xyz^
 ||lzcgsbe.cn^
+||lzehcdb.cn^
 ||lzngisyl.xyz^
 ||lzwdq.xyz^
 ||mbtpzcb.cn^
+||mdfiaub.cn^
 ||meikdein.xyz^
 ||mhhsa.xyz^
 ||mjkyydz.cn^
@@ -30758,6 +30768,7 @@ vkcdnservice.appspot.com^
 ||myproteincn.com^
 ||mziwkyr.cn^
 ||n0633.com^
+||n47n.top^
 ||necmdow.cn^
 ||nhtieoo.cn^
 ||nijnqwem.xyz^
@@ -30872,6 +30883,7 @@ vkcdnservice.appspot.com^
 ||s93isp.top^
 ||sapsmnb.cyou^
 ||sbb8w.top^
+||sbehgm.xyz^
 ||sganilglb.cyou^
 ||shouzhi.biz^
 ||shuaige20221105.xyz^
@@ -30928,6 +30940,7 @@ vkcdnservice.appspot.com^
 ||uav6d52c.cn^
 ||ubisbrw.cn^
 ||ubln.top^
+||udajswf.cn^
 ||uibqwl.xyz^
 ||ujfqohk.cn^
 ||upftflc.cn^
@@ -30989,6 +31002,7 @@ vkcdnservice.appspot.com^
 ||xpqy.xyz^
 ||xqcjfcb.cn^
 ||xtzx.xyz^
+||xuaihua.work^
 ||xwdsp.com^
 ||y88m2.top^
 ||yangliu.ink^
@@ -31030,20 +31044,6 @@ vkcdnservice.appspot.com^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||kzhjpnv.cn^
-||mdfiaub.cn^
-||lzehcdb.cn^
-||akfdpto.cn^
-||fvdoics.cn^
-||sbehgm.xyz^
-||bqgw.xyz^
-||auwehnw.cn^
-||n47n.top^
-||udajswf.cn^
-||2hvl4.fun^
-||046zxnm.com^
-||xuaihua.work^
-||096iokj.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -38230,7 +38230,6 @@ vkcdnservice.appspot.com^
 ||d.ziyuanm.com^
 ||d1.1ppt.com^
 ||d1.5h.com^
-||d1.gocye.com^
 ||d1.handdiy.com^
 ||d1.zhuangxiu6.com^
 ||d6.mobaders.com^
