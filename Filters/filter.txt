@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-21T00:33:28.101Z
+! Last modified: 2022-12-21T06:09:19.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -6958,6 +6958,7 @@ vkcdnservice.appspot.com^
 ||d29gqcij.com^
 ||d2e48d0dce.com^
 ||d2gc6r1h15ux9j.cloudfront.net^
+||d2j71mqxljhlck.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
@@ -13102,6 +13103,7 @@ vkcdnservice.appspot.com^
 ||nhpfvdlbjg.com^
 ||nhqxzqvkj.com^
 ||nhvoorsdekcind.com^
+||nhxwksmsyvmpkj.com^
 ||nibzitgas.com^
 ||nicertie.com^
 ||nicesthoarfrostsooner.com^
@@ -14717,6 +14719,7 @@ vkcdnservice.appspot.com^
 ||pppbr.com^
 ||pppbrkwd.xyz^
 ||pprq7.com^
+||pqjtlmraesiie.com^
 ||pqztggmplviyxy.com^
 ||practitionermonsieurstable.com^
 ||practthreat.club^
@@ -15303,6 +15306,7 @@ vkcdnservice.appspot.com^
 ||quensillo.com^
 ||querylead.com^
 ||questionsadjournasleep.com^
+||quiapountaxed.com^
 ||quiaresp.com^
 ||quickads.net^
 ||quickeryes.com^
@@ -15807,6 +15811,7 @@ vkcdnservice.appspot.com^
 ||rgttoipdr.com^
 ||rgvqcsxqge.com^
 ||rgyxispegu.xyz^
+||rhadivnckulnr.com^
 ||rhearthinkchlo.xyz^
 ||rhendam.com^
 ||rhfgjld.com^
@@ -22162,7 +22167,6 @@ vkcdnservice.appspot.com^
 ||d2i4wzwe8j1np9.cloudfront.net^
 ||d2i55s0cnk529c.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
-||d2j71mqxljhlck.cloudfront.net^
 ||d2jgp81mjwggyr.cloudfront.net^
 ||d2jp87c2eoduan.cloudfront.net^
 ||d2juccxzu13rax.cloudfront.net^
@@ -29571,8 +29575,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Dec 2022 15:40 UTC+7
-! Version: 2212201540
+! Last modified: 21 Dec 2022 11:56 UTC+7
+! Version: 2212211156
 ! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -30926,6 +30930,9 @@ vkcdnservice.appspot.com^
 ||akfdpto.cn^
 ||fvdoics.cn^
 ||sbehgm.xyz^
+||bqgw.xyz^
+||auwehnw.cn^
+||n47n.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
