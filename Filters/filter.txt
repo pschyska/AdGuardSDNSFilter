@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-25T06:08:39.186Z
+! Last modified: 2022-12-25T12:11:18.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||5754909.com^
+||impresivedate.com^
 ||neeladou.net^
 ||datingmeetnet.com^
 ||aubergearise.com^
@@ -30804,6 +30806,7 @@ vkcdnservice.appspot.com^
 ||tprwnvk.cn^
 ||bnsdk.top^
 ||8499683.com^
+||vouninked.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
