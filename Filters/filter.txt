@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-26T06:09:32.562Z
+! Last modified: 2022-12-26T12:12:15.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27312,6 +27312,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||promolayer.io^
 ||googleailesi.com^
 ||bartinkizogrenciyurdu.com^
 ||js.glossom.jp^
@@ -30813,6 +30814,7 @@ vkcdnservice.appspot.com^
 ||hqoqbs.xyz^
 ||monzexn.cn^
 ||kxgo.xyz^
+||runn.fun^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -39021,6 +39023,9 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! TSB Bank mobile banking app - broken push notifications
+! Blocked by CNAME online-metrix.net
+@@||check2.tsb.co.uk^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
