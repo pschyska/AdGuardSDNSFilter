@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-27T12:12:22.539Z
+! Last modified: 2022-12-27T18:08:26.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3355,6 +3355,7 @@ vkcdnservice.appspot.com^
 ||afrier.com^
 ||afriet.com^
 ||afriflatry.co^
+||afrigh.com^
 ||afssdmin.com^
 ||afteen.com^
 ||aftent.com^
@@ -4079,6 +4080,7 @@ vkcdnservice.appspot.com^
 ||arraignmentinclose.com^
 ||arrenothanca.xyz^
 ||arridedoregano.tech^
+||arrism.com^
 ||arrivalselfcontrolrealization.com^
 ||arrivaltroublesome.com^
 ||arrivedeuropean.com^
@@ -5473,6 +5475,7 @@ vkcdnservice.appspot.com^
 ||breathebuds.com^
 ||breathtricklealleviate.com^
 ||bred4tula.com^
+||breechesbottomelf.com^
 ||breedingunspeakableplaice.com^
 ||breedtagask.com^
 ||breemi.com^
@@ -5776,6 +5779,7 @@ vkcdnservice.appspot.com^
 ||capricornnestlevile.com^
 ||capsheirspages.com^
 ||captainad.com^
+||captchafine.live^
 ||captiongodfather.com^
 ||captivatecustomergentlemen.com^
 ||captivateholscrook.com^
@@ -7866,6 +7870,7 @@ vkcdnservice.appspot.com^
 ||effateuncrisp.com^
 ||effectivecpmcontent.com^
 ||effectivecpmgate.com^
+||effectivecreativeformat.com^
 ||effectivecreativeformats.com^
 ||effectivedisplaycontent.com^
 ||effectivedisplayformat.com^
@@ -9946,6 +9951,7 @@ vkcdnservice.appspot.com^
 ||himediads.com^
 ||himediadx.com^
 ||himekingrow.com^
+||himhedrankslo.xyz^
 ||himselves.com^
 ||himselvesobr.club^
 ||hinlargecon.com^
@@ -10164,6 +10170,7 @@ vkcdnservice.appspot.com^
 ||hvooyieoei.com^
 ||hvvevjiuq.com^
 ||hwpnocpctu.com^
+||hxgqqxopf.com^
 ||hxoewq.com^
 ||hycikesty.pro^
 ||hydnoraraasch.tech^
@@ -11235,6 +11242,7 @@ vkcdnservice.appspot.com^
 ||koopheen.com^
 ||koora2live.com^
 ||koovapou.xyz^
+||koowlxlovl.com^
 ||kopehngtragen.com^
 ||koppiesgriever.com^
 ||koradu.com^
@@ -11463,6 +11471,7 @@ vkcdnservice.appspot.com^
 ||layer-ad.org^
 ||layerloop.com^
 ||layingprocuregather.com^
+||lazypeacefullyutterly.com^
 ||lbbxuenncq.com^
 ||lcaaixdgdfygx.com^
 ||lcdwjuzdkpxnss.com^
@@ -13712,6 +13721,7 @@ vkcdnservice.appspot.com^
 ||otdsngganpsgru.com^
 ||othandhadb.xyz^
 ||othbhe2.com^
+||othdgemanow.xyz^
 ||othecknotinda.com^
 ||otheyrami.xyz^
 ||othonnabusaos.com^
@@ -13827,6 +13837,7 @@ vkcdnservice.appspot.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
 ||ovsliqrcwqsqfxf.xyz^
+||ovvwunawrt.com^
 ||ovxeeiuhjoenoeb.xyz^
 ||owenexposure.com^
 ||owewary.com^
@@ -14826,6 +14837,7 @@ vkcdnservice.appspot.com^
 ||psaudous.com^
 ||psaukaux.net^
 ||psaukrik.net^
+||psausuck.net^
 ||psautiultvvsqxj.xyz^
 ||psauwush.net^
 ||psazamajy.pro^
@@ -18345,6 +18357,7 @@ vkcdnservice.appspot.com^
 ||uloprjcy.xyz^
 ||ulourgaz.net^
 ||ulried.com^
+||ulrzovfukgkljw.com^
 ||ultanceev.com^
 ||ultimowraxle.com^
 ||ultingcoempa.xyz^
@@ -21833,6 +21846,7 @@ vkcdnservice.appspot.com^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1e9rtdi67kart.cloudfront.net^
 ||d1ebha2k07asm5.cloudfront.net^
+||d1err2upj040z.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1ev866ubw90c6.cloudfront.net^
 ||d1ezlc9vy4yc7g.cloudfront.net^
@@ -27312,6 +27326,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||impactify.media^
 ||promolayer.io^
 ||googleailesi.com^
 ||bartinkizogrenciyurdu.com^
@@ -27436,7 +27451,7 @@ vkcdnservice.appspot.com^
 ||mobee2.jp^
 ||mttag.com^
 ||preaf.jp^
-||cdn.relaido.jp^
+||relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
 ||dn.msmstatic.com^
@@ -30317,6 +30332,7 @@ vkcdnservice.appspot.com^
 ||epmf4.cn^
 ||eqnggnsw.fun^
 ||eqyzc.cyou^
+||erhsxv.top^
 ||ertjo.xyz^
 ||eskay.cn^
 ||esqc.xyz^
@@ -30341,6 +30357,7 @@ vkcdnservice.appspot.com^
 ||fwrpq.cyou^
 ||fypcy.cyou^
 ||fztimyc.cn^
+||gcihkyd.cn^
 ||gctd.xyz^
 ||gcxp.xyz^
 ||gdugga.com^
@@ -30360,6 +30377,8 @@ vkcdnservice.appspot.com^
 ||gndwgmg.cn^
 ||gogfhq.xyz^
 ||gpsncbo.cn^
+||gravvxa.cn^
+||grecoi.xyz^
 ||gscohm.xyz^
 ||guanggao1257.com^
 ||guanhoulz.com^
@@ -30397,6 +30416,8 @@ vkcdnservice.appspot.com^
 ||iecetun.cn^
 ||ifautzg.cn^
 ||iftjwuu.cn^
+||ifyso.icu^
+||ihdqpyc.cn^
 ||iisymgs.cn^
 ||ijkqwopm.xyz^
 ||ikimhg.xyz^
@@ -30431,6 +30452,7 @@ vkcdnservice.appspot.com^
 ||jpai.xyz^
 ||jpgtpbl.cn^
 ||jqnggnsa.fun^
+||js22f.net^
 ||jtxw.cloud^
 ||jugboja.cn^
 ||kapsmnd.cyou^
@@ -30666,6 +30688,7 @@ vkcdnservice.appspot.com^
 ||skfjd1.xyz^
 ||sm3nq.cn^
 ||smtlm967.com^
+||snbklas.cn^
 ||somaliainc.com^
 ||sqnggnsb.fun^
 ||summer5188.com^
@@ -30804,7 +30827,9 @@ vkcdnservice.appspot.com^
 ||zenknho.cn^
 ||zgfckf.mobi^
 ||zgfdczj.mobi^
+||zgm1.com^
 ||zgzlw.biz^
+||zhengtong.link^
 ||zhhgmh.mobi^
 ||zhiqi.pub^
 ||zhvo.top^
@@ -30816,17 +30841,9 @@ vkcdnservice.appspot.com^
 ||zrpyfgt.cn^
 ||zvxwvny.cn^
 ||zw2b9.cn^
+||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||ihdqpyc.cn^
-||erhsxv.top^
-||snbklas.cn^
-||grecoi.xyz^
-||gcihkyd.cn^
-||ifyso.icu^
-||zhengtong.link^
-||zgm1.com^
-||zytsbro.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
