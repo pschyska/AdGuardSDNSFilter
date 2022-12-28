@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-28T12:12:10.271Z
+! Last modified: 2022-12-28T18:08:39.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30316,6 +30316,7 @@ vkcdnservice.appspot.com^
 ||auwehnw.cn^
 ||b4jy.top^
 ||b53.xyz^
+||b62.xyz^
 ||b6c4.top^
 ||baiduhaoba.com^
 ||batiao20221209.xyz^
@@ -30337,6 +30338,7 @@ vkcdnservice.appspot.com^
 ||bqge.xyz^
 ||bqgw.xyz^
 ||bqnggnsv.fun^
+||brmzopt.cn^
 ||bvpaovs.cn^
 ||bvwxfok.cn^
 ||bzngisyv.xyz^
@@ -30382,7 +30384,9 @@ vkcdnservice.appspot.com^
 ||diejs.com^
 ||dinyqgv.cn^
 ||diygnmo.cn^
+||dklkxb.xyz^
 ||dktoo.site^
+||dongya.org^
 ||dpqtdkf.cn^
 ||dsfhr.xyz^
 ||dsfsdft4324.xyz^
@@ -30393,6 +30397,7 @@ vkcdnservice.appspot.com^
 ||eganilglw.cyou^
 ||egrnmic.cn^
 ||eidphap.cn^
+||ejjek.top^
 ||ekhnbwe.cn^
 ||emfrig.xyz^
 ||enzagpt.cn^
@@ -30546,6 +30551,7 @@ vkcdnservice.appspot.com^
 ||kptygka.cn^
 ||kq7k.icu^
 ||krp3g.top^
+||krqole.xyz^
 ||kuanzhan.biz^
 ||kufmbwm.cn^
 ||kvkggg.top^
@@ -30623,6 +30629,7 @@ vkcdnservice.appspot.com^
 ||nzvpewi.cn^
 ||oapsmnk.cyou^
 ||ocive.xyz^
+||ocyakni.cn^
 ||odfykc.cn^
 ||odghlwo.cn^
 ||oehhq.xyz^
@@ -30632,6 +30639,7 @@ vkcdnservice.appspot.com^
 ||oivgqnt.cn^
 ||ok-11-cai.cc^
 ||omtend.com^
+||ooeogk.xyz^
 ||oqnggnsk.fun^
 ||othoj.xyz^
 ||ouphff.cn^
@@ -30725,6 +30733,7 @@ vkcdnservice.appspot.com^
 ||rss9f.top^
 ||rtmtgf.xyz^
 ||rtnigaz.cyou^
+||rtzhao.site^
 ||runn.fun^
 ||ruohe.fun^
 ||rvyjbwr.cn^
@@ -30869,6 +30878,7 @@ vkcdnservice.appspot.com^
 ||xtzx.xyz^
 ||xuaihua.work^
 ||xwdsp.com^
+||xxvkwuk.cn^
 ||y88m2.top^
 ||yangliu.ink^
 ||ycyipha.cn^
@@ -30913,16 +30923,6 @@ vkcdnservice.appspot.com^
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||brmzopt.cn^
-||xxvkwuk.cn^
-||dongya.org^
-||krqole.xyz^
-||b62.xyz^
-||ooeogk.xyz^
-||ocyakni.cn^
-||rtzhao.site^
-||dklkxb.xyz^
-||ejjek.top^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
