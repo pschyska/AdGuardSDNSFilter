@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2022-12-31T12:10:57.204Z
+! Last modified: 2022-12-31T18:07:45.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5983,6 +5983,7 @@ vkcdnservice.appspot.com^
 ||cellaraudacityslack.com^
 ||cellarpassion.com^
 ||cellojapanel.one^
+||cellsmonitor.com^
 ||cellsquickie.com^
 ||celotexchalaze.website^
 ||celsiansnite.com^
@@ -8949,6 +8950,7 @@ vkcdnservice.appspot.com^
 ||foxypp.com^
 ||fpeiatypfcsthka.xyz^
 ||fqrqgaeqcmbjihq.xyz^
+||frabwiccy.com^
 ||fracs.xyz^
 ||fragba.com^
 ||fragilebiggerbetty.com^
@@ -10395,6 +10397,7 @@ vkcdnservice.appspot.com^
 ||idownloadgalore.com^
 ||idswinpole.casa^
 ||ie3wisa4.com^
+||ieehxlksojqfch.com^
 ||iendoo.com^
 ||ieroohhcytpar.xyz^
 ||iesboughts.xyz^
@@ -13105,6 +13108,7 @@ vkcdnservice.appspot.com^
 ||netpatas.com^
 ||netstam.com^
 ||nettube.top^
+||netu.io^
 ||netund.com^
 ||neutralityrecommendstretched.com^
 ||neverbe.xyz^
@@ -17487,6 +17491,7 @@ vkcdnservice.appspot.com^
 ||stuffedprofessional.com^
 ||stuffedstudy.com^
 ||stugsoda.com^
+||stulsh.com^
 ||stunninglover.com^
 ||stunningruin.com^
 ||stunsbarbola.website^
@@ -19644,6 +19649,7 @@ vkcdnservice.appspot.com^
 ||wideliber.com^
 ||widene.com^
 ||wideorganiz.xyz^
+||widern.com^
 ||widespreadgabblewear.com^
 ||widespreadglamour.com^
 ||widgetadvertising.biz^
@@ -19918,6 +19924,7 @@ vkcdnservice.appspot.com^
 ||xbcnvj2mdk1dn1.com^
 ||xbcpcn.com^
 ||xbxhulfp.xyz^
+||xbxyhged.xyz^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
 ||xclicks.net^
