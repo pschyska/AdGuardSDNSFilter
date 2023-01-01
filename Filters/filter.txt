@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-01T12:11:20.827Z
+! Last modified: 2023-01-01T18:07:48.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||prxy.online^
+||repointderider.com^
+||belbenback.live^
 ||tontent.powzers.lol^
 ||snicherchitra.space^
 ||nostrilquarryprecursor.com^
@@ -2094,6 +2097,7 @@ vkcdnservice.appspot.com^
 ||2e3f31faae.com^
 ||2e552e6db0.com^
 ||2e8dgn8n0e0l.com^
+||2fb8or7ai.de^
 ||2fd8c0e9fc.com^
 ||2fe913d83a.com^
 ||2g6gj3aojcrj.com^
@@ -6168,6 +6172,7 @@ vkcdnservice.appspot.com^
 ||chitika.net^
 ||chjhsfctkeve.xyz^
 ||chl7rysobc3ol6xla.com^
+||chlibopi.xyz^
 ||cho7932105co3l2ate3covere53d.com^
 ||choahees.net^
 ||chobsang.net^
@@ -7491,6 +7496,7 @@ vkcdnservice.appspot.com^
 ||dissolvedhaunch.com^
 ||distilled.ie^
 ||distinctlynobleprosecute.com^
+||distorted-basket.pro^
 ||distorttrucknurture.com^
 ||distractiontradingamass.com^
 ||distressedsensesmanage.com^
@@ -11437,6 +11443,7 @@ vkcdnservice.appspot.com^
 ||kloynfsag.com^
 ||klsdee.com^
 ||klyeconnecte.xyz^
+||kmapagpkik.com^
 ||kmqkdhqaqt.com^
 ||kmuvaerfumy.com^
 ||kneeansweras.com^
@@ -12069,6 +12076,7 @@ vkcdnservice.appspot.com^
 ||loulauzo.com^
 ||louloapi.com^
 ||loulouly.net^
+||loungeagain.com^
 ||loungebearing.com^
 ||lourdoueisienne.website^
 ||lousebankroll.com^
@@ -16419,6 +16427,7 @@ vkcdnservice.appspot.com^
 ||rvwtpwmtnfj.com^
 ||rwkdqtenbr.com^
 ||rwlfznyvivh.com^
+||rwqsuobfskxrlfx.com^
 ||rwturquxinm.com^
 ||rwzexfzoyqf.com^
 ||rxeosevsso.com^
@@ -17195,6 +17204,7 @@ vkcdnservice.appspot.com^
 ||socialbars-web1.com^
 ||sociallycontend.com^
 ||socialvone.com^
+||socids.com^
 ||sociocast.com^
 ||sociomantic.com^
 ||socketboredomdigital.com^
@@ -19686,6 +19696,7 @@ vkcdnservice.appspot.com^
 ||wegetpaid.net^
 ||wegotmedia.com^
 ||wehgprpfrx.xyz^
+||wehras.com^
 ||wel-wel-fie.com^
 ||welfarefit.com^
 ||wellhello.com^
@@ -31441,6 +31452,7 @@ vkcdnservice.appspot.com^
 ||celcxjb.cn^
 ||wotui.ltd^
 ||vec4o.top^
+||wydfghjjh.live^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -37965,6 +37977,7 @@ vkcdnservice.appspot.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||ys2000.cdn.bcebos.com^
+||j8377.com^
 ||380.tw^
 ||52av.be^
 ||1024mzs.pw^
