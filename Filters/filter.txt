@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-01T18:07:48.968Z
+! Last modified: 2023-01-02T00:36:29.920Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -30840,6 +30840,7 @@ vkcdnservice.appspot.com^
 ||caudojq.cn^
 ||ccl1.icu^
 ||cdn-go.net^
+||celcxjb.cn^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -31039,6 +31040,7 @@ vkcdnservice.appspot.com^
 ||kba8i.icu^
 ||kcmomkn.cn^
 ||kdegznb.cn^
+||kdqika.xyz^
 ||kecms.xyz^
 ||keiscithy.com^
 ||kjanfwss.xyz^
@@ -31082,6 +31084,7 @@ vkcdnservice.appspot.com^
 ||lgjxw.xyz^
 ||lhare.xyz^
 ||lihuan.store^
+||ljhhhhrt.top^
 ||ljlg.xyz^
 ||ljrot.icu^
 ||lkjrx.xyz^
@@ -31166,6 +31169,7 @@ vkcdnservice.appspot.com^
 ||pmcppla.cn^
 ||pnesemr.cn^
 ||pothouse.cn^
+||ppwrc.xyz^
 ||prju.top^
 ||pthezjl.cn^
 ||ptijx.xyz^
@@ -31289,6 +31293,7 @@ vkcdnservice.appspot.com^
 ||t34kk9.top^
 ||t5wm.cc^
 ||taotaogeren.xyz^
+||tbxqbvt.cn^
 ||tchpniy.cn^
 ||techgcr.cn^
 ||tfaftemail.com^
@@ -31335,6 +31340,7 @@ vkcdnservice.appspot.com^
 ||vadypb.cn^
 ||vagvedi.cn^
 ||vahdzbk.cn^
+||vec4o.top^
 ||venulaevavs.com^
 ||vfqnhif.cn^
 ||vggzftw.cn^
@@ -31364,12 +31370,14 @@ vkcdnservice.appspot.com^
 ||wmgocya.cn^
 ||wocexaa.cn^
 ||wotmvdc.cn^
+||wotui.ltd^
 ||wpozwh.com^
 ||wqnggnse.fun^
 ||wumei91.cc^
 ||wv86s.fun^
 ||wvggzak.cn^
 ||wxumevd.cn^
+||wydfghjjh.live^
 ||wyplmjufd.live^
 ||wyqaafplm.live^
 ||wyqwrfghj.live^
@@ -31397,6 +31405,7 @@ vkcdnservice.appspot.com^
 ||xxvkwuk.cn^
 ||y88m2.top^
 ||yangliu.ink^
+||ybayck.xyz^
 ||ybgo.xyz^
 ||ycyipha.cn^
 ||yes-24-go.cc^
@@ -31404,6 +31413,7 @@ vkcdnservice.appspot.com^
 ||ygcn.ltd^
 ||ygq.ink^
 ||ygwdai.cn^
+||yhbdrnr.cn^
 ||yhzm.xyz^
 ||yihehe.xyz^
 ||yijfdsu.cn^
@@ -31419,6 +31429,7 @@ vkcdnservice.appspot.com^
 ||zahl4tf5zs.xyz^
 ||zahrvfbd.xyz^
 ||zasjfget.xyz^
+||zbfiupq.cn^
 ||zbpx.xyz^
 ||zdy1.xyz^
 ||zenknho.cn^
@@ -31442,17 +31453,11 @@ vkcdnservice.appspot.com^
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||kdqika.xyz^
-||tbxqbvt.cn^
-||ljhhhhrt.top^
-||ybayck.xyz^
-||zbfiupq.cn^
-||ppwrc.xyz^
-||yhbdrnr.cn^
-||celcxjb.cn^
-||wotui.ltd^
-||vec4o.top^
-||wydfghjjh.live^
+||iyxuude.cn^
+||glczys.xyz^
+||b67.xyz^
+||yigehong.com.cn^
+||imgopen.vip^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -37977,9 +37982,9 @@ vkcdnservice.appspot.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||ys2000.cdn.bcebos.com^
-||j8377.com^
 ||380.tw^
 ||52av.be^
+||j8377.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||5lu8.com^
