@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-02T18:08:42.581Z
+! Last modified: 2023-01-03T00:36:12.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -5547,6 +5547,7 @@ vkcdnservice.appspot.com^
 ||brwbimexv.com^
 ||brwvdoorqmsnqbl.xyz^
 ||brygella.com^
+||bsahbewwfiihaxk.com^
 ||bshrdr.com^
 ||bst-offers.com^
 ||btagmedia.com^
@@ -7719,6 +7720,7 @@ vkcdnservice.appspot.com^
 ||eacdn.com^
 ||eachiv.com^
 ||eacry.com^
+||eadirtlseivid.xyz^
 ||eads.to^
 ||eadwnhhi.work^
 ||eae5daf052d2673b.com^
@@ -7934,11 +7936,13 @@ vkcdnservice.appspot.com^
 ||ejurzsax.com^
 ||ekareqif.xyz^
 ||ekfottltamc.com^
+||ekgloczbsblg.com^
 ||ekmas.com^
 ||ektmvpwa.top^
 ||elaboratehall.pro^
 ||elasticad.net^
 ||elbertmemoria.com^
+||eldestcontribution.com^
 ||eleavers.com^
 ||electnext.com^
 ||electosake.com^
@@ -9709,6 +9713,7 @@ vkcdnservice.appspot.com^
 ||hamusprecony.com^
 ||handbagcordial.com^
 ||handsomedisadvantageglued.com^
+||handspiketha.xyz^
 ||handtub.com^
 ||handy-tab.com^
 ||hangdogferfel.com^
@@ -9990,6 +9995,7 @@ vkcdnservice.appspot.com^
 ||hoarseairy.com^
 ||hobfadbig.com^
 ||hockeyhavoc.com^
+||hoddysaith.com^
 ||hoemasfat.site^
 ||hognaivee.com^
 ||hogqmd.com^
@@ -10045,6 +10051,7 @@ vkcdnservice.appspot.com^
 ||hosehonoured.com^
 ||hoselviolal.uno^
 ||hosept.com^
+||hoseve.com^
 ||hosierylackingperilous.com^
 ||hosieryplum.com^
 ||hosierypressed.com^
@@ -10087,6 +10094,7 @@ vkcdnservice.appspot.com^
 ||hppvkbfcuq.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
+||hpzdwnkb.com^
 ||hq3x.com^
 ||hqawqssuvqyl.xyz^
 ||hqoadthspnju.com^
@@ -10289,6 +10297,7 @@ vkcdnservice.appspot.com^
 ||iifvcfwiqi.com^
 ||iingsinspiring.com^
 ||iixecczxqzy.com^
+||iixrcvqsqicjcl.com^
 ||ijspro-code.com^
 ||ijwfyirxx.xyz^
 ||ikajeoes.com^
@@ -10877,6 +10886,7 @@ vkcdnservice.appspot.com^
 ||jollyickysolely.com^
 ||jollykeg.com^
 ||jollytestpartying.com^
+||jomvyhmfxqnvox.xyz^
 ||jonaur.com^
 ||joodoush.com^
 ||joogivestou.com^
@@ -11270,6 +11280,7 @@ vkcdnservice.appspot.com^
 ||kouptufezi.com^
 ||koutobey.net^
 ||koxeebee.net^
+||kozuyzcciaygg.com^
 ||kqhi97lf.de^
 ||kqpdnmkkvuu.com^
 ||kqwhorpvy.xyz^
@@ -11861,6 +11872,7 @@ vkcdnservice.appspot.com^
 ||ludesthat.club^
 ||ludicroussignify.com^
 ||ludwigreseise.tech^
+||lufbogazixz.com^
 ||lukpush.com^
 ||lumaktoys.com^
 ||lumeritix.com^
@@ -12326,6 +12338,7 @@ vkcdnservice.appspot.com^
 ||mh9dskj8jg.com^
 ||mhadsd.com^
 ||mhebbkfyhsu.com^
+||mhvllvgrefplg.com^
 ||mhxxescmv.xyz^
 ||mi82ltk3veb7.com^
 ||miamribud.com^
@@ -13228,6 +13241,7 @@ vkcdnservice.appspot.com^
 ||numberium.com^
 ||numberschord.com^
 ||numbertrck.com^
+||numbig.com^
 ||numbtoobly.com^
 ||numeralembody.com^
 ||nums1.link^
@@ -14963,6 +14977,7 @@ vkcdnservice.appspot.com^
 ||pubrain.com^
 ||pubted.com^
 ||pubtm.com^
+||puddingamass.com^
 ||puddrupose.com^
 ||pudrardu.net^
 ||puggedproses.com^
@@ -15130,6 +15145,7 @@ vkcdnservice.appspot.com^
 ||qanatn.com^
 ||qarewien.com^
 ||qatarchekmak.com^
+||qawpicxuca.com^
 ||qaykb.com^
 ||qbkzvophvva.com^
 ||qdatasales.com^
@@ -15774,6 +15790,7 @@ vkcdnservice.appspot.com^
 ||rkumsvlvfeeewog.xyz^
 ||rlaa.xyz^
 ||rldwideorga.com^
+||rlfvuficzdmsx.com^
 ||rlomivunesqal.com^
 ||rlyorbiditys.online^
 ||rmbn.net^
@@ -16761,6 +16778,7 @@ vkcdnservice.appspot.com^
 ||snugslackmakeup.com^
 ||snurpsermon.space^
 ||snwpqybkb.com^
+||snxewpxrhegslq.com^
 ||soaheeme.net^
 ||soalonie.com^
 ||soap-wash.com^
@@ -18801,6 +18819,7 @@ vkcdnservice.appspot.com^
 ||vfghc.com^
 ||vfgtg.com^
 ||vfl81ea28aztw7y3.pro^
+||vfnvxvlffvtkrv.com^
 ||vfuplfbmtph.com^
 ||vfvdsati.com^
 ||vfyxjsclor.com^
@@ -23061,7 +23080,6 @@ vkcdnservice.appspot.com^
 ||c9p7at3pctmprvb5ecq66vvd.ml^
 ||premiumads.com.br^
 ||subdo.torrentrapid.com^
-||subdo.tumejortorrent.com^
 ||sunmedia.tv^
 ||redemw.com^
 ||grupoemidia.com.br^
@@ -23183,6 +23201,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||advertronic.io^
 ||ieggdijjfccaffgdafb.ru^
 ||temporarympay.com^
 ||hjheaijhafgfgbaaaei.ru^
@@ -26771,7 +26790,6 @@ vkcdnservice.appspot.com^
 ://*.pix-images.ru^
 ://*.porno-gid2.info^
 ://*.pornogig.com^
-://*.propix.info^
 ://*.protopix.info^
 ://*.purum-pup-pum.ru^
 ://*.rusdozor.ru^
@@ -29313,7 +29331,6 @@ vkcdnservice.appspot.com^
 ||kusinakusa.xyz^
 ||kuyanosa.shop^
 ||kvmnndjbgvmxa.com^
-||mhvllvgrefplg.com^
 ||mkgekotijxqthj.com^
 ||porekosa.autos^
 ||porekosa.click^
@@ -30233,6 +30250,7 @@ vkcdnservice.appspot.com^
 ||b4jy.top^
 ||b53.xyz^
 ||b62.xyz^
+||b67.xyz^
 ||b6c4.top^
 ||baiduhaoba.com^
 ||batiao20221209.xyz^
@@ -30266,6 +30284,7 @@ vkcdnservice.appspot.com^
 ||ccl1.icu^
 ||cdn-go.net^
 ||celcxjb.cn^
+||ceoqq.xyz^
 ||ceqerq.xyz^
 ||ceu5.icu^
 ||chengduda.top^
@@ -30302,6 +30321,7 @@ vkcdnservice.appspot.com^
 ||ddxs.xyz^
 ||dfkd.xyz^
 ||dfncojkle.xyz^
+||dfpdz.top^
 ||dharkyu.cn^
 ||diejs.com^
 ||dinyqgv.cn^
@@ -30356,6 +30376,7 @@ vkcdnservice.appspot.com^
 ||fvdoics.cn^
 ||fvtrx.cyou^
 ||fwrpq.cyou^
+||fxx79.pro^
 ||fypcy.cyou^
 ||fztimyc.cn^
 ||gcihkyd.cn^
@@ -30374,6 +30395,7 @@ vkcdnservice.appspot.com^
 ||gkiho.xyz^
 ||gknybkl.cn^
 ||gkofzfi.cn^
+||glczys.xyz^
 ||glovemall.cn^
 ||gmkmkn.xyz^
 ||gndwgmg.cn^
@@ -30429,6 +30451,7 @@ vkcdnservice.appspot.com^
 ||ikjnwd.xyz^
 ||ikoplvp.cn^
 ||iltelo.xyz^
+||imgopen.vip^
 ||imiqhrv.cn^
 ||imoote.xyz^
 ||into4g.mobi^
@@ -30438,6 +30461,7 @@ vkcdnservice.appspot.com^
 ||itpx.xyz^
 ||iuerxw.xyz^
 ||iwqetbj.cn^
+||iyxuude.cn^
 ||j41.xyz^
 ||j721s.top^
 ||japsmna.cyou^
@@ -30445,6 +30469,7 @@ vkcdnservice.appspot.com^
 ||jckdusa.cn^
 ||jdexcgb.cn^
 ||jghmrie.cn^
+||jiaohezhen.com^
 ||jiedu.fun^
 ||jieshimaya.xyz^
 ||jiutiao20221212.xyz^
@@ -30688,6 +30713,7 @@ vkcdnservice.appspot.com^
 ||sgsdqs.xyz^
 ||shouzhi.biz^
 ||shuaige20221105.xyz^
+||shucc.xyz^
 ||shyww.mobi^
 ||siduohua.top^
 ||simi1234.com^
@@ -30708,6 +30734,7 @@ vkcdnservice.appspot.com^
 ||sm3nq.cn^
 ||smtlm967.com^
 ||snbklas.cn^
+||snsjiq.xyz^
 ||somaliainc.com^
 ||sqnggnsb.fun^
 ||squemi.xyz^
@@ -30819,6 +30846,7 @@ vkcdnservice.appspot.com^
 ||xiaohui.ink^
 ||xinrern.cn^
 ||xinzhanggui.wang^
+||xjeevzv.cn^
 ||xlhnkpw.cn^
 ||xn--2qus9awz1a6ygowgbua.xn--fiqs8s^
 ||xpdjsd.cn^
@@ -30840,6 +30868,7 @@ vkcdnservice.appspot.com^
 ||ygwdai.cn^
 ||yhbdrnr.cn^
 ||yhzm.xyz^
+||yigehong.com.cn^
 ||yihehe.xyz^
 ||yijfdsu.cn^
 ||ynyikk.com^
@@ -30871,6 +30900,7 @@ vkcdnservice.appspot.com^
 ||zjttaqx.cn^
 ||zjws.xyz^
 ||zk6.me^
+||zobesmu.cn^
 ||zrpyfgt.cn^
 ||zswl.so^
 ||zvxwvny.cn^
@@ -30878,20 +30908,10 @@ vkcdnservice.appspot.com^
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
-||iyxuude.cn^
-||glczys.xyz^
-||b67.xyz^
-||yigehong.com.cn^
-||imgopen.vip^
-||snsjiq.xyz^
-||zobesmu.cn^
-||ceoqq.xyz^
-||fxx79.pro^
-||jiaohezhen.com^
 ||zzxedr.xyz^
-||xjeevzv.cn^
-||dfpdz.top^
-||shucc.xyz^
+||drkqjje.cn^
+||bocvb.xyz^
+||ovexui.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -39101,9 +39121,6 @@ vkcdnservice.appspot.com^
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! TSB Bank mobile banking app - broken push notifications
-! Blocked by CNAME online-metrix.net
-@@||check2.tsb.co.uk^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136509
 ! Blocked by CNAME c.msn.com
 @@||c.office.com^|
@@ -39115,9 +39132,6 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1115
 ! Blocked by CNAME tapfiliate.com
 @@||partner.everydays.de^|
-! https://github.com/easylist/easylist/pull/14208
-! Blocked by CNAME online-metrix.net
-@@||login.eki-net.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/134172
 @@||api.docodoco.jp^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133715
@@ -39343,7 +39357,5 @@ vkcdnservice.appspot.com^
 @@||track.rutarget.ru^|
 ! Watson News App for iOS https://github.com/AdguardTeam/AdguardFilters/issues/4524
 @@||5471782.fls.doubleclick.net^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/4405
-@@||h-sdk.online-metrix.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
