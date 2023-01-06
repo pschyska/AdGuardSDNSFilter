@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-06T12:12:46.838Z
+! Last modified: 2023-01-06T18:08:42.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||oftheseveryh.xyz^
+||salwaysesureto.info^
+||d1bioqbsunwnrb.cloudfront.net^
 ||js.download-apk-i.com^
 ||xvideos00.sbs^
 ||currentaccountadv.com^
@@ -30451,15 +30454,19 @@ vkcdnservice.appspot.com^
 !
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||0s6s0.top^
 ||100ytrf.com^
 ||401aww.com^
 ||5r562.cn^
 ||81xs.xyz^
 ||ahwiaw.xyz^
 ||aliyun6969.cn^
+||aol32.cn^
 ||creawww.top^
+||fyfvaxi.cn^
 ||gadscc.xyz^
 ||htbdvx.xyz^
+||huifuhuo.com^
 ||huishij.net^
 ||huitoukao.com^
 ||huiyanzhi.com^
@@ -30469,31 +30476,31 @@ vkcdnservice.appspot.com^
 ||igusoft.com^
 ||ikbgika.cn^
 ||irygym.xyz^
+||leiwo.xyz^
+||mdi5k.cn^
 ||neipa.xyz^
 ||njslx.cn^
 ||noiea.xyz^
 ||ofgysy.xyz^
+||pafcpd.xyz^
 ||pddbtn.xyz^
 ||ps123.online^
+||qingfengxq.com^
 ||rglctlo.cn^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||slowbeat.fun^
 ||soqikbe.cn^
+||timothy.wang^
 ||u1011.com^
 ||unmnkkq.cn^
 ||vbgr7.cn^
 ||vec4o.fun^
 ||wpiwoo.xyz^
-||yanjiusuo.cc^
-||leiwo.xyz^
-||yzgid.cn^
 ||wzkxke.xyz^
-||0s6s0.top^
-||aol32.cn^
+||yanjiusuo.cc^
 ||yretx.cn^
-||fyfvaxi.cn^
-||timothy.wang^
+||yzgid.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -37684,6 +37691,7 @@ vkcdnservice.appspot.com^
 ||b1.xiao84.com^
 ||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
+||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
 ||baiduada.babihu.com^
 ||baidujs.cnys.com^
