@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-06T00:38:35.476Z
+! Last modified: 2023-01-06T06:09:38.920Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -3771,6 +3771,7 @@ vkcdnservice.appspot.com^
 ||amberdub.com^
 ||ambersvelars.com^
 ||ambientplatform.vn^
+||ambiliarcarwin.com^
 ||ambitious-upstairs.pro^
 ||ambolicrighto.com^
 ||ambra.com^
@@ -8640,6 +8641,7 @@ vkcdnservice.appspot.com^
 ||fegrofaxe.pro^
 ||feinthonouredadornment.com^
 ||fejla.com^
+||fellap.com^
 ||felonlosel.com^
 ||feltlonelyand.xyz^
 ||femefaih.com^
@@ -9334,6 +9336,7 @@ vkcdnservice.appspot.com^
 ||ginepija.com^
 ||gingercompute.com^
 ||ginningsteri.com^
+||gipostart-1.co^
 ||girdlespittle.com^
 ||girise.com^
 ||girl7y.com^
@@ -9959,6 +9962,7 @@ vkcdnservice.appspot.com^
 ||hehadinqu.info^
 ||hehighursoo.com^
 ||heinndoo.one^
+||heinndoorhises.info^
 ||heiqirelle.com^
 ||heirchurchill.com^
 ||heiressplane.com^
@@ -10223,6 +10227,7 @@ vkcdnservice.appspot.com^
 ||hpzdwnkb.com^
 ||hq3x.com^
 ||hqawqssuvqyl.xyz^
+||hqmavhsorp.com^
 ||hqoadthspnju.com^
 ||hqpass.com^
 ||hqtbnelkvax.com^
@@ -13773,6 +13778,7 @@ vkcdnservice.appspot.com^
 ||onwasrv.com^
 ||oo00.biz^
 ||oocdqgado.xyz^
+||oodnaturedf.xyz^
 ||oodraune.com^
 ||oodroglu.net^
 ||oodsauns.net^
@@ -15838,6 +15844,7 @@ vkcdnservice.appspot.com^
 ||restorationpencil.com^
 ||restrictbench.com^
 ||restrictionsempty.com^
+||resulf.com^
 ||resultedmundconceal.com^
 ||resultlinks.com^
 ||resultsz.com^
@@ -17317,6 +17324,7 @@ vkcdnservice.appspot.com^
 ||starterplaicebrow.com^
 ||startpagea.com^
 ||starvards.com^
+||starvardsee.xyz^
 ||starvationdefence.com^
 ||stastips.net^
 ||stat-rock.com^
@@ -19795,6 +19803,7 @@ vkcdnservice.appspot.com^
 ||wp20.ru^
 ||wpadmngr.com^
 ||wpncdn.com^
+||wpnetwork.eu^
 ||wpnjs.com^
 ||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
@@ -30477,6 +30486,13 @@ vkcdnservice.appspot.com^
 ||vec4o.fun^
 ||wpiwoo.xyz^
 ||yanjiusuo.cc^
+||leiwo.xyz^
+||yzgid.cn^
+||wzkxke.xyz^
+||0s6s0.top^
+||aol32.cn^
+||yretx.cn^
+||fyfvaxi.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
