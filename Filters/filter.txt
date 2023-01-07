@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-07T00:35:51.941Z
+! Last modified: 2023-01-07T06:08:04.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||olineman.pro^
 ||oftheseveryh.xyz^
 ||salwaysesureto.info^
 ||d1bioqbsunwnrb.cloudfront.net^
@@ -1060,7 +1061,6 @@
 ||volyze.com^
 ||pornvideos.casa^
 ||glokta.info^
-||olineman.pro^
 ||neon.today^
 ||oukruque.com^
 ||balvalur.com^
@@ -3444,6 +3444,7 @@ vkcdnservice.appspot.com^
 ||agcdn.com^
 ||agcm.xyz^
 ||ageacavnrnwijh.xyz^
+||ageandinone.xyz^
 ||ageismvipery.com^
 ||agenduret.com^
 ||ageore.com^
@@ -7151,6 +7152,7 @@ vkcdnservice.appspot.com^
 ||dejectionminus.com^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
+||delbertbisalt.com^
 ||delempanyi.one^
 ||delendatole.live^
 ||deleterasks.digital^
@@ -7732,6 +7734,7 @@ vkcdnservice.appspot.com^
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
+||duz64ud8y8urc.cloudfront.net^
 ||dvaminusodin.net^
 ||dviccvivms.com^
 ||dvigukindal.com^
@@ -13922,6 +13925,7 @@ vkcdnservice.appspot.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
 ||oswerebage.xyz^
+||osyrhjwnwoaya.com^
 ||otbuzvqq8fm5.com^
 ||otdopkz.com^
 ||otdsngganpsgru.com^
@@ -17373,6 +17377,7 @@ vkcdnservice.appspot.com^
 ||stepmotherincomingpluck.com^
 ||steppesshirvan.com^
 ||stepsothohe.pro^
+||steptoedelfs.com^
 ||sterilecute.com^
 ||stethydelicat.com^
 ||stevoglutu.com^
@@ -18516,6 +18521,7 @@ vkcdnservice.appspot.com^
 ||tusno.com^
 ||tut-64.com^
 ||tutfuqc.com^
+||tutlyinlaik.com^
 ||tutvp.com^
 ||tuxbpnne.com^
 ||tuxedochard.com^
@@ -20000,6 +20006,7 @@ vkcdnservice.appspot.com^
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
 ||xwqvytuiko.com^
+||xwrnbrwkairr.com^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxecldsp.xyz^
@@ -20214,6 +20221,7 @@ vkcdnservice.appspot.com^
 ||yrvzqabfxe.com^
 ||ysczggasfx.com^
 ||ysnakestanothia.xyz^
+||ysuchtjhwasp.info^
 ||ytgfsvcwtradg.xyz^
 ||ythyqwcrrnh.com^
 ||ytimm.com^
@@ -20258,6 +20266,7 @@ vkcdnservice.appspot.com^
 ||z3dmbpl6309s.com^
 ||z5x.net^
 ||z7yru.com^
+||zabpbhko.com^
 ||zaglushkaaa.com^
 ||zagtertda.com^
 ||zagvee.com^
@@ -27623,6 +27632,13 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||trigraff.com^
+||threeate.jp^
+||adplushome.com^
+||affiliateone.jp^
+||performancefirst.jp^
+||af-a.jp^
+||bizmotion.jp^
 ||impactify.media^
 ||promolayer.io^
 ||googleailesi.com^
@@ -27802,6 +27818,7 @@ vkcdnservice.appspot.com^
 ||ad-seek.jp^
 ||ad-count.jp^
 ||ad-arata.com^
+||ad-optima.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
 ||adjust-net.jp^
@@ -30506,6 +30523,9 @@ vkcdnservice.appspot.com^
 ||kwivb.cn^
 ||twn2e.cn^
 ||zeipw.xyz^
+||nouivjv.cn^
+||qycfqk.xyz^
+||looktt.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
