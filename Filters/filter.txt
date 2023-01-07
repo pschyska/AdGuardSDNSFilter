@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-06T18:08:42.625Z
+! Last modified: 2023-01-07T00:35:51.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -27285,6 +27285,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+://sportframe*.cfd^
 ||storj.cloud^
 ||clbanners9.com^
 ||my.urdreama.cfd^
@@ -30501,6 +30502,10 @@ vkcdnservice.appspot.com^
 ||yanjiusuo.cc^
 ||yretx.cn^
 ||yzgid.cn^
+||ewmvim.xyz^
+||kwivb.cn^
+||twn2e.cn^
+||zeipw.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
