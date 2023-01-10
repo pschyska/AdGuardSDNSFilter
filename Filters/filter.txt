@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-10T12:13:02.375Z
+! Last modified: 2023-01-10T18:08:45.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21473,6 +21473,7 @@ vkcdnservice.appspot.com^
 ||meendocash.com^
 ||mellowads.com^
 ||meloads.com^
+||membrana.media^
 ||mentad.com^
 ||mezaa.com^
 ||mgid.com^
@@ -23662,7 +23663,6 @@ vkcdnservice.appspot.com^
 ||news.truth.delivery^
 ||swfly744.info^
 ||gdddaiiiidiceffcadi.ru^
-||membrana.media^
 ||aj2517.bid^
 ||evlsn.com^
 ||gbgijiiiabgebdjiadh.ru^
@@ -30690,6 +30690,8 @@ vkcdnservice.appspot.com^
 ||u22033.com^
 ||xkqit.com^
 ||nonabh.xyz^
+||jwgihca.cn^
+||cerfbup.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
