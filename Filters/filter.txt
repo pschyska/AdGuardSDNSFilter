@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-11T06:09:42.688Z
+! Last modified: 2023-01-11T12:13:34.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||oblongcondition.com^
+||beqawu.xyz^
 ||babchristen.xyz^
 ||wooden-comfort.com^
 ||datingarea.life^
@@ -30755,6 +30757,14 @@ vkcdnservice.appspot.com^
 ||xrewo.xyz^
 ||xbptvaq.cn^
 ||hibaby.ren^
+||huihemou.com^
+||banhui.xyz^
+||u25011.com^
+||u23022.com^
+||u23055.com^
+||u23011.com^
+||u25022.com^
+||u23033.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -34426,7 +34436,6 @@ vkcdnservice.appspot.com^
 ||mjkha.top^
 ||mjkyydz.cn^
 ||mjrvkv5.com^
-||mjx123.com^
 ||mk6n4ym.cn^
 ||mkk.red^
 ||mkscuty.cn^
@@ -35157,7 +35166,6 @@ vkcdnservice.appspot.com^
 ||qrfladd.cn^
 ||qrnmyn.cn^
 ||qrzogzy.cn^
-||qs01.cn^
 ||qs0jfd.com^
 ||qs0jfd.xyz^
 ||qs9jfd.com^
@@ -37563,7 +37571,6 @@ vkcdnservice.appspot.com^
 ||gg.4kdy.net^
 ||gg.blueidea.com^
 ||gg.cs090.com^
-||gg.getbs.com^
 ||gg.gsdlcn.com^
 ||gg.gw032.com^
 ||gg.huahaimi.work^
@@ -38344,7 +38351,6 @@ vkcdnservice.appspot.com^
 ||p1.chinakaoyan.com^
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
-||p1.zhumengwl.com^
 ||panyh123456.cn^
 ||pb.shuxigua.com^
 ||pc768.com^
