@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-13T12:13:10.195Z
+! Last modified: 2023-01-13T18:08:24.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||xzvfyowf.com^
+||tygsqtkyiwxb.com^
 ||goplayhere.com^
 ||stedsous.xyz^
 ||wvnuubmothth.com^
@@ -30840,12 +30842,15 @@ vkcdnservice.appspot.com^
 ||045zxnm.com^
 ||0s6s0.top^
 ||100ytrf.com^
+||1134555.com^
 ||2aqr.net^
+||37tek.fun^
 ||3p8801.co^
 ||401aww.com^
 ||51gpiao.cn^
 ||595tuchuang.com^
 ||5r562.cn^
+||78dfvv.com^
 ||81xs.xyz^
 ||8ccrv.xyz^
 ||ahwiaw.xyz^
@@ -30855,6 +30860,7 @@ vkcdnservice.appspot.com^
 ||bfdaawe.top^
 ||bgjjwl.cn^
 ||bkisss.com^
+||bqg16.cc^
 ||cerfbup.xyz^
 ||creawww.top^
 ||cuwuqo.xyz^
@@ -30863,7 +30869,9 @@ vkcdnservice.appspot.com^
 ||dgozp.com^
 ||doublechen.online^
 ||dxgyl.xyz^
+||ebzqyow.cn^
 ||ewmvim.xyz^
+||fangyaomin.site^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
 ||frpns.com^
@@ -30876,6 +30884,7 @@ vkcdnservice.appspot.com^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||htbdvx.xyz^
+||hualu.live^
 ||huifuhuo.com^
 ||huihemou.com^
 ||huishij.net^
@@ -30889,14 +30898,18 @@ vkcdnservice.appspot.com^
 ||ikbgika.cn^
 ||ionqv.cn^
 ||irygym.xyz^
+||ituxzez.cn^
+||jfmfmgj.cn^
 ||juyqiolna.cyou^
 ||jwgihca.cn^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
+||keysmw.xyz^
 ||kwivb.cn^
 ||leiwo.xyz^
 ||looktt.xyz^
 ||maccms10.cn^
+||mbepa.xyz^
 ||mdi5k.cn^
 ||mfaec.cn^
 ||mgowec.xyz^
@@ -30919,6 +30932,7 @@ vkcdnservice.appspot.com^
 ||ps123.online^
 ||qiegoa.xyz^
 ||qingfengxq.com^
+||qvfkiwf.cn^
 ||qycfqk.xyz^
 ||rdoybkd.cn^
 ||renzhongjiaoyu.xyz^
@@ -30975,19 +30989,9 @@ vkcdnservice.appspot.com^
 ||yuqingby.fun^
 ||yzgid.cn^
 ||zeipw.xyz^
+||ztwrnpd.cn^
 ||ztxstudy.club^
 ||zunnnh.xyz^
-||jfmfmgj.cn^
-||qvfkiwf.cn^
-||keysmw.xyz^
-||78dfvv.com^
-||37tek.fun^
-||mbepa.xyz^
-||1134555.com^
-||hualu.live^
-||fangyaomin.site^
-||ituxzez.cn^
-||bqg16.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
