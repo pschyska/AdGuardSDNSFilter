@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-13T06:09:44.627Z
+! Last modified: 2023-01-13T12:13:10.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||goplayhere.com^
 ||stedsous.xyz^
 ||wvnuubmothth.com^
 ||squhtdqggvpx.xyz^
@@ -23073,6 +23074,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||im.ov.yahoo.co.jp^
 ||sitewithg.me^
 ||adx-*.dbankcloud.
 ||ad-*.appacc.dbankedge.cn^
@@ -27379,6 +27381,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rtb.wedeo.ru^
 ||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
@@ -30982,6 +30985,9 @@ vkcdnservice.appspot.com^
 ||mbepa.xyz^
 ||1134555.com^
 ||hualu.live^
+||fangyaomin.site^
+||ituxzez.cn^
+||bqg16.cc^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
