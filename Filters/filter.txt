@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-14T00:35:35.548Z
+! Last modified: 2023-01-14T06:08:24.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28979,8 +28979,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-01-12 18:29:54 CET
-# entries:        979
+# last updated:   2023-01-14 06:54:38 CET
+# entries:        981
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -29085,6 +29085,7 @@ vkcdnservice.appspot.com^
 ||autoleasedi.bytelab.dk^
 ||ax.idg.se^
 ||azalead.com^
+||b.ns1p.net^
 ||b1.trickyrock.com^
 ||banners.instaforex.com^
 ||bcm.interactives.dk^
@@ -29209,6 +29210,7 @@ vkcdnservice.appspot.com^
 ||dl.episerver.net^
 ||dmp.theadex.com^
 ||doktor-se.onelink.me^
+||doppler-beacons.cbsivideo.com^
 ||double.se^
 ||dpm.demdex.net^
 ||drift.com^
@@ -31018,6 +31020,8 @@ vkcdnservice.appspot.com^
 ||koatkm.xyz^
 ||scbt.asia^
 ||laafrce.cn^
+||xh33g.net^
+||xjpphoto.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
