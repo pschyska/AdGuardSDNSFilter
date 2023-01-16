@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-15T18:07:54.336Z
+! Last modified: 2023-01-16T00:37:31.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2430,6 +2430,7 @@ vkcdnservice.appspot.com^
 ||6bgaput9ullc.com^
 ||6c25910c97.com^
 ||6d79qh7j.com^
+||6db7837ac4.com^
 ||6dd4a8313e.com^
 ||6e3ee87ff2.com^
 ||6f0a737559.com^
@@ -20110,6 +20111,7 @@ vkcdnservice.appspot.com^
 ||wittf.com^
 ||wittilyfrogleg.com^
 ||wivesdandyemulation.com^
+||wixorqoqmq.com^
 ||wizardmarndl.com^
 ||wizhumpgyros.com^
 ||wizliebeg.com^
@@ -20849,6 +20851,7 @@ vkcdnservice.appspot.com^
 ||zunsavurdo.com^
 ||zunsoach.com^
 ||zuphaims.com^
+||zurwtuvt.com^
 ||zusholro.net^
 ||zutasrbu.com^
 ||zvkytbjimbhk.com^
@@ -31092,6 +31095,14 @@ vkcdnservice.appspot.com^
 ||ztwrnpd.cn^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||siuscs.xyz^
+||aqtcw.cn^
+||lwpxhr.xyz^
+||tuape.xyz^
+||doracms.cn^
+||pic123.top^
+||qanduan.com^
+||nissifresh.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
