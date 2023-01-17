@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-16T18:08:32.350Z
+! Last modified: 2023-01-17T00:37:47.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -4631,6 +4631,7 @@ vkcdnservice.appspot.com^
 ||ay5u9w4jjc.com^
 ||ayads.co^
 ||ayahucapasso.website^
+||ayanpleasea.com.ua^
 ||ayassociallya.xyz^
 ||ayboll.com^
 ||ayeahbrnrjnq.top^
@@ -6260,6 +6261,7 @@ vkcdnservice.appspot.com^
 ||christingera.site^
 ||christmasaxehandyman.com^
 ||chronicads.com^
+||chsfdfkwsrjwe.xyz^
 ||chsrkred.com^
 ||chtntr.com^
 ||chuary.com^
@@ -9344,6 +9346,7 @@ vkcdnservice.appspot.com^
 ||garnetsnails.com^
 ||garotas.info^
 ||garouspostern.com^
+||garretcanvasseruption.com^
 ||garysero.xyz^
 ||gashewasf.xyz^
 ||gasolineunityauspice.com^
@@ -9703,6 +9706,7 @@ vkcdnservice.appspot.com^
 ||goingprayer.com^
 ||goingtocontent.com^
 ||goingtoothachemagician.com^
+||gokedoas.xyz^
 ||gold2762.com^
 ||goldalternateattributed.com^
 ||golden-gateway.com^
@@ -10370,6 +10374,7 @@ vkcdnservice.appspot.com^
 ||hordeumtooken.com^
 ||horedi.com^
 ||horsebackcastle.com^
+||horseuptown.com^
 ||hortestoz.com^
 ||hortitedigress.com^
 ||hosaur.com^
@@ -10434,6 +10439,7 @@ vkcdnservice.appspot.com^
 ||hrptaxegfly.com^
 ||hrsaeecwvkg.com^
 ||hrscompetepickles.com^
+||hrscouchoutbreak.com^
 ||hrtennaarn.com^
 ||hrtyc.com^
 ||hrtye.com^
@@ -10490,6 +10496,7 @@ vkcdnservice.appspot.com^
 ||huntingarroyo.website^
 ||huntingmutinousindiscreet.com^
 ||huppahshoras.com^
+||hurced.com^
 ||hurdlesmuchel.com^
 ||hurdleyreer.info^
 ||hurricaneabjection.com^
@@ -11797,6 +11804,7 @@ vkcdnservice.appspot.com^
 ||lalvpxjheogy.com^
 ||lamberserer.club^
 ||lambingsyddir.com^
+||lambu.info^
 ||lamburnsay.live^
 ||lame7bsqu8barters.com^
 ||lameterthenhep.com^
@@ -14256,6 +14264,7 @@ vkcdnservice.appspot.com^
 ||ourcoolposts.com^
 ||ourdadaikri.com^
 ||ourdailystories.com^
+||ourgoldpiece.com.ua^
 ||ourgoldpiece.xyz^
 ||ourl.link^
 ||ourscience.info^
@@ -14894,6 +14903,7 @@ vkcdnservice.appspot.com^
 ||plainmarshyaltered.com^
 ||plaintfarrel.com^
 ||plainwrk.name^
+||planesknob.com^
 ||planktab.com^
 ||plannerladyreality.com^
 ||planningunavoidablenull.com^
@@ -16833,6 +16843,7 @@ vkcdnservice.appspot.com^
 ||scrollhandful.com^
 ||scrubheiress.com^
 ||scswlgxttvekd.com^
+||scubaenterdane.com^
 ||scuffereggnog.website^
 ||sculledoxygens.com^
 ||sculpedmanky.uno^
@@ -19109,6 +19120,7 @@ vkcdnservice.appspot.com^
 ||uncoreswizzle.com^
 ||uncour.com^
 ||uncoverherbal.com^
+||uncree.com^
 ||undailysnout.com^
 ||undard.com^
 ||undedfracted.club^
@@ -20528,6 +20540,7 @@ vkcdnservice.appspot.com^
 ||yes-messenger.com^
 ||yesmessenger.com^
 ||yespetor.com^
+||yevcjqgi.com^
 ||yfddaetiu.xyz^
 ||yfedatherappear.com.ua^
 ||yguuoibdsscki.com^
@@ -22577,6 +22590,7 @@ vkcdnservice.appspot.com^
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
+||d1az618or4kzj8.cloudfront.net^
 ||d1aznprfp4xena.cloudfront.net^
 ||d1b240xv9h0q8y.cloudfront.net^
 ||d1b499kr4qnas6.cloudfront.net^
