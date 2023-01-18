@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-17T18:08:33.246Z
+! Last modified: 2023-01-18T00:38:25.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31101,6 +31101,7 @@ vkcdnservice.appspot.com^
 ||bkisss.com^
 ||bqg16.cc^
 ||bqrkubs.cn^
+||bqtwbx.xyz^
 ||cerfbup.xyz^
 ||creawww.top^
 ||cuwuqo.xyz^
@@ -31113,6 +31114,7 @@ vkcdnservice.appspot.com^
 ||dxgyl.xyz^
 ||e8jp9.com^
 ||ebzqyow.cn^
+||ekdbfu.cn^
 ||ewmvim.xyz^
 ||fangyaomin.site^
 ||fds-1230.cc^
@@ -31124,6 +31126,7 @@ vkcdnservice.appspot.com^
 ||fyfvaxi.cn^
 ||gadscc.xyz^
 ||geiaxbk.cn^
+||ggrhsx.cn^
 ||glzniuy.cn^
 ||gvqrclx.cn^
 ||hcqsuqq.cn^
@@ -31141,6 +31144,7 @@ vkcdnservice.appspot.com^
 ||huiyidui.com^
 ||huiyueting.com^
 ||hzcp.fun^
+||icyrwy.xyz^
 ||igusoft.com^
 ||ikbgika.cn^
 ||ikbhgj.cn^
@@ -31239,6 +31243,7 @@ vkcdnservice.appspot.com^
 ||u25011.com^
 ||u25022.com^
 ||uasvyi.xyz^
+||udifvi.cn^
 ||ufynxmf.cn^
 ||ukutuy.xyz^
 ||unmnkkq.cn^
@@ -31247,6 +31252,7 @@ vkcdnservice.appspot.com^
 ||vbgr7.cn^
 ||vcinwqw.cn^
 ||vec4o.fun^
+||viope.cyou^
 ||wdasa.top^
 ||wdmdejd.cn^
 ||wjl58.icu^
