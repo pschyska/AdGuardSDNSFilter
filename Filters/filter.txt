@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-18T18:08:35.926Z
+! Last modified: 2023-01-19T00:38:24.994Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3489,6 +3489,7 @@ vkcdnservice.appspot.com^
 ||agamagcargoan.com^
 ||agamantykeon.com^
 ||agaomastaran.com^
+||agapaezeal.com^
 ||agatarainpro.com^
 ||agatogepir.com^
 ||agatystuffs.com^
@@ -4910,6 +4911,7 @@ vkcdnservice.appspot.com^
 ||basnn14.com^
 ||basnn15.com^
 ||basnn16.com^
+||basogachummy.com^
 ||basquedplotx.store^
 ||bassdyemanipulate.com^
 ||bassistscrap.com^
@@ -6124,6 +6126,7 @@ vkcdnservice.appspot.com^
 ||cermetsdibbles.uno^
 ||certainalmostcontent.com^
 ||certaintysurroundingcab.com^
+||certificaterainbow.com^
 ||certified-apps.com^
 ||cesiumsemboite.com^
 ||cesprinciple.com^
@@ -7916,6 +7919,7 @@ vkcdnservice.appspot.com^
 ||duscleouphes.com^
 ||dushorgy.com^
 ||dustarlyom.com^
+||dustytownsplatitude.com^
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
@@ -8220,6 +8224,7 @@ vkcdnservice.appspot.com^
 ||eisual.com^
 ||eiteribesshaints.com^
 ||eitics.com^
+||eitish.com^
 ||ejcet5y9ag.com^
 ||ejdkqclkzq.com^
 ||ejectbagsindefinite.com^
@@ -8545,6 +8550,7 @@ vkcdnservice.appspot.com^
 ||evouxoup.com^
 ||evushuco.com^
 ||ewaglongoo.com^
+||ewaighee.xyz^
 ||ewallowi.buzz^
 ||ewasadirec.com^
 ||ewjakayndd.com^
@@ -10043,6 +10049,7 @@ vkcdnservice.appspot.com^
 ||h98s.com^
 ||habbubrauraci.live^
 ||habithate.com^
+||habitofstic.xyz^
 ||habrasysteleii.xyz^
 ||hacade.com^
 ||hackelevensol.com^
@@ -11078,6 +11085,7 @@ vkcdnservice.appspot.com^
 ||isolationmildred.com^
 ||isparkmedia.com^
 ||isreas.com^
+||istlnkbn.com^
 ||isupopc.com^
 ||iswhatappyouneed.net^
 ||itahandkeight.xyz^
@@ -11139,6 +11147,7 @@ vkcdnservice.appspot.com^
 ||iytafcpbnyauogj.xyz^
 ||izapteensuls.com^
 ||izitrckr.com^
+||izpcocomarfbrs.com^
 ||izrnvo.com^
 ||j1t05wk6.cfd^
 ||j4a73n7v5k.com^
@@ -11758,6 +11767,7 @@ vkcdnservice.appspot.com^
 ||kraism.com^
 ||krence.com^
 ||krhyqxenacr.xyz^
+||krilor.com^
 ||krisydark.com^
 ||krjxhvyyzp.com^
 ||krkursist.com^
@@ -12081,6 +12091,7 @@ vkcdnservice.appspot.com^
 ||lhrobdjfly.com^
 ||lhs-3844b.com^
 ||li2meh6eni3tis.com^
+||liambahaloed.com^
 ||libbetpalooka.life^
 ||libcdn.xyz^
 ||libedgolart.com^
@@ -13129,6 +13140,7 @@ vkcdnservice.appspot.com^
 ||motivessuggest.com^
 ||motleyanybody.com^
 ||motoriesm.com^
+||motorwardso.com.ua^
 ||motsardi.net^
 ||mottlespouffed.live^
 ||moudmarauds.com^
@@ -13223,6 +13235,7 @@ vkcdnservice.appspot.com^
 ||munpractical.buzz^
 ||munshiwauks.space^
 ||munsterduke.com^
+||muralshelvesdeposition.com^
 ||murderassuredness.com^
 ||murkilyergots.com^
 ||murkymouse.online^
@@ -14755,6 +14768,7 @@ vkcdnservice.appspot.com^
 ||pentalime.com^
 ||penuchefirms.com^
 ||peppermintcoal.com^
+||pepperyforeign.com^
 ||peppy2lon1g1stalk.com^
 ||perack.com^
 ||percephonefruit70.com^
@@ -14929,6 +14943,7 @@ vkcdnservice.appspot.com^
 ||picalchymic.uno^
 ||picbucks.com^
 ||pickaflick.co^
+||pickedlawhandshake.com^
 ||pickinnimiety.com^
 ||pickleresurrection.com^
 ||picklesadamantempire.com^
@@ -16062,6 +16077,7 @@ vkcdnservice.appspot.com^
 ||recdirectgo.biz^
 ||receme.com^
 ||recentinteriorcrab.com^
+||recentlymourning.com^
 ||recentpoisoncoma.com^
 ||recentrecentturf.com^
 ||recessioncomply.com^
@@ -16508,6 +16524,7 @@ vkcdnservice.appspot.com^
 ||roakicat.net^
 ||roaptesh.com^
 ||roataisa.net^
+||roaxuxkwy.com^
 ||robescampus.com^
 ||robohobox.com^
 ||robotadserver.com^
@@ -17763,6 +17780,7 @@ vkcdnservice.appspot.com^
 ||squebe.com^
 ||squeezedthoughtfully.com^
 ||squeezemicrowave.com^
+||squeezesharedman.com^
 ||squeezeutteredcertainty.com^
 ||squetanonym.com^
 ||squett.com^
@@ -19063,6 +19081,7 @@ vkcdnservice.appspot.com^
 ||turbanmadman.com^
 ||turboadv.com^
 ||turbocap.net^
+||turfedtaboret.com^
 ||turgh.com^
 ||turmoilragcrutch.com^
 ||turnhub.net^
@@ -19226,6 +19245,7 @@ vkcdnservice.appspot.com^
 ||uloprjcy.xyz^
 ||ulourgaz.net^
 ||ulried.com^
+||ulrzovfukgkljw.com^
 ||ultanceev.com^
 ||ultimowraxle.com^
 ||ultingcoempa.xyz^
@@ -19570,6 +19590,7 @@ vkcdnservice.appspot.com^
 ||vanmostthiamin.com^
 ||vaojxivjyayk.xyz^
 ||vapedia.com^
+||vapfuwlkuzz.com^
 ||vardasvideo.com^
 ||vardesvideo.com^
 ||vardosvideo.com^
@@ -19821,6 +19842,7 @@ vkcdnservice.appspot.com^
 ||vntsm.com^
 ||vntsm.io^
 ||vnyxfldhsw.xyz^
+||voacheph.xyz^
 ||voapozol.com^
 ||voastauz.net^
 ||vodobyve.pro^
@@ -19923,6 +19945,7 @@ vkcdnservice.appspot.com^
 ||vxvjgsgqyee.com^
 ||vyfrxuytzn.com^
 ||vyinglyfomites.com^
+||vylfjneyvmq.xyz^
 ||vylmhkasl.xyz^
 ||vytand.com^
 ||vytans.com^
@@ -19988,6 +20011,7 @@ vkcdnservice.appspot.com^
 ||wapsisod.net^
 ||waptrick.com^
 ||waqool.com^
+||wardrobecontingent.com^
 ||wardrobemeddleorganism.com^
 ||warehousecanneddental.com^
 ||warhui.com^
@@ -20817,6 +20841,7 @@ vkcdnservice.appspot.com^
 ||yourvouchundercover.com^
 ||yourwebbars.com^
 ||yourwownewz.com^
+||youthycouthe.uno^
 ||youtube.local^
 ||youtubecenter.net^
 ||youtubem.shop^
@@ -23084,6 +23109,7 @@ vkcdnservice.appspot.com^
 ||d3vw4uehoh23hx.cloudfront.net^
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d3zd5ejbi4l9w.cloudfront.net^
+||d4eqyxjqusvjj.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5d3sg85gu7o6.cloudfront.net^
 ||d5g0nxmbdku6r.cloudfront.net^
@@ -31327,6 +31353,12 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||imassg.xyz^
+||ruyqiolnz.cyou^
+||fyzbvwb.cn^
+||zdrvtmj.cn^
+||bavxxf.xyz^
+||huijizhen.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
