@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-20T06:09:34.281Z
+! Last modified: 2023-01-20T12:13:06.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||efully.info^
+||davzwyavjm.com^
+||xpblitgpg.com^
+||nezuel.com^
+||ptiftols.net^
 ||fikccnef.top^
 ||buqkrzbrucz.com^
 ||styrianauf.com^
@@ -5435,6 +5440,7 @@ vkcdnservice.appspot.com^
 ||bmcdn2.com^
 ||bmcdn3.com^
 ||bmcdn4.com^
+||bmcdn5.com^
 ||bmkz57b79pxk.com^
 ||bmybkeo.com^
 ||bn5x.net^
@@ -20479,6 +20485,7 @@ vkcdnservice.appspot.com^
 ||wreathabble.com^
 ||wreckergaboon.com^
 ||wreckgroupads.com^
+||wrenchsound.store^
 ||wretchauraflirt.com^
 ||wrfgenwgdfi.xyz^
 ||wrient.com^
@@ -29297,8 +29304,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-01-18 08:23:51 CET
-# entries:        984
+# last updated:   2023-01-20 09:28:54 CET
+# entries:        986
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -29379,6 +29386,7 @@ vkcdnservice.appspot.com^
 ||annonsera.kyrkanstidning.se^
 ||anonymousdemographics.com^
 ||apccdn.apsis1.com^
+||api.adfenix.com^
 ||api.deep.bi^
 ||api.fouanalytics.com^
 ||api.getlevelten.com^
@@ -29396,6 +29404,7 @@ vkcdnservice.appspot.com^
 ||arbetaren.innocraft.cloud^
 ||asmassets.mtvnservices.com^
 ||asset.pagefair.com^
+||assets.adfenix.com^
 ||assets.heylink.com^
 ||auction-release.mlpapi.com^
 ||audience.systems^
@@ -31417,6 +31426,12 @@ vkcdnservice.appspot.com^
 ||qwrot.cyou^
 ||9cgms.xyz^
 ||yhjh04.com^
+||tzsvodu.cn^
+||guge.red^
+||1129555.com^
+||1190555.com^
+||3633a.com^
+||8499136.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
