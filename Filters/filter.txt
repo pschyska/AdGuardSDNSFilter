@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-20T12:13:06.960Z
+! Last modified: 2023-01-20T18:08:41.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31194,8 +31194,11 @@ vkcdnservice.appspot.com^
 ||045zxnm.com^
 ||0s6s0.top^
 ||100ytrf.com^
+||1129555.com^
 ||1134555.com^
+||1190555.com^
 ||2aqr.net^
+||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
 ||3p8801.co^
@@ -31205,7 +31208,9 @@ vkcdnservice.appspot.com^
 ||5r562.cn^
 ||78dfvv.com^
 ||81xs.xyz^
+||8499136.com^
 ||8ccrv.xyz^
+||9cgms.xyz^
 ||ahwiaw.xyz^
 ||ajkcdpm.cn^
 ||aliyun6969.cn^
@@ -31238,6 +31243,7 @@ vkcdnservice.appspot.com^
 ||ekdbfu.cn^
 ||ewmvim.xyz^
 ||fangyaomin.site^
+||fdbskb.cn^
 ||fds-1230.cc^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
@@ -31246,10 +31252,12 @@ vkcdnservice.appspot.com^
 ||fujbjb.xyz^
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
+||fzbkgni.cn^
 ||gadscc.xyz^
 ||geiaxbk.cn^
 ||ggrhsx.cn^
 ||glzniuy.cn^
+||guge.red^
 ||gvqrclx.cn^
 ||hangchen.icu^
 ||hcqsuqq.cn^
@@ -31278,6 +31286,7 @@ vkcdnservice.appspot.com^
 ||irygym.xyz^
 ||ituxzez.cn^
 ||jfmfmgj.cn^
+||jkxvvv.xyz^
 ||jojog.com^
 ||jqtzw.xyz^
 ||juyqiolna.cyou^
@@ -31303,6 +31312,7 @@ vkcdnservice.appspot.com^
 ||mffdn.xyz^
 ||mgowec.xyz^
 ||mhivqcu.cn^
+||micrhfk.cn^
 ||mmtcw.cn^
 ||mohretsu.com^
 ||mqquas.xyz^
@@ -31324,14 +31334,18 @@ vkcdnservice.appspot.com^
 ||omhoa.com^
 ||oulibf.xin^
 ||pafcpd.xyz^
+||paongfh.cn^
 ||pddbtn.xyz^
 ||pic123.top^
 ||ps123.online^
 ||qanduan.com^
+||qgermm.xyz^
 ||qiegoa.xyz^
 ||qingfengxq.com^
 ||qsezjy.cn^
 ||qvfkiwf.cn^
+||qwcqqw.xyz^
+||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
 ||rdoybkd.cn^
@@ -31348,14 +31362,18 @@ vkcdnservice.appspot.com^
 ||slowbeat.fun^
 ||soqikbe.cn^
 ||srnov.top^
+||ssjiancai.com^
 ||sycrgc.xyz^
+||t3p58.com^
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
 ||timothy.wang^
+||tjxafmo.cn^
 ||tuape.xyz^
 ||tuyqiolni.cyou^
 ||twn2e.cn^
+||tzsvodu.cn^
 ||u1011.com^
 ||u22011.com^
 ||u22033.com^
@@ -31387,6 +31405,7 @@ vkcdnservice.appspot.com^
 ||wschao.xyz^
 ||wuge20230104.live^
 ||wzkxke.xyz^
+||wzrdbwf.cn^
 ||x3a88d.cn^
 ||xbptvaq.cn^
 ||xh33g.net^
@@ -31400,6 +31419,7 @@ vkcdnservice.appspot.com^
 ||xxsmcps.com^
 ||yanjiusuo.cc^
 ||yemueii.cn^
+||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhzzzs02.com^
 ||yretx.cn^
@@ -31418,20 +31438,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||qwcqqw.xyz^
-||paongfh.cn^
-||fdbskb.cn^
-||jkxvvv.xyz^
-||t3p58.com^
-||qwrot.cyou^
-||9cgms.xyz^
-||yhjh04.com^
-||tzsvodu.cn^
-||guge.red^
-||1129555.com^
-||1190555.com^
-||3633a.com^
-||8499136.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -38382,7 +38388,6 @@ vkcdnservice.appspot.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-||twlcyc.cn^
 ||003store.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -39091,6 +39096,7 @@ vkcdnservice.appspot.com^
 ||top2099.com^
 ||tt123.eastday.com^
 ||tu.zx110.org^
+||twlcyc.cn^
 ||u.qxen.com^
 ||u1.2048sj.com^
 ||u1.20q.cn^
