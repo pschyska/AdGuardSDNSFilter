@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-24T18:08:47.099Z
+! Last modified: 2023-01-25T00:36:21.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3676,6 +3676,7 @@ vkcdnservice.appspot.com^
 ||alpidoveon.com^
 ||alrightastound.com^
 ||alrightconsulatevarying.com^
+||alsfor.com^
 ||alskillsexkce.xyz^
 ||alspearowa.com^
 ||alsthonronghe.xyz^
@@ -4340,6 +4341,7 @@ vkcdnservice.appspot.com^
 ||auchoons.net^
 ||aucked.com^
 ||auckledfathere.xyz^
+||auctodian.quest^
 ||audaciousdefault.com^
 ||audacitycompare.com^
 ||audiblytriggersreview.com^
@@ -4812,6 +4814,7 @@ vkcdnservice.appspot.com^
 ||bauwezou.net^
 ||bawdylytta.com^
 ||bawlerhanoi.website^
+||baxavxa.com^
 ||bayalnephite.com^
 ||baylnk.com^
 ||baysexthy.com^
@@ -4861,6 +4864,7 @@ vkcdnservice.appspot.com^
 ||bebreloomr.com^
 ||becameaimcap.com^
 ||becamesensational.com^
+||becaul.com^
 ||becausebun.com^
 ||bechatotan.com^
 ||becoausingin.xyz^
@@ -6011,7 +6015,6 @@ vkcdnservice.appspot.com^
 ||changeablesizepractically.com^
 ||changedcombustible.com^
 ||changefranticallywhom.com^
-||chango.com^
 ||chapelcertain.com^
 ||chapsartore.com^
 ||chaptersus.com^
@@ -9096,6 +9099,7 @@ vkcdnservice.appspot.com^
 ||gadskiz.com^
 ||gadslimz.com^
 ||gadspmz.com^
+||gaelsdaniele.website^
 ||gagacon.com^
 ||gaghygienetheir.com^
 ||gagpetwet.com^
@@ -10080,6 +10084,7 @@ vkcdnservice.appspot.com^
 ||hipersushiads.com^
 ||hippchapter.com^
 ||hippostravois.store^
+||hiseewhatmyou.xyz^
 ||historicalcarawayammonia.com^
 ||historine.website^
 ||histormedengi.xyz^
@@ -10418,6 +10423,7 @@ vkcdnservice.appspot.com^
 ||iifvcfwiqi.com^
 ||iingsinspiring.com^
 ||iixecczxqzy.com^
+||ijommwpcv.com^
 ||ijspro-code.com^
 ||ijwfyirxx.xyz^
 ||ikajeoes.com^
@@ -10990,6 +10996,7 @@ vkcdnservice.appspot.com^
 ||jmpmedia.club^
 ||jmrnews.pro^
 ||jmrnpzbpqla.com^
+||jmtfayivbon.com^
 ||jnbasajikmd.xyz^
 ||jnhofgrcmsqw.xyz^
 ||jnrtavp2x66u.com^
@@ -12280,6 +12287,7 @@ vkcdnservice.appspot.com^
 ||maxim.pub^
 ||maximumductpictorial.com^
 ||maximus-time.net^
+||maxnaxnyfwn.com^
 ||maxonclick.com^
 ||maxprofitcontrol.com^
 ||maxserving.com^
@@ -16453,6 +16461,7 @@ vkcdnservice.appspot.com^
 ||sciencepoints.com^
 ||sciets.com^
 ||scillathemons.com^
+||sciniphruffin.com^
 ||scissorstenantplot.com^
 ||scmqhshjvgcw.xyz^
 ||scnd-tr.com^
@@ -16533,6 +16542,7 @@ vkcdnservice.appspot.com^
 ||seegraufah.com^
 ||seekgeographical.com^
 ||seekoflol.com^
+||seemedgrucche.com^
 ||seeptauw.net^
 ||seeptoag.net^
 ||sefsdvc.com^
@@ -16872,6 +16882,7 @@ vkcdnservice.appspot.com^
 ||sixft-apart.com^
 ||sixminutes.biz^
 ||sixtybirthsuperstition.com^
+||siziermamas.com^
 ||sjomilbedwarf.digital^
 ||sjtactic.com^
 ||skcapepyshdr.xyz^
@@ -18383,6 +18394,7 @@ vkcdnservice.appspot.com^
 ||tri.media^
 ||triadmedianetwork.com^
 ||tribalfusion.com^
+||tribalstrived.com^
 ||trickylongaffliction.com^
 ||tridentpercy.com^
 ||triedecu.com^
@@ -19740,6 +19752,7 @@ vkcdnservice.appspot.com^
 ||wnpladv.com^
 ||woaembayed.uno^
 ||woafoame.net^
+||woaneeti.com^
 ||woaneezy.com^
 ||woathail.net^
 ||wodycaha.com^
@@ -19750,6 +19763,7 @@ vkcdnservice.appspot.com^
 ||wokfirsax.com^
 ||wolaufie.com^
 ||wolfedcedule.com^
+||wolfermissies.com^
 ||wolqundera.com^
 ||wolutaqmvroto.xyz^
 ||womanifef.com^
@@ -20028,6 +20042,7 @@ vkcdnservice.appspot.com^
 ||xxxivjmp.com^
 ||xxxjmp.com^
 ||xxxmyself.com^
+||xxxnewvideos.com^
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
 ||xxxviijmp.com^
@@ -20166,6 +20181,7 @@ vkcdnservice.appspot.com^
 ||yookimooki.com^
 ||yoomanies.com^
 ||yoopigoopi.com^
+||yooumoughtc.xyz^
 ||yopard.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yoqpnkhl.com^
@@ -22469,6 +22485,7 @@ vkcdnservice.appspot.com^
 ||d5g0nxmbdku6r.cloudfront.net^
 ||d5onopbfw009h.cloudfront.net^
 ||d5pb47xzjz3fc.cloudfront.net^
+||d5wxfe8ietrpg.cloudfront.net^
 ||d63a3au5lqmtu.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
@@ -23181,6 +23198,7 @@ vkcdnservice.appspot.com^
 ||celtra.com^
 ||ceppartner.com^
 ||cf-ads.pinger.com^
+||chango.com^
 ||chartboost.com^
 ||clk.taptica.com^
 ||clkfeed.com^
@@ -30810,6 +30828,10 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||ohmpyq.xyz^
+||wwnyubs.cn^
+||ixelcpo.cn^
+||hvhudp.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
