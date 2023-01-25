@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-25T12:13:26.101Z
+! Last modified: 2023-01-25T18:08:29.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3533,6 +3533,7 @@ vkcdnservice.appspot.com^
 ||ajointstalder.website^
 ||ajoqysuc.xyz^
 ||ajorinryeso.com^
+||ajsyxphfpr.com^
 ||ajuyacxneja.xyz^
 ||ajwbkgejrxxrr.xyz^
 ||ajxx98.online^
@@ -3546,6 +3547,7 @@ vkcdnservice.appspot.com^
 ||akrenmnqgkfai.top^
 ||akspecuaa.xyz^
 ||aktdrdfdconxvy.xyz^
+||alanibelen.com^
 ||alanticgecking.uno^
 ||alas4kanmfa6a4mubte.com^
 ||alaskan4kleeskai.com^
@@ -3992,6 +3994,7 @@ vkcdnservice.appspot.com^
 ||appzeyland.com^
 ||apricotaimless.com^
 ||aprilineffective.com^
+||apritifunbid.com^
 ||apromoweb.com^
 ||apsmediaagency.com^
 ||aptimorph.com^
@@ -4397,6 +4400,7 @@ vkcdnservice.appspot.com^
 ||aurallyhypaton.com^
 ||aurdosti.com^
 ||aureigabelle.com^
+||aureliancathy.com^
 ||aurjueeh.com^
 ||ausoafab.net^
 ||ausomsup.net^
@@ -7796,6 +7800,7 @@ vkcdnservice.appspot.com^
 ||eagerlyshuggy.com^
 ||eagernessstrongergreet.com^
 ||eagleapi.io^
+||eagletskoku.com^
 ||ealeo.com^
 ||eanddrsgankru.com.ua^
 ||eapdypexshbrps.com^
@@ -9077,6 +9082,7 @@ vkcdnservice.appspot.com^
 ||fyglovilo.pro^
 ||fykdxpdnhy.com^
 ||fzbjzlwcnd.com^
+||fzommizpo.com^
 ||fztmn.top^
 ||g-statistic.com^
 ||g1sysa.com^
@@ -11178,6 +11184,7 @@ vkcdnservice.appspot.com^
 ||kangaroohiccups.com^
 ||kankingwith.com^
 ||kanoodle.com^
+||kansanscichar.com^
 ||kantarmedia.com^
 ||kantiwl.com^
 ||kapotlyka.com^
@@ -14461,6 +14468,7 @@ vkcdnservice.appspot.com^
 ||photographingmake.com^
 ||photographingstirinput.com^
 ||phouvemp.net^
+||phouwims.net^
 ||phrans.com^
 ||phrensaltier.com^
 ||phsism.com^
@@ -15928,6 +15936,7 @@ vkcdnservice.appspot.com^
 ||rhythmxchange.com^
 ||ribsaiji.com^
 ||ribunews.com^
+||ribworkstylus.com^
 ||ric-ric-rum.com^
 ||ricead.com^
 ||ricettadellanonna.com^
@@ -16360,6 +16369,7 @@ vkcdnservice.appspot.com^
 ||salutationcheerlessdemote.com^
 ||salutationdove.com^
 ||samage-bility.icu^
+||samaniclucked.com^
 ||samazd.com^
 ||samghasps.com^
 ||samplerpouch.com^
@@ -17382,6 +17392,7 @@ vkcdnservice.appspot.com^
 ||stempelcosier.com^
 ||stenadewy.pro^
 ||stenchdaltonrunaway.com^
+||stengskelped.com^
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmotherincomingpluck.com^
@@ -18016,6 +18027,7 @@ vkcdnservice.appspot.com^
 ||thoamike.xyz^
 ||thoartuw.com^
 ||thofandew.com^
+||tholedfubbery.com^
 ||thomasbarlowpro.com^
 ||thompaur.com^
 ||thongaspredo.com^
@@ -18186,6 +18198,7 @@ vkcdnservice.appspot.com^
 ||toiletapparel.com^
 ||tojadeso.xyz^
 ||tokenads.com^
+||tokofyttes.com^
 ||tokyoredcirce.com^
 ||tolerableinflectionkazan.com^
 ||tollyeric.com^
@@ -20157,6 +20170,7 @@ vkcdnservice.appspot.com^
 ||ylx-4.com^
 ||ym-a.cc^
 ||ym8p.net^
+||ymkomlhgzbpitp.com^
 ||ymqhiigpnt.com^
 ||ymzrrizntbhde.com^
 ||ynklendr.online^
@@ -23419,6 +23433,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||smart-placements-sdk.ex.co^
 ||mucmoapa.com^
 ||cibgphkiqbjk.com^
 ||publi.atresmediapublicidad.com^
@@ -30637,6 +30652,7 @@ vkcdnservice.appspot.com^
 ||huiyelu.com^
 ||huiyidui.com^
 ||huiyueting.com^
+||hvhudp.xyz^
 ||hzcp.fun^
 ||icyrwy.xyz^
 ||igusoft.com^
@@ -30644,10 +30660,12 @@ vkcdnservice.appspot.com^
 ||ikbhgj.cn^
 ||imassg.xyz^
 ||inkuae.com^
+||inscan.cn^
 ||ionqv.cn^
 ||irygym.xyz^
 ||ituxzez.cn^
 ||iwjgwis.cn^
+||ixelcpo.cn^
 ||jbuzacg.cn^
 ||jfmfmgj.cn^
 ||jkxvvv.xyz^
@@ -30708,6 +30726,7 @@ vkcdnservice.appspot.com^
 ||nypyzx.xyz^
 ||ockuc.com^
 ||ofgysy.xyz^
+||ohmpyq.xyz^
 ||omhoa.com^
 ||oulibf.xin^
 ||pafcpd.xyz^
@@ -30735,11 +30754,13 @@ vkcdnservice.appspot.com^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
 ||saccac11.com^
+||sairy.cyou^
 ||salangane.asia^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||scbt.asia^
 ||shhaiya.com^
+||shidaiheima.ltd^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -30790,6 +30811,7 @@ vkcdnservice.appspot.com^
 ||wpiwoo.xyz^
 ||wschao.xyz^
 ||wuge20230104.live^
+||wwnyubs.cn^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
@@ -30829,12 +30851,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||ohmpyq.xyz^
-||wwnyubs.cn^
-||ixelcpo.cn^
-||hvhudp.xyz^
-||shidaiheima.ltd^
-||inscan.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
