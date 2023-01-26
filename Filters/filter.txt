@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-26T06:09:27.618Z
+! Last modified: 2023-01-26T12:13:35.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||omjitjlhx.com^
+||gnenuelnn.com^
+||pusishegre.com^
+||kcddjusnew.com^
+||koabouch.net^
+||beinri.com^
 ||wyoxmklaa.xyz^
 ||phaithoo.xyz^
 ||bbangads.b-cdn.net^
@@ -2430,6 +2436,7 @@ vkcdnservice.appspot.com^
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mmtv.top^
 ||7two0.rocks^
 ||80055404.vtt^
 ||800c7864eb.com^
@@ -29791,9 +29798,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 Jan 2023 12:16 UTC+7
-! Version: 2301131216
-! Blocked: 795 rules
+! Last modified: 26 Jan 2023 17:53 UTC+7
+! Version: 2301261753
+! Blocked: 800 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -29935,6 +29942,7 @@ vkcdnservice.appspot.com^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
+||mda.zadn.vn^
 ||mediad.asia^
 ||mediaz.asia^
 ||mediaz.vn^
@@ -30024,6 +30032,7 @@ vkcdnservice.appspot.com^
 ||tebrand.asia^
 ||tebrand.vn^
 ||testcentre.vn^
+||tjme.io^
 ||tpmedia.online^
 ||track.accesstrade.vn^
 ||tracker-mw-zlivestream.zapps.vn^
@@ -30387,6 +30396,7 @@ vkcdnservice.appspot.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
+||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -30428,6 +30438,7 @@ vkcdnservice.appspot.com^
 ||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
+||s.zzcdn.me^
 ||s1.zzz.vn^
 ||sda.tamdiem247.com^
 ||sentry-track.vietnamworks.com^
@@ -30550,6 +30561,7 @@ vkcdnservice.appspot.com^
 ||xmadsapi.joboko.com^
 ||za.baomoi.com^
 ||zigzag.vn^
+||ztrck.me^
 
 !
 ! Source name: EasyList China ad servers
@@ -30857,6 +30869,8 @@ vkcdnservice.appspot.com^
 ||yruvnmn.cn^
 ||weiqu.cyou^
 ||zawqwpajq.club^
+||xyblm.xyz^
+||hertzbeat.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
