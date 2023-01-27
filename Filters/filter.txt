@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-27T06:09:42.554Z
+! Last modified: 2023-01-27T12:12:24.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
 ||pusishegre.com^
@@ -1377,6 +1378,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d25m254rjp3rii.cloudfront.net^
 ||buyer.dspx.tv^
 ||creative.live7mm.tv^
 ||ad.petel.bg^
@@ -6025,7 +6027,6 @@ vkcdnservice.appspot.com^
 ||chapsartore.com^
 ||chaptersus.com^
 ||characcaslon.com^
-||chargebee.com^
 ||chargenews.com^
 ||chargeplatform.com^
 ||chargerbeakers.com^
@@ -29826,9 +29827,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Jan 2023 22:35 UTC+7
-! Version: 2301262235
-! Blocked: 800 rules
+! Last modified: 27 Jan 2023 16:06 UTC+7
+! Version: 2301271606
+! Blocked: 801 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -30403,6 +30404,7 @@ vkcdnservice.appspot.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
@@ -30905,6 +30907,9 @@ vkcdnservice.appspot.com^
 ||happi.cyou^
 ||brkxgfs.cn^
 ||hnrjign.cn^
+||plyuwqq.cn^
+||yang17.xyz^
+||juntaijiancai.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
