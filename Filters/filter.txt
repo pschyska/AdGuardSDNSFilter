@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-28T12:11:38.762Z
+! Last modified: 2023-01-28T18:07:44.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||95a056626e.com^
 ||paulty.com^
 ||omjitjlhx.com^
 ||gnenuelnn.com^
@@ -4459,6 +4460,7 @@ vkcdnservice.appspot.com^
 ||avkyu1tesnwy.com^
 ||avnyvfqiqiidu.xyz^
 ||avoidanudaic.xyz^
+||avonsour.com^
 ||avppuqrudc.com^
 ||avprvdlsfdmp.xyz^
 ||avulsedcherty.com^
@@ -4840,6 +4842,7 @@ vkcdnservice.appspot.com^
 ||bccda4ab57.com^
 ||bcd7ad4271.com^
 ||bcf8fbea24.com^
+||bcgbbzxackpk.com^
 ||bcguwwgkms.xyz^
 ||bclikeqt.com^
 ||bcloudhost.com^
@@ -5460,6 +5463,7 @@ vkcdnservice.appspot.com^
 ||bqnqrr53.com^
 ||br3azil334nutsz.com^
 ||braggingreorganizeunderworld.com^
+||bragpsychicsophomore.com^
 ||braidroll.com^
 ||brainian.club^
 ||brainient.com^
@@ -5835,6 +5839,7 @@ vkcdnservice.appspot.com^
 ||carrellsubdit.com^
 ||carrotraining.com^
 ||cartining-specute.com^
+||cartoonpeecommissioner.com^
 ||caruagedlr.com^
 ||carvyre.com^
 ||casalemedia.com^
@@ -6437,6 +6442,7 @@ vkcdnservice.appspot.com^
 ||coinenoisg.xyz^
 ||coinio.cc^
 ||coixclamps.com^
+||cokxeoil.com^
 ||colanbalkily.com^
 ||colarak.com^
 ||cold-cold-freezing.com^
@@ -7221,6 +7227,7 @@ vkcdnservice.appspot.com^
 ||designatejumped.com^
 ||desktopnotificationshub.com^
 ||desolatewreck.com^
+||despik.com^
 ||desponddietist.com^
 ||deswhatlike.biz^
 ||desxpbub.xyz^
@@ -7972,6 +7979,7 @@ vkcdnservice.appspot.com^
 ||eetseemp.net^
 ||eetsooso.net^
 ||eetyed.com^
+||eewhaukr.xyz^
 ||eewheeds.com^
 ||eexaitie.net^
 ||eezavops.net^
@@ -8044,6 +8052,7 @@ vkcdnservice.appspot.com^
 ||elaboratehall.pro^
 ||elasticad.net^
 ||elbertmemoria.com^
+||eldestcontribution.com^
 ||eldestequivalentdrain.com^
 ||eleavers.com^
 ||electnext.com^
@@ -9612,6 +9621,7 @@ vkcdnservice.appspot.com^
 ||grammarselfish.com^
 ||gramrebecca.com^
 ||granarybroughtfun.com^
+||granct.com^
 ||grandchildfee.com^
 ||granddaughterfashioned.com^
 ||granddaughterrepresentationintroduce.com^
@@ -10868,6 +10878,7 @@ vkcdnservice.appspot.com^
 ||iytafcpbnyauogj.xyz^
 ||izapteensuls.com^
 ||izitrckr.com^
+||izpcocomarfbrs.com^
 ||izrnvo.com^
 ||j1t05wk6.cfd^
 ||j4a73n7v5k.com^
@@ -11446,6 +11457,7 @@ vkcdnservice.appspot.com^
 ||koutobey.net^
 ||koxeebee.net^
 ||kozuyzcciaygg.com^
+||kpkgkkbs.xyz^
 ||kqhi97lf.de^
 ||kqpdnmkkvuu.com^
 ||kqwhorpvy.xyz^
@@ -11462,6 +11474,7 @@ vkcdnservice.appspot.com^
 ||ksdqhiaythajdv.com^
 ||ksehinkitw.hair^
 ||kt5850pjz0.com^
+||ktaehxdlf.com^
 ||kthwaalso.xyz^
 ||ktkjmp.com^
 ||ktobedirectu.autos^
@@ -12799,6 +12812,7 @@ vkcdnservice.appspot.com^
 ||moundgrandmotherel.com^
 ||mountainbender.xyz^
 ||mouraipoucuk.com^
+||moutosoeksaadlh.com^
 ||movad.de^
 ||movad.net^
 ||movcpm.com^
@@ -14080,6 +14094,7 @@ vkcdnservice.appspot.com^
 ||oxynticarkab.com^
 ||oyi9f1kbaj.com^
 ||oynylsvecloxnis.xyz^
+||oyrwfiaafd.com^
 ||ozardoog.net^
 ||ozdfhysr.com^
 ||ozectynptd.com^
@@ -14566,6 +14581,7 @@ vkcdnservice.appspot.com^
 ||ping-traffic.info^
 ||pinkpig2le8tt09.com^
 ||pinocularoud.xyz^
+||pinoffence.com^
 ||pinprickplums.com^
 ||pinwalerompers.com^
 ||pioneersuspectedjury.com^
@@ -18141,6 +18157,7 @@ vkcdnservice.appspot.com^
 ||ticalsisamine.space^
 ||tick-tock.net^
 ||ticketswinning.com^
+||tickleinclosetried.com^
 ||tickmatureparties.com^
 ||ticrite.com^
 ||tictacfrison.com^
@@ -20103,6 +20120,7 @@ vkcdnservice.appspot.com^
 ||xxfejeacw.com^
 ||xxlargepop.com^
 ||xxltr.com^
+||xxmaqoupnd.com^
 ||xxxadv.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
@@ -27766,6 +27784,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ad-clcount.com^
 ||js.kabutocho-dsp.net^
 ||enmusubimail000.com^
 ||infohimatalk77.net^
@@ -30567,6 +30586,7 @@ vkcdnservice.appspot.com^
 ||595tuchuang.com^
 ||5r562.cn^
 ||78dfvv.com^
+||7nekc.icu^
 ||81xs.xyz^
 ||8499136.com^
 ||8881img.com^
@@ -30583,6 +30603,7 @@ vkcdnservice.appspot.com^
 ||bavxxf.xyz^
 ||bfdaawe.top^
 ||bgjjwl.cn^
+||bharalhallahs.com^
 ||bkisss.com^
 ||bqg16.cc^
 ||bqrkubs.cn^
@@ -30608,6 +30629,7 @@ vkcdnservice.appspot.com^
 ||e8jp9.com^
 ||ebzqyow.cn^
 ||ekdbfu.cn^
+||elsmom.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
 ||fdbskb.cn^
@@ -30696,6 +30718,7 @@ vkcdnservice.appspot.com^
 ||lmxzlb.xyz^
 ||loispp.com^
 ||looktt.xyz^
+||lpaehxw.cn^
 ||lw0mp.fun^
 ||lwpxhr.xyz^
 ||maccms10.cn^
@@ -30742,6 +30765,7 @@ vkcdnservice.appspot.com^
 ||ppltxv.xyz^
 ||ps123.online^
 ||qanduan.com^
+||qdutmef.cn^
 ||qgazysq.cn^
 ||qgermm.xyz^
 ||qiegoa.xyz^
@@ -30756,6 +30780,7 @@ vkcdnservice.appspot.com^
 ||rebunb.xyz^
 ||renzhongjiaoyu.xyz^
 ||rglctlo.cn^
+||rtcegcp.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
 ||saccac11.com^
@@ -30764,6 +30789,7 @@ vkcdnservice.appspot.com^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||scbt.asia^
+||scfh9.cn^
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||sige20221230.xyz^
@@ -30779,6 +30805,7 @@ vkcdnservice.appspot.com^
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
+||tianmel.xyz^
 ||timothy.wang^
 ||tjxafmo.cn^
 ||tuape.xyz^
@@ -30833,6 +30860,7 @@ vkcdnservice.appspot.com^
 ||xtpez.xyz^
 ||xxsmcps.com^
 ||xyblm.xyz^
+||xznrtl.xyz^
 ||yang17.xyz^
 ||yanjiusuo.cc^
 ||yemueii.cn^
@@ -30844,6 +30872,7 @@ vkcdnservice.appspot.com^
 ||yruvnmn.cn^
 ||ysgekq.xyz^
 ||ytpae.xyz^
+||yuncaizhijia.ltd^
 ||yunwu.red^
 ||yupphsl.cn^
 ||yuqingby.fun^
@@ -30863,16 +30892,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||elsmom.xyz^
-||rtcegcp.cn^
-||bharalhallahs.com^
-||lpaehxw.cn^
-||xznrtl.xyz^
-||qdutmef.cn^
-||tianmel.xyz^
-||yuncaizhijia.ltd^
-||7nekc.icu^
-||scfh9.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -35024,7 +35043,6 @@ vkcdnservice.appspot.com^
 ||pingtaiba.asia^
 ||pinkboy.fun^
 ||pinkmore.cn^
-||pinoffence.com^
 ||pitudashen.top^
 ||pivlzt.xyz^
 ||pizzaparty.cn^
