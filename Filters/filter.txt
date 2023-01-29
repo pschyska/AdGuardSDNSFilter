@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-29T12:11:41.674Z
+! Last modified: 2023-01-29T18:07:58.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -29817,8 +29817,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Jan 2023 16:06 UTC+7
-! Version: 2301271606
+! Last modified: 29 Jan 2023 23:17 UTC+7
+! Version: 2301292317
 ! Blocked: 801 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -30613,6 +30613,7 @@ vkcdnservice.appspot.com^
 ||8ccrv.xyz^
 ||98dvu.fun^
 ||9cgms.xyz^
+||aaaesme.cn^
 ||ahwiaw.xyz^
 ||ajkcdpm.cn^
 ||aliyun6969.cn^
@@ -30636,6 +30637,7 @@ vkcdnservice.appspot.com^
 ||cuwuqo.xyz^
 ||damhixs.cn^
 ||ddqhnjb.cn^
+||dfadas13.com^
 ||dfdaaa12.com^
 ||dfepm.xyz^
 ||dfghaqea.xyz^
@@ -30650,6 +30652,7 @@ vkcdnservice.appspot.com^
 ||ebzqyow.cn^
 ||ekdbfu.cn^
 ||elsmom.xyz^
+||evunmc.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
 ||fdbskb.cn^
@@ -30669,6 +30672,7 @@ vkcdnservice.appspot.com^
 ||ggrhsx.cn^
 ||glzniuy.cn^
 ||guge.red^
+||guuds.cyou^
 ||guyu8855.club^
 ||gvqrclx.cn^
 ||gxkoci.xyz^
@@ -30712,6 +30716,7 @@ vkcdnservice.appspot.com^
 ||jbuzacg.cn^
 ||jfmfmgj.cn^
 ||jkxvvv.xyz^
+||jmqmbsn.cn^
 ||jojog.com^
 ||jqtzw.xyz^
 ||juntaijiancai.com^
@@ -30728,6 +30733,7 @@ vkcdnservice.appspot.com^
 ||kiymowg.cn^
 ||kmzayrt.cn^
 ||koatkm.xyz^
+||korydwf.cn^
 ||ktbelts.cn^
 ||kwivb.cn^
 ||laafrce.cn^
@@ -30755,7 +30761,9 @@ vkcdnservice.appspot.com^
 ||monts.cyou^
 ||moons.cyou^
 ||mqquas.xyz^
+||mryshl.com^
 ||mvbtp.xyz^
+||mvfrcio.cn^
 ||mzwzo.cn^
 ||neaqi.top^
 ||neipa.xyz^
@@ -30769,6 +30777,7 @@ vkcdnservice.appspot.com^
 ||nwrazu.cn^
 ||nykoubk.cn^
 ||nypyzx.xyz^
+||obmpp.com^
 ||ockuc.com^
 ||ofgysy.xyz^
 ||ohmpyq.xyz^
@@ -30873,6 +30882,7 @@ vkcdnservice.appspot.com^
 ||xh33g.net^
 ||xhjxkgc.cn^
 ||xjpphoto.com^
+||xjpsrb.xyz^
 ||xkhall.xyz^
 ||xkqit.com^
 ||xmmnsl.com^
@@ -30887,6 +30897,7 @@ vkcdnservice.appspot.com^
 ||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhzzzs02.com^
+||yinming.online^
 ||yqgpic.xyz^
 ||yretx.cn^
 ||yruvnmn.cn^
@@ -30912,16 +30923,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||evunmc.xyz^
-||xjpsrb.xyz^
-||guuds.cyou^
-||jmqmbsn.cn^
-||korydwf.cn^
-||aaaesme.cn^
-||yinming.online^
-||mvfrcio.cn^
-||dfadas13.com^
-||obmpp.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -37890,7 +37891,6 @@ vkcdnservice.appspot.com^
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^
-||5.ccutu.com^
 ||1.cjcp.cn^
 ||1.codesdq.com^
 ||1.codezh.com^
@@ -37960,6 +37960,7 @@ vkcdnservice.appspot.com^
 ||321.jintang114.org^
 ||360640.com^
 ||39jz.com^
+||5.ccutu.com^
 ||5.gzfenda.com^
 ||50m.gkcyc.com^
 ||51dengshan.cn^
