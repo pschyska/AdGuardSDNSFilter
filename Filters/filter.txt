@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-31T06:09:37.572Z
+! Last modified: 2023-01-31T12:12:43.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||khment.com^
+||eparil.com^
 ||95a056626e.com^
 ||paulty.com^
 ||omjitjlhx.com^
@@ -22928,6 +22930,7 @@ vkcdnservice.appspot.com^
 .ad.kakaocorp.com^
 .ad.kakao.com^
 !
+||jtbo*.nqxvevk.cn^
 ||nasimobi.com^
 ||wd.adcolony.xyz^
 ||im.ov.yahoo.co.jp^
@@ -31013,6 +31016,10 @@ vkcdnservice.appspot.com^
 ||mpymea.xyz^
 ||rooby.cyou^
 ||nqxvevk.cn^
+||rayss.host^
+||5951835ccc.com^
+||8961a.com^
+||dxwyt3p.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
