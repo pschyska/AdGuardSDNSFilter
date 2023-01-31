@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-01-31T00:39:43.708Z
+! Last modified: 2023-01-31T06:09:37.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -8600,6 +8600,7 @@ vkcdnservice.appspot.com^
 ||fastestbesets.com^
 ||fastestdwelling.com^
 ||fastmtn.com^
+||fastnativead.com^
 ||fastpopunder.com^
 ||fatalityplatinumthing.com^
 ||fatchilli.media^
@@ -29886,9 +29887,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Jan 2023 17:43 UTC+7
-! Version: 2301301743
-! Blocked: 801 rules
+! Last modified: 31 Jan 2023 11:10 UTC+7
+! Version: 2301311110
+! Blocked: 804 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -30143,8 +30144,11 @@ vkcdnservice.appspot.com^
 ||viam.com.vn^
 ||vidoomy.com^
 ||vietnamnetad.vn^
+||viraads.com^
 ||vnn-tracking.vnncdn.net^
 ||vnnayngaytin.vn^
+||wataads.com^
+||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
 ||wiinvent.com.vn^
@@ -31008,6 +31012,7 @@ vkcdnservice.appspot.com^
 ||fdtrjz.xyz^
 ||mpymea.xyz^
 ||rooby.cyou^
+||nqxvevk.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
