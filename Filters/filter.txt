@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-02T12:13:06.044Z
+! Last modified: 2023-02-02T18:08:54.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -30372,6 +30372,7 @@ vkcdnservice.appspot.com^
 ||595tuchuang.com^
 ||5r562.cn^
 ||78dfvv.com^
+||7d108.cn^
 ||7nekc.icu^
 ||81xs.xyz^
 ||8499136.com^
@@ -30483,6 +30484,7 @@ vkcdnservice.appspot.com^
 ||icyrwy.xyz^
 ||idkqtaa.cn^
 ||igusoft.com^
+||ijvzmua.cn^
 ||ikbgika.cn^
 ||ikbhgj.cn^
 ||imassg.xyz^
@@ -30526,6 +30528,7 @@ vkcdnservice.appspot.com^
 ||leiwo.xyz^
 ||lgugsnp.cn^
 ||liuye.club^
+||llvphz.xyz^
 ||lmxzlb.xyz^
 ||loispp.com^
 ||looktt.xyz^
@@ -30547,6 +30550,7 @@ vkcdnservice.appspot.com^
 ||mohretsu.com^
 ||monts.cyou^
 ||moons.cyou^
+||mprjoat.cn^
 ||mpymea.xyz^
 ||mqquas.xyz^
 ||mryshl.com^
@@ -30586,6 +30590,7 @@ vkcdnservice.appspot.com^
 ||ps123.online^
 ||qanduan.com^
 ||qbd1.site^
+||qbd2.site^
 ||qdutmef.cn^
 ||qgazysq.cn^
 ||qgermm.xyz^
@@ -30625,11 +30630,13 @@ vkcdnservice.appspot.com^
 ||soulsoul.xyz^
 ||srnov.top^
 ||ssjiancai.com^
+||sxakca.xyz^
 ||sycrgc.xyz^
 ||t3p58.com^
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
+||thraerqol.com^
 ||timothy.wang^
 ||tjxafmo.cn^
 ||tuape.xyz^
@@ -30662,6 +30669,7 @@ vkcdnservice.appspot.com^
 ||vec4o.fun^
 ||vfsdgjrr.xyz^
 ||viope.cyou^
+||waterfairy.xyz^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
@@ -30669,12 +30677,14 @@ vkcdnservice.appspot.com^
 ||wjl58.icu^
 ||wpiwoo.xyz^
 ||wschao.xyz^
+||wuepo.cn^
 ||wuge20230104.live^
 ||wujiupic.com^
 ||wwnyubs.cn^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
+||x3zy2.icu^
 ||xbptvaq.cn^
 ||xh33g.net^
 ||xhjxkgc.cn^
@@ -30715,6 +30725,7 @@ vkcdnservice.appspot.com^
 ||z82v0.icu^
 ||zawqwpajq.club^
 ||zax01.com^
+||zdreo.cyou^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
 ||zfykvns.cn^
@@ -30728,17 +30739,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||ijvzmua.cn^
-||llvphz.xyz^
-||sxakca.xyz^
-||7d108.cn^
-||x3zy2.icu^
-||qbd2.site^
-||wuepo.cn^
-||mprjoat.cn^
-||waterfairy.xyz^
-||thraerqol.com^
-||zdreo.cyou^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
