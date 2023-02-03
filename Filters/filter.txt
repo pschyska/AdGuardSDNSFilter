@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-03T00:39:35.219Z
+! Last modified: 2023-02-03T06:09:55.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -29622,9 +29622,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Feb 2023 10:01 UTC+7
-! Version: 2302021001
-! Blocked: 809 rules
+! Last modified: 03 Feb 2023 10:10 UTC+7
+! Version: 2302031010
+! Blocked: 811 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -29634,7 +29634,6 @@ vkcdnservice.appspot.com^
 ||ad.accesstrade.vn^
 ||ad.org.vn^
 ||ad.zing.vn^
-||zt1.me.zing.vn^
 ||adasiaholdings.com^
 ||adflex.vn^
 ||adfly.vn^
@@ -29901,6 +29900,7 @@ vkcdnservice.appspot.com^
 ||za.zingmp3.vn^
 ||za.zingnews.com.vn^
 ||za.zingnews.vn^
+||zads.me.zing.vn^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -29912,6 +29912,8 @@ vkcdnservice.appspot.com^
 ||zlog.zingmp3.vn^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zt.me.zing.vn^
+||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
 ||12signup.com^
 ||360.anatic.net^
@@ -30792,6 +30794,15 @@ vkcdnservice.appspot.com^
 ||ahclyq.xyz^
 ||rtycgmz.cn^
 ||tvxqdp.xyz^
+||xeiyt.cyou^
+||w80n.fun^
+||dfsd22.com^
+||dfzv25.com^
+||zczcvx.com^
+||qbd3.site^
+||jike001.top^
+||thlnbzi.cn^
+||tanghao.club^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
