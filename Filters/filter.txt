@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-05T00:41:41.404Z
+! Last modified: 2023-02-05T06:08:37.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -4207,6 +4207,7 @@ vkcdnservice.appspot.com^
 ||assuremath.com^
 ||ast2ya4ee8wtnax.com^
 ||astaicheedie.com^
+||astandhei.com^
 ||astarboka.com^
 ||astaticglib.com^
 ||astespurra.com^
@@ -6078,6 +6079,7 @@ vkcdnservice.appspot.com^
 ||chestucoso.pro^
 ||chethgentman.live^
 ||chevetoelike.com^
+||chevisefancy.com^
 ||chewsrompedhemp.com^
 ||chiasephim.xyz^
 ||chibaigo.com^
@@ -6305,6 +6307,7 @@ vkcdnservice.appspot.com^
 ||clicksor.net^
 ||clicksvenue.com^
 ||clickterra.net^
+||clickthruhost.com^
 ||clickthruserver.com^
 ||clicktrace.info^
 ||clicktraceclick.com^
@@ -6898,6 +6901,7 @@ vkcdnservice.appspot.com^
 ||d1b9b1cxai2c03.cloudfront.net^
 ||d1bcb5ca9f.com^
 ||d1z2jf7jlzjs58.cloudfront.net^
+||d1zy4z3rd7svgh.cloudfront.net^
 ||d24ak3f2b.top^
 ||d25ee3531d.com^
 ||d29gqcij.com^
@@ -8596,6 +8600,7 @@ vkcdnservice.appspot.com^
 ||fbwaikol.com^
 ||fccinteractive.com^
 ||fcdwrdjx.com^
+||fcompsepd.com^
 ||fcxcubtkahif.xyz^
 ||fd5orie8e.com^
 ||fd7qz88ckd.com^
@@ -9128,6 +9133,7 @@ vkcdnservice.appspot.com^
 ||gakinibe.pro^
 ||galacticmenueasier.com^
 ||galaks.io^
+||galanasorra.com^
 ||galaxyvandas.website^
 ||galeaeevovae.com^
 ||galeidnursy.com^
@@ -9946,6 +9952,7 @@ vkcdnservice.appspot.com^
 ||hearfromyou.biz^
 ||hearingyukkel.store^
 ||heartbrokendilapidation.com^
+||heartedicefall.com^
 ||heartilyscales.com^
 ||heathertravelledpast.com^
 ||heavenly-test.pro^
@@ -10944,6 +10951,7 @@ vkcdnservice.appspot.com^
 ||jeisl.com^
 ||jellifytayer.com^
 ||jellyclick.com^
+||jeltoocm.xyz^
 ||jelulymy.pro^
 ||jennyblockademark.com^
 ||jennyunfit.com^
@@ -15358,6 +15366,7 @@ vkcdnservice.appspot.com^
 ||pythoncareens.tech^
 ||pyvqoaoeeen.com^
 ||pyxidiaimmerit.com^
+||pyxiscablese.com^
 ||pziacchirov.com^
 ||q1-tdsge.com^
 ||q15homgeneral.com^
@@ -16864,6 +16873,7 @@ vkcdnservice.appspot.com^
 ||sillyflowermachine.com^
 ||silsautsacmo.com^
 ||silverundergofold.com^
+||simeonolympia.com^
 ||similarfrustration.com^
 ||simoolkankrej.com^
 ||simpan.online^
@@ -20094,6 +20104,7 @@ vkcdnservice.appspot.com^
 ||yahorokoz.com^
 ||yahuu.org^
 ||yaiser.com^
+||yakmakutopia.com^
 ||yamspunkdew.com^
 ||yankpainkiller.com^
 ||yantrasbarges.com^
@@ -20311,6 +20322,7 @@ vkcdnservice.appspot.com^
 ||zaglushkaaa.com^
 ||zagtertda.com^
 ||zagvee.com^
+||zakaheggment.com^
 ||zamiasbrouze.com^
 ||zangocash.com^
 ||zaparena.com^
@@ -20757,6 +20769,7 @@ vkcdnservice.appspot.com^
 ||adsparc.net^
 ||adspeed.com^
 ||adspruce.com^
+||adsquirrel.ai^
 ||adsring.com^
 ||adsrvmedia.com^
 ||adsrvmedia.net^
@@ -22257,7 +22270,6 @@ vkcdnservice.appspot.com^
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zrs4deyai5xm.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
-||d1zy4z3rd7svgh.cloudfront.net^
 ||d204slsrhoah2f.cloudfront.net^
 ||d205jrj5h1616x.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
@@ -30951,6 +30963,10 @@ vkcdnservice.appspot.com^
 ||shguy.cyou^
 ||ibgksw.xyz^
 ||vokmhydy.xyz^
+||lktmgvw.cn^
+||aishan.shop^
+||u644.fun^
+||santou20230127.live^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
