@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-05T12:11:25.819Z
+! Last modified: 2023-02-05T18:08:09.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -30580,6 +30580,7 @@ vkcdnservice.appspot.com^
 ||afdplay.xyz^
 ||ahclyq.xyz^
 ||ahwiaw.xyz^
+||aishan.shop^
 ||ajkcdpm.cn^
 ||aliyun6969.cn^
 ||aol32.cn^
@@ -30593,6 +30594,7 @@ vkcdnservice.appspot.com^
 ||bjdqxt.com^
 ||bkisss.com^
 ||bomut.cyou^
+||bpbpxv.xyz^
 ||bqg16.cc^
 ||bqrkubs.cn^
 ||bqtwbx.xyz^
@@ -30685,6 +30687,7 @@ vkcdnservice.appspot.com^
 ||huiyueting.com^
 ||hvhudp.xyz^
 ||hzcp.fun^
+||ibgksw.xyz^
 ||icyrwy.xyz^
 ||idkqtaa.cn^
 ||igusoft.com^
@@ -30733,6 +30736,7 @@ vkcdnservice.appspot.com^
 ||leiwo.xyz^
 ||lgugsnp.cn^
 ||liuye.club^
+||lktmgvw.cn^
 ||llvphz.xyz^
 ||lmxzlb.xyz^
 ||loispp.com^
@@ -30790,20 +30794,25 @@ vkcdnservice.appspot.com^
 ||paradisemall.net^
 ||pddbtn.xyz^
 ||pic123.top^
+||pj0z5.cn^
 ||plyuwqq.cn^
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||ps123.online^
+||pxrs6.cn^
 ||qanduan.com^
 ||qbd1.site^
 ||qbd2.site^
 ||qbd3.site^
 ||qbd4.site^
 ||qdutmef.cn^
+||qerbert78.xyz^
 ||qgazysq.cn^
 ||qgermm.xyz^
 ||qiegoa.xyz^
 ||qingfengxq.com^
+||qinkuai.top^
+||qliiom.xyz^
 ||qsezjy.cn^
 ||qtbzeey.cn^
 ||qvfkiwf.cn^
@@ -30826,10 +30835,12 @@ vkcdnservice.appspot.com^
 ||sairy.cyou^
 ||salangane.asia^
 ||sange20221226.xyz^
+||santou20230127.live^
 ||sc4mh.cn^
 ||scbt.asia^
 ||scfh9.cn^
 ||scsdcsdcs.top^
+||shguy.cyou^
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||sige20221230.xyz^
@@ -30849,6 +30860,7 @@ vkcdnservice.appspot.com^
 ||tg0qu.top^
 ||tgryfh.xyz^
 ||thlnbzi.cn^
+||thpte.cn^
 ||thraerqol.com^
 ||timothy.wang^
 ||tjxafmo.cn^
@@ -30870,11 +30882,13 @@ vkcdnservice.appspot.com^
 ||u23055.com^
 ||u25011.com^
 ||u25022.com^
+||u644.fun^
 ||uasvyi.xyz^
 ||udifvi.cn^
 ||ufynxmf.cn^
 ||ukutuy.xyz^
 ||unmnkkq.cn^
+||uwumr.cn^
 ||v16rs.cn^
 ||vainews.cn^
 ||vbccbxv.top^
@@ -30883,6 +30897,7 @@ vkcdnservice.appspot.com^
 ||vec4o.fun^
 ||vfsdgjrr.xyz^
 ||viope.cyou^
+||vokmhydy.xyz^
 ||w80n.fun^
 ||waterfairy.xyz^
 ||wbqosw.xyz^
@@ -30958,16 +30973,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||pj0z5.cn^
-||bpbpxv.xyz^
-||uwumr.cn^
-||shguy.cyou^
-||ibgksw.xyz^
-||vokmhydy.xyz^
-||lktmgvw.cn^
-||aishan.shop^
-||u644.fun^
-||santou20230127.live^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
