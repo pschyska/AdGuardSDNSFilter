@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T06:09:58.491Z
+! Last modified: 2023-02-08T12:13:28.048Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -11,6 +11,18 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+||xszcdn.com^
 ||myownshop.at^
 ||uads.store^
 ||toromclick.com^
@@ -12974,6 +12986,7 @@ vkcdnservice.appspot.com^
 ||mysleepds.com^
 ||mysoftbox.ru^
 ||mysweetteam.com^
+||myteamdev.com^
 ||mythincredibly.com^
 ||mythings.com^
 ||mytrackf73.com^
@@ -28807,8 +28820,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-02-07 08:35:50 CET
-# entries:        989
+# last updated:   2023-02-08 09:13:29 CET
+# entries:        1042
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -29371,14 +29384,67 @@ vkcdnservice.appspot.com^
 ||tracker.gamedock.io^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
+||tracking.aktuellhallbarhet.se^
+||tracking.allehanda.se^
+||tracking.arbetarbladet.se^
+||tracking.avestatidning.com^
+||tracking.bandypuls.se^
+||tracking.bblat.se^
 ||tracking.bonnier.news^
+||tracking.borlangetidning.se^
+||tracking.byggindustrin.se^
+||tracking.dagensmedia.se^
+||tracking.dagensmedicin.se^
+||tracking.dagenssamhalle.se^
+||tracking.dagligvarunytt.se^
+||tracking.dalademokraten.se^
 ||tracking.ditv.di.se^
+||tracking.di.se^
 ||tracking.dn.se^
 ||tracking.eurosport.com^
+||tracking.falkopingstidning.se^
+||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
+||tracking.fastighetsnytt.se^
+||tracking.gd.se^
+||tracking.hd.se^
+||tracking.ht.se^
 ||tracking.inboxads.com^
+||tracking.jnytt.se^
+||tracking.jp.se^
+||tracking.ljusdalsposten.se^
+||tracking.ljusnan.se^
+||tracking.ltz.se^
+||tracking.lt.se^
+||tracking.market.se^
+||tracking.moratidning.se^
+||tracking.na.se^
+||tracking.norrteljetidning.se^
+||tracking.nyaludvikatidning.se^
+||tracking.nynashamnsposten.se^
 ||tracking.omniture.nt.se^
+||tracking.op.se^
+||tracking.resume.se^
+||tracking.salaallehanda.com^
+||tracking.skaraborgslanstidning.se^
+||tracking.skd.se^
+||tracking.skovdenyheter.se^
+||tracking.smalandsdagblad.se^
+||tracking.smalanningen.se^
+||tracking.smt.se^
+||tracking.soderhamnskuriren.se^
+||tracking.sodran.se^
+||tracking.st.nu^
+||tracking.sydsvenskan.se^
+||tracking.tidningenangermanland.se^
+||tracking.tidningenharjedalen.se^
+||tracking.tranastidning.se^
+||tracking.vastgotabladet.se^
+||tracking.vetlandaposten.se^
 ||tracking.visitorsvoice.com^
+||tracking.vlt.se^
+||tracking.vn.se^
+||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trafikstyrelsen.com^
 ||trckr.nordiskemedier.dk^
@@ -30658,6 +30724,7 @@ vkcdnservice.appspot.com^
 ||375772rug.com^
 ||37tek.fun^
 ||3p8801.co^
+||3z7qn.cn^
 ||401aww.com^
 ||4jffu.cn^
 ||51gpiao.cn^
@@ -30741,6 +30808,7 @@ vkcdnservice.appspot.com^
 ||evunmc.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
+||faunaships.com^
 ||fdbskb.cn^
 ||fdgem.com^
 ||fds-1230.cc^
@@ -30838,6 +30906,7 @@ vkcdnservice.appspot.com^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
+||kqwip.cyou^
 ||kscly.com^
 ||ktbelts.cn^
 ||kwivb.cn^
@@ -30910,6 +30979,7 @@ vkcdnservice.appspot.com^
 ||pddbtn.xyz^
 ||pic123.top^
 ||pj0z5.cn^
+||pkeog.cn^
 ||plyuwqq.cn^
 ||porjjhu.cn^
 ||ppltxv.xyz^
@@ -30945,6 +31015,7 @@ vkcdnservice.appspot.com^
 ||rooby.cyou^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
+||rthmnj.xyz^
 ||rtycgmz.cn^
 ||ruyqiolnz.cyou^
 ||rzlp.xyz^
@@ -31016,6 +31087,7 @@ vkcdnservice.appspot.com^
 ||vokmhydy.xyz^
 ||w80n.fun^
 ||waterfairy.xyz^
+||wawqqfg.cn^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
@@ -31054,6 +31126,7 @@ vkcdnservice.appspot.com^
 ||yc444.cn^
 ||yemueii.cn^
 ||yffjqvq.cn^
+||yfmhik.xyz^
 ||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhtuchuang.com^
@@ -31090,6 +31163,7 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||sygmtz.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
