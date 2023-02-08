@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T12:13:28.048Z
+! Last modified: 2023-02-08T18:09:12.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -5158,6 +5158,7 @@ vkcdnservice.appspot.com^
 ||bigrourg.net^
 ||bigsport.today^
 ||biinminigihi.com^
+||bijitsoa.com^
 ||bijwawr.com^
 ||bikrurda.net^
 ||bilecontagiousswine.com^
@@ -13843,6 +13844,7 @@ vkcdnservice.appspot.com^
 ||oorwithabitofst.info^
 ||ootchaig.xyz^
 ||ootchoft.com^
+||ootibsay.xyz^
 ||oovilsol.com^
 ||ooxookrekaun.com^
 ||oozyunmix.com^
@@ -17082,6 +17084,7 @@ vkcdnservice.appspot.com^
 ||smg8oo4njst45oene.com^
 ||smigro.info^
 ||smileoffennec.com^
+||smirkscapos.com^
 ||smises.com^
 ||smisit.com^
 ||smists.com^
@@ -18389,6 +18392,7 @@ vkcdnservice.appspot.com^
 ||totogetica.com^
 ||touchycart.com^
 ||touglesy.net^
+||toumnahrafale.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
@@ -18965,6 +18969,7 @@ vkcdnservice.appspot.com^
 ||unwarydebite.com^
 ||unwillingsnick.com^
 ||unwisecommence.com^
+||unwoobater.com^
 ||unwroteorcinus.com^
 ||uod2quk646.com^
 ||up4u.me^
@@ -27851,6 +27856,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||link-a.net^
 ||corectcustom.com^
 ||moro-douga.link^
 ||saltwortokra.com^
@@ -31163,7 +31169,6 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
-||sygmtz.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
