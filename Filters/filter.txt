@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T00:37:33.205Z
+! Last modified: 2023-02-08T06:09:58.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21148,6 +21148,7 @@ vkcdnservice.appspot.com^
 ||cluep.com^
 ||cogocast.net^
 ||coguan.com^
+||coinads.io^
 ||coinmedia.co^
 ||cointraffic.io^
 ||coinzilla.io^
