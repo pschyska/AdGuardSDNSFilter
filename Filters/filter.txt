@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-08T18:09:12.495Z
+! Last modified: 2023-02-09T00:37:28.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -5200,6 +5200,7 @@ vkcdnservice.appspot.com^
 ||bitads.io^
 ||bitbeat7.com^
 ||bitcoin-news.vip^
+||bitdiko.com^
 ||biteburied.com^
 ||bitesizedtreat.pro^
 ||biticesar.com^
@@ -6668,6 +6669,7 @@ vkcdnservice.appspot.com^
 ||counciladvertising.net^
 ||councilcoveauto.com^
 ||counda.com^
+||coundt.com^
 ||countertrck.com^
 ||countessbridge.com^
 ||countilde.online^
@@ -7060,6 +7062,7 @@ vkcdnservice.appspot.com^
 ||dchoseitfromt.com.ua^
 ||dcovesaysh.xyz^
 ||dcpxroykfpnnpm.xyz^
+||dcuonsugikrma.com^
 ||dcynwezfon.com^
 ||dd09af1279.com^
 ||dd8af8726c.com^
@@ -10872,6 +10875,7 @@ vkcdnservice.appspot.com^
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||itzekromom.com^
+||iuclpbgxyfddk.xyz^
 ||iupot.com^
 ||iuprhjal.com^
 ||iuwzdf.com^
@@ -11201,6 +11205,7 @@ vkcdnservice.appspot.com^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
 ||jwycmuozlpu.com^
+||jyaneuan.com^
 ||jyarkinhechershedt.xyz^
 ||jygotubvpyguak.com^
 ||jyjgtpurrwg.xyz^
@@ -11614,6 +11619,7 @@ vkcdnservice.appspot.com^
 ||landscapeuproar.com^
 ||landslidechoreloft.com^
 ||landupoatour.com.ua^
+||landupoatouwe.xyz^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lankychaosrun.com^
@@ -12216,6 +12222,7 @@ vkcdnservice.appspot.com^
 ||majorinryesop.lol^
 ||majorityevaluatewiped.com^
 ||majorworkertop.com^
+||makemehappy.pro^
 ||makesboundlessvirtue.com^
 ||makespram.com^
 ||makingnude.com^
@@ -15440,6 +15447,7 @@ vkcdnservice.appspot.com^
 ||qaykb.com^
 ||qbkzvophvva.com^
 ||qcffrrsyaxcccx.xyz^
+||qctnglnhfkhcjue.com^
 ||qdagihwi.xyz^
 ||qdatasales.com^
 ||qdmil.com^
@@ -16652,6 +16660,7 @@ vkcdnservice.appspot.com^
 ||sefsdvc.com^
 ||sefuge.com^
 ||sefytiavhavrds.com^
+||seibertspart.com^
 ||seinpounday.com^
 ||seizecrashsophia.com^
 ||seizedorientationenrich.com^
@@ -19946,6 +19955,7 @@ vkcdnservice.appspot.com^
 ||worred.com^
 ||worriesteapotairborne.com^
 ||worrycrevicewholly.com^
+||worseobscureplastic.com^
 ||worthconesquadron.com^
 ||worthersefim.club^
 ||worthless-living.pro^
@@ -30724,6 +30734,7 @@ vkcdnservice.appspot.com^
 ||1129555.com^
 ||1134555.com^
 ||1190555.com^
+||2982a.com^
 ||2aqr.net^
 ||2pwja.cn^
 ||3633a.com^
@@ -30750,6 +30761,7 @@ vkcdnservice.appspot.com^
 ||8ccrv.xyz^
 ||94188.xyz^
 ||98dvu.fun^
+||9bph.top^
 ||9cgms.xyz^
 ||aaaesme.cn^
 ||afdplay.xyz^
@@ -30853,6 +30865,7 @@ vkcdnservice.appspot.com^
 ||hfjsbf.xyz^
 ||hhaobcj.cn^
 ||hibaby.ren^
+||hiqrnyn.cn^
 ||hnrjign.cn^
 ||hppmy.cn^
 ||hspffjx.cn^
@@ -30909,6 +30922,7 @@ vkcdnservice.appspot.com^
 ||kingsun.online^
 ||kiymowg.cn^
 ||kmzayrt.cn^
+||knr1.xyz^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||korydwf.cn^
@@ -31034,9 +31048,11 @@ vkcdnservice.appspot.com^
 ||scbt.asia^
 ||scfh9.cn^
 ||scsdcsdcs.top^
+||sdfxv57.com^
 ||shguy.cyou^
 ||shhaiya.com^
 ||shidaiheima.ltd^
+||shikongbb.com^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -31047,6 +31063,7 @@ vkcdnservice.appspot.com^
 ||ssjiancai.com^
 ||sxakca.xyz^
 ||sycrgc.xyz^
+||sygmtz.com^
 ||t3p58.com^
 ||tanghao.club^
 ||tfzozf.xyz^
@@ -31123,6 +31140,7 @@ vkcdnservice.appspot.com^
 ||xrewo.xyz^
 ||xryjyfb.cn^
 ||xtpez.xyz^
+||xxp123.live^
 ||xxsmcps.com^
 ||xyblm.xyz^
 ||xyyejhm.cn^
@@ -31169,6 +31187,16 @@ vkcdnservice.appspot.com^
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||nuiekka.cn^
+||ypoiea.xyz^
+||dvbuxcl.cn^
+||fnkio.cyou^
+||lymtreg.cn^
+||bhpprfk.cn^
+||nxxyjn.com^
+||hndhas.com^
+||rdjnjz.xyz^
+||ybfljs.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
