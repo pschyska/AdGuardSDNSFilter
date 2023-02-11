@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-11T00:33:39.057Z
+! Last modified: 2023-02-11T06:08:51.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -27923,6 +27923,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||expdirclk.com^
 ||pompass.net^
 ||v2st.shinobi.jp^
 ||yads.c.yimg.jp^
