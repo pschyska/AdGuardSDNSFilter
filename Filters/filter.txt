@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-11T18:08:00.172Z
+! Last modified: 2023-02-12T00:41:00.551Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21744,6 +21744,7 @@ vkcdnservice.appspot.com^
 ||ppcwebspy.com^
 ||prebid.org^
 ||prebidwrapper.com^
+||primis-amp.tech^
 ||promo-reklama.ru^
 ||proper.io^
 ||pubdirecte.com^
@@ -30799,6 +30800,7 @@ vkcdnservice.appspot.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||045zxnm.com^
 ||0s6s0.top^
+||0vkkf.cn^
 ||100ytrf.com^
 ||109218er.xyz^
 ||1129555.com^
@@ -30844,6 +30846,7 @@ vkcdnservice.appspot.com^
 ||aqtcw.cn^
 ||aqylmil.cn^
 ||arejug.xyz^
+||asoeasy.cn^
 ||aswtai.xyz^
 ||atuhi.cyou^
 ||banhui.xyz^
@@ -30852,6 +30855,7 @@ vkcdnservice.appspot.com^
 ||bgcnhux.cn^
 ||bgjjwl.cn^
 ||bhpprfk.cn^
+||bitu.fun^
 ||bjdqxt.com^
 ||bkisss.com^
 ||bomut.cyou^
@@ -30898,6 +30902,7 @@ vkcdnservice.appspot.com^
 ||ebzqyow.cn^
 ||ekdbfu.cn^
 ||elsmom.xyz^
+||etkht.cn^
 ||evunmc.xyz^
 ||ewmvim.xyz^
 ||fangyaomin.site^
@@ -31078,6 +31083,7 @@ vkcdnservice.appspot.com^
 ||opeem.cyou^
 ||oronwg.xyz^
 ||oulibf.xin^
+||owihyg.xyz^
 ||oyqjp.cn^
 ||pafcpd.xyz^
 ||paongfh.cn^
@@ -31261,9 +31267,11 @@ vkcdnservice.appspot.com^
 ||yunwu.red^
 ||yupphsl.cn^
 ||yuqingby.fun^
+||yurti.cyou^
 ||yuske2.xyz^
 ||yyepa.cyou^
 ||yzgid.cn^
+||z4a.net^
 ||z82v0.icu^
 ||zawqwpajq.club^
 ||zax01.com^
@@ -31273,6 +31281,8 @@ vkcdnservice.appspot.com^
 ||zeipw.xyz^
 ||zfykvns.cn^
 ||zhiwan.club^
+||zkdmdf.xyz^
+||zktqzyz.cn^
 ||zlfthh.xyz^
 ||zmdtcw.cn^
 ||znktkt.cn^
