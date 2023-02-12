@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-12T06:08:53.848Z
+! Last modified: 2023-02-12T12:12:01.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -21382,6 +21382,7 @@ vkcdnservice.appspot.com^
 ||geo-idm.fr^
 ||geopromos.com^
 ||geovisite.com^
+||geozo.com^
 ||germaniavid.com^
 ||gestionpub.com^
 ||get.com^
@@ -29967,7 +29968,6 @@ vkcdnservice.appspot.com^
 !
 !
 ||c303.pw^
-||geozo.com^
 ! Domain server iklan milik luckyads.com (domain sering berganti-ganti)
 ! https://github.com/realodix/AdBlockID/issues/376
 ! XL Axiata
@@ -31291,11 +31291,6 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||ogkfuw.xyz^
-||qheoy.cn^
-||hufkzv.xyz^
-||4iksy.cn^
-||pgccaoy.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -39076,23 +39071,14 @@ analytics-*.aasaam.com
 # https://github.com/Webamoozcom/warning-list/discussions/119
 ||shamining.com^
 
+# https://github.com/Webamoozcom/warning-list/discussions/129
+||ccnnetwork.co^
+
 # https://github.com/Webamoozcom/warning-list/discussions/130
 ||wintap.io^
 
 # https://github.com/Webamoozcom/warning-list/discussions/132
 ||frzss.com^
-
-
-# https://t.me/MiladNouriChannel/685
-# https://instagram.com/p/Ch7u5KrjAkP
-# https://cyber-alerts.com/2022/08/27/websites-related-to-usdtpkpgmail-com/
-||usdtbang.com^
-||usdteng.com^
-||usdtcan.com^
-||usdtbbc.com^
-||imtokenwallet.biz^
-
-||emenshowapp.xyz^
 
 !
 ! Source name: Additional rules
