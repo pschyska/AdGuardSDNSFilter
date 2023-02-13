@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-13T00:40:31.095Z
+! Last modified: 2023-02-13T06:10:20.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1385,6 +1385,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||res.adx.opera.com^
 ||ads.rubiconproject.com^
 ||eus.rubiconproject.com^
 ||fastlane.rubiconproject.com^
@@ -23807,6 +23808,8 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||tat3ayogh6.com^
+||cau1aighae.com^
 ||bc-click.net^
 ||bc-news.net^
 ||cnb.cnews.ru^
@@ -31310,6 +31313,9 @@ vkcdnservice.appspot.com^
 ||ccgjmzv.cn^
 ||wbe4sp.top^
 ||pehlvl.xyz^
+||lh54.top^
+||44629.com^
+||wutou20230201.live^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
