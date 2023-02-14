@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-14T12:13:59.268Z
+! Last modified: 2023-02-14T18:09:33.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2815,6 +2815,7 @@ vkcdnservice.appspot.com^
 ||acquawes.xyz^
 ||acquirethem.com^
 ||acquitfigreside.com^
+||acrevenene.com^
 ||acronycgrimes.com^
 ||acrossgained.com^
 ||acscdn.com^
@@ -4693,6 +4694,7 @@ vkcdnservice.appspot.com^
 ||bagwynbilgier.com^
 ||bahfhgfdibgbcegbgg.ru^
 ||bahmemohod.com^
+||bahutuophian.com^
 ||baikogru.net^
 ||baileyflossallpurpose.com^
 ||bailifftent.com^
@@ -5920,6 +5922,7 @@ vkcdnservice.appspot.com^
 ||catwrite.com^
 ||cauchoforegut.space^
 ||caugs.com^
+||caulibotas.com^
 ||caunaurou.com^
 ||cauthaushoas.com^
 ||cautiouscooperativegentlemen.com^
@@ -10831,6 +10834,7 @@ vkcdnservice.appspot.com^
 ||intrudesome.com^
 ||intuitspisan.com^
 ||inuapixndextq.xyz^
+||inuregestura.com^
 ||inurneddoggish.com^
 ||invadedwherevoluntary.com^
 ||invaderannihilationperky.com^
@@ -15706,6 +15710,7 @@ vkcdnservice.appspot.com^
 ||radioearphonesaggravation.com^
 ||radiusfellowship.com^
 ||radiusmarketing.com^
+||raftybuts.com^
 ||rag3ca7t5amubr8eedffin.com^
 ||ragapa.com^
 ||rageagainstthesoap.com^
@@ -18034,6 +18039,7 @@ vkcdnservice.appspot.com^
 ||tallysaturatesnare.com^
 ||talsauve.com^
 ||tamperstationerycultivate.com^
+||tanandatable.com^
 ||tangiblewhereuponprestige.com^
 ||tankastapia.com^
 ||tantialcottish.xyz^
@@ -19972,6 +19978,7 @@ vkcdnservice.appspot.com^
 ||whourgie.com^
 ||whoursie.com^
 ||whouseem.com^
+||whoutchi.net^
 ||whoutsiy.net^
 ||whoutsog.net^
 ||whouvike.com^
@@ -30945,6 +30952,7 @@ vkcdnservice.appspot.com^
 ||2982a.com^
 ||2aqr.net^
 ||2pwja.cn^
+||2r6.cn^
 ||3633a.com^
 ||375772rug.com^
 ||37tek.fun^
@@ -30994,6 +31002,7 @@ vkcdnservice.appspot.com^
 ||bfdaawe.top^
 ||bgcnhux.cn^
 ||bgjjwl.cn^
+||bglbsb.cn^
 ||bhpprfk.cn^
 ||bitu.fun^
 ||bjdqxt.com^
@@ -31043,8 +31052,11 @@ vkcdnservice.appspot.com^
 ||e5z14.icu^
 ||e8jp9.com^
 ||ealooov.cn^
+||ebpu2.top^
 ||ebzqyow.cn^
+||ekcsqzo.cn^
 ||ekdbfu.cn^
+||ekqfkk.xyz^
 ||elsmom.xyz^
 ||etkht.cn^
 ||evunmc.xyz^
@@ -31056,6 +31068,7 @@ vkcdnservice.appspot.com^
 ||fds-1230.cc^
 ||fdtrjz.xyz^
 ||felzfr.xyz^
+||fewsvuh.cn^
 ||ffdcpvv.cn^
 ||fnkio.cyou^
 ||forestwo1f.ltd^
@@ -31098,6 +31111,7 @@ vkcdnservice.appspot.com^
 ||hndhas.com^
 ||hnrjign.cn^
 ||hppmy.cn^
+||hrecsxu.cn^
 ||hspffjx.cn^
 ||htbdvx.xyz^
 ||hualu.live^
@@ -31149,6 +31163,7 @@ vkcdnservice.appspot.com^
 ||jwghphm.cn^
 ||jwgihca.cn^
 ||jzzuwdn.cn^
+||k0lksy.xyz^
 ||k34jj.xyz^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
@@ -31248,6 +31263,7 @@ vkcdnservice.appspot.com^
 ||pj0z5.cn^
 ||pkeog.cn^
 ||plyuwqq.cn^
+||pojjtt.xyz^
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||ps123.online^
@@ -31300,6 +31316,7 @@ vkcdnservice.appspot.com^
 ||scbt.asia^
 ||scfh9.cn^
 ||scsdcsdcs.top^
+||sdfv66.com^
 ||sdfxv57.com^
 ||seaflame.xyz^
 ||shguy.cyou^
@@ -31309,12 +31326,14 @@ vkcdnservice.appspot.com^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
+||skiyvwu.cn^
 ||skzlz.cn^
 ||slowbeat.fun^
 ||soqikbe.cn^
 ||soulsoul.xyz^
 ||srnov.top^
 ||ssjiancai.com^
+||suyuhao233.xyz^
 ||sxakca.xyz^
 ||sycrgc.xyz^
 ||sygmtz.com^
@@ -31360,11 +31379,14 @@ vkcdnservice.appspot.com^
 ||vbgr7.cn^
 ||vcinwqw.cn^
 ||vec4o.fun^
+||vewdk.cyou^
 ||vfsdgjrr.xyz^
 ||vilki.cn^
 ||viope.cyou^
 ||vokmhydy.xyz^
+||vykeavz.cn^
 ||w80n.fun^
+||waoeou.xyz^
 ||waterfairy.xyz^
 ||wawqqfg.cn^
 ||wbe4sp.top^
@@ -31380,6 +31402,7 @@ vkcdnservice.appspot.com^
 ||wschao.xyz^
 ||wuge20230104.live^
 ||wujiupic.com^
+||wusuliriver.com^
 ||wutou20230201.live^
 ||wwnyubs.cn^
 ||wzkxke.xyz^
@@ -31405,6 +31428,7 @@ vkcdnservice.appspot.com^
 ||xxp123.live^
 ||xxsmcps.com^
 ||xyblm.xyz^
+||xylkpj.xyz^
 ||xyyejhm.cn^
 ||xznrtl.xyz^
 ||yang17.xyz^
@@ -31457,18 +31481,6 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||ekcsqzo.cn^
-||hrecsxu.cn^
-||waoeou.xyz^
-||pojjtt.xyz^
-||vewdk.cyou^
-||wusuliriver.com^
-||ebpu2.top^
-||2r6.cn^
-||sdfv66.com^
-||suyuhao233.xyz^
-||bglbsb.cn^
-||fewsvuh.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
