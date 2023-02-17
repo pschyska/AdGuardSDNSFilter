@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-17T06:09:58.315Z
+! Last modified: 2023-02-17T12:14:03.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bluffsouttore.com^
 ||adxfire.com^
 ||adxfire.in^
 ||befirstcdn.com^
@@ -28451,7 +28452,6 @@ vkcdnservice.appspot.com^
 ||fivecdm.com^
 ||fxprime-popular.com^
 ||hitgraph.jp^
-||hitweb.chosun.com^
 ||i2i.jp^
 ||i2idata.com^
 ||i2iserv.com^
@@ -30272,9 +30272,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Feb 2023 08:50 UTC+7
-! Version: 2302170850
-! Blocked: 820 rules
+! Last modified: 17 Feb 2023 15:56 UTC+7
+! Version: 2302171556
+! Blocked: 825 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -30418,11 +30418,13 @@ vkcdnservice.appspot.com^
 ||logv2.mp3.zing.vn^
 ||logzh.dantocmiennui.vn^
 ||logzh.vietnamplus.vn^
+||m.zedcdn.me^
 ||matomo.*.vn^
 ||mautic.*.vn^
 ||mautic.hubs.vn^
 ||mclick.mobi^
 ||mda.zadn.vn^
+||me.zedcdn.me^
 ||media-ads.zaloapp.com^
 ||mediad.asia^
 ||mediaz.asia^
@@ -30431,6 +30433,7 @@ vkcdnservice.appspot.com^
 ||mepuzz.com^
 ||metaconex.io^
 ||metrics.coccoc.com^
+||mme.zedcdn.me^
 ||mobilead.vn^
 ||mobio.vn^
 ||modestsunf.com^
@@ -30820,6 +30823,7 @@ vkcdnservice.appspot.com^
 ||lmsreport.systems.vn^
 ||log-collector.shopee.vn^
 ||log.anninhthudo.vn^
+||log.baobackan.com.vn^
 ||log.baocaobang.vn^
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
@@ -30844,6 +30848,7 @@ vkcdnservice.appspot.com^
 ||log.kinhdoanhhoinhap.vn^
 ||log.kinhtedouong.vn^
 ||log.ngaynay.vn^
+||log.nhandan.vn^
 ||log.nhipcaudautu.vn^
 ||log.oto.com.vn^
 ||log.plo.vn^
@@ -30868,6 +30873,7 @@ vkcdnservice.appspot.com^
 ||log.vnfinance.vn^
 ||log.vov.vn^
 ||log.vovplus.vn^
+||log.vovworld.vn^
 ||log.xoso.com.vn^
 ||log.zamba.vn^
 ||log4x.nixcdn.com^
@@ -30891,7 +30897,6 @@ vkcdnservice.appspot.com^
 ||menu.metu.vn^
 ||microad.vn^
 ||mkt.hoanghamobile.com^
-||mme.zedcdn.me^
 ||mobileads.dieuviet.com^
 ||monitor.teko.vn^
 ||mto.cgv.vn^
@@ -31643,6 +31648,9 @@ vkcdnservice.appspot.com^
 ||p23jac.top^
 ||kkqeqk.cn^
 ||loganfeels.com^
+||fangfeng009.xyz^
+||txtcw.cn^
+||huicpu.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
