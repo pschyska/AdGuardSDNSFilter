@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-18T06:08:47.720Z
+! Last modified: 2023-02-18T12:12:04.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -18770,6 +18770,7 @@ vkcdnservice.appspot.com^
 ||travelingturtleharmonious.com^
 ||travelscream.com^
 ||travidia.com^
+||travropuxonv.com^
 ||trawahdh2hd8nbvy09.com^
 ||trblocked.com^
 ||trc85.com^
@@ -29169,8 +29170,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-02-13 20:45:34 CET
-# entries:        1044
+# last updated:   2023-02-18 08:28:52 CET
+# entries:        1047
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -29215,6 +29216,7 @@ vkcdnservice.appspot.com^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
 ||ads.veterinaren.nu^
+||adserver.ddev.site^
 ||adserver.infotorg.se^
 ||adserver.so-rummet.se^
 ||adservice.google.se^
@@ -29364,6 +29366,7 @@ vkcdnservice.appspot.com^
 ||cl-eu2.k5a.io^
 ||cmp.network-n.com^
 ||collect.breakit.se^
+||collect.igodigital.com^
 ||collect.tealiumiq.com^
 ||collector.brandmetrics.com^
 ||collector.cint.com^
@@ -31666,6 +31669,7 @@ vkcdnservice.appspot.com^
 ||ieda.live^
 ||nmtibv.xyz^
 ||gooooogle.xyz^
+||bddwm.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -38909,7 +38913,7 @@ vkcdnservice.appspot.com^
 ||yong.chazidian.com^
 ||yptqys.tianqistatic.com^
 ||ys.muhoujiemi.com^
-||ysdm.ys137.com.cn^
+||ysdm*.ys137.com.cn^
 ||ysxywj.com^
 ||yueka.com^
 ||ywg.jobui.com^
