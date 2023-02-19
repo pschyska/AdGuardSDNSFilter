@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-19T12:12:11.857Z
+! Last modified: 2023-02-19T18:08:17.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3015,6 +3015,7 @@ vkcdnservice.appspot.com^
 ||adlook.net^
 ||adlpkwew.xyz^
 ||adltserv.com^
+||admachina.com^
 ||adme-net.com^
 ||admenhost.com^
 ||admez.com^
@@ -5316,6 +5317,7 @@ vkcdnservice.appspot.com^
 ||bleachfamouszinc.com^
 ||bleandworld.xyz^
 ||bleedingofficecontagion.com^
+||blehcourt.com^
 ||bleokerrie.com^
 ||blessingsome.com^
 ||blesspaleron.website^
@@ -6286,6 +6288,7 @@ vkcdnservice.appspot.com^
 ||cipientco.com^
 ||cipledecline.buzz^
 ||circlegrandsonnod.com^
+||circuitedmund.com^
 ||circuitingratitude.com^
 ||circumscribevetofurther.com^
 ||circumstancesrectangle.com^
@@ -7606,6 +7609,7 @@ vkcdnservice.appspot.com^
 ||dkrbus.com^
 ||dkswptmwowowp.xyz^
 ||dl-rms.com^
+||dladyeflt.com^
 ||dledthebarrowb.xyz^
 ||dlfvgndsdfsn.com^
 ||dlittlemen.xyz^
@@ -10111,6 +10115,7 @@ vkcdnservice.appspot.com^
 ||hbfqcy.com^
 ||hbfulzie.life^
 ||hcritiesec.xyz^
+||hcuukwgpjiykapf.xyz^
 ||hd100546c.com^
 ||hd149026b.com^
 ||hdacode.com^
@@ -14374,6 +14379,7 @@ vkcdnservice.appspot.com^
 ||oxrendflare.com^
 ||oxsng.com^
 ||oxtracking.com^
+||oxxolqgizza.com^
 ||oxybe.com^
 ||oxydaserucked.com^
 ||oxydend2r5umarb8oreum.com^
@@ -16431,6 +16437,7 @@ vkcdnservice.appspot.com^
 ||rixaka.com^
 ||rjw4obbw.com^
 ||rkomf.com^
+||rkslxduqqtj.com^
 ||rkumsvlvfeeewog.xyz^
 ||rlaa.xyz^
 ||rlomivunesqal.com^
@@ -17393,6 +17400,7 @@ vkcdnservice.appspot.com^
 ||slightcareconditions.com^
 ||slimelump.com^
 ||slimhousewifesubtle.com^
+||slimreply.pro^
 ||slimy-sport.pro^
 ||slimybaptism.com^
 ||slingstapeats.com^
@@ -24433,7 +24441,6 @@ vkcdnservice.appspot.com^
 ||admondom.ru^
 ||gcafdhiacibjafajadi.ru^
 ||pardompus.ru^
-||covivado.club^
 ||banner.aismo.ru^
 ||aeowrb.com^
 ||apedah.com^
@@ -25261,6 +25268,7 @@ vkcdnservice.appspot.com^
 ||123fvd.com^
 ||1bestgoods.com^
 ||1biznes.net
+||covivado.club^
 ||1pop.ru^
 ||1rtl.info^
 ||1sputnik.ru^
@@ -25365,7 +25373,6 @@ vkcdnservice.appspot.com^
 ||adland.ru^
 ||adlift.ru^
 ||adlmerge.com^
-||admachina.com^
 ||admaxer.ru^
 ||admelon.ru^
 ||admilk.ru^
@@ -31209,6 +31216,7 @@ vkcdnservice.appspot.com^
 ||1129555.com^
 ||1134555.com^
 ||1190555.com^
+||1368999.com^
 ||199aaa.us^
 ||2982a.com^
 ||2aqr.net^
@@ -31251,7 +31259,9 @@ vkcdnservice.appspot.com^
 ||afdplay.xyz^
 ||ahclyq.xyz^
 ||ahwiaw.xyz^
+||aifwjekfe.xyz^
 ||aishan.shop^
+||ajfkwwpo.xyz^
 ||ajkcdpm.cn^
 ||albertabelen.com^
 ||aliyun6969.cn^
@@ -31282,6 +31292,7 @@ vkcdnservice.appspot.com^
 ||bqg16.cc^
 ||bqrkubs.cn^
 ||bqtwbx.xyz^
+||bridalplums.com^
 ||brkxgfs.cn^
 ||butaeit.cn^
 ||buttn.cyou^
@@ -31291,6 +31302,7 @@ vkcdnservice.appspot.com^
 ||ccemqe.cn^
 ||ccgjmzv.cn^
 ||cerfbup.xyz^
+||cifzuqopdpzi.com^
 ||creawww.top^
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
@@ -31414,6 +31426,8 @@ vkcdnservice.appspot.com^
 ||hvhudp.xyz^
 ||hzcp.fun^
 ||ibgksw.xyz^
+||ibjkafefertt.xyz^
+||icentos.info^
 ||icyrwy.xyz^
 ||idkqtaa.cn^
 ||ieda.live^
@@ -31529,6 +31543,7 @@ vkcdnservice.appspot.com^
 ||noiea.xyz^
 ||nonabh.xyz^
 ||nouivjv.cn^
+||nqezlls.cn^
 ||nqhqpq.cn^
 ||nqxvevk.cn^
 ||nuiekka.cn^
@@ -31570,11 +31585,13 @@ vkcdnservice.appspot.com^
 ||pkeog.cn^
 ||plyuwqq.cn^
 ||pojjtt.xyz^
+||polkmerty.xyz^
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||ps123.online^
 ||pxrs6.cn^
 ||qanduan.com^
+||qaou.top^
 ||qbd1.site^
 ||qbd2.site^
 ||qbd3.site^
@@ -31698,6 +31715,7 @@ vkcdnservice.appspot.com^
 ||vilki.cn^
 ||viope.cyou^
 ||vokmhydy.xyz^
+||vwvjzd.xyz^
 ||vykeavz.cn^
 ||w80n.fun^
 ||waoeou.xyz^
@@ -31761,6 +31779,7 @@ vkcdnservice.appspot.com^
 ||yhtuchuang.com^
 ||yhzzzs02.com^
 ||yinming.online^
+||youed.cyou^
 ||ypoiea.xyz^
 ||yqgpic.xyz^
 ||yretx.cn^
@@ -31779,6 +31798,7 @@ vkcdnservice.appspot.com^
 ||z82v0.icu^
 ||zawqwpajq.club^
 ||zax01.com^
+||zbc6hyepls.xyz^
 ||zczcvx.com^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
@@ -31799,19 +31819,6 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||youed.cyou^
-||qaou.top^
-||ajfkwwpo.xyz^
-||polkmerty.xyz^
-||aifwjekfe.xyz^
-||nqezlls.cn^
-||zbc6hyepls.xyz^
-||ibjkafefertt.xyz^
-||icentos.info^
-||vwvjzd.xyz^
-||bridalplums.com^
-||cifzuqopdpzi.com^
-||1368999.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
