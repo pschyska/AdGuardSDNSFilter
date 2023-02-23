@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-23T12:14:16.216Z
+! Last modified: 2023-02-23T18:09:35.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28782,6 +28782,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||adstuber.com^
 ||ad.orange-park.jp^
 ||ad-site55.net^
 ||d-064.com^
@@ -31742,6 +31743,7 @@ vkcdnservice.appspot.com^
 ||bglbsb.cn^
 ||bhduan.xyz^
 ||bhpprfk.cn^
+||bhulgot.com^
 ||bitu.fun^
 ||bjdqxt.com^
 ||bkisss.com^
@@ -31771,6 +31773,7 @@ vkcdnservice.appspot.com^
 ||cuwuqo.xyz^
 ||cwobgp.cn^
 ||cwpbohx.cn^
+||dagamemisdeed.com^
 ||damhixs.cn^
 ||darzkrx.cn^
 ||daspic.top^
@@ -31787,6 +31790,7 @@ vkcdnservice.appspot.com^
 ||dfvvx58.com^
 ||dfzv25.com^
 ||dgozp.com^
+||dhl4.xyz^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
@@ -31850,6 +31854,7 @@ vkcdnservice.appspot.com^
 ||gskbzle.cn^
 ||guangdongtaiji.com^
 ||guge.red^
+||guode.cyou^
 ||guuds.cyou^
 ||guyu8855.club^
 ||gvqrclx.cn^
@@ -31920,6 +31925,7 @@ vkcdnservice.appspot.com^
 ||jbuzacg.cn^
 ||jcvty.cyou^
 ||jfmfmgj.cn^
+||jgqub.cn^
 ||jike001.top^
 ||jinkens.fun^
 ||jishiben.info^
@@ -31959,8 +31965,10 @@ vkcdnservice.appspot.com^
 ||kzeqq.com^
 ||kzwwamf.cn^
 ||laafrce.cn^
+||labgpz.xyz^
 ||larbcc.xyz^
 ||laxnlqn.cn^
+||lbk7p.cn^
 ||leiersuqd.com^
 ||leiwo.xyz^
 ||lgugsnp.cn^
@@ -32010,12 +32018,15 @@ vkcdnservice.appspot.com^
 ||mvfrcio.cn^
 ||mxj.cx^
 ||mzwzo.cn^
+||n0544.com^
 ||n0644.com^
+||nccaer.xyz^
 ||ncrkff.xyz^
 ||ncvkzz.cn^
 ||neaqi.top^
 ||nehcqko.cn^
 ||neipa.xyz^
+||nexyzh.com^
 ||nhjwh.com^
 ||nissifresh.com^
 ||njslx.cn^
@@ -32070,6 +32081,7 @@ vkcdnservice.appspot.com^
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||ps123.online^
+||pwcuu.cn^
 ||pxrs6.cn^
 ||qanduan.com^
 ||qaou.top^
@@ -32130,6 +32142,7 @@ vkcdnservice.appspot.com^
 ||sdfv66.com^
 ||sdfxv57.com^
 ||seaflame.xyz^
+||sheena.ltd^
 ||shguy.cyou^
 ||shhaiya.com^
 ||shidaiheima.ltd^
@@ -32140,6 +32153,7 @@ vkcdnservice.appspot.com^
 ||skiyvwu.cn^
 ||skzlz.cn^
 ||slowbeat.fun^
+||smgbka.xyz^
 ||soqikbe.cn^
 ||soulsoul.xyz^
 ||srnov.top^
@@ -32289,6 +32303,7 @@ vkcdnservice.appspot.com^
 ||zawqwpajq.club^
 ||zax01.com^
 ||zbc6hyepls.xyz^
+||zcck60eqyw.world^
 ||zczcvx.com^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
@@ -32309,17 +32324,6 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||jgqub.cn^
-||labgpz.xyz^
-||lbk7p.cn^
-||smgbka.xyz^
-||bhulgot.com^
-||sheena.ltd^
-||pwcuu.cn^
-||guode.cyou^
-||dagamemisdeed.com^
-||dhl4.xyz^
-||n0544.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
