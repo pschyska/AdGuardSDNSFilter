@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-02-23T18:09:35.152Z
+! Last modified: 2023-02-24T00:38:13.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -698,7 +698,6 @@
 ||sizeilksohs.com^
 ||refpamjeql.top^
 ||1xsultan.com^
-||geo.ads.audio.thisisdax.com^
 ||snodlycaccias.com^
 ||adc.streamspread.com^
 ||fogsham.com^
@@ -3610,6 +3609,7 @@ vkcdnservice.appspot.com^
 ||ajhgruraqvoweo.xyz^
 ||ajillionmax.com^
 ||ajjhtetv87.com^
+||ajjtfysen.com^
 ||ajkcmuazxf.com^
 ||ajkzd9h.com^
 ||ajointstalder.website^
@@ -3895,6 +3895,7 @@ vkcdnservice.appspot.com^
 ||andbegant.one^
 ||anddecoyblizzard.com^
 ||andohs.net^
+||andoldifiscqak.xyz^
 ||andomedia.com^
 ||andomediagroup.com^
 ||andorapx.com^
@@ -4798,6 +4799,7 @@ vkcdnservice.appspot.com^
 ||bakongojotted.com^
 ||bakquka.com^
 ||bakteso.ru^
+||balaganpgnttrp.com^
 ||balancedweakness.com^
 ||balcekonspn.com^
 ||balconypeer.com^
@@ -4945,6 +4947,7 @@ vkcdnservice.appspot.com^
 ||bcb3da3ac8.com^
 ||bccda4ab57.com^
 ||bcd7ad4271.com^
+||bcenuvkijj.com^
 ||bcf8fbea24.com^
 ||bcguwwgkms.xyz^
 ||bclikeqt.com^
@@ -6376,6 +6379,7 @@ vkcdnservice.appspot.com^
 ||circuitingratitude.com^
 ||circumscribevetofurther.com^
 ||circumstancesrectangle.com^
+||circumstantialeltondirtiness.com^
 ||cirsepuh.net^
 ||ciscoesfirring.guru^
 ||cisheeng.com^
@@ -8417,6 +8421,7 @@ vkcdnservice.appspot.com^
 ||emolapnay.com^
 ||emostbeautif.xyz^
 ||emoticappfriends.com^
+||emperm.com^
 ||empiot.com^
 ||empirelayer.club^
 ||empiremoney.com^
@@ -8977,6 +8982,7 @@ vkcdnservice.appspot.com^
 ||featurelink.com^
 ||featurewinning.life^
 ||febadu.com^
+||febran.com^
 ||februarynip.com^
 ||februaryreductionapplet.com^
 ||federalcertainty.com^
@@ -10647,6 +10653,7 @@ vkcdnservice.appspot.com^
 ||hostave4.net^
 ||hostingcloud.racing^
 ||hot-3d-girls.com^
+||hot-clips.space^
 ||hot4k.org^
 ||hotchedbearhug.com^
 ||hotelbowfeast.com^
@@ -10769,6 +10776,7 @@ vkcdnservice.appspot.com^
 ||hvooyieoei.com^
 ||hvxqkunspvtln.com^
 ||hwaawsh.com^
+||hwayvnlvbvhfgkq.com^
 ||hwchvgpc.xyz^
 ||hwpnocpctu.com^
 ||hxgqqxopf.com^
@@ -11797,6 +11805,7 @@ vkcdnservice.appspot.com^
 ||khg97644rvbg.com^
 ||khment.com^
 ||khovdimina.com^
+||kickchecking.com^
 ||kidhumiliateessay.com^
 ||kidnapbushesfuse.com^
 ||kikibobo.top^
@@ -14557,6 +14566,7 @@ vkcdnservice.appspot.com^
 ||osspalkiaom.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||ostilllookinga.cc^
 ||oswegomiting.com^
 ||oswerebage.xyz^
 ||otbuzvqq8fm5.com^
@@ -14806,6 +14816,7 @@ vkcdnservice.appspot.com^
 ||pandasloveforlife.com^
 ||panelmono.com^
 ||pangrespectfully.com^
+||pangwealjama.com^
 ||pannamdashee.com^
 ||pansymerbaby.com^
 ||pantafives.com^
@@ -15430,6 +15441,7 @@ vkcdnservice.appspot.com^
 ||ponyvictorymiscarriage.com^
 ||poodledopas.cam^
 ||poogriry.click^
+||pookapsa.net^
 ||pookawnratbite.com^
 ||poolbreezecheer.com^
 ||poolgmsd.com^
@@ -16088,6 +16100,7 @@ vkcdnservice.appspot.com^
 ||pxglreolb.com^
 ||pxl2015x1.com^
 ||pxlk9.net.^
+||pxmqdhcvpcsra.xyz^
 ||pycizury.pro^
 ||pyfqqcekcgd.xyz^
 ||pykgnuujfuq.com^
@@ -18191,6 +18204,7 @@ vkcdnservice.appspot.com^
 ||stairtuy.com^
 ||staitchu.com^
 ||staithecrinion.com^
+||staiwiru.xyz^
 ||staixemo.com^
 ||staixooh.com^
 ||stallamenchisel.com^
@@ -20066,6 +20080,7 @@ vkcdnservice.appspot.com^
 ||vax-boost.com^
 ||vax-now.com^
 ||vazypteke.pro^
+||vb17121coramclean.pw^
 ||vbscgrnkoceya.com^
 ||vbtrax.com^
 ||vcdc.com^
@@ -22881,6 +22896,7 @@ vkcdnservice.appspot.com^
 ||themediagrid.com^
 ||themoneytizer.com^
 ||thewebgemnetwork.com^
+||thisisdax.com^
 ||tinyads.io^
 ||tiser.com^
 ||tlvmedia.com^
@@ -23218,6 +23234,7 @@ vkcdnservice.appspot.com^
 ||d13vul5n9pqibl.cloudfront.net^
 ||d140sbu1b1m3h0.cloudfront.net^
 ||d141wsrw9m4as6.cloudfront.net^
+||d145ghnzqbsasr.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
 ||d14zhsq5aop7ap.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
@@ -32324,6 +32341,11 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||swicgq.xyz^
+||zchkz.cn^
+||qunaw.cyou^
+||o0pvw.cn^
+||lkdhlp.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
