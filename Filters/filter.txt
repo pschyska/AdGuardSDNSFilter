@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-01T12:14:19.653Z
+! Last modified: 2023-03-01T18:09:35.659Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -32112,6 +32112,7 @@ vkcdnservice.appspot.com^
 ||9f11.win^
 ||9fh6m.cn^
 ||aaaesme.cn^
+||accommodatingremindauntie.com^
 ||afdplay.xyz^
 ||afx001.pw^
 ||agkacg.xyz^
@@ -32140,6 +32141,7 @@ vkcdnservice.appspot.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
 ||bddwm.com^
+||beatricecathy.com^
 ||bfdaawe.top^
 ||bgcnhux.cn^
 ||bgjjwl.cn^
@@ -32226,6 +32228,7 @@ vkcdnservice.appspot.com^
 ||ewmvim.xyz^
 ||ewrwf.com^
 ||ezfxpuo.cn^
+||ezwxia.xyz^
 ||f9s6.top^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
@@ -32265,6 +32268,7 @@ vkcdnservice.appspot.com^
 ||gskbzle.cn^
 ||guangdongtaiji.com^
 ||guge.red^
+||guoandong.ltd^
 ||guode.cyou^
 ||guuds.cyou^
 ||guyu8855.club^
@@ -32289,6 +32293,7 @@ vkcdnservice.appspot.com^
 ||hhaobcj.cn^
 ||hibaby.ren^
 ||hiqrnyn.cn^
+||hkbzl.hk^
 ||hmpubc.xyz^
 ||hndhas.com^
 ||hnrjign.cn^
@@ -32477,7 +32482,9 @@ vkcdnservice.appspot.com^
 ||ofgysy.xyz^
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
+||oiqdjksgpo.com^
 ||okew.top^
+||okoc.top^
 ||okod.top^
 ||okoy.top^
 ||okwa.top^
@@ -32588,6 +32595,7 @@ vkcdnservice.appspot.com^
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||shikongbb.com^
+||siejp.cyou^
 ||sige20221230.xyz^
 ||siuscs.xyz^
 ||sixarwr.cn^
@@ -32650,6 +32658,7 @@ vkcdnservice.appspot.com^
 ||udifvi.cn^
 ||ufynxmf.cn^
 ||ukutuy.xyz^
+||uniway.cn.com^
 ||unmnkkq.cn^
 ||uowfag.xyz^
 ||uwumr.cn^
@@ -32679,7 +32688,9 @@ vkcdnservice.appspot.com^
 ||wdasa.top^
 ||wdmdejd.cn^
 ||weieo.cyou^
+||weighcb.com^
 ||weiqu.cyou^
+||wfndponfd.com^
 ||whrgsmi.cn^
 ||wjl58.icu^
 ||wp8d.xyz^
@@ -32717,6 +32728,7 @@ vkcdnservice.appspot.com^
 ||xkjcpl.cn^
 ||xkqit.com^
 ||xmmnsl.com^
+||xnrcnz.xyz^
 ||xopew.cyou^
 ||xrewo.xyz^
 ||xryjyfb.cn^
@@ -32784,15 +32796,6 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||xnrcnz.xyz^
-||ezwxia.xyz^
-||siejp.cyou^
-||okoc.top^
-||guoandong.ltd^
-||accommodatingremindauntie.com^
-||uniway.cn.com^
-||weighcb.com^
-||beatricecathy.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -40093,6 +40096,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 !
 # >> A <<
+||adrooz.com^
 ||affilio.ir^
 ||analyt.ir^
 
@@ -40408,6 +40412,7 @@ analytics-*.aasaam.com
 ||websocket.55online.news^
 
 # >> P <<
+||analytics.plaza.ir^
 
 # >> Q <<
 ||sentry.quera.org^
