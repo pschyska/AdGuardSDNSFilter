@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-03T06:10:22.652Z
+! Last modified: 2023-03-03T12:13:31.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -25074,6 +25074,25 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ini.sm-nat.com^
+||virtonnews.com^
+||top-js-metrics.top.my.ua^
+||novosti-online.gq^
+||mirror.smi.fm^
+||info.emoment.com^
+||ext.week.news^
+||readto.ru^
+||adwile.com^
+||inshocking.ru^
+||lentainform.com^
+||newseek.org^
+||ravnovesienews.ru^
+||rb.infox.sg^
+||ru-novocti.com^
+||skyad1.ru^
+||sosnews.ru^
+||sv-pr.ru^
+||svitnews.com^
 ||uuidksinc.net^
 ||ferdarius.com^
 ||gbf77po03m.com^
@@ -28572,6 +28591,17 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||api.rnet.plus^
+||ex.newsland.com^
+||exchange.informer.ua^
+||news.mirtesen.ru^
+||jsn.24smi.net^
+||data.24smi.net^
+||smi.today^
+||dw-informer-*.newsru.com^
+||widget.mediastealer.com^
+||vi.bigmir.net^
+||smi24.kz^
 ||banner.kaktus.media^
 ||rtb.wedeo.ru^
 ||flowers.moex.com^
@@ -28737,60 +28767,6 @@ vkcdnservice.appspot.com^
 ! Source name: AdGuard Russian filter news exchange servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
 !
-||ini.sm-nat.com^
-||smi24.kz^
-||virtonnews.com^
-||top-js-metrics.top.my.ua^
-||novosti-online.gq^
-||mirror.smi.fm^
-||info.emoment.com^
-||ext.week.news^
-||smi.today^
-||readto.ru^
-||adwile.com^
-||api.rnet.plus^
-||data.24smi.net^
-||dw-informer-*.newsru.com^
-||ex.newsland.com^
-||exchange.informer.ua^
-||inshocking.ru^
-||jsn.24smi.net^
-||lentainform.com^
-||mediadog.ru^
-||news.mirtesen.ru^
-||newseek.org^
-||ravnovesienews.ru^
-||rb.infox.sg^
-||ru-novocti.com^
-||skyad1.ru^
-||sosnews.ru^
-||sv-pr.ru^
-||svitnews.com^
-||vi.bigmir.net^
-||widget.mediastealer.com^
-||mixervanga.ru^
-||runewslenta.com^
-||okaynews.me^
-||newsandpolik.ru^
-||blamper-news.ru^
-||blamper-novosti.ru^
-||blamper.ru^
-||fin-vecto.ru^
-||fin-vector.ru^
-||ognyvo-topnews.ru^
-||ognyvo24.ru^
-||polit-e-fox.ru^
-||polit-fox.ru^
-||politfox.ru^
-||politfoxrf.ru^
-||ros-infonews.ru^
-||rosinfonews.ru^
-||rossinfonews.ru^
-||rossinfonewsrf.ru^
-||rustoria-topnews.ru^
-||top-newsrustoria.ru^
-||topruistory.ru^
-||toprustory.ru^
 !
 ! Source name: AdGuard Turkish filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
@@ -30159,8 +30135,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-03-02 14:28:12 CET
-# entries:        1051
+# last updated:   2023-03-03 08:00:36 CET
+# entries:        1052
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -30688,6 +30664,7 @@ vkcdnservice.appspot.com^
 ||stats.wp.com^
 ||stats2.agilecrm.com^
 ||statsapi.screen9.com^
+||statsapi.tiendeo.se^
 ||storymedia.se^
 ||st-n.ads1-adnow.com^
 ||survey.interquest.com^
@@ -32844,6 +32821,7 @@ vkcdnservice.appspot.com^
 ||jrrwsk.ltd^
 ||byj123.cn^
 ||additionsmiracle.com^
+||5py1.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
