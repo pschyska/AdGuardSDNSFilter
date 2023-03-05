@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-05T06:08:57.386Z
+! Last modified: 2023-03-05T12:12:39.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31276,7 +31276,6 @@ vkcdnservice.appspot.com^
 !
 !
 ||c303.pw^
-! Domain server iklan milik luckyads.com (domain sering berganti-ganti)
 ! https://github.com/realodix/AdBlockID/issues/376
 ! XL Axiata
 ! https://github.com/realodix/AdBlockID/issues/151
@@ -31302,15 +31301,6 @@ vkcdnservice.appspot.com^
 ||hfvamxbcfccycm.com^
 ||xwmxdrnl.com^
 ! Sep 2022
-! Aug 2022
-! Jul 2022
-||fcouvtlwzocok.com^
-||fmjvsmavummyjnc.com^
-||jfecfzzuwevyqc.com^
-||jqxqddvyw.com^
-||ttwscqlqmbcb.com^
-||tyiqebrbpxc.com^
-||yajlpetccbodq.com^
 ! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
 
 !
@@ -32916,6 +32906,8 @@ vkcdnservice.appspot.com^
 ||okcy.top^
 ||jipinyouwu.com^
 ||wskyh.ltd^
+||wuifbjdswsl.com^
+||tututu666.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
