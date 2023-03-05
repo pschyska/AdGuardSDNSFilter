@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-04T18:08:31.574Z
+! Last modified: 2023-03-05T00:43:45.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -25134,6 +25134,9 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+! NOTE: Copied to Cyrillic common-sections
+! NOTE: Will be obsolete after splitting the filter
+!
 ||clickwhitecode.com^
 ||ini.sm-nat.com^
 ||virtonnews.com^
@@ -28651,6 +28654,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+! NOTE: Copied to Cyrillic common-sections
+! NOTE: Will be obsolete after splitting the filter
 !
 ||api.rnet.plus^
 ||ex.newsland.com^
@@ -32901,6 +32906,11 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||nnfeibao.cn^
+||gaoai.wang^
+||unevwe.xyz^
+||dacyh.cyou^
+||nbzabd.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
