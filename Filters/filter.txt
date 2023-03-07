@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-07T06:10:00.728Z
+! Last modified: 2023-03-07T12:14:16.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||funnwphcfijvmd.xyz^
+||adeepado.xyz^
+||seethafo.xyz^
 ||assaystalonic.com^
 ||aawulszemel.com^
 ||lmgdmwyd.com^
@@ -25228,6 +25231,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||aclicktds.org^
 ||top-js-metrics.top.my.ua^
 ||cdn.umh.ua^
 ||adversting.riamedia.com.ua^
@@ -29364,6 +29368,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||sexpixbox.com^
 ||ads.contents.fc2.com^
 ||thepsusiwho.com^
 ||d2swpuhpwp3khd.cloudfront.net^
