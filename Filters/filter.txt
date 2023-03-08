@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-07T18:09:41.733Z
+! Last modified: 2023-03-08T00:40:49.754Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3464,6 +3464,7 @@ vkcdnservice.appspot.com^
 ||alloysoftballcrushing.com^
 ||allpipestay.live^
 ||allpornovids.com^
+||allrightjerseydresser.com^
 ||allstat-pp.ru^
 ||allstealing.com^
 ||alltopnewz.com^
@@ -6469,6 +6470,7 @@ vkcdnservice.appspot.com^
 ||colliersads.com^
 ||colmoseshelled.com^
 ||colognenobilityfrost.com^
+||cologu.com^
 ||colombomyeloid.live^
 ||colonistnobilityheroic.com^
 ||colorfullank.com^
@@ -7994,6 +7996,7 @@ vkcdnservice.appspot.com^
 ||eagernessstrongergreet.com^
 ||eagleapi.io^
 ||eagletskoku.com^
+||eaglic.com^
 ||eaglid.com^
 ||ealeo.com^
 ||eanddescri.com^
@@ -9220,6 +9223,7 @@ vkcdnservice.appspot.com^
 ||forgivenesscourtesy.com^
 ||forgivenessimpact.com^
 ||forgivenesspeltanalyse.com^
+||forgoodplay.com^
 ||forgoprokick.icu^
 ||forgottedvere.xyz^
 ||forlumineoner.com^
@@ -11707,6 +11711,7 @@ vkcdnservice.appspot.com^
 ||juntfemoral.com^
 ||juricts.xyz^
 ||juringupstage.com^
+||jurisdictionasundercurls.com^
 ||jursp.com^
 ||juryinvolving.com^
 ||jusbertimla4ke2.com^
@@ -11912,6 +11917,7 @@ vkcdnservice.appspot.com^
 ||kjsvvnzcto.com^
 ||kkmacsqsbf.info^
 ||kkuocsorgz.com^
+||kkuodlkfapuw.com^
 ||klausmoplah.com^
 ||kldlhyosc.com^
 ||klenhosnc.com^
@@ -12682,6 +12688,7 @@ vkcdnservice.appspot.com^
 ||luralgaqp.com^
 ||lurgaimt.net^
 ||lurgaush.net^
+||lurzixxiht.com^
 ||lushcrush.com^
 ||lustresneakvisitation.com^
 ||lutachechu.pro^
@@ -13619,6 +13626,7 @@ vkcdnservice.appspot.com^
 ||mxuiso.com^
 ||mxwjfvlspn.com^
 ||my-hanson.com^
+||my1elitclub.com^
 ||my83s1kw3u.com^
 ||myactualblog.com^
 ||myadcash.com^
@@ -14528,6 +14536,7 @@ vkcdnservice.appspot.com^
 ||onedmp.com^
 ||oneegrou.net^
 ||onegalact.com^
+||onegamespicshere.com^
 ||onelivetra.com^
 ||onemacusa.net^
 ||onemboaran.com^
@@ -15421,6 +15430,7 @@ vkcdnservice.appspot.com^
 ||picsfun.info^
 ||picsfun.online^
 ||picsfun.space^
+||picshouse.online^
 ||picsofdream.today^
 ||picsservices.info^
 ||picsti.com^
@@ -17607,6 +17617,7 @@ vkcdnservice.appspot.com^
 ||scillathemons.com^
 ||sciniphruffin.com^
 ||scissorstenantplot.com^
+||scl6gc5l.site^
 ||scnd-tr.com^
 ||sconvtrk.com^
 ||scornamentum.com^
@@ -17921,6 +17932,7 @@ vkcdnservice.appspot.com^
 ||shoop4.com^
 ||shooterconsultationcart.com^
 ||shootoax.com^
+||shopmonthtravel.com^
 ||shopshoist.com^
 ||shopworld.info^
 ||shorantonto.com^
@@ -18155,6 +18167,7 @@ vkcdnservice.appspot.com^
 ||smallelboswore.xyz^
 ||smallestunrealilliterate.com^
 ||smallfunnybears.com^
+||smallstrengthen.com^
 ||smalltiberbridge.com^
 ||smart-name.pro^
 ||smart2cnjuh34jb.com^
@@ -20701,6 +20714,7 @@ vkcdnservice.appspot.com^
 ||voacheph.xyz^
 ||voapozol.com^
 ||voastauz.net^
+||vocalconferencesinister.com^
 ||vodobyve.pro^
 ||voeunblk.com^
 ||vogmlpzlnrj.com^
@@ -33093,6 +33107,11 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||diwok.cyou^
+||ascloud.tech^
+||nvwanyyds.com^
+||dfvarz.xyz^
+||kravma.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
