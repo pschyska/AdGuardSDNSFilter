@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-10T06:10:30.653Z
+! Last modified: 2023-03-10T12:14:14.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||qmxgkgykaex.com^
 ||scentedindication.com^
 ||wumufama.com^
 ||ticaadjuk.xyz^
@@ -1168,6 +1169,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||adtech-prod.nikecloud.com^
 ||newrevive.detik.com^
 ||ad.serv1for.pro^
 ||cdn.aanetwork.vn^
@@ -33328,6 +33330,11 @@ vkcdnservice.appspot.com^
 ||syfl.ltd^
 ||mfjiaoyu.cn^
 ||dengtao.link^
+||xyh001.com^
+||003aldjads.xyz^
+||zcczrvsaqw.world^
+||7162a.com^
+||hzhuang.wang^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
