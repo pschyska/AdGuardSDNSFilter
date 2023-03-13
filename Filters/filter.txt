@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-13T00:38:54.039Z
+! Last modified: 2023-03-13T06:10:31.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31699,9 +31699,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Mar 2023 09:21 UTC+7
-! Version: 2303100921
-! Blocked: 831 rules
+! Last modified: 13 Mar 2023 10:38 UTC+7
+! Version: 2303131038
+! Blocked: 833 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -31815,6 +31815,7 @@ vkcdnservice.appspot.com^
 ||hotngay.vn^
 ||itim.vn^
 ||jeoway.com^
+||jp.zaloapp.com^
 ||js.aiservice.vn^
 ||jslog.zapps.vn^
 ||kabbmedia.com^
@@ -32001,6 +32002,7 @@ vkcdnservice.appspot.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zpsocial-f52-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
@@ -33393,6 +33395,8 @@ vkcdnservice.appspot.com^
 ||heqinyyds.com^
 ||bdfwzt.xyz^
 ||hioek.cyou^
+||wangsf.ltd^
+||kezldfv.cn^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
