@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-13T06:10:31.699Z
+! Last modified: 2023-03-13T12:14:11.754Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1141,6 +1141,8 @@
 ||dianomi.com^
 !+ NOT_OPTIMIZED
 ||leaderhistliness.info^
+!+ NOT_OPTIMIZED
+||amazon-adsystem.com^
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -3571,7 +3573,6 @@ vkcdnservice.appspot.com^
 ||amazinelistrun.pro^
 ||amazinelistrun.xyz^
 ||amazingdomain.sbs^
-||amazon-adsystem.com^
 ||amazon-cornerstone.com^
 ||ambaab.com^
 ||ambassadorpotentsummer.com^
@@ -33397,6 +33398,7 @@ vkcdnservice.appspot.com^
 ||hioek.cyou^
 ||wangsf.ltd^
 ||kezldfv.cn^
+||4bds.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
