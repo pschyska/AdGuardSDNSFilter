@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-15T06:10:01.618Z
+! Last modified: 2023-03-15T12:14:00.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22404,7 +22404,6 @@ vkcdnservice.appspot.com^
 ||adbetnet.com^
 ||adbit.biz^
 ||adcalm.com^
-||adcell.com^
 ||adclickafrica.com^
 ||adcolony.com^
 ||adconity.com^
@@ -29689,7 +29688,6 @@ vkcdnservice.appspot.com^
 ||expdirclk.com^
 ||pompass.net^
 ||v2st.shinobi.jp^
-||yads.c.yimg.jp^
 ||link-a.net^
 ||corectcustom.com^
 ||moro-douga.link^
@@ -31181,7 +31179,6 @@ vkcdnservice.appspot.com^
 ||sleeknote.com^
 ||smetrics.aftonbladet.se^
 ||smtvn.112.2o7.net^
-||snap.licdn.com^
 ||sociuslive.com^
 ||source.advisible.com^
 ||spel.expressen.se^
