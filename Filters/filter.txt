@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-18T12:11:56.493Z
+! Last modified: 2023-03-18T18:08:03.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -32976,6 +32976,7 @@ vkcdnservice.appspot.com^
 ||ebpu2.top^
 ||ebten.xyz^
 ||ebzqyow.cn^
+||effetspositifs.com^
 ||eijriol.cn^
 ||ejyvgq.xyz^
 ||ekcsqzo.cn^
@@ -33030,6 +33031,7 @@ vkcdnservice.appspot.com^
 ||gaiqgs.xyz^
 ||gaoai.wang^
 ||gaohexiang.xyz^
+||gauqeo.xyz^
 ||geiaxbk.cn^
 ||gejulm1314.com^
 ||gfqsded.cn^
@@ -33133,6 +33135,7 @@ vkcdnservice.appspot.com^
 ||irygym.xyz^
 ||isdfbvkvsc.xyz^
 ||isuiguk.cn^
+||itpest.cn^
 ||ituxzez.cn^
 ||iugbjkqwc.xyz^
 ||iwjgwis.cn^
@@ -33163,6 +33166,8 @@ vkcdnservice.appspot.com^
 ||jqueryboots.com^
 ||jrrwsk.ltd^
 ||juntaijiancai.com^
+||jusheng.asia^
+||jusheng.icu^
 ||juyqiolna.cyou^
 ||juzwrl.xyz^
 ||jwghphm.cn^
@@ -33188,6 +33193,7 @@ vkcdnservice.appspot.com^
 ||kiymowg.cn^
 ||kjvnfhdgb.com^
 ||kkqeqk.cn^
+||klsnckalualkcn.com^
 ||kmzayrt.cn^
 ||knr1.xyz^
 ||knyjes.xyz^
@@ -33276,6 +33282,7 @@ vkcdnservice.appspot.com^
 ||ncrkff.xyz^
 ||ncvkzz.cn^
 ||neaqi.top^
+||neg.hk^
 ||nehcqko.cn^
 ||neipa.xyz^
 ||newspress.name^
@@ -33483,6 +33490,7 @@ vkcdnservice.appspot.com^
 ||tb3t.xyz^
 ||tehgfn.xyz^
 ||teowa.cyou^
+||tfallview.live^
 ||tffindmarket.live^
 ||tfzozf.xyz^
 ||tg0qu.top^
@@ -33552,6 +33560,7 @@ vkcdnservice.appspot.com^
 ||vgxhvt.xyz^
 ||vilki.cn^
 ||viope.cyou^
+||vj1p.xyz^
 ||vlbbxt.xyz^
 ||vnq3.top^
 ||vokmhydy.xyz^
@@ -33628,6 +33637,7 @@ vkcdnservice.appspot.com^
 ||xtpez.xyz^
 ||xuhaijun.pw^
 ||xunren.club^
+||xwewwgk.cn^
 ||xxp123.live^
 ||xxsmcps.com^
 ||xxtalp.xyz^
@@ -33637,6 +33647,7 @@ vkcdnservice.appspot.com^
 ||xyyejhm.cn^
 ||xznrtl.xyz^
 ||y1990.pw^
+||yalayi.net^
 ||yang17.xyz^
 ||yanjiusuo.cc^
 ||ybfljs.com^
@@ -33691,6 +33702,7 @@ vkcdnservice.appspot.com^
 ||znktkt.cn^
 ||znllfp.xyz^
 ||zodvlr.xyz^
+||zopvjn.xyz^
 ||zoute.cyou^
 ||zsjyuet.cn^
 ||ztwrnpd.cn^
@@ -33699,17 +33711,6 @@ vkcdnservice.appspot.com^
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
-||neg.hk^
-||itpest.cn^
-||zopvjn.xyz^
-||gauqeo.xyz^
-||tfallview.live^
-||effetspositifs.com^
-||xwewwgk.cn^
-||jusheng.asia^
-||jusheng.icu^
-||yalayi.net^
-||klsnckalualkcn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
