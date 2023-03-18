@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-18T06:08:52.438Z
+! Last modified: 2023-03-18T12:11:56.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -29835,6 +29835,10 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||affiliate.casino-wonder.com^
+||affiliate.miracle-miracle.com^
+||samuraiclick.com^
+||lvtag.com^
 ||sexpixbox.com^
 ||ads.contents.fc2.com^
 ||thepsusiwho.com^
@@ -33705,6 +33709,7 @@ vkcdnservice.appspot.com^
 ||jusheng.asia^
 ||jusheng.icu^
 ||yalayi.net^
+||klsnckalualkcn.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
