@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-19T12:12:06.193Z
+! Last modified: 2023-03-19T18:08:11.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||bgcold.com^
+||chlign.com^
 ||runoj.click^
 ||clicktroute.com^
 ||topvids.online^
@@ -33072,6 +33074,7 @@ vkcdnservice.appspot.com^
 ||elsmom.xyz^
 ||ennde.cyou^
 ||ermao20230220.live^
+||etdcezc.cn^
 ||ethandataserver.love^
 ||etkht.cn^
 ||evunmc.xyz^
@@ -33096,6 +33099,7 @@ vkcdnservice.appspot.com^
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
 ||fhvbhx.xyz^
+||fillidutt.tw^
 ||fioem.cyou^
 ||fn9u.fun^
 ||fnkio.cyou^
@@ -33123,6 +33127,7 @@ vkcdnservice.appspot.com^
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
 ||gomhn.cn^
@@ -33498,6 +33503,7 @@ vkcdnservice.appspot.com^
 ||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
+||qzhiku.cc^
 ||rardi.cyou^
 ||rayss.host^
 ||rdjnjz.xyz^
@@ -33593,6 +33599,7 @@ vkcdnservice.appspot.com^
 ||tjxafmo.cn^
 ||tqxthzy.cn^
 ||traktalent.com^
+||tsck.online^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
 ||tuape.xyz^
@@ -33689,6 +33696,7 @@ vkcdnservice.appspot.com^
 ||wusuliriver.com^
 ||wutou20230201.live^
 ||wwnyubs.cn^
+||wxzrw.com^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
@@ -33797,14 +33805,8 @@ vkcdnservice.appspot.com^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||zzxmcp.com^
-||gkwrae.xyz^
-||fillidutt.tw^
 ||zyrwfd.xyz^
-||wxzrw.com^
-||qzhiku.cc^
-||etdcezc.cn^
-||tsck.online^
+||zzxmcp.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
