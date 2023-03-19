@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-19T06:10:15.028Z
+! Last modified: 2023-03-19T12:12:06.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3957,6 +3957,7 @@ vkcdnservice.appspot.com^
 ||arguerepetition.com^
 ||arguesmoke.com^
 ||arheth.com^
+||arhvtaonkvi.com^
 ||ariadnethreadmin.com^
 ||aribut.com^
 ||arielpri2nce8ss09.com^
@@ -3985,6 +3986,7 @@ vkcdnservice.appspot.com^
 ||arnofourgu.com^
 ||arodvsmindxec.com^
 ||arointbarra.com^
+||arossb.com^
 ||arouac.com^
 ||aroundpayslips.com^
 ||arousedimitateplane.com^
@@ -5079,6 +5081,7 @@ vkcdnservice.appspot.com^
 ||bfhqteipdh.com^
 ||bfkvwuhyoingpmf.xyz^
 ||bfqcx.xyz^
+||bfqwfpjdgc.com^
 ||bftrlhesrlfjp.com^
 ||bfts.xyz^
 ||bfxytxdpnk.com^
@@ -5429,6 +5432,7 @@ vkcdnservice.appspot.com^
 ||booster-vax.com^
 ||boostknifehumidity.com^
 ||boostog.net^
+||boothsuropygi.space^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
 ||bootstraplugin.com^
@@ -6673,6 +6677,7 @@ vkcdnservice.appspot.com^
 ||condles-temark.com^
 ||condolecourtesywry.com^
 ||condoledownright.com^
+||condoleextensive.com^
 ||condolencespicturesquetracks.com^
 ||condolencessumcomics.com^
 ||conductiveruthless.com^
@@ -10318,6 +10323,7 @@ vkcdnservice.appspot.com^
 ||gsinspiring.xyz^
 ||gsiswensaido.xyz^
 ||gsvyjunccsw.com^
+||gsziafjjgeq.com^
 ||gtbdhr.com^
 ||gtoonfd.com^
 ||gtrd.xyz^
@@ -10778,6 +10784,7 @@ vkcdnservice.appspot.com^
 ||hjnaqsonmjasv.com^
 ||hjxajf.com^
 ||hkilops.com^
+||hkkpfcnqoajtsu.com^
 ||hkoxlirf.com^
 ||hkskazmx.com^
 ||hlbowfmkhckig.com^
@@ -11885,6 +11892,7 @@ vkcdnservice.appspot.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jrfkurohvql.xyz^
+||jrnweuntwtem.com^
 ||jrpkizae.com^
 ||js7k.com^
 ||jscdn.online^
@@ -13149,6 +13157,7 @@ vkcdnservice.appspot.com^
 ||marathongenerositypremiere.com^
 ||marazma.com^
 ||marbil24.co.za^
+||marblecaution.com^
 ||marchgrinwimp.com^
 ||marchingsmug.com^
 ||margarinereverend.com^
@@ -13539,6 +13548,7 @@ vkcdnservice.appspot.com^
 ||mirishkeeps.com^
 ||misaglam.com^
 ||misbornsubitem.space^
+||miscellaneousdietary.com^
 ||misear.com^
 ||misguidedstork.com^
 ||mishapideal.com^
@@ -14354,6 +14364,7 @@ vkcdnservice.appspot.com^
 ||noonfrequentpea.com^
 ||nooroapo.com^
 ||nooserchaouia.com^
+||noozjifbn.com^
 ||nopolicycrea.com^
 ||noproblfr.com^
 ||noptog.com^
@@ -14370,6 +14381,7 @@ vkcdnservice.appspot.com^
 ||nortue.com^
 ||nosaul.com^
 ||nossairt.net^
+||nosselaune.space^
 ||nosselphloxes.com^
 ||nostromedia.com^
 ||notabilitysedative.com^
@@ -15235,6 +15247,7 @@ vkcdnservice.appspot.com^
 ||ozardoog.net^
 ||ozdfhysr.com^
 ||ozectynptd.com^
+||ozgaflxqjes.com^
 ||ozmifi.info^
 ||ozobsaib.com^
 ||ozofzoagfuj.com^
@@ -15682,6 +15695,7 @@ vkcdnservice.appspot.com^
 ||phirozeon.com^
 ||phivotal.com^
 ||phloxsub73ulata.com^
+||phoaglee.com^
 ||phoalard.net^
 ||phoapsoo.com^
 ||phoaptee.net^
@@ -15813,6 +15827,7 @@ vkcdnservice.appspot.com^
 ||pitpastraja.com^
 ||pityneedsdads.com^
 ||pitysuffix.com^
+||piupiucreed.life^
 ||pivotrunner.com^
 ||piwixesu.pro^
 ||pixazza.com^
@@ -22219,6 +22234,7 @@ vkcdnservice.appspot.com^
 ||ym-a.cc^
 ||ym8p.net^
 ||ymchcohvncak.xyz^
+||ymepooluqd.com^
 ||ymkomlhgzbpitp.com^
 ||ymzrrizntbhde.com^
 ||yneationsliee.xyz^
@@ -33785,6 +33801,10 @@ vkcdnservice.appspot.com^
 ||gkwrae.xyz^
 ||fillidutt.tw^
 ||zyrwfd.xyz^
+||wxzrw.com^
+||qzhiku.cc^
+||etdcezc.cn^
+||tsck.online^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
