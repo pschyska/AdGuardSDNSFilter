@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-20T12:13:55.525Z
+! Last modified: 2023-03-20T18:09:30.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||yidbyhersle.xyz^
 ||choacmax.xyz^
 ||isnconcfiplu.xyz^
 ||colved.com^
@@ -23665,6 +23666,7 @@ vkcdnservice.appspot.com^
 ||prebid.org^
 ||prebidwrapper.com^
 ||primis-amp.tech^
+||profitsfly.com^
 ||promo-reklama.ru^
 ||proper.io^
 ||pubdirecte.com^
@@ -32916,6 +32918,8 @@ vkcdnservice.appspot.com^
 ||8499136.com^
 ||8499234.com^
 ||8499258.com^
+||8861200.com^
+||8861201.com^
 ||8861202.com^
 ||8881img.com^
 ||8886i.top^
@@ -32968,6 +32972,8 @@ vkcdnservice.appspot.com^
 ||atnnf.xyz^
 ||atuhi.cyou^
 ||avgsco.xyz^
+||avkw.cn^
+||baidujsvbj.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
 ||bddwm.com^
@@ -33051,6 +33057,7 @@ vkcdnservice.appspot.com^
 ||dhl4.xyz^
 ||diqizu.xyz^
 ||diwok.cyou^
+||dmqi.ltd^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
@@ -33097,6 +33104,7 @@ vkcdnservice.appspot.com^
 ||fcgphtr.cn^
 ||fdbskb.cn^
 ||fdgem.com^
+||fdhvczd.cn^
 ||fds-1230.cc^
 ||fdtrjz.xyz^
 ||feixun.info^
@@ -33122,6 +33130,7 @@ vkcdnservice.appspot.com^
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
 ||fzbkgni.cn^
+||fzf1.top^
 ||g2qb.top^
 ||g8ld.fun^
 ||gadscc.xyz^
@@ -33171,6 +33180,7 @@ vkcdnservice.appspot.com^
 ||hibaby.ren^
 ||hioek.cyou^
 ||hiqrnyn.cn^
+||hitubt.xyz^
 ||hkbzl.hk^
 ||hladalliance.com^
 ||hlggimg.com^
@@ -33318,6 +33328,7 @@ vkcdnservice.appspot.com^
 ||lgugsnp.cn^
 ||lgxm.cool^
 ||lh54.top^
+||lianyi.wang^
 ||lijie.in^
 ||liutou20230203.live^
 ||liuye.club^
@@ -33340,6 +33351,7 @@ vkcdnservice.appspot.com^
 ||lzzzjx.xyz^
 ||m6ku1.cn^
 ||maccms10.cn^
+||malong.plus^
 ||mbepa.xyz^
 ||mbqwwa.cn^
 ||mdcxyo.xyz^
@@ -33437,6 +33449,7 @@ vkcdnservice.appspot.com^
 ||oroqikj.cn^
 ||osalwqv.cn^
 ||oulibf.xin^
+||ouypyu.xyz^
 ||owihyg.xyz^
 ||oyqjp.cn^
 ||p23jac.top^
@@ -33542,6 +33555,7 @@ vkcdnservice.appspot.com^
 ||sairy.cyou^
 ||salangane.asia^
 ||sange20221226.xyz^
+||sanqian.pro^
 ||santou20230127.live^
 ||sc4mh.cn^
 ||scbt.asia^
@@ -33606,6 +33620,7 @@ vkcdnservice.appspot.com^
 ||tqxthzy.cn^
 ||traktalent.com^
 ||tsck.online^
+||tt-baidu.xyz^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
 ||tuape.xyz^
@@ -33813,17 +33828,6 @@ vkcdnservice.appspot.com^
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||lianyi.wang^
-||hitubt.xyz^
-||ouypyu.xyz^
-||dmqi.ltd^
-||avkw.cn^
-||sanqian.pro^
-||tt-baidu.xyz^
-||fdhvczd.cn^
-||8861201.com^
-||8861200.com^
-||baidujsvbj.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
