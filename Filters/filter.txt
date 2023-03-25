@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-25T06:08:22.990Z
+! Last modified: 2023-03-25T12:11:19.193Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34234,6 +34234,9 @@ vkcdnservice.appspot.com^
 ||xsplus.info^
 ||zmadsvd.cn^
 ||gaowei.fit^
+||6179a.com^
+||pojihfnkbllg.net^
+||poqjnkdsou.net^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
@@ -41002,6 +41005,7 @@ analytics-*.aasaam.com
 # ^ Used by kojaro.com
 
 ||sabavision.com^
+||sabaidea.cloud^
 
 # >> T <<
 ||trustseal.e-rasaneh.ir^
