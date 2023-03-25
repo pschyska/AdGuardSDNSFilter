@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-25T12:11:19.193Z
+! Last modified: 2023-03-25T18:07:58.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||variationaspenjaunty.com^
+||yourgoads.com^
 ||tqkfrdcwht.xyz^
 ||ujhhfgbbhs.com^
 ||nannyamplify.com^
@@ -21257,7 +21259,6 @@ vkcdnservice.appspot.com^
 ||varechphugoid.com^
 ||variableexternal.com^
 ||variablesconevening.com^
-||variationaspenjaunty.com^
 ||variedslimecloset.com^
 ||varietiesassuage.com^
 ||varietiesplea.com^
@@ -30281,6 +30282,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||js.medi-8.net^
 ||presco.ai^
 ||thisstations.com^
 ||affiliate.casino-wonder.com^
