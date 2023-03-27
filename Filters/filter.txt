@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-27T00:35:29.560Z
+! Last modified: 2023-03-27T06:10:03.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -7489,7 +7489,6 @@ vkcdnservice.appspot.com^
 ||deludemesh.com^
 ||deludereflexunderwater.com^
 ||delwargal.click^
-||demand.supply^
 ||demandedhalfmoon.com^
 ||demeepsi.xyz^
 ||demersekeld.com^
@@ -14080,6 +14079,7 @@ vkcdnservice.appspot.com^
 ||mushesarrear.com^
 ||music-home.info^
 ||musicnote.info^
+||musk-give.com^
 ||musmentportal.com^
 ||musmrebitfic.com^
 ||musselchangeableskier.com^
@@ -31635,6 +31635,7 @@ vkcdnservice.appspot.com^
 ||leiki-doubleclick-proxy.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
+||live.demand.supply^
 ||ljuskompaniet.se^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
@@ -34257,6 +34258,11 @@ vkcdnservice.appspot.com^
 ||ummnam.xyz^
 ||szcmcs.com^
 ||fq67.top^
+||changyangcd.com^
+||kuyw.cn^
+||chrislee.ltd^
+||ddhs.site^
+||tianlaoyyds.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
