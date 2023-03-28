@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-28T12:13:44.750Z
+! Last modified: 2023-03-28T18:09:09.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||sopalk.com^
+||wrufer.com^
 ||bqypgubvupcg.com^
 ||whoursie.com^
 ||devaultautit.com^
@@ -30431,6 +30433,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rotorfon.go-prod.dogt.xyz^
 ||r.yabancidizi.in^
 ||ads.dygdigital.com^
 ||ads.igfhaber.com^
@@ -33638,6 +33641,7 @@ vkcdnservice.appspot.com^
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
 ||cwobgp.cn^
+||cwolwc.xyz^
 ||cwpbohx.cn^
 ||cxgwsu.xyz^
 ||d3f3.xyz^
@@ -33666,6 +33670,7 @@ vkcdnservice.appspot.com^
 ||dfzv25.com^
 ||dgozp.com^
 ||dhl4.xyz^
+||dioak.cyou^
 ||diqizu.xyz^
 ||diwok.cyou^
 ||dmqi.ltd^
@@ -33762,6 +33767,7 @@ vkcdnservice.appspot.com^
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkustph.cn^
 ||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
@@ -33881,6 +33887,7 @@ vkcdnservice.appspot.com^
 ||jgqub.cn^
 ||jh001.cc^
 ||jiangzhou.ltd^
+||jiaojun.icu^
 ||jiape.cyou^
 ||jike001.top^
 ||jinkens.fun^
@@ -33939,6 +33946,7 @@ vkcdnservice.appspot.com^
 ||ksccqu.xyz^
 ||kscly.com^
 ||ktbelts.cn^
+||kunzhang.name^
 ||kuyw.cn^
 ||kwivb.cn^
 ||kzeqq.com^
@@ -33989,6 +33997,7 @@ vkcdnservice.appspot.com^
 ||mecop.cyou^
 ||meidd.cyou^
 ||meueeq.xyz^
+||meximexi.me^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mfjiaoyu.cn^
@@ -34201,6 +34210,7 @@ vkcdnservice.appspot.com^
 ||sange20221226.xyz^
 ||sanqian.pro^
 ||santou20230127.live^
+||sanwen.icu^
 ||sc4mh.cn^
 ||scbt.asia^
 ||scfh9.cn^
@@ -34266,6 +34276,7 @@ vkcdnservice.appspot.com^
 ||tioew.cyou^
 ||tjbxhn.xyz^
 ||tjxafmo.cn^
+||touwengyyds.com^
 ||tqxthzy.cn^
 ||traktalent.com^
 ||tsck.online^
@@ -34330,9 +34341,11 @@ vkcdnservice.appspot.com^
 ||vilki.cn^
 ||viope.cyou^
 ||vj1p.xyz^
+||vkjqbb.xyz^
 ||vlbbxt.xyz^
 ||vnq3.top^
 ||vokmhydy.xyz^
+||vulrxr.xyz^
 ||vvtztj.xyz^
 ||vw66i.top^
 ||vwvjzd.xyz^
@@ -34484,6 +34497,7 @@ vkcdnservice.appspot.com^
 ||zkdmdf.xyz^
 ||zktqzyz.cn^
 ||zlfthh.xyz^
+||zlzizsq.cn^
 ||zmadsvd.cn^
 ||zmdtcw.cn^
 ||znktkt.cn^
@@ -34501,16 +34515,6 @@ vkcdnservice.appspot.com^
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||meximexi.me^
-||cwolwc.xyz^
-||vkjqbb.xyz^
-||touwengyyds.com^
-||jiaojun.icu^
-||dioak.cyou^
-||sanwen.icu^
-||gkustph.cn^
-||kunzhang.name^
-||vulrxr.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
