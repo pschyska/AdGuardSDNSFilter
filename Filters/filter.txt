@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-03-31T00:37:28.682Z
+! Last modified: 2023-03-31T06:09:39.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31708,8 +31708,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-03-29 09:26:25 CEST
-# entries:        1078
+# last updated:   2023-03-31 08:06:15 CEST
+# entries:        1086
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -31827,6 +31827,7 @@ vkcdnservice.appspot.com^
 ||bellmetric.net^
 ||bettersport.se^
 ||bettingstugan.se^
+||bilcertificat.se^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
@@ -31852,6 +31853,7 @@ vkcdnservice.appspot.com^
 ||carneoam.com^
 ||casinotoplists.com^
 ||caterpillarsverige.net^
+||caviera-sverige.shop^
 ||cd.connatix.com^
 ||cdn.adfenix.com^
 ||cdn.adswizz.com^
@@ -31945,7 +31947,9 @@ vkcdnservice.appspot.com^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
 ||di.insplanet.com^
+||digitaliseringsinitiativet.se^
 ||dinapengar.compricer.se^
+||dinbilgaranti.se^
 ||dl.episerver.net^
 ||dmp.theadex.com^
 ||doktor-se.onelink.me^
@@ -31982,6 +31986,7 @@ vkcdnservice.appspot.com^
 ||flx1.com^
 ||footjoygolfskorrea.com.se^
 ||fpnpmcdn.net^
+||fraagesport.com^
 ||freegeoip.app^
 ||freespee.com^
 ||funnelytics.io^
@@ -32177,10 +32182,12 @@ vkcdnservice.appspot.com^
 ||revrelations.com^
 ||richmediastudio.com^
 ||richmetrics.com^
+||rockeringformsweden.com^
 ||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
+||rpofsweden.com^
 ||rumcdn.geoedge.be^
 ||rum-http-intake.logs.datadoghq.eu^
 ||s.ntv.io^
@@ -32290,6 +32297,7 @@ vkcdnservice.appspot.com^
 ||tm.tradetracker.net^
 ||to.getnitropack.com^
 ||tools.ascontentcloud.com^
+||toppmarkensverige.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
@@ -34735,6 +34743,10 @@ vkcdnservice.appspot.com^
 ||bdnvklavbklabl.com^
 ||baidunnd.top^
 ||xiuwaiyyds.com^
+||yufeng8.tech^
+||eoqtyyp.cn^
+||autopwn.site^
+||oyxp.xyz^
 ||001adafg.xyz^
 ||0024aaaa.com^
 ||004fsdljasd.xyz^
