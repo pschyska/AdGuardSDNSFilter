@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-02T12:11:26.230Z
+! Last modified: 2023-04-02T18:07:22.646Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||belittlepads.com^
+||bulochka.xyz^
+||glumdrawer.com^
 ||uzoamtee.xyz^
 ||guide-antivirus.com^
 ||obstry.com^
@@ -2541,6 +2544,7 @@ vkcdnservice.appspot.com^
 ||abiderestless.com^
 ||abjectionblame.com^
 ||abjectionremarksdisarm.com^
+||abjurecurfs.website^
 ||abkoxlikbzs.com^
 ||ablatesgascon.cam^
 ||ablebodiedfibre.com^
@@ -2902,6 +2906,7 @@ vkcdnservice.appspot.com^
 ||admiralbrace.com^
 ||admiredexcrete.com^
 ||admiredexpansioncollege.com^
+||admiredinde.com^
 ||admiringinsightstops.com^
 ||admissionreceipt.com^
 ||admitoutspokensupreme.com^
@@ -6524,6 +6529,7 @@ vkcdnservice.appspot.com^
 ||cidbulmkwtaxe.xyz^
 ||cifaumsy.net^
 ||cigarregistersheriff.com^
+||cightsnating.com^
 ||cigrylecha.pro^
 ||ciihjhyfoddflhy.xyz^
 ||ciksolre.net^
@@ -6552,6 +6558,7 @@ vkcdnservice.appspot.com^
 ||citary.com^
 ||citatumpity.com^
 ||citemesabourer.xyz^
+||citersbugre.digital^
 ||citizenshadowrequires.com^
 ||citricesu.com^
 ||cituasacrals.website^
@@ -8791,6 +8798,7 @@ vkcdnservice.appspot.com^
 ||empirelayer.club^
 ||empiremoney.com^
 ||employerpartingbikini.com^
+||emptem.com^
 ||emptim.com^
 ||emptivetss.space^
 ||emraudpeptone.com^
@@ -9064,6 +9072,7 @@ vkcdnservice.appspot.com^
 ||eviclick.pro^
 ||evidentlysoup.com^
 ||evitingawabi.com^
+||evitinghabnab.guru^
 ||evkikdzbdg.com^
 ||evokeowedangers.com^
 ||evouxoup.com^
@@ -9670,6 +9679,7 @@ vkcdnservice.appspot.com^
 ||flushafterwardinteger.com^
 ||flushhouseholdvisited.com^
 ||fluskcheir.com^
+||fluvioalkyl.uno^
 ||fluxads.com^
 ||fluxy.xyz^
 ||flyingsexul.space^
@@ -10690,6 +10700,7 @@ vkcdnservice.appspot.com^
 ||guabmobil.site^
 ||guanaoutfawn.life^
 ||guanscleeks.com^
+||guanylcaused.website^
 ||guardianamazedwireless.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardianinvadecrept.com^
@@ -14217,6 +14228,7 @@ vkcdnservice.appspot.com^
 ||mooncklick.com^
 ||moonicorn.network^
 ||moonprocessed.com^
+||moonrocketaffiliates.com^
 ||moontuftboy.com^
 ||moooginnumit.com^
 ||moorscliv.life^
@@ -15158,6 +15170,7 @@ vkcdnservice.appspot.com^
 ||odourprop.com^
 ||odoursguard.website^
 ||odovydyp.xyz^
+||odrmaztzeaj.com^
 ||oebadu.com^
 ||oeckey.com^
 ||oedroughl.xyz^
@@ -15628,6 +15641,7 @@ vkcdnservice.appspot.com^
 ||ouhavebe.xyz^
 ||oujouniw.com^
 ||oukoiixitkedpi.com^
+||oukoushu.xyz^
 ||oulukdliketo.shop^
 ||oumtoujo.net^
 ||ouncillorswhow.info^
@@ -16076,6 +16090,7 @@ vkcdnservice.appspot.com^
 ||pentaclaud.com^
 ||pentalime.com^
 ||penuchefirms.com^
+||peopleshouldthin.com^
 ||peppereggsfriends.com^
 ||pepperyforeign.com^
 ||peppy2lon1g1stalk.com^
@@ -17070,6 +17085,7 @@ vkcdnservice.appspot.com^
 ||pttsite.com^
 ||ptufubimu.pro^
 ||ptuglupyli.com^
+||ptugneez.net^
 ||ptulepti.net^
 ||ptupoobs.com^
 ||pturedmyattentio.xyz^
@@ -17992,6 +18008,7 @@ vkcdnservice.appspot.com^
 ||rhiospsea.one^
 ||rhkyufodw8ochdr3ogsite.com^
 ||rhombicsomeday.com^
+||rhqdydysa.com^
 ||rhudsplm.com^
 ||rhvdsplm.com^
 ||rhxdsplm.com^
@@ -18616,6 +18633,7 @@ vkcdnservice.appspot.com^
 ||scrapethrillmostly.com^
 ||scratchy-deep.pro^
 ||screechadulthood.com^
+||screenov.site^
 ||scriptcdn.net^
 ||scriptsfirework.com^
 ||scriptvealpatronage.com^
@@ -19087,6 +19105,7 @@ vkcdnservice.appspot.com^
 ||skancehobo.com^
 ||skcapepyshdr.xyz^
 ||skeeingfondu.life^
+||skeletal-if.pro^
 ||skelity.com^
 ||sketbhang.guru^
 ||sketchflutter.com^
@@ -21699,6 +21718,7 @@ vkcdnservice.appspot.com^
 ||velvetneutralunnatural.com^
 ||vemflutuartambem.com^
 ||vempozah.net^
+||vemtourt.com^
 ||vendgrusian.com^
 ||vendigamus.com^
 ||vendimob.pl^
@@ -21949,6 +21969,7 @@ vkcdnservice.appspot.com^
 ||vounaipu.net^
 ||vowcertainly.com^
 ||vowdistractingbuoyancy.com^
+||voweve.com^
 ||voxfind.com^
 ||voyageconcise.com^
 ||voyageschoolanymore.com^
@@ -22078,6 +22099,7 @@ vkcdnservice.appspot.com^
 ||walkinglive.org^
 ||wallpapersfacts.com^
 ||wallstrads.com^
+||wallybuffed.uno^
 ||walruscheers.com^
 ||walrusintroducing.com^
 ||wamnetwork.com^
@@ -22723,6 +22745,7 @@ vkcdnservice.appspot.com^
 ||xelllwrite.com^
 ||xenosmussal.com^
 ||xepkfd.com^
+||xfgicjnxckrnq.com^
 ||xfileload.com^
 ||xfrena.com^
 ||xfwblpomxc.com^
@@ -33664,17 +33687,17 @@ vkcdnservice.appspot.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||1136999.com^
+||230579.top^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa855.com^
-||jerrytom.xyz^
-||qiwjiy.xyz^
-||jwronx.xyz^
-||xingyang.in^
-||1136999.com^
-||230579.top^
 ||gwvzgjb.cn^
+||jerrytom.xyz^
+||jwronx.xyz^
+||qiwjiy.xyz^
 ||wangjiayi.fun^
+||xingyang.in^
 ||yulingaa.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
