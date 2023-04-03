@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-03T06:09:18.029Z
+! Last modified: 2023-04-03T12:12:25.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -12990,7 +12990,6 @@ vkcdnservice.appspot.com^
 ||leeante.com^
 ||leechiza.net^
 ||leechplanes.com^
-||leechpremium.link^
 ||leegaroo.xyz^
 ||leepoona.com^
 ||leetaipt.net^
