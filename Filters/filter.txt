@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-03T18:08:12.206Z
+! Last modified: 2023-04-04T00:35:06.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2384,6 +2384,7 @@ vkcdnservice.appspot.com^
 ||95ppq87g.de^
 ||962fc69307.com^
 ||964e7c340a.com^
+||96a0af5e81.com^
 ||96a8b5ac22.com^
 ||96e0993c2f.com^
 ||97d73lsi.com^
@@ -7069,6 +7070,7 @@ vkcdnservice.appspot.com^
 ||corneey.com^
 ||cornuspurfled.com^
 ||corporategarnish.com^
+||corruptheedless.com^
 ||cosatoos.com^
 ||cosenflame.com^
 ||cosetswaragi.website^
@@ -7534,6 +7536,7 @@ vkcdnservice.appspot.com^
 ||dberthformtte.xyz^
 ||dberthformttete.com^
 ||dbf1405f9c.com^
+||dbf36eaddd.com^
 ||dbizrrslifc.com^
 ||dblchymhlbcvot.xyz^
 ||dbooksbysecon.com^
@@ -8596,6 +8599,7 @@ vkcdnservice.appspot.com^
 ||edhimasifiwoery.xyz^
 ||edinburghcawaura.com^
 ||edindeed.buzz^
+||edindeedeisas.com^
 ||edioca.com^
 ||editchee.com^
 ||edition25.com^
@@ -8912,6 +8916,7 @@ vkcdnservice.appspot.com^
 ||envyindebted.com^
 ||enwingdondia.com^
 ||eo62cocntx.com^
+||eoaktaposh.com^
 ||eondunpea.com^
 ||eonsmedia.com^
 ||eonwayaha.com^
@@ -9106,6 +9111,7 @@ vkcdnservice.appspot.com^
 ||ewruuqe5p8ca.com^
 ||exacdn.com^
 ||exaltationinsufficientintentional.com^
+||examinationevolutionmingle.com^
 ||exarchykhu.store^
 ||exceedinglydiscovered.com^
 ||excellenceads.com^
@@ -11165,6 +11171,7 @@ vkcdnservice.appspot.com^
 ||hiqfeqnay.com^
 ||hircinnative.guru^
 ||hiredhepper.com^
+||hirted.com^
 ||hiseewhatmyou.xyz^
 ||historicalcarawayammonia.com^
 ||historine.website^
@@ -12969,6 +12976,7 @@ vkcdnservice.appspot.com^
 ||ldimnveryldgittl.com.ua^
 ||ldimnveryldgitwe.xyz^
 ||ldpiecesonth.xyz^
+||ldthinkhimun.com^
 ||lduhtrp.net^
 ||lead1.pl^
 ||leadadvert.info^
@@ -13504,6 +13512,7 @@ vkcdnservice.appspot.com^
 ||lywasnothycant.info^
 ||lyzenoti.pro^
 ||lz-pub-ads.com^
+||lzeld.com^
 ||lzjl.com^
 ||lzrikate.com^
 ||lzxdx24yib.com^
@@ -15934,6 +15943,7 @@ vkcdnservice.appspot.com^
 ||parrecleftne.xyz^
 ||parringepigene.com^
 ||parrotspineparticipate.com^
+||parrotwrapped.com^
 ||parrynapa.com^
 ||parsiagram.com^
 ||parsimoniousinvincible.net^
@@ -16663,12 +16673,14 @@ vkcdnservice.appspot.com^
 ||portoteamo.com^
 ||portoutsid.xyz^
 ||portserratic.com^
+||posamevwiv.com^
 ||poseidthewave.com^
 ||poseurtwicet.digital^
 ||poshhateful.com^
 ||poshsplitdr.com^
 ||positive-news.net^
 ||positive-news.org^
+||positiveaveinsist.com^
 ||poslationcloppy.com^
 ||pososrhwu2jf8jf09.com^
 ||possessdolejest.com^
@@ -16877,6 +16889,7 @@ vkcdnservice.appspot.com^
 ||professionalsly.com^
 ||profi-para.com^
 ||profileknee.com^
+||profitable-sleep.pro^
 ||profitablecpmgate.com^
 ||profitablecpmnetwork.com^
 ||profitabledisplaycontent.com^
@@ -20494,6 +20507,7 @@ vkcdnservice.appspot.com^
 ||thoughtleadr.com^
 ||thoughtsusta.xyz^
 ||thoughtthricecompress.com^
+||thouhoom.xyz^
 ||thoupsou.net^
 ||thousandfalteralbeit.com^
 ||thousandfixedlyyawn.com^
@@ -21630,6 +21644,7 @@ vkcdnservice.appspot.com^
 ||vaeesspot.com^
 ||vaemfecqllefj.xyz^
 ||vaideezi.com^
+||vaifauzu.net^
 ||vaifopooface.com^
 ||vaikijie.net^
 ||vailedapetaly.com^
@@ -21854,6 +21869,7 @@ vkcdnservice.appspot.com^
 ||vidforclips.info^
 ||vidforclips.mom^
 ||vidforclips.net^
+||vidforclips.space^
 ||vidscity.info^
 ||vidsfun.info^
 ||vidsofdream.today^
@@ -22065,6 +22081,7 @@ vkcdnservice.appspot.com^
 ||vvvljeqasz.com^
 ||vwckfehstnrefmp.com^
 ||vwgtbnamrvg.com^
+||vwimkumfuk.com^
 ||vwl7kia4fzz6.com^
 ||vwuyuahqf.com^
 ||vxdgsgdsvlwz.com^
@@ -22870,6 +22887,7 @@ vkcdnservice.appspot.com^
 ||xvzophudkodln.com^
 ||xwlketvkzf.com^
 ||xwqvytuiko.com^
+||xxaparfuel.xyz^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxecldsp.xyz^
@@ -25603,6 +25621,7 @@ vkcdnservice.appspot.com^
 ||dwr3zytn850g.cloudfront.net^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dxh2ivs16758.cloudfront.net^
+||dxj6cq8hj162l.cloudfront.net^
 ||dxk5g04fo96r4.cloudfront.net^
 ||dxkkb5tytkivf.cloudfront.net^
 ||dxprljqoay4rt.cloudfront.net^
@@ -30741,6 +30760,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||safemy-ios.com^
 ||ad.owlair.net^
 ||js.medi-8.net^
 ||presco.ai^
@@ -33743,6 +33763,11 @@ vkcdnservice.appspot.com^
 ||xingyang.in^
 ||yfohgo.xyz^
 ||yulingaa.xyz^
+||hxtiojs.cn^
+||zdlnhv.xyz^
+||gpqicw.xyz^
+||cdcc3.com^
+||kucoa.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
