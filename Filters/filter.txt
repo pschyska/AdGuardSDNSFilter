@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-05T06:09:08.814Z
+! Last modified: 2023-04-05T12:14:46.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -3673,6 +3673,7 @@ vkcdnservice.appspot.com^
 ||almightypush.com^
 ||almostspend.com^
 ||almsmanmalthe.com^
+||alnathhoggie.com^
 ||aloftliquid.com^
 ||aloftrecedestatistics.com^
 ||alogiz.com^
@@ -3818,6 +3819,7 @@ vkcdnservice.appspot.com^
 ||amyrfvjqhy.com^
 ||amyrinunshoed.com^
 ||amysaghurtful.com^
+||amywhereby.com^
 ||amzosmcuhci.com^
 ||amzpzylzo.com^
 ||anaguahoagies.com^
@@ -3942,6 +3944,7 @@ vkcdnservice.appspot.com^
 ||antiterroristqueenjolly.com^
 ||antivirussprotection.com^
 ||antlerrecordingcat.com^
+||antlionwaldorf.com^
 ||antpeelpiston.com^
 ||antyoubelike.buzz^
 ||anubinbrewed.tech^
@@ -7083,6 +7086,7 @@ vkcdnservice.appspot.com^
 ||convrse.media^
 ||conyak.com^
 ||coojaiku.com^
+||cookinghither.com^
 ||cookliverelk.com^
 ||cookpad-ads.com^
 ||cooksrosiny.website^
@@ -9539,6 +9543,7 @@ vkcdnservice.appspot.com^
 ||fejla.com^
 ||felied.com^
 ||fellap.com^
+||fellowshippink.com^
 ||felonlosel.com^
 ||feltlonelyand.xyz^
 ||femefaih.com^
@@ -9854,6 +9859,7 @@ vkcdnservice.appspot.com^
 ||forgivenesscourtesy.com^
 ||forgivenessimpact.com^
 ||forgivenesspeltanalyse.com^
+||forgoesthalli.uno^
 ||forgoodplay.com^
 ||forgoprokick.icu^
 ||forgottedvere.xyz^
@@ -23004,6 +23010,7 @@ vkcdnservice.appspot.com^
 ||xtneqpole.xyz^
 ||xtrackme.com^
 ||xtremeserve.xyz^
+||xtyovvojltfo.com^
 ||xu5ctufltn.com^
 ||xuakak.com^
 ||xubrainge.live^
@@ -26750,6 +26757,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bvbypswhds.com^
+||ads.digitalcaramel.com^
 ||advwomennews.ru^
 ||dallworldnews.ru^
 ||vasia.bluentated.racing^
@@ -33075,9 +33084,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Mar 2023 09:31 UTC+7
-! Version: 2303230931
-! Blocked: 832 rules
+! Last modified: 05 Apr 2023 15:28 UTC+7
+! Version: 2304051528
+! Blocked: 837 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33378,7 +33387,10 @@ vkcdnservice.appspot.com^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
+||zpsocial-f50-org.zadn.vn^
+||zpsocial-f51-org.zadn.vn^
 ||zpsocial-f52-org.zadn.vn^
+||zpsocial-f53-org.zadn.vn^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
 ||ztevents.zaloapp.com^
@@ -33842,6 +33854,7 @@ vkcdnservice.appspot.com^
 ||trackingapi.foody.vn^
 ||trackingvn.zingplay.com^
 ||trackity.tiki.vn^
+||traffic.vietnhan.co^
 ||trenddigital.vn^
 ||trk.123c.vn^
 ||trk.staging.123c.vn^
@@ -33923,6 +33936,8 @@ vkcdnservice.appspot.com^
 ||lxbbs.fun^
 ||bqcxgbm.cn^
 ||gzsscr.cn^
+||h731.icu^
+||hefei64.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
