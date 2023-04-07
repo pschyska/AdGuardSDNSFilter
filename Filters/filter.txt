@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-07T12:11:58.830Z
+! Last modified: 2023-04-07T18:08:09.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1184,6 +1184,8 @@
 ||zanox.com^
 ||zeti.com^
 !+ PLATFORM(ios, ext_safari)
+!+ NOT_OPTIMIZED
+||embed.sendtonews.com^
 !+ NOT_OPTIMIZED
 ||o333o.com^
 !+ NOT_OPTIMIZED
@@ -24369,6 +24371,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||external-ad.bunjang.co.kr^
 ||hellay.net^
 ||rqmob.com^
 ||ads-server.mxplay.com^
@@ -25059,6 +25062,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||admasters.media^
 ||smart-placements-sdk.ex.co^
 ||mucmoapa.com^
 ||cibgphkiqbjk.com^
