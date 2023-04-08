@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-08T06:08:09.331Z
+! Last modified: 2023-04-08T12:10:34.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||feistyhelicopter.com^
 ||sheeme.com^
 ||uttack.com^
 ||whiteforwardlines.com^
@@ -32605,6 +32606,9 @@ vkcdnservice.appspot.com^
 ||kayzqar.cn^
 ||lianxi.link^
 ||kzjqraj.cn^
+||codeice.xyz^
+||whbn.xyz^
+||nurahf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
