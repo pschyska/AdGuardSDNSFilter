@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-10T12:12:06.931Z
+! Last modified: 2023-04-10T18:08:02.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||pro-market.net^
+||xyjaewocysv.com^
+||turncdn.com^
 ||frockritequell.com^
 ||sootconform.com^
 ||adsbeard.com^
@@ -16252,7 +16255,6 @@ vkcdnservice.appspot.com^
 ||prmtracking3.com^
 ||prmtracks.com^
 ||pro-advert.de^
-||pro-market.net^
 ||pro-pro-go.com^
 ||pro-web.net^
 ||proadscdn.com^
@@ -30696,6 +30698,7 @@ vkcdnservice.appspot.com^
 ||achmetsdoenerladen.de^
 ||alleswegenmicha.de^
 ||aluhutmafia.de^
+||bd742.com^
 ||dierussensindschuld.de^
 ||wirverkaufennichts.de^
 !
@@ -30899,6 +30902,7 @@ vkcdnservice.appspot.com^
 ||performance-netzwerk.de^
 ||performanceanalyser.net^
 ||planetactive.com^
+||playamedia.com^
 ||popup-rotation.de^
 ||pornoprinzen.com^
 ||ppac.de^
@@ -32930,9 +32934,12 @@ vkcdnservice.appspot.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||1136999.com^
 ||230579.top^
+||39nw.com^
+||52qd.club^
 ||9itan.cc^
 ||aaaaa599.com^
 ||aaaaa663.com^
+||aaaaa699.com^
 ||aaaaa855.com^
 ||aamv.vip^
 ||akdhiahcjojdkck.com^
@@ -32945,10 +32952,12 @@ vkcdnservice.appspot.com^
 ||campu.ltd^
 ||ccohayo.xyz^
 ||cdcc3.com^
+||cnmmcjn.cn^
 ||codeice.xyz^
 ||dcdf4.com^
 ||ej65.xyz^
 ||enahmy.xyz^
+||excfig.xyz^
 ||feild.xyz^
 ||fijipic.xyz^
 ||flyinsky2009.ltd^
@@ -32968,6 +32977,7 @@ vkcdnservice.appspot.com^
 ||iepda.xyz^
 ||ijnuhb.top^
 ||itoken.pro^
+||jeedi.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiuba20230320.live^
@@ -32981,6 +32991,7 @@ vkcdnservice.appspot.com^
 ||lianxi.link^
 ||lxbbs.fun^
 ||mindopu.com^
+||nqyz.tw^
 ||nurahf.xyz^
 ||ojuhwc.xyz^
 ||otwiss.xyz^
@@ -32995,9 +33006,11 @@ vkcdnservice.appspot.com^
 ||rtjmln.xyz^
 ||sh6ss7.top^
 ||smailes.pro^
+||tc911.vip^
 ||tianma704.ltd^
 ||tmochyf.cn^
 ||uqymady.cn^
+||vel7.xyz^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -33007,27 +33020,18 @@ vkcdnservice.appspot.com^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xingyang.in^
+||xlxknf.xyz^
 ||xunjie.fun^
 ||yankuoyyds.com^
 ||yfohgo.xyz^
+||yingce.asia^
+||yingnanyyds.com^
 ||yulingaa.xyz^
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
-||xlxknf.xyz^
-||cnmmcjn.cn^
-||yingnanyyds.com^
-||excfig.xyz^
-||jeedi.xyz^
-||yingce.asia^
-||52qd.club^
-||39nw.com^
-||vel7.xyz^
-||nqyz.tw^
-||tc911.vip^
-||aaaaa699.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
