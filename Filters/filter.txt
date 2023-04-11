@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-11T06:09:29.089Z
+! Last modified: 2023-04-11T12:12:42.116Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22442,7 +22442,6 @@ vkcdnservice.appspot.com^
 ||zabanit.xyz^
 ||zacleporis.com^
 ||zadauque.net^
-||zaful.com^
 ||zaglushkaaa.com^
 ||zagtertda.com^
 ||zagvee.com^
@@ -25046,6 +25045,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||bjads.bejbej.ca^
 ||external-ad.bunjang.co.kr^
 ||hellay.net^
 ||rqmob.com^
@@ -33143,6 +33143,9 @@ vkcdnservice.appspot.com^
 ||sjalipa.cn^
 ||falal.cn^
 ||originate.ltd^
+||networkname.xyz^
+||reffnik.cn^
+||ecav5.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
