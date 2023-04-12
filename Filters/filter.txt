@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-12T12:13:29.865Z
+! Last modified: 2023-04-12T18:08:19.313Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -7371,6 +7371,7 @@ vkcdnservice.appspot.com^
 ||dalrekso.net^
 ||dalyai.com^
 ||dalysb.com^
+||dalysh.com^
 ||damaged-shop.pro^
 ||damedamehoy.xyz^
 ||dammarsnektons.com^
@@ -33211,6 +33212,8 @@ vkcdnservice.appspot.com^
 ||hsrgnac.cn^
 ||helid.xyz^
 ||pbgtpjz.cn^
+||almabelen.com^
+||fionamignon.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
