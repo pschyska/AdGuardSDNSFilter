@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-12T06:09:08.208Z
+! Last modified: 2023-04-12T12:13:29.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,16 @@
 !
 !
 !
+||muddychronicstuffed.com^
+||dating-roo3.site^
+||lookinews.com^
+||shadowminer.top^
+||fdorxsat.com^
+||wpnokuxfmu.xyz^
+||qlvlaqcd.com^
+||vocaivie.xyz^
+||noofigat.net^
+||unaces.com^
 ||pro-market.net^
 ||xyjaewocysv.com^
 ||turncdn.com^
@@ -24969,6 +24979,9 @@ vkcdnservice.appspot.com^
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/148028
+! Dcard app
+||dad-api.dcard.tw^
 ! com.hktv.android.hktvmall
 ! https://github.com/AdguardTeam/AdguardFilters/issues/146615
 ||ad-splash-tracking.hktvmall.com^
@@ -25931,6 +25944,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||snsv.ru^
 ||s2517.com^
 ||bvbypswhds.com^
 ||ads.digitalcaramel.com^
@@ -33195,6 +33209,8 @@ vkcdnservice.appspot.com^
 ||zhouduanyyds.com^
 ||wangyq.ltd^
 ||hsrgnac.cn^
+||helid.xyz^
+||pbgtpjz.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
