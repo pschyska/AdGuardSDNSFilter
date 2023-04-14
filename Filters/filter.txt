@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-14T06:09:14.966Z
+! Last modified: 2023-04-14T12:12:11.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||ubsjyqfek.com^
+||kipeir.com^
 ||ovyondkggnqhmt.xyz^
 ||muddychronicstuffed.com^
 ||dating-roo3.site^
@@ -1478,6 +1480,14 @@
 ! Source name: AdGuard Base filter cryptominers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
 !
+!
+! This section contains the list of rules are against crypto-miners.
+!
+! Good: ||monerominer.rocks^$third-party
+! Bad:  monerominer.rocks##.ad (should be in specific.txt)
+!
+!
+! Do not block authedmine.com
 !
 ! Another miners
 ! sample url for one of the miners: silimbompom.com/142711235a1c137.2.n.2.1.js
@@ -3060,6 +3070,7 @@ vkcdnservice.appspot.com^
 ||adsyst.biz^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
 ||adtaily.com^
@@ -25285,7 +25296,7 @@ vkcdnservice.appspot.com^
 ||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
-||turbo.adsbynimbus.com^
+||adsbynimbus.com^
 ||adsgard.aprod.scopely.io^
 ||ads-interfaces.sc-cdn.net^
 ||adsapi.snapchat.com^
@@ -30240,6 +30251,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||smart-c.jp^
 ||yeetsalear.com^
 ||jpshopes.com^
 ||ads.mediams.mb.softbank.jp^
@@ -31442,7 +31454,6 @@ vkcdnservice.appspot.com^
 ||cdn.adt511.net^
 ||cdn.adt523.net^
 ||cdn.adt532.com^
-||cdn.adt598.com^
 ||cdn.advisible.com^
 ||cdn.amplitude.com^
 ||cdn.appsmav.com^
@@ -33379,6 +33390,9 @@ vkcdnservice.appspot.com^
 ||zoushao.xyz^
 ||wvwl.cn^
 ||92ph.cn^
+||uwhreur.cn^
+||sozrrkx.xyz^
+||uqelxct.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
