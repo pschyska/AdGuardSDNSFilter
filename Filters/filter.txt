@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-15T18:07:43.732Z
+! Last modified: 2023-04-16T00:36:35.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||forjoiyvids.online^
+||wdhadgvlbdt.com^
 ||cartedneogene.com^
 ||gibbarwaiting.com^
 ||stinkyrepetition.com^
@@ -33607,6 +33609,10 @@ vkcdnservice.appspot.com^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
 ||zoushao.xyz^
+||zpfqolj.cn^
+||lwtqqq.com^
+||dtjhtp.xyz^
+||flpnnqe.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
