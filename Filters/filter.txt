@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-17T06:09:45.565Z
+! Last modified: 2023-04-17T12:13:32.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||bgn.gg^
+||hepsaign.com^
+||rsodmwkxkioj.xyz^
+||lgfiufyaycsh.com^
 ||forjoiyvids.online^
 ||wdhadgvlbdt.com^
 ||cartedneogene.com^
@@ -25503,6 +25507,7 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||skt-asum.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bjads.bejbej.ca^
 ||external-ad.bunjang.co.kr^
@@ -30673,7 +30678,6 @@ vkcdnservice.appspot.com^
 ||relaido.jp^
 ||widget.cybershop-affiliate.jp^
 ||ad-arrow.com^
-||dn.msmstatic.com^
 ||aff.jskyservices.com^
 ||a-i-ad.com^
 ||managedweb.net^
