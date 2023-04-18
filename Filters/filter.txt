@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-18T06:09:16.239Z
+! Last modified: 2023-04-18T12:12:27.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||gloagaus.xyz^
+||gfkhapiuxjkspbq.xyz^
 ||epotaidhdbg.com^
 ||povoarge.com^
 ||fdpfkdnpvpmb.com^
@@ -33763,6 +33765,9 @@ vkcdnservice.appspot.com^
 ||himeneko.ink^
 ||cbhwekr.cn^
 ||xni.ink^
+||qpoiwnelc.com^
+||cdfda.xyz^
+||ealdi.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
