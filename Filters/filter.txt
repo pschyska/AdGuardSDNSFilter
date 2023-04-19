@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-19T06:09:23.598Z
+! Last modified: 2023-04-19T12:12:36.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||forjoiyvidspics.online^
 ||igylwxvxgsuvcs.xyz^
 ||afgtrwd1.com^
 ||gloagaus.xyz^
@@ -2644,6 +2645,7 @@ vkcdnservice.appspot.com^
 ||absolutechapelequation.com^
 ||absolutelytowns.com^
 ||absoluteroute.com^
+||absolutionexpert.com^
 ||absolvecarriagenotify.com^
 ||absolvehostkilled.com^
 ||absolveparticlesanti.com^
@@ -3988,6 +3990,7 @@ vkcdnservice.appspot.com^
 ||antecedentexcited.com^
 ||antecedentponderoverweight.com^
 ||antelintere.xyz^
+||antennarollcellar.com^
 ||anteroomcrap.com^
 ||antheladixy.com^
 ||anthemspeg.space^
@@ -6130,6 +6133,7 @@ vkcdnservice.appspot.com^
 ||cabnnr.com^
 ||caboclonymphly.com^
 ||cabotinbesnare.com^
+||cabotsmuskit.com^
 ||cachegorilla.com^
 ||cachoustewing.com^
 ||cadbitff.com^
@@ -9460,6 +9464,7 @@ vkcdnservice.appspot.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
 ||falytjfsydnxstr.xyz^
+||fameailmentcircumstantial.com^
 ||familiarkindlyshuffle.com^
 ||familyborn.com^
 ||familyliar.com^
@@ -12402,6 +12407,7 @@ vkcdnservice.appspot.com^
 ||judicialleasthandful.com^
 ||judicious-feed.pro^
 ||judiciousbloke.com^
+||judium.com^
 ||judjetheminos.com^
 ||judruwough.com^
 ||juergeninez.com^
@@ -12912,6 +12918,7 @@ vkcdnservice.appspot.com^
 ||laniusburkei.com^
 ||lankychaosrun.com^
 ||lanopoon.net^
+||lansukse.xyz^
 ||lanternpossibly.com^
 ||lantodomirus.com^
 ||laoosmesis.com^
@@ -14215,6 +14222,7 @@ vkcdnservice.appspot.com^
 ||monsterofnews.com^
 ||montafp.top^
 ||montangop.top^
+||montebassy.com^
 ||monthlydespise.com^
 ||monthlyindirectelsewhere.com^
 ||monthsrecoup.com^
@@ -15921,6 +15929,7 @@ vkcdnservice.appspot.com^
 ||pastreflected.com^
 ||pasxfixs.com^
 ||patalogs.com^
+||patariatoolman.com^
 ||patenssabzi.com^
 ||patgsrv.com^
 ||pathloaded.com^
@@ -18343,6 +18352,7 @@ vkcdnservice.appspot.com^
 ||rusenov.com^
 ||rusheemeso.digital^
 ||rushpushy.com^
+||russellseemslept.com^
 ||russianballoons.com^
 ||russiaroman.com^
 ||rustgenerations.com^
@@ -18559,6 +18569,7 @@ vkcdnservice.appspot.com^
 ||scallionfib.com^
 ||scamblefeedman.com^
 ||scammereating.com^
+||scantlyvedette.com^
 ||scanunderstiff.com^
 ||scapfloored.space^
 ||scapid.com^
@@ -18938,6 +18949,7 @@ vkcdnservice.appspot.com^
 ||showkhussak.com^
 ||showmebars.com^
 ||shownperfunctory.com^
+||shredvealdone.com^
 ||shrewdoscular.com^
 ||shrewrotl.com^
 ||shriekdestitute.com^
@@ -19733,6 +19745,7 @@ vkcdnservice.appspot.com^
 ||strodesoot.com^
 ||strollcurepinching.com^
 ||strollspread.com^
+||strongestboxerscrupulous.com^
 ||stronglygathering.com^
 ||stroublederaa.club^
 ||stroveraved.com^
@@ -22266,6 +22279,7 @@ vkcdnservice.appspot.com^
 ||whiskerssituationdisturb.com^
 ||whisperofisaak.com^
 ||whistedsynapte.com^
+||whittenchorded.com^
 ||whizduly.com^
 ||whjepqhsxed.xyz^
 ||whnoxcmxgbqrq.xyz^
@@ -30891,7 +30905,6 @@ vkcdnservice.appspot.com^
 ||mincure-ad.com^
 ||ad.woman.mynavi.jp^
 ||ad.rarure.com^
-||moshimo.com^
 ||affiliate-script-pr.firebaseapp.com^
 ||asia-northeast1-affiliate-pr.cloudfunctions.net^
 ||aztool.org^
@@ -32938,9 +32951,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Apr 2023 12:07 UTC+7
-! Version: 2304121207
-! Blocked: 833 rules
+! Last modified: 19 Apr 2023 14:53 UTC+7
+! Version: 2304191453
+! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33155,7 +33168,6 @@ vkcdnservice.appspot.com^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
-||sbz.vn^
 ||sdk.zadn.vn^
 ||service-api.accesstrade.vn^
 ||sharefb.cnnd.vn^
@@ -33961,6 +33973,13 @@ vkcdnservice.appspot.com^
 ||txphjl.xyz^
 ||ajucem.xyz^
 ||fweia.xyz^
+||luckydino.ren^
+||fssxyiq.cn^
+||pithjpf.cn^
+||piaochong.co^
+||evmnlpv.cn^
+||18so.vip^
+||aniqgsz.cc^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
