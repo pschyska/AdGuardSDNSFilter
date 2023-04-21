@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-21T00:34:36.469Z
+! Last modified: 2023-04-21T06:09:29.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -19325,6 +19325,7 @@ vkcdnservice.appspot.com^
 ||smart2cnjuh34jb.com^
 ||smartlnk.com^
 ||smarttopchain.nl^
+||smartytech.io^
 ||smashnewtab.com^
 ||smashseek.com^
 ||smearedbin.com^
@@ -24528,6 +24529,7 @@ vkcdnservice.appspot.com^
 ||nitmus.com^
 ||nitropay.com^
 ||njih.net^
+||notsy.io^
 ||nsstatic.com^
 ||nsstatic.net^
 ||nster.net^
@@ -34181,6 +34183,9 @@ vkcdnservice.appspot.com^
 ||ncyx.ltd^
 ||heild.xyz^
 ||pedjqkl.xyz^
+||anifk71.cc^
+||aprlitj.cn^
+||zhemu.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
