@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-22T06:08:36.868Z
+! Last modified: 2023-04-22T12:11:12.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31020,6 +31020,9 @@ vkcdnservice.appspot.com^
 ||enmusubimail000.com^
 ||infohimatalk77.net^
 ||banner1.site^
+||askfollow.us^
+||freeadd.me^
+||twitterfollowers.site^
 ||more-followers.com^
 ||trigraff.com^
 ||threeate.jp^
@@ -34245,6 +34248,9 @@ vkcdnservice.appspot.com^
 ||xiaoliublog.icu^
 ||kmlxlkz.cn^
 ||wjaqc.xyz^
+||uu7819uu.com^
+||smmmqq.com^
+||1512a.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
