@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-21T18:08:26.743Z
+! Last modified: 2023-04-22T00:34:26.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2020,6 +2020,7 @@ vkcdnservice.appspot.com^
 ||3daed168ad.com^
 ||3de3ac5082.com^
 ||3dfcff2ec15099df0a24ad2cee74f21a.com^
+||3e090c38bd.com^
 ||3eb8f81779.com^
 ||3ed2b6b7c4.com^
 ||3ed671e3c0.com^
@@ -4201,6 +4202,7 @@ vkcdnservice.appspot.com^
 ||arengboard.com^
 ||arethegrav.com.ua^
 ||arethegravk.xyz^
+||arfacqwifvp.com^
 ||argentslv.digital^
 ||arguebakery.com^
 ||arguerepetition.com^
@@ -5300,6 +5302,7 @@ vkcdnservice.appspot.com^
 ||beparaspr.com^
 ||bepunenchant.store^
 ||ber2g8e3keley.com^
+||bergallgenion.com^
 ||berhima.xyz^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
@@ -6182,6 +6185,7 @@ vkcdnservice.appspot.com^
 ||caglaikr.net^
 ||cagothie.net^
 ||caimoasy.net^
+||cainismlungee.uno^
 ||caipowho.net^
 ||cairalei.com^
 ||caiteesh.net^
@@ -9204,6 +9208,7 @@ vkcdnservice.appspot.com^
 ||errely.com^
 ||errorssmoked.com^
 ||ersfohiplaceof.xyz^
+||ershniff.com^
 ||ersislaqands.com^
 ||erstartirrel.buzz^
 ||erthmefeyauk.xyz^
@@ -11979,6 +11984,7 @@ vkcdnservice.appspot.com^
 ||injusticeamend.com^
 ||inkestyle.net^
 ||inkingleran.com^
+||inklestutted.com^
 ||inklinkor.com^
 ||inkornesto.com^
 ||inktad.com^
@@ -15683,6 +15689,7 @@ vkcdnservice.appspot.com^
 ||orquideassp.com^
 ||orrabxofvju.com^
 ||orricesoxhlet.com^
+||orrisesdepute.com^
 ||orrsuxapg.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
@@ -17819,6 +17826,7 @@ vkcdnservice.appspot.com^
 ||recordingfilessuperintend.com^
 ||recordingperky.com^
 ||recordingshipping.com^
+||recoupsamakebe.com^
 ||recoverhatred.com^
 ||recreationhiddenmosque.com^
 ||rectanthenwirit.com^
@@ -18704,6 +18712,7 @@ vkcdnservice.appspot.com^
 ||saviourketonic.com^
 ||saweatherco.com^
 ||sawedhindgut.com^
+||sawfishdiapsid.com^
 ||sawmontlookups.com^
 ||sawmonwhomble.com^
 ||sawsdaggly.com^
@@ -22574,6 +22583,7 @@ vkcdnservice.appspot.com^
 ||wingads.com^
 ||wingerssetiger.com^
 ||wingersunbrand.com^
+||winiermarrier.com^
 ||winneradsmedia.com^
 ||winnersolutions.net^
 ||winningdotaltar.com^
@@ -22950,6 +22960,7 @@ vkcdnservice.appspot.com^
 ||xilbalar.com^
 ||xilqhukky.com^
 ||xineday.com^
+||xiryrnrz.com^
 ||xissidearm.com^
 ||xiwwhyobp.com^
 ||xjqpxitqkaeodwi.xyz^
@@ -23110,6 +23121,7 @@ vkcdnservice.appspot.com^
 ||ybmnptiuj.xyz^
 ||ycadenevery.xyz^
 ||yceml.net^
+||yclost.com^
 ||yctamonieomgb.com^
 ||yczrgigyspm.com^
 ||ydenknowled.com^
@@ -34220,6 +34232,13 @@ vkcdnservice.appspot.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||iaacua.xyz^
+||9vs0.cn^
+||bovhzz.xyz^
+||gaokao.asia^
+||zdyuoae.xyz^
+||0776.red^
+||iidjo.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
