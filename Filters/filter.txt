@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-23T18:07:24.198Z
+! Last modified: 2023-04-24T00:35:44.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34146,6 +34146,7 @@ vkcdnservice.appspot.com^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
 ||almabelen.com^
+||amryqmm.cn^
 ||aniauu2.cc^
 ||aniem44.cc^
 ||anifk71.cc^
@@ -34181,8 +34182,10 @@ vkcdnservice.appspot.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
 ||doccd.xyz^
+||donku.club^
 ||dqazwsxd.xyz^
 ||dtjhtp.xyz^
+||dtnhjzl.xyz^
 ||ealdi.xyz^
 ||ecav5.com^
 ||ej65.xyz^
@@ -34236,8 +34239,10 @@ vkcdnservice.appspot.com^
 ||iqybys.xyz^
 ||itoken.pro^
 ||iughyy7919.com^
+||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
+||jeidd.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiuba20230320.live^
@@ -34245,6 +34250,7 @@ vkcdnservice.appspot.com^
 ||jvkckeg.cn^
 ||jwjdpab.cn^
 ||jwronx.xyz^
+||jyxfvp.xyz^
 ||kayzqar.cn^
 ||kbabqnd.cn^
 ||kfocoq.xyz^
@@ -34298,6 +34304,7 @@ vkcdnservice.appspot.com^
 ||qianjiao45wde15.xyz^
 ||qingdou.ltd^
 ||qiwjiy.xyz^
+||qkcaqq.xyz^
 ||qpoiwnelc.com^
 ||qqied.xyz^
 ||qwahk.com^
@@ -34317,6 +34324,7 @@ vkcdnservice.appspot.com^
 ||sjalipa.cn^
 ||skluff.com^
 ||smailes.pro^
+||smlmupi.cn^
 ||smmmqq.com^
 ||sozrrkx.xyz^
 ||szsbiw.xyz^
@@ -34324,6 +34332,7 @@ vkcdnservice.appspot.com^
 ||tfonlyuse.shop^
 ||tianma704.ltd^
 ||tmochyf.cn^
+||tpjmqq.com^
 ||tqdpqq.com^
 ||turifb.xyz^
 ||txphjl.xyz^
@@ -34340,6 +34349,7 @@ vkcdnservice.appspot.com^
 ||v0cf.xyz^
 ||vel7.xyz^
 ||vjhjxh.xyz^
+||vlinz.icu^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -34357,6 +34367,7 @@ vkcdnservice.appspot.com^
 ||wjaqc.xyz^
 ||wvwl.cn^
 ||wwgqqq.com^
+||wxxmt.xyz^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -34375,6 +34386,7 @@ vkcdnservice.appspot.com^
 ||yingnanyyds.com^
 ||yisangyyds.com^
 ||yulingaa.xyz^
+||yywh.vip^
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
@@ -34390,18 +34402,10 @@ vkcdnservice.appspot.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||tpjmqq.com^
-||smlmupi.cn^
-||vlinz.icu^
-||qkcaqq.xyz^
-||jeidd.xyz^
-||jyxfvp.xyz^
-||jbtfmis.xyz^
-||dtnhjzl.xyz^
-||yywh.vip^
-||amryqmm.cn^
-||donku.club^
-||wxxmt.xyz^
+||xlsds888.xyz^
+||on-you.cn^
+||xkdlqq.com^
+||yuebog.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -40568,7 +40572,6 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||daima.aixiaola.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -40947,6 +40950,7 @@ vkcdnservice.appspot.com^
 ||dai18.mumu01.com^
 ||dai18.shangc.net^
 ||dail01.wanmeilr.com^
+||daima.aixiaola.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ssata.cn^
