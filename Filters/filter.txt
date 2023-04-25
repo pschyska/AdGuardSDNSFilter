@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-25T06:09:15.846Z
+! Last modified: 2023-04-25T12:12:16.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||watchtopapps.com^
+||notdyedfinance.com^
 ||paigna.com^
 ||sooreejy.xyz^
 ||bh-dm.com^
@@ -1431,6 +1433,15 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17139
 ||gjc.gjirafa.com^
 ||code.ainsyndication.com^
+!
+!---------------------------------------------------------------------
+!------------------------------ Croatian -----------------------------
+!---------------------------------------------------------------------
+! NOTE: Croatian
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/149285
+||traffic.styria.hr^
+||widget.admiral.hr^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/140344
 ||eph-adsjutarnji.cdn.sysbee.net^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/17278
@@ -15161,7 +15172,6 @@ vkcdnservice.appspot.com^
 ||notadsworld.com^
 ||notchcollectormuffin.com^
 ||notcotal.com^
-||notdyedfinance.com^
 ||notesbook.in^
 ||nothingpetwring.com^
 ||nothycantyo.com^
