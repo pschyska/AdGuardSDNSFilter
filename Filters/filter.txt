@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-25T12:12:16.289Z
+! Last modified: 2023-04-25T18:08:17.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34208,6 +34208,7 @@ vkcdnservice.appspot.com^
 ||1512a.com^
 ||18so.vip^
 ||230579.top^
+||331qka.cn^
 ||39nw.com^
 ||52qd.club^
 ||7067.top^
@@ -34256,6 +34257,7 @@ vkcdnservice.appspot.com^
 ||cdcc3.com^
 ||cdfda.xyz^
 ||cennv.cn^
+||cfxkluv.cn^
 ||cge.cc^
 ||chaozhunbb.xyz^
 ||chnuuee.xyz^
@@ -34309,6 +34311,7 @@ vkcdnservice.appspot.com^
 ||hefei64.com^
 ||heild.xyz^
 ||helid.xyz^
+||hffxc.com^
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
 ||himeneko.ink^
@@ -34353,6 +34356,7 @@ vkcdnservice.appspot.com^
 ||kprjva.cn^
 ||kucoa.xyz^
 ||kzjqraj.cn^
+||ledni.xyz^
 ||lendc.xyz^
 ||lianxi.link^
 ||linuozhiyao.xyz^
@@ -34361,6 +34365,8 @@ vkcdnservice.appspot.com^
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||maoqxyl.xyz^
+||mc3369.xyz^
+||mdqhyxe.cn^
 ||mem3.cn^
 ||mfifsux.xyz^
 ||mhegew.xyz^
@@ -34405,11 +34411,14 @@ vkcdnservice.appspot.com^
 ||qwahk.com^
 ||qwrdj.xyz^
 ||rbrv9.cn^
+||rbxunao.cn^
 ||rcxysoj.cn^
 ||readme.red^
 ||reffnik.cn^
 ||rizgtf.xyz^
 ||rpajqxo.cn^
+||rqytqq.com^
+||rsbepv.xyz^
 ||rtdxqq.com^
 ||rtjmln.xyz^
 ||scrvw3.com^
@@ -34461,10 +34470,13 @@ vkcdnservice.appspot.com^
 ||web4023.top^
 ||weeqmcq.cn^
 ||whbn.xyz^
+||windyang.xyz^
 ||wjaqc.xyz^
 ||wvwl.cn^
 ||wwgqqq.com^
 ||wxxmt.xyz^
+||wyjbvoz.xyz^
+||wyynike.cn^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -34481,6 +34493,7 @@ vkcdnservice.appspot.com^
 ||xunjie.fun^
 ||yankuoyyds.com^
 ||yb0a.xyz^
+||yegzkw.xyz^
 ||yfohgo.xyz^
 ||yingce.asia^
 ||yingnanyyds.com^
@@ -34494,6 +34507,7 @@ vkcdnservice.appspot.com^
 ||zdyuoae.xyz^
 ||zhalinyyds.com^
 ||zhemu.xyz^
+||zhoubo01.cn^
 ||zhouduanyyds.com^
 ||zjqs.shop^
 ||znnodl.xyz^
@@ -34503,17 +34517,6 @@ vkcdnservice.appspot.com^
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||windyang.xyz^
-||rqytqq.com^
-||zhoubo01.cn^
-||rsbepv.xyz^
-||yegzkw.xyz^
-||wyjbvoz.xyz^
-||ledni.xyz^
-||cfxkluv.cn^
-||wyynike.cn^
-||mc3369.xyz^
-||mdqhyxe.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
