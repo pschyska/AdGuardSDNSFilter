@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-26T06:09:19.993Z
+! Last modified: 2023-04-26T12:12:36.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1270,6 +1270,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||banners.defenceweb.co.za^
 ||smart-placements-sdk.ex.co^
 ||adtech-prod.nikecloud.com^
 ||newrevive.detik.com^
@@ -11294,7 +11295,6 @@ vkcdnservice.appspot.com^
 ||hb-247.com^
 ||hbfqcy.com^
 ||hbfulzie.life^
-||hboav.com^
 ||hcritiesec.xyz^
 ||hcuukwgpjiykapf.xyz^
 ||hd100546c.com^
@@ -27087,6 +27087,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||coml.be^
+||news-molixo.cc^
 ||s2517.com^
 ||bvbypswhds.com^
 ||ads.digitalcaramel.com^
@@ -28205,8 +28207,6 @@ vkcdnservice.appspot.com^
 ://gj7.ru^
 ://jhf.ru^
 ://kma.biz^
-||octopusads.net^
-||us6odtasve.ru^
 ||0427d7.se^
 ||0483bm4mlow8.xyz^
 ||0816bvh.ru^
@@ -31645,6 +31645,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ad.zui.com^
 ||pnez8.rut6m.xyz^
 ||eq.af31f.site^
 ||ra1.xyz^
@@ -42873,8 +42874,6 @@ analytics-*.aasaam.com
 @@||redirect.appmetrica.yandex.com^|
 ! Fixing redirects through guce.advertising.com (www.engadget.com, www.huffpost.com)
 @@||guce.advertising.com^|
-! Unblock logrocket.com blog
-@@||blog.logrocket.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27196
 @@||a.adwolf.ru^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26607
