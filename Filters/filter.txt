@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-27T00:37:17.408Z
+! Last modified: 2023-04-27T06:09:25.800Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -25328,6 +25328,7 @@ vkcdnservice.appspot.com^
 ||pagead2.googlesyndication.com^
 ||parking.godaddy.com^
 ||partner.e-conomic.com^
+||partner.vecteezy.com^
 ||partners.autotrader.co.uk^
 ||partners.betus.com^
 ||partners.dogtime.com^
@@ -34492,6 +34493,9 @@ vkcdnservice.appspot.com^
 ||jvmxrug.xyz^
 ||nedes.xyz^
 ||zmfdjb.xyz^
+||gykyec.xyz^
+||kjwysxs.cn^
+||rencaihome.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -41551,6 +41555,7 @@ analytics-*.aasaam.com
 ||affiliate.digikala.com^
 
 # >> B <<
+||backlink.ir^
 ||behtarinseo.ir^
 ||boorantech.com^
 ||behinava.com^
@@ -41753,7 +41758,6 @@ analytics-*.aasaam.com
 ||yekbux.com^
 
 # >> Z <<
-||zanboor.net^
 
 # >> A <<
 ||analytics.asiatech.ir^
