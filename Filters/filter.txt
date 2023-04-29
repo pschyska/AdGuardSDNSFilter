@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-28T18:08:14.308Z
+! Last modified: 2023-04-29T00:33:56.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34730,6 +34730,14 @@ vkcdnservice.appspot.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||uuuxyjh.cn^
+||pgjcbz.xyz^
+||boyi.info^
+||wsoxwa.xyz^
+||bqdyqq.com^
+||dsctnsn.xyz^
+||xnjvn1.com^
+||beiod.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -37057,7 +37065,6 @@ vkcdnservice.appspot.com^
 ||inpnjq.cn^
 ||inscan.cn^
 ||into4g.mobi^
-||invida.net.cn^
 ||ioaiaou.cn^
 ||ioeq5cead.icu^
 ||iojgo.com^
