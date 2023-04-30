@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-04-30T12:10:59.347Z
+! Last modified: 2023-04-30T18:07:19.426Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -34485,7 +34485,9 @@ vkcdnservice.appspot.com^
 ||230579.top^
 ||331qka.cn^
 ||39nw.com^
+||4388888.xyz^
 ||480img.com^
+||4cjh.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -34508,6 +34510,7 @@ vkcdnservice.appspot.com^
 ||adbtwyxl96.fun^
 ||agwdac.xyz^
 ||aircraft-fapi.club^
+||ajjgune.cn^
 ||ajucem.xyz^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
@@ -34539,6 +34542,7 @@ vkcdnservice.appspot.com^
 ||ccohayo.xyz^
 ||cdcc3.com^
 ||cdfda.xyz^
+||cdkke.xyz^
 ||cdn-99-pic.cc^
 ||cennv.cn^
 ||cfxkluv.cn^
@@ -34594,6 +34598,7 @@ vkcdnservice.appspot.com^
 ||goiagm.xyz^
 ||golden88.co^
 ||gpqicw.xyz^
+||grxeyig.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
 ||gykyec.xyz^
@@ -34636,6 +34641,7 @@ vkcdnservice.appspot.com^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiangzimeng1.cn^
+||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
 ||jlzz.name^
@@ -34677,6 +34683,7 @@ vkcdnservice.appspot.com^
 ||mindopu.com^
 ||moend.xyz^
 ||mrgecm.xyz^
+||mrruuov.cn^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyx.ltd^
@@ -34707,6 +34714,7 @@ vkcdnservice.appspot.com^
 ||poopd.xyz^
 ||poqwnllkm.com^
 ||ppshop.club^
+||pqldzp.xyz^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
@@ -34728,6 +34736,7 @@ vkcdnservice.appspot.com^
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rizgtf.xyz^
+||rksnqq.com^
 ||rpajqxo.cn^
 ||rqytqq.com^
 ||rsbepv.xyz^
@@ -34836,6 +34845,7 @@ vkcdnservice.appspot.com^
 ||zdlnhv.xyz^
 ||zdo-bdg.xyz^
 ||zdyuoae.xyz^
+||zgyvg.top^
 ||zhalinyyds.com^
 ||zhemu.xyz^
 ||zhoubo01.cn^
@@ -34850,16 +34860,6 @@ vkcdnservice.appspot.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||jinmin.online^
-||ajjgune.cn^
-||grxeyig.xyz^
-||rksnqq.com^
-||pqldzp.xyz^
-||zgyvg.top^
-||cdkke.xyz^
-||mrruuov.cn^
-||4388888.xyz^
-||4cjh.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
