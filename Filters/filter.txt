@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-03T06:08:58.158Z
+! Last modified: 2023-05-03T12:12:35.704Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -31077,6 +31077,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||placeholder.treeum.net^
 ||api.rnet.plus^
 ||ex.newsland.com^
 ||news.mirtesen.ru^
@@ -32756,8 +32757,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-05-01 07:59:28 CEST
-# entries:        1097
+# last updated:   2023-05-03 08:44:14 CEST
+# entries:        1098
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -33181,6 +33182,7 @@ vkcdnservice.appspot.com^
 ||openx.jaktsidan.se^
 ||optnmnstr.com^
 ||otc-cdn.relevant-digital.com^
+||owa.agriprim.se^
 ||p.insplanet.com^
 ||p.lp4.io^
 ||palmangelssverige.com.se^
@@ -35115,6 +35117,8 @@ vkcdnservice.appspot.com^
 ||13niao20230422.live^
 ||kzjkexn.cn^
 ||acbe.club^
+||chenyuzhou1.cn^
+||9wsbf.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
