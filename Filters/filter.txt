@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-05T06:09:03.777Z
+! Last modified: 2023-05-05T12:12:01.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,13 @@
 !
 !
 !
+||ophophil.net^
+||tasterscaltha.com^
+||pteevaih.xyz^
+||genbalar.com^
+||trushittria.com^
+||pitomievectors.com^
+||toutingmatelow.com^
 ||pompomsshock.com^
 ||rodisons.site^
 ||huffson-delivery.com^
@@ -2777,6 +2784,7 @@ vkcdnservice.appspot.com^
 ||acinicmislaid.com^
 ||acirtpkh.com^
 ||acjiqbfenafre.com^
+||acjkuejxcqfp.com^
 ||ackcdn.net^
 ||ackuotagowr.com^
 ||aclcdxkukaa.com^
@@ -4027,6 +4035,8 @@ vkcdnservice.appspot.com^
 ||animits.com^
 ||animosityknockedgorgeous.com^
 ||aninter.net^
+||anjlkkyhpp.com^
+||ankhspreses.space^
 ||anldnews.pro^
 ||anlhcenruea.com^
 ||anmdr.link^
@@ -7642,6 +7652,7 @@ vkcdnservice.appspot.com^
 ||cschyogh.com^
 ||csectsassess.com^
 ||csiasvapqrccq.com^
+||csoxbkscuflef.com^
 ||csvejabtxsccr.xyz^
 ||csvlgqsanwry.com^
 ||cswmeogdtycy.xyz^
@@ -8828,6 +8839,7 @@ vkcdnservice.appspot.com^
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||duwabchhdgkqc.com^
+||duwcacahfa.com^
 ||duwsikdimo.com^
 ||dvaminusodin.net^
 ||dviccvivms.com^
@@ -10720,7 +10732,6 @@ vkcdnservice.appspot.com^
 ||gemorul.com^
 ||gempeety.com^
 ||gempoussee.com^
-||genbalar.com^
 ||gencid.com^
 ||generalebad.xyz^
 ||generalizeruffleembroidery.com^
@@ -11568,6 +11579,7 @@ vkcdnservice.appspot.com^
 ||heavycomposedkerb.com^
 ||heavyrnews.name^
 ||heavyuniversecandy.com^
+||hebenefitssheasht.info^
 ||hebrum.com^
 ||hecherthepa.xyz^
 ||hecherthepar.com^
@@ -13742,6 +13754,7 @@ vkcdnservice.appspot.com^
 ||lightningcast.net^
 ||lightssyrupdecree.com^
 ||ligninenchant.com^
+||ligninsorra.website^
 ||ligulaeideated.guru^
 ||lijtfkmmiisrli.xyz^
 ||likeads.com^
@@ -14483,6 +14496,7 @@ vkcdnservice.appspot.com^
 ||meewireg.com^
 ||meezauch.net^
 ||megaad.nz^
+||megabookline.com^
 ||megadeliveryn.com^
 ||megae-aqn.com^
 ||megapopads.com^
@@ -15157,6 +15171,7 @@ vkcdnservice.appspot.com^
 ||naigristoa.com^
 ||nairapp.com^
 ||naisoops.net^
+||naive-skin.pro^
 ||naivescorries.com^
 ||naiyoz.lol^
 ||nakamasweb.com^
@@ -18151,6 +18166,7 @@ vkcdnservice.appspot.com^
 ||qksz.net^
 ||qkyktywuvh.com^
 ||qlfqkjluvz.com^
+||qlyunjqcyvx.xyz^
 ||qmihajdixr.com^
 ||qmkr7isp3o.com^
 ||qn-5.com^
@@ -19236,6 +19252,7 @@ vkcdnservice.appspot.com^
 ||rvwtpwmtnfj.com^
 ||rwfnpayyn.xyz^
 ||rwkdqtenbr.com^
+||rwkqbunoehe.com^
 ||rwlfznyvivh.com^
 ||rwzexfzoyqf.com^
 ||rxeosevsso.com^
@@ -22132,6 +22149,7 @@ vkcdnservice.appspot.com^
 ||ul8seok7w5al.com^
 ||ulalrars.net^
 ||ulathana.com^
+||ulbackgroundandiy.info^
 ||ulched.com^
 ||uldthinkhimu.info^
 ||ulemasazulene.com^
@@ -23663,6 +23681,7 @@ vkcdnservice.appspot.com^
 ||wronti.com^
 ||wrotop.com^
 ||wrotov.com^
+||wrotus.com^
 ||wrrzje.com^
 ||wryaslomwx.com^
 ||wrygraphicstheme.com^
@@ -23976,6 +23995,7 @@ vkcdnservice.appspot.com^
 ||yealnk.com^
 ||yeaonesad.com^
 ||yearbookhobblespinal.com^
+||yearca.com^
 ||yearlingpreferablyperiods.com^
 ||yearlylight.com^
 ||yearthpsyllid.com^
@@ -26851,6 +26871,8 @@ vkcdnservice.appspot.com^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 !
+||toponadss.com^
+||adcs-*.myappsget.com^
 ||adsassets.waze.com^
 ||ads-resources.waze.com^
 ||ad.simpledesign.ltd^
@@ -32930,8 +32952,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-05-03 08:44:14 CEST
-# entries:        1098
+# last updated:   2023-05-05 08:38:29 CEST
+# entries:        1100
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -33221,6 +33243,7 @@ vkcdnservice.appspot.com^
 ||get.s-onetag.com^
 ||girohjalm.com.se^
 ||greatstoryvideo.se^
+||gtm.findroommate.dk^
 ||gwen.insertcoin.se^
 ||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
@@ -33429,6 +33452,7 @@ vkcdnservice.appspot.com^
 ||script.crazyegg.com^
 ||script.extellio.com^
 ||script.ioam.de^
+||scripts.makeinfluence.com^
 ||script.e-space.se^
 ||sdk.pulse.schibsted.com^
 ||se1.siteimprove.com^
@@ -35312,6 +35336,11 @@ vkcdnservice.appspot.com^
 ||fcied.xyz^
 ||joplopr.cn^
 ||cloudsong.xyz^
+||1qlgi.top^
+||momoguoji.xyz^
+||lesenjiaoyu.xyz^
+||zdobdg.fyi^
+||36nl.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -40738,7 +40767,6 @@ vkcdnservice.appspot.com^
 ||cacafly.net^
 ||cbjs.ciwei.in^
 ||cdgfa.ifeng.com^
-||cdn.imvkan.com^
 ||cdn.wuyou.ca^
 ||chidir.com^
 ||cmm.xmfish.com^
@@ -41017,7 +41045,6 @@ vkcdnservice.appspot.com^
 ||5.gzfenda.com^
 ||50m.gkcyc.com^
 ||51dengshan.cn^
-||51ertong.com^
 ||51gxqm.com^
 ||5mm.zxfw5.cn^
 ||5pub.com^
@@ -41107,7 +41134,6 @@ vkcdnservice.appspot.com^
 ||a1.twtym.com^
 ||a1.yaozui.com^
 ||a1.zhanzhang.net^
-||a15d55423.5tps.xyz^
 ||a3.jandan.net^
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
@@ -41331,7 +41357,6 @@ vkcdnservice.appspot.com^
 ||dm.pw0.cn^
 ||dm.riji.cn^
 ||dm.sanwen.net^
-||dm.sg92.com^
 ||dm.taobaojuhuasuan.cn^
 ||dm.wenshenxiu.com^
 ||dm.zjut.cc^
@@ -41383,7 +41408,6 @@ vkcdnservice.appspot.com^
 ||fpb1.kedabai.com^
 ||fpb1.tabuzhe.com^
 ||fpbone.ihowguide.com^
-||fwccw.com^
 ||fxjs.2541.com^
 ||g.3lian.com^
 ||g.gegeyingshi.com^
@@ -41499,7 +41523,6 @@ vkcdnservice.appspot.com^
 ||khrtac.xiangha.com^
 ||km1.muhoujiemi.com^
 ||kpshx.douguo.com^
-||laobaigushi.com^
 ||leabd.douguo.com^
 ||lianmen1.joyyang.com^
 ||libs.tvmao.cn^
@@ -41510,7 +41533,6 @@ vkcdnservice.appspot.com^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
 ||love.furenkeji.com^
-||lraa.xiaoniutui.com^
 ||lv.myapks.com^
 ||lynr.com^
 ||lyz.radio366.com^
@@ -41583,7 +41605,6 @@ vkcdnservice.appspot.com^
 ||ql.uzuzuz.com^
 ||qpb*.sohu.com^
 ||qqhuhu.com^
-||qqwwmm.com^
 ||qujishu.com^
 ||r.99waiyu.com^
 ||rabc1.iteye.com^
@@ -41675,7 +41696,6 @@ vkcdnservice.appspot.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
 ||w3.ting55.com^
-||w3c.5txs.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
 ||wenhua.jiaoshou.com^
@@ -41687,8 +41707,6 @@ vkcdnservice.appspot.com^
 ||wmbd.gamersky.com^
 ||wmeng.feihuadns.com^
 ||wneia.iaskhot.com^
-||wodenongtian.com^
-||wodeshougong.com^
 ||wr.yiyouliao.com^
 ||ws.wenshenxiu.com^
 ||wuliao.chzsport.cn^
@@ -41712,7 +41730,6 @@ vkcdnservice.appspot.com^
 ||y.ruosi6.cn^
 ||y1.spreton.com^
 ||y66xvgo5i.chuimg.com^
-||yan.zhouguanchen.com^
 ||ydjs.luyouwang.com^
 ||yi.ximizi.com^
 ||yijiuningyia.gushiwen.org^
@@ -41723,7 +41740,6 @@ vkcdnservice.appspot.com^
 ||yptqys.tianqistatic.com^
 ||ys.muhoujiemi.com^
 ||ysdm*.ys137.com.cn^
-||ysxywj.com^
 ||yueka.com^
 ||ywg.jobui.com^
 ||yx1.managershare.com^
