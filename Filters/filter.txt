@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-06T00:31:50.859Z
+! Last modified: 2023-05-06T06:08:05.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -18540,6 +18540,7 @@ vkcdnservice.appspot.com^
 ||recesslikeness.com^
 ||recesssignary.com^
 ||rechampouinerai.website^
+||recheatputs.com^
 ||recipesunny.com^
 ||reciprocaldandy.com^
 ||reciprocaldowntownabout.com^
@@ -20384,6 +20385,7 @@ vkcdnservice.appspot.com^
 ||soysapslad.com^
 ||spacelala.com^
 ||spaceshipads.com^
+||spacetraveldin.com^
 ||spaciouslanentablelanentablepigs.com^
 ||spadeballroom.com^
 ||spaderonium.com^
@@ -35447,6 +35449,9 @@ vkcdnservice.appspot.com^
 ||tlhlpcb.xyz^
 ||srkl.pw^
 ||twnafj.xyz^
+||gwide.xyz^
+||bjcpjab.cn^
+||lwh147.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
