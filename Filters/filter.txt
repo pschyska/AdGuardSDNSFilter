@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-09T06:09:12.966Z
+! Last modified: 2023-05-09T12:52:21.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||v.scurra.space^
+||usefulpush.com^
 ||givememmastreams.com^
 ||knxabzznddtc.com^
 ||osrhdsoeqhos.com^
@@ -1019,7 +1021,6 @@
 ||othepbuttit.com^
 ||clrpdhptoddatj49.pro^
 ||getmyfreetraffic.com^
-||pandanetwork.club^
 ||uptopop.com^
 ||adslop.com^
 ||holexknw.loan^
@@ -3602,6 +3603,7 @@ vkcdnservice.appspot.com^
 ||airthabolete.com^
 ||airticmonsoa.com^
 ||airydeservesannounce.com^
+||aisaipty.xyz^
 ||aissoksu.net^
 ||aistgsgxvsrywhf.com^
 ||aistolsu.net^
@@ -4646,6 +4648,7 @@ vkcdnservice.appspot.com^
 ||aubergeswots.com^
 ||auberginecorny.com
 ||aubpfvvsiyf.xyz^
+||auburn9819.com^
 ||auchoons.net^
 ||auckledfathere.xyz^
 ||auctodian.quest^
@@ -4773,6 +4776,7 @@ vkcdnservice.appspot.com^
 ||avnyvfqiqiidu.xyz^
 ||avoidanudaic.xyz^
 ||avonsour.com^
+||avouse.com^
 ||avowalssnivel.com^
 ||avppuqrudc.com^
 ||avprvdlsfdmp.xyz^
@@ -5834,6 +5838,7 @@ vkcdnservice.appspot.com^
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||boftogro.net^
+||boggyamrit.com^
 ||bogrodius.com^
 ||boguetrust.com^
 ||boguspredict.com^
@@ -8379,6 +8384,7 @@ vkcdnservice.appspot.com^
 ||dillsloppy.com^
 ||dilruwha.net^
 ||dilutionavailstoker.com^
+||dimedoncywydd.com^
 ||dimensionuptown.com^
 ||dimessing-parker.com^
 ||dimfarlow.com^
@@ -8888,6 +8894,7 @@ vkcdnservice.appspot.com^
 ||dushorgy.com^
 ||dusiospires.com^
 ||dustarlyom.com^
+||dustedmullion.com^
 ||dustymural.com^
 ||dustytownsplatitude.com^
 ||dustywrenchdesigned.com^
@@ -10105,6 +10112,7 @@ vkcdnservice.appspot.com^
 ||fewplan.pro^
 ||fewrfie.com^
 ||feyl4mh5to.com^
+||fezzanminyans.com^
 ||ff42fd5ec6.com^
 ||ff5bd8d9f8df.com^
 ||ff9ffc838f.com^
@@ -15537,6 +15545,7 @@ vkcdnservice.appspot.com^
 ||nicesthoarfrostsooner.com^
 ||nicheads.com^
 ||nichedlinks.com^
+||nicheevaderesidential.com^
 ||nichegreatunemployment.com^
 ||nichools.com^
 ||nickeeha.net^
@@ -16048,6 +16057,7 @@ vkcdnservice.appspot.com^
 ||ogrltiahldr.com^
 ||ogskle.com^
 ||ogtgurmzeoj.com^
+||ohartgxiuc.com^
 ||ohdrgrpfyvughty.xyz^
 ||ohelgbbileii.xyz^
 ||oherhome.xyz^
@@ -16727,6 +16737,7 @@ vkcdnservice.appspot.com^
 ||pannamdashee.com^
 ||pansymerbaby.com^
 ||pantafives.com^
+||pantdentaldonate.com^
 ||panyarspan.com^
 ||panyinadiin.xyz^
 ||papaneecorche.com^
@@ -16792,6 +16803,7 @@ vkcdnservice.appspot.com^
 ||paservices.tech^
 ||pasgfeaqdo.com^
 ||paslsa.com^
+||pasoleex.com^
 ||pasoshardy.com^
 ||pasquinzippy.com^
 ||passannouncing.com^
@@ -17370,6 +17382,7 @@ vkcdnservice.appspot.com^
 ||plified.pro^
 ||plkatdmeje.com^
 ||plocap.com^
+||plosaztduojwbe.com^
 ||plottercatnap.digital^
 ||ployeesihigh.one^
 ||ployeesihighlyr.xyz^
@@ -20191,6 +20204,7 @@ vkcdnservice.appspot.com^
 ||slakesshimtames.com^
 ||slakiervolost.com^
 ||slammederasepolicy.com^
+||slantedsecno.com^
 ||slaqandsan.xyz^
 ||slashstar.net^
 ||slaughtergarageparttime.com^
@@ -20271,6 +20285,7 @@ vkcdnservice.appspot.com^
 ||smisit.com^
 ||smisto.com^
 ||smists.com^
+||smitry.com^
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokesplical.com^
@@ -34287,8 +34302,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 May 2023 13:47 UTC+7
-! Version: 2305081347
+! Last modified: 09 May 2023 16:27 UTC+7
+! Version: 2305091627
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35580,6 +35595,8 @@ vkcdnservice.appspot.com^
 ||jrtwi.xyz^
 ||csh253.cn^
 ||kianakaslana.club^
+||p2oh1.xyz^
+||dhaxhsa325.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
