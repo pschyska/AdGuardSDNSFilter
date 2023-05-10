@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-10T12:12:43.118Z
+! Last modified: 2023-05-10T18:16:52.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||filgzukroj.com^
 ||bepqevudfoha.com^
 ||voadeezu.net^
 ||v.scurra.space^
@@ -3954,6 +3955,7 @@ vkcdnservice.appspot.com^
 ||amre.work^
 ||amrtbbnr.com^
 ||amshirethfne.xyz^
+||amshroomishan.com^
 ||amstkqlvcitds.com^
 ||amsvplhvxipufkp.xyz^
 ||amtcwixpdsjurjm.com^
@@ -4603,6 +4605,7 @@ vkcdnservice.appspot.com^
 ||atripplotx.com^
 ||atroer.com^
 ||atservineor.com^
+||atshroomisha.com^
 ||atsocmotcar.com^
 ||attacheastely.com^
 ||attachedt.xyz^
@@ -5120,6 +5123,7 @@ vkcdnservice.appspot.com^
 ||bangingpunk.com^
 ||bangtopads.com^
 ||bangtyranclank.com^
+||bangute.xyz^
 ||banicywan.com^
 ||banisterspast.com^
 ||bankerconcludeshare.com^
@@ -7518,6 +7522,7 @@ vkcdnservice.appspot.com^
 ||cosmeticsgenerosity.com^
 ||cosmjs.com^
 ||costaquire.com^
+||costatevamped.com^
 ||costhandbookfolder.com^
 ||cosydrbrewing.com^
 ||cotalles.com^
@@ -9645,6 +9650,7 @@ vkcdnservice.appspot.com^
 ||eucleu.com^
 ||eudoxia-myr.com^
 ||euizhltcd6ih.com^
+||euonymcalvous.com^
 ||euosicjxjv.com^
 ||euouaeslurped.com^
 ||eupathyroching.store^
@@ -9866,6 +9872,7 @@ vkcdnservice.appspot.com^
 ||f9pennsy3glvkm6ania.com^
 ||fa3f0c1e3f.com^
 ||fa9123763f.com^
+||fa9b667e4e.com^
 ||faa39957a3.com^
 ||fabrkrup.com^
 ||facaltow.net^
@@ -9940,6 +9947,7 @@ vkcdnservice.appspot.com^
 ||familyborn.com^
 ||familyliar.com^
 ||faminedealergirl.com^
+||famoot.com^
 ||famousletterss.online^
 ||famousremainedshaft.com^
 ||fampfage.com^
@@ -10091,6 +10099,7 @@ vkcdnservice.appspot.com^
 ||femin.online^
 ||femindexkilog.xyz^
 ||fenacheaverage.com^
+||fenchylsoonish.com^
 ||fenixm.com^
 ||fensough.xyz^
 ||fer2oxheou4nd.com^
@@ -10361,6 +10370,7 @@ vkcdnservice.appspot.com^
 ||foapsovi.net^
 ||fobeetch.net^
 ||focalex.com^
+||focath.com^
 ||foetusconductfold.com^
 ||fogayeown.com^
 ||foggytube.com^
@@ -10493,6 +10503,7 @@ vkcdnservice.appspot.com^
 ||fpofvdovrk.com^
 ||fppmnvrubgl.xyz^
 ||fpskctncgj.xyz^
+||fqanulluixeis.com^
 ||fqqxpudpmuo.xyz^
 ||fqtfwulmcdw.com^
 ||frabwiccy.com^
@@ -11233,6 +11244,7 @@ vkcdnservice.appspot.com^
 ||gqubkbuinx.com^
 ||gr8y7z1xaq30.com^
 ||gracaiko.net^
+||gracedschelly.com^
 ||gracefulbayonetlukewarm.com^
 ||gracelessaffected.com^
 ||gracelesssolicitor.com^
@@ -12925,6 +12937,8 @@ vkcdnservice.appspot.com^
 ||jf71qh5v14.com^
 ||jfivafkigju.com^
 ||jgqskdjkorwvh.xyz^
+||jgszymcphwcege.com^
+||jguepxraix.xyz^
 ||jheelsplotch.com^
 ||jhoncj.com^
 ||jhxqfgbj.com^
@@ -13950,6 +13964,7 @@ vkcdnservice.appspot.com^
 ||liquorsswouned.com^
 ||lispingwraths.space^
 ||listeraislatory.site^
+||listguineaelementary.com^
 ||literacysufficientlymicroscope.com^
 ||literalcorpulent.com^
 ||literallisten.com^
@@ -15945,6 +15960,7 @@ vkcdnservice.appspot.com^
 ||objectstutted.store^
 ||objureexamen.life^
 ||oblivionwatcherrebellious.com^
+||oblong-pool.pro^
 ||oblongseller.com^
 ||obnarium.com^
 ||obnoxiouspatrolassault.com^
@@ -16613,6 +16629,7 @@ vkcdnservice.appspot.com^
 ||overzubatan.com^
 ||ovfratlkxerv.xyz^
 ||ovibospeseta.com^
+||ovoordie.xyz^
 ||ovpekubdewm.com^
 ||ovsliqrcwqsqfxf.xyz^
 ||ovvwunawrt.com^
@@ -16740,6 +16757,7 @@ vkcdnservice.appspot.com^
 ||palama2.com^
 ||palasidesdoor.com^
 ||palaverpageboy.com^
+||palemanpathlet.com^
 ||palibs.tech^
 ||pallaliven.com^
 ||palpablefungussome.com^
@@ -17173,6 +17191,7 @@ vkcdnservice.appspot.com^
 ||phirgese.com^
 ||phirozeon.com^
 ||phloxsub73ulata.com^
+||phncdn.com^
 ||phoaglee.com^
 ||phoalard.net^
 ||phoapsoo.com^
@@ -17653,6 +17672,7 @@ vkcdnservice.appspot.com^
 ||ppclinking.com^
 ||ppcnt.pro^
 ||ppfrlfe.com^
+||ppgjebhcyu.com^
 ||pphauantic.com^
 ||ppikhedas.com^
 ||pplferio.com^
@@ -17939,6 +17959,7 @@ vkcdnservice.appspot.com^
 ||psaisegn.net^
 ||psaithou.com^
 ||psaizeemit.com^
+||psaltard.net^
 ||psaltauw.net^
 ||psapsiph.net^
 ||psardaub.net^
@@ -19970,6 +19991,7 @@ vkcdnservice.appspot.com^
 ||shieldthanks.com^
 ||shiftclang.com^
 ||shihewoo.com^
+||shijoorg.xyz^
 ||shikroux.net^
 ||shillivee.pro^
 ||shimmedlocated.com^
@@ -20642,6 +20664,7 @@ vkcdnservice.appspot.com^
 ||squirtburpimplore.com^
 ||srcsmrtgs.com^
 ||sreamyourvids.online^
+||sreamyourvids.space^
 ||srgev.com^
 ||sridujhkagpe.com^
 ||srigbxxv.com^
@@ -20986,6 +21009,7 @@ vkcdnservice.appspot.com^
 ||sundersetrgh.site^
 ||sungarnonsane.com^
 ||sunglassesmentallyproficient.com^
+||sungzionism.com^
 ||sunnybluecoral.com^
 ||sunnyseries.com^
 ||sunsekrious.com^
@@ -23091,6 +23115,7 @@ vkcdnservice.appspot.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vkrvjvpqcqk.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
@@ -24415,6 +24440,7 @@ vkcdnservice.appspot.com^
 ||yvoria.com^
 ||yvzgazds6d.com^
 ||ywasnothyc.buzz^
+||ywyeetvrjx.xyz^
 ||yx-ads6.com^
 ||yxajqsrsij.com^
 ||yxhkonfmbe.com^
@@ -24570,6 +24596,7 @@ vkcdnservice.appspot.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkm.com^
+||zljwhbuagdvl.com^
 ||zlx.com.br^
 ||zm232.com^
 ||zmenmuol.com^
@@ -26205,6 +26232,7 @@ vkcdnservice.appspot.com^
 ||ad.wsod.com^
 ||adrackpush.azurewebsites.net^
 ||ads-yallo-production.imgix.net^
+||ads.betfair.com^
 ||ads.linkedin.com^
 ||ads.sportradar.com^
 ||adsales.snidigital.com^
@@ -26320,6 +26348,7 @@ vkcdnservice.appspot.com^
 ||vice-publishers-cdn.vice.com^
 ||video-ads.a2z.com^
 ||videosvc.ezoic.com^
+||webinstaller.screen13.com^
 ||weby.aaas.org^
 ||widget.golfscape.com^
 ||widget.searchschoolsnetwork.com^
