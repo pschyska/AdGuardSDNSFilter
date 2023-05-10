@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-10T06:09:01.839Z
+! Last modified: 2023-05-10T12:12:43.118Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bepqevudfoha.com^
 ||voadeezu.net^
 ||v.scurra.space^
 ||usefulpush.com^
@@ -31513,6 +31514,8 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||oba.rus-km.ru^
+||dab.rus-km.ru^
 ||placeholder.treeum.net^
 ||api.rnet.plus^
 ||ex.newsland.com^
@@ -34334,8 +34337,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 May 2023 16:27 UTC+7
-! Version: 2305091627
+! Last modified: 10 May 2023 13:20 UTC+7
+! Version: 2305101320
 ! Blocked: 832 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -35637,6 +35640,7 @@ vkcdnservice.appspot.com^
 ||kcieo.xyz^
 ||chenyt.club^
 ||hbbxwan.cn^
+||nogff.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -43148,6 +43152,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/150038
+! Blocked by ||getblueshift.com^
+@@||clickattr.wayup.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
 ! Blocked by ||adperfect.com^
 @@||chathamdailynews.remembering.ca^|
