@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-11T18:08:12.448Z
+! Last modified: 2023-05-12T00:36:05.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -11352,6 +11352,7 @@ vkcdnservice.appspot.com^
 ||griffsunneat.com^
 ||grifictuberal.site^
 ||grignoaw.com^
+||grigrees.xyz^
 ||griksoud.net^
 ||grillcheekunfinished.com^
 ||grinchsycoses.tech^
@@ -13245,6 +13246,7 @@ vkcdnservice.appspot.com^
 ||kbyjxhnweoi.com^
 ||kcdn.xyz^
 ||kcepfyzuna.com^
+||kdvewlabjokfoc.com^
 ||keamateorski.xyz^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
@@ -14590,6 +14592,7 @@ vkcdnservice.appspot.com^
 ||mczbf.com^
 ||mdadx.com^
 ||mdcytqwnbr.com^
+||mdfasisitslddxq.com^
 ||mdfbrsfkufamsr.com^
 ||mdkkbrbhlji.com^
 ||mdn2015x1.com^
@@ -23252,6 +23255,7 @@ vkcdnservice.appspot.com^
 ||vukticlataf.com^
 ||vulgartaivert.website^
 ||vulguspyemic.com^
+||vungqwclop.xyz^
 ||vuuwd.com^
 ||vuwmxjusucnh.com^
 ||vvvljeqasz.com^
@@ -24286,6 +24290,7 @@ vkcdnservice.appspot.com^
 ||yellowacorn.net^
 ||yellowblue.io^
 ||yellowtaraph.live^
+||yellpeculiarities.com^
 ||yemecotum.com^
 ||yepsawomen.com^
 ||yepsobtax.com^
@@ -35706,6 +35711,13 @@ vkcdnservice.appspot.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||mxknqq.com^
+||heliangjun2.cn^
+||tian0.ltd^
+||ndqzqmb.xyz^
+||mueid.xyz^
+||rrzxlt.xyz^
+||zxgko.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
