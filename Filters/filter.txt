@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-16T06:08:57.015Z
+! Last modified: 2023-05-16T12:13:07.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28173,6 +28173,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||knowens.com^
 ||m-setup.net^
 ||pheasantnt.com^
 ||coml.be^
@@ -31712,6 +31713,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||adv.topvideo.tj^
 ||vast.playmatic.video^
 ||oba.rus-km.ru^
 ||dab.rus-km.ru^
@@ -32735,6 +32737,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||jp.twww.sbs^
 ||002777.xyz^
 ||app2.10090dfs.com^
 ||ad.zui.com^
@@ -35910,6 +35913,7 @@ vkcdnservice.appspot.com^
 ||pacix.xyz^
 ||radish-cake.xyz^
 ||zldzbr.xyz^
+||iwdvvoc.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
