@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-17T06:08:58.763Z
+! Last modified: 2023-05-17T12:11:59.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||beyourxfriend.com^
+||linkads.me^
 ||dating.service2u.shop^
 ||pushpad.xyz^
 ||spritzawapuhi.guru^
@@ -33422,8 +33424,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-05-05 08:38:29 CEST
-# entries:        1100
+# last updated:   2023-05-17 08:55:24 CEST
+# entries:        1101
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -33518,6 +33520,7 @@ vkcdnservice.appspot.com^
 ||app.converdiant.com^
 ||app.truconversion.com^
 ||app.yieldify.com^
+||applets.ebxcdn.com^
 ||apps.shareaholic.com^
 ||apps-cdn.relevant-digital.com^
 ||apsislead.com^
@@ -35952,6 +35955,10 @@ vkcdnservice.appspot.com^
 ||nwandlc.top^
 ||huishengqihang.xyz^
 ||xiangfenyabu.xyz^
+||wjtij.top^
+||xsbdj6.com^
+||dcnytdpke.xyz^
+||54ha.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
