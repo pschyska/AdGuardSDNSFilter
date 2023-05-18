@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-17T18:08:15.289Z
+! Last modified: 2023-05-18T00:35:14.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -13280,6 +13280,7 @@ vkcdnservice.appspot.com^
 ||kaiu-marketing.com^
 ||kaiwaipo.net^
 ||kaiwiciy.net^
+||kakakakaka.xyz^
 ||kalauxet.com^
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
@@ -35987,6 +35988,14 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||bjtel.cn^
+||kryjqq.com^
+||bockd.xyz^
+||fdytdc.xyz^
+||qange.com^
+||xzlurd.xyz^
+||humgrww.xyz^
+||hfhytx.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
