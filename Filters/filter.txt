@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-27T21:26:10.843Z
+! Last modified: 2023-05-28T00:38:22.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -16788,7 +16788,6 @@ vkcdnservice.appspot.com^
 ||orbsrv.com^
 ||orbthindicab.cc^
 ||orchestraanticipation.com^
-||orchestrator.strn.pl^
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
 ||orderfritter.com^
@@ -20997,7 +20996,6 @@ vkcdnservice.appspot.com^
 ||sotetahe.pro^
 ||sottagejalur.uno^
 ||soulfulinevitable.pro^
-||soulgen.net^
 ||soulsglovesacid.com^
 ||sounct.com^
 ||soundelktemper.com^
@@ -34647,6 +34645,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
 ||rtbuzz.net^
+||yobee.it^
 ||24network.it^
 ||ad4mat.it^
 ||adagionet.com^
@@ -34766,7 +34765,6 @@ vkcdnservice.appspot.com^
 ||wbusiness.fr^
 ||widebanner.com^
 ||worldfilia.net^
-||yobee.it^
 ||zanox-affiliate.de^
 ||zariumhb.com^
 ||zodiakactive.com^
@@ -36605,6 +36603,14 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||xiaodouding.club^
+||brzfqq.com^
+||qlwoglp.cn^
+||ifbfksf.xyz^
+||ludpa.xyz^
+||tifpjz.xyz^
+||dobwll.xyz^
+||dikmnhyxz.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
