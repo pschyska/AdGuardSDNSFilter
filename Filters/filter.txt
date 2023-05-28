@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-28T12:10:51.894Z
+! Last modified: 2023-05-28T18:07:17.912Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -24,7 +24,6 @@
 !
 ||salamus1.lol^
 ||htmass.com^
-||rollercoin.com^
 ||zerads.com^
 ||anonads.net^
 ||vidsservices.space^
@@ -26445,6 +26444,7 @@ vkcdnservice.appspot.com^
 ||rhombusads.com^
 ||richaudience.com^
 ||roirocket.com^
+||rollercoin.com^
 ||rotaban.ru^
 ||rubyblu.com^
 ||salvador24.com^
@@ -35060,9 +35060,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 May 2023 10:05 UTC+7
-! Version: 2305241005
-! Blocked: 833 rules
+! Last modified: 28 May 2023 22:22 UTC+7
+! Version: 2305282222
+! Blocked: 834 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35589,6 +35589,7 @@ vkcdnservice.appspot.com^
 ||gamma.cachefly.net^
 ||ghimc.vn^
 ||go.vnecdn.com^
+||gtm.saostar.vn^
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||hexapinow.xyz^
@@ -35957,6 +35958,7 @@ vkcdnservice.appspot.com^
 ||ayynsdp.xyz^
 ||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
+||baidudsvbshj.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||baytfede.xyz^
 ||bcivqxd.cn^
@@ -35983,6 +35985,7 @@ vkcdnservice.appspot.com^
 ||bqdyqq.com^
 ||bqsxqq.com^
 ||brkzczn.cn^
+||brzfqq.com^
 ||bwwlw.cn^
 ||c9cc.icu^
 ||campu.ltd^
@@ -36042,9 +36045,11 @@ vkcdnservice.appspot.com^
 ||dhxrxn.xyz^
 ||diekd.xyz^
 ||diggtp001.com^
+||dikmnhyxz.xyz^
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
 ||dl520.fun^
+||dobwll.xyz^
 ||doccd.xyz^
 ||donku.club^
 ||dpaic.xyz^
@@ -36159,6 +36164,7 @@ vkcdnservice.appspot.com^
 ||iaacua.xyz^
 ||icesfeathers.fun^
 ||iepda.xyz^
+||ifbfksf.xyz^
 ||ifbqves.cn^
 ||ifeurcw.cn^
 ||igtchzp.cn^
@@ -36216,6 +36222,7 @@ vkcdnservice.appspot.com^
 ||kbabqnd.cn^
 ||kcieo.xyz^
 ||kfocoq.xyz^
+||kgcyvd.com^
 ||kianakaslana.club^
 ||kingsunsky.ltd^
 ||kjwysxs.cn^
@@ -36233,6 +36240,7 @@ vkcdnservice.appspot.com^
 ||kybzkiw.xyz^
 ||kzjkexn.cn^
 ||kzjqraj.cn^
+||l74co.xyz^
 ||lcjyll.xyz^
 ||ledni.xyz^
 ||lendc.xyz^
@@ -36250,8 +36258,10 @@ vkcdnservice.appspot.com^
 ||lobqpt.xyz^
 ||lorenop.icu^
 ||lqglqq.com^
+||lrah0.top^
 ||luckydino.ren^
 ||ludie.xyz^
+||ludpa.xyz^
 ||luuss.cn^
 ||lvy0.cn^
 ||lwh147.xyz^
@@ -36314,6 +36324,7 @@ vkcdnservice.appspot.com^
 ||ojuhwc.xyz^
 ||on-you.cn^
 ||onlystar.club^
+||ooegpip.cn^
 ||ooexkqj.cn^
 ||oofyjik.xyz^
 ||opida.xyz^
@@ -36360,6 +36371,7 @@ vkcdnservice.appspot.com^
 ||qiwjiy.xyz^
 ||qkcaqq.xyz^
 ||qkwsqq.com^
+||qlwoglp.cn^
 ||qm6ef.xyz^
 ||qnmtqq.com^
 ||qooav.top^
@@ -36399,6 +36411,7 @@ vkcdnservice.appspot.com^
 ||sbyueyue.xyz^
 ||scrvw3.com^
 ||sdfqs2.com^
+||sdfxcv.com^
 ||sectn.xyz^
 ||semaobf1.com^
 ||seumouxuezha.xyz^
@@ -36427,6 +36440,7 @@ vkcdnservice.appspot.com^
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
+||tifpjz.xyz^
 ||tingchen.xyz^
 ||tlhlpcb.xyz^
 ||tmochyf.cn^
@@ -36435,6 +36449,7 @@ vkcdnservice.appspot.com^
 ||ttpybz.xyz^
 ||tuhipkz.xyz^
 ||turifb.xyz^
+||twandli.top^
 ||twbqqq.com^
 ||twnafj.xyz^
 ||twww.sbs^
@@ -36522,6 +36537,7 @@ vkcdnservice.appspot.com^
 ||xiangfenyabu.xyz^
 ||xiaobixiaobi.com^
 ||xiaochen1.cn^
+||xiaodouding.club^
 ||xiaoliublog.icu^
 ||xiiljoy.cn^
 ||xingyang.in^
@@ -36603,17 +36619,6 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||xiaodouding.club^
-||brzfqq.com^
-||qlwoglp.cn^
-||ifbfksf.xyz^
-||ludpa.xyz^
-||tifpjz.xyz^
-||dobwll.xyz^
-||dikmnhyxz.xyz^
-||baidudsvbshj.com^
-||twandli.top^
-||l74co.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
