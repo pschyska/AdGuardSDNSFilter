@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-29T06:09:43.898Z
+! Last modified: 2023-05-29T12:11:47.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -2725,6 +2725,7 @@ vkcdnservice.appspot.com^
 ||aboveredirect.top^
 ||abovethecityo.com^
 ||abpjs23.com^
+||abrashteresa.com^
 ||abrasivematch.com^
 ||abridgeoverwhelmfireball.com^
 ||abrinchapper.com^
@@ -11976,6 +11977,7 @@ vkcdnservice.appspot.com^
 ||heisalw.xyz^
 ||heistgust.com^
 ||hekowutus.com^
+||helaid.com^
 ||heleric.com^
 ||helesandoral.com^
 ||helic3oniusrcharithonia.com^
@@ -12632,6 +12634,7 @@ vkcdnservice.appspot.com^
 ||immoxdzdke.com^
 ||immunepine.com^
 ||imnpkbxrf.xyz^
+||imobljkhqw.com^
 ||imp2aff.com^
 ||impactradius-go.com^
 ||impactradius.com^
@@ -16542,6 +16545,7 @@ vkcdnservice.appspot.com^
 ||olmsoneenh.info^
 ||olongercrak.xyz^
 ||olongercrav.com.ua^
+||olpfeere.com^
 ||olqhulfpezp.com^
 ||olrbbwxkm.top^
 ||olympicsappointment.com^
@@ -17640,6 +17644,7 @@ vkcdnservice.appspot.com^
 ||piasterpoleyns.com^
 ||picadmedia.com^
 ||picalchymic.uno^
+||picath.com^
 ||picbucks.com^
 ||pickaflick.co^
 ||pickaxewafters.com^
@@ -24691,6 +24696,7 @@ vkcdnservice.appspot.com^
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xgraph.net^
+||xgstemmj.com^
 ||xhaeuubhi.xyz^
 ||xhlzokzxoxykxf.com^
 ||xhr0.xyz^
@@ -28662,6 +28668,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||news.partners.ru.com^
 ||dqwzhseasq.com^
 ||vst.dfn-network.pro^
 ||mediasystems.am^
@@ -32833,6 +32840,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||d-markets.net^
 ||assistads.net^
 ||cnt.affiliate.fc2.com^
 ||link-medias.com^
@@ -36648,6 +36656,8 @@ vkcdnservice.appspot.com^
 ||meidd.xyz^
 ||goikbnjksdf.com^
 ||bny3.cn^
+||2medo.top^
+||westover.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
