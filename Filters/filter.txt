@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-29T12:11:47.251Z
+! Last modified: 2023-05-29T18:07:57.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||compassionatecheek.com^
 ||salamus1.lol^
 ||htmass.com^
 ||zerads.com^
@@ -7462,7 +7463,6 @@ vkcdnservice.appspot.com^
 ||comparedsilas.com^
 ||comparisonpredatororigin.com^
 ||compassionatearea.pro^
-||compassionatecheek.com^
 ||compassionorb.com^
 ||compasspenitenthollow.com^
 ||compatibilityproduces.com^
@@ -26124,7 +26124,6 @@ vkcdnservice.appspot.com^
 ||hotwords.com^
 ||hover.in^
 ||hprofits.com^
-||hsoub.com^
 ||httpool.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
@@ -26878,6 +26877,7 @@ vkcdnservice.appspot.com^
 ||ads.betfair.com^
 ||ads.linkedin.com^
 ||ads.sportradar.com^
+||ads2.hsoub.com^
 ||adsales.snidigital.com^
 ||adserving.unibet.com^
 ||adtechvideo.s3.amazonaws.com^
@@ -33254,6 +33254,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kkkjpg-522.cc^
 ||ekofelj.xyz^
 ||cadke.xyz^
 ||uu3192uu.com^
@@ -35909,6 +35910,7 @@ vkcdnservice.appspot.com^
 ||26niao20230505.live^
 ||27niao20230506.live^
 ||2fa20230511.live^
+||2medo.top^
 ||32fi.com^
 ||331qka.cn^
 ||36060.xyz^
@@ -35960,6 +35962,7 @@ vkcdnservice.appspot.com^
 ||adbtwyxl96.fun^
 ||adcd7.com^
 ||adelaideceliacd.com^
+||adfec3.com^
 ||aeletheacd.com^
 ||afndhou.xyz^
 ||agwdac.xyz^
@@ -36002,6 +36005,7 @@ vkcdnservice.appspot.com^
 ||blue-rain.com.cn^
 ||blvnsgr.xyz^
 ||blxfqq.com^
+||bny3.cn^
 ||bnz9.cn^
 ||bockd.xyz^
 ||boshao666.com^
@@ -36086,6 +36090,7 @@ vkcdnservice.appspot.com^
 ||dszhqww.cn^
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
+||dydujb.xyz^
 ||dyhnbgtsl.xyz^
 ||e51d1.icu^
 ||eaica.xyz^
@@ -36099,6 +36104,7 @@ vkcdnservice.appspot.com^
 ||endio.xyz^
 ||eqknlsw.xyz^
 ||euyvpgn.cn^
+||evenyw.xyz^
 ||evmnlpv.cn^
 ||ewandlw.top^
 ||excfig.xyz^
@@ -36141,6 +36147,7 @@ vkcdnservice.appspot.com^
 ||gjxczx.xyz^
 ||gmasrjx.cn^
 ||goiagm.xyz^
+||goikbnjksdf.com^
 ||golden88.co^
 ||gorpgeu.xyz^
 ||gpqicw.xyz^
@@ -36272,6 +36279,7 @@ vkcdnservice.appspot.com^
 ||ledni.xyz^
 ||lendc.xyz^
 ||lesenjiaoyu.xyz^
+||lewqiiy.xyz^
 ||lgecqrb.com^
 ||lianxi.link^
 ||linuozhiyao.xyz^
@@ -36304,6 +36312,7 @@ vkcdnservice.appspot.com^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
 ||meexx.xyz^
+||meidd.xyz^
 ||mem3.cn^
 ||mfifsux.xyz^
 ||mfoevvy.com^
@@ -36323,6 +36332,7 @@ vkcdnservice.appspot.com^
 ||mssdkrt.xyz^
 ||mueid.xyz^
 ||mxknqq.com^
+||mzqf1.com^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyksuw.xyz^
@@ -36333,6 +36343,7 @@ vkcdnservice.appspot.com^
 ||nekomasu.ltd^
 ||networkname.xyz^
 ||nezqmud.com^
+||nilzq.xyz^
 ||ningdebus.club^
 ||nkvwvx.xyz^
 ||nntsdp.xyz^
@@ -36346,6 +36357,7 @@ vkcdnservice.appspot.com^
 ||nwecd.xyz^
 ||ocoda.xyz^
 ||ogtphoj.cn^
+||oiewpw.com^
 ||oiljomy.xyz^
 ||oimzak.xyz^
 ||ojuhwc.xyz^
@@ -36460,6 +36472,7 @@ vkcdnservice.appspot.com^
 ||swandlb.top^
 ||szsbiw.xyz^
 ||tangxu.xyz^
+||taoli.name^
 ||tc911.vip^
 ||tejiachong.co^
 ||tffulllist.shop^
@@ -36537,12 +36550,14 @@ vkcdnservice.appspot.com^
 ||weeqmcq.cn^
 ||weixinnft.com^
 ||wenxiaowu.xyz^
+||westover.cn^
 ||wgzgzmu.cn^
 ||whbn.xyz^
 ||windyang.xyz^
 ||wjaqc.xyz^
 ||wjtij.top^
 ||wkzrqq.com^
+||wosidnlkxq.com^
 ||wqweiog.xyz^
 ||wsoxwa.xyz^
 ||wvwl.cn^
@@ -36603,6 +36618,7 @@ vkcdnservice.appspot.com^
 ||yikucdn.com^
 ||yingce.asia^
 ||yingnanyyds.com^
+||yisangyhqq.com^
 ||yisangyyds.com^
 ||yjgqpfj.cn^
 ||yttc.ren^
@@ -36612,6 +36628,7 @@ vkcdnservice.appspot.com^
 ||ywsiqlg.cn^
 ||yywh.vip^
 ||z11011.com^
+||z74lb.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
@@ -36646,18 +36663,6 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||yisangyhqq.com^
-||lewqiiy.xyz^
-||taoli.name^
-||evenyw.xyz^
-||dydujb.xyz^
-||wosidnlkxq.com^
-||mzqf1.com^
-||meidd.xyz^
-||goikbnjksdf.com^
-||bny3.cn^
-||2medo.top^
-||westover.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
