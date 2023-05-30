@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-05-29T18:07:57.441Z
+! Last modified: 2023-05-30T00:38:10.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -1520,6 +1520,13 @@
 ||st1.bhol.co.il^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
 ||pijama.*.elasticbeanstalk.com^
+!---------------------------------------------------------------------
+!------------------------------ Italian ------------------------------
+!---------------------------------------------------------------------
+! NOTE: Italian
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/152148
+||pad.mymovies.it^
 ||ap.delfi.ee^
 ||ado.delfi.ee^
 !
@@ -36663,6 +36670,16 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||zaiyuanyqq.com^
+||bapdkgmvn.xyz^
+||uejnmjdpd.xyz^
+||godlu.com^
+||jt56.co^
+||uwandlt.top^
+||nakop.xyz^
+||lifvfr.xyz^
+||nwuidsbjak.com^
+||vdebtqm.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
