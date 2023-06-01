@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-01T06:09:14.230Z
+! Last modified: 2023-06-01T12:13:19.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -4242,6 +4242,7 @@ vkcdnservice.appspot.com^
 ||aplentytwo.com^
 ||aplidhree.com^
 ||apnwcakifv.com^
+||apochaeunanime.com^
 ||apologiesbackyardbayonet.com^
 ||apologiesneedleworkrising.com^
 ||apologiseproposed.com^
@@ -5128,6 +5129,7 @@ vkcdnservice.appspot.com^
 ||baggageconservationcaught.com^
 ||baggy-fail.pro^
 ||baglikeurging.com^
+||bagnuterosive.com^
 ||bagsmartname.com^
 ||baguioattalea.com^
 ||bagwynbilgier.com^
@@ -8549,6 +8551,7 @@ vkcdnservice.appspot.com^
 ||dianomioffers.co.uk^
 ||diantcummiere.com^
 ||diaperhumanpurify.com^
+||diaperrealter.com^
 ||diapertypesdeference.com^
 ||diapirsblanker.com^
 ||diasciaplatly.com^
@@ -10753,6 +10756,7 @@ vkcdnservice.appspot.com^
 ||fortaillowon.com^
 ||fortdaukthw.hair^
 ||fortlachanhecksof.com^
+||fortorterrar.com^
 ||fortpush.com^
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
@@ -13557,6 +13561,7 @@ vkcdnservice.appspot.com^
 ||kagbydhgwbq.com^
 ||kagiti.club^
 ||kagrooxa.net^
+||kaicaica.com^
 ||kaifiluk.com^
 ||kailsfrot.com^
 ||kaisaimy.net^
@@ -18240,6 +18245,7 @@ vkcdnservice.appspot.com^
 ||preezeaorist.com^
 ||preferablycompletion.com^
 ||preferenceforfeit.com^
+||preferunhair.com^
 ||prefleks.com^
 ||pregamepluteal.com^
 ||prehistoriceast.com^
@@ -22085,6 +22091,7 @@ vkcdnservice.appspot.com^
 ||terribledeliberate.com^
 ||terrificlukewarm.com^
 ||teslasdelict.com^
+||tessratans.com^
 ||tesswithoughcle.com^
 ||testamenttakeoutkill.com^
 ||testifyconvent.com^
@@ -22983,6 +22990,7 @@ vkcdnservice.appspot.com^
 ||typescoordinate.com^
 ||typhonwave.com^
 ||typiccor.com^
+||typiconrices.com^
 ||typierknyaz.website^
 ||tyranbrashore.com^
 ||tyranniupclose.com^
@@ -25301,6 +25309,7 @@ vkcdnservice.appspot.com^
 ||zelrasty.net^
 ||zelrulte.com^
 ||zemewitted.com^
+||zemteksu.xyz^
 ||zendplace.pro^
 ||zenkreka.com^
 ||zenoviaexchange.com^
@@ -26533,6 +26542,7 @@ vkcdnservice.appspot.com^
 ||partnerstack.com^
 ||partycasino.com^
 ||partypoker.com^
+||passendo.com^
 ||passive-earner.com^
 ||paydemic.com^
 ||paydotcom.com^
@@ -27279,6 +27289,7 @@ vkcdnservice.appspot.com^
 ||d1okyw2ay5msiy.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
 ||d1oxccu2k3w6jx.cloudfront.net^
+||d1oykxszdrgjgl.cloudfront.net^
 ||d1p3zboe6tz3yy.cloudfront.net^
 ||d1p7gp5w97u7t7.cloudfront.net^
 ||d1pn3cn3ri604k.cloudfront.net^
@@ -34410,7 +34421,6 @@ vkcdnservice.appspot.com^
 ||iba.feedblitz.com^
 ||icarabatt.com^
 ||iconosquare.com^
-||images.passendo.com^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
 ||img06.en25.com^
@@ -36866,6 +36876,8 @@ vkcdnservice.appspot.com^
 ||bicid.xyz^
 ||igegeda.club^
 ||tacool.com^
+||zdvzw.com^
+||6cdwf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
