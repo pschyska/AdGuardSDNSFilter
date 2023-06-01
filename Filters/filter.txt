@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-01T12:13:19.409Z
+! Last modified: 2023-06-01T18:07:49.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||xvpqmcgf.com^
+||cilsammwcblcv.com^
+||madeupadoption.com^
+||cmadserver.de^
+||hottercensorbeaker.com^
+||misarea.com^
 ||atoplayads.com^
 ||intrusgride.com^
 ||kuqfudazkn.com^
@@ -33907,7 +33913,6 @@ vkcdnservice.appspot.com^
 ||cduspenden.de^
 ||chatntr.com^
 ||ci-marketing.de^
-||cmadserver.de^
 ||codes.wai.it^
 ||conative.de^
 ||connects.ch^
@@ -36072,6 +36077,7 @@ vkcdnservice.appspot.com^
 ||1136999.com^
 ||1385a.xyz^
 ||13niao20230422.live^
+||14fa20230523.live^
 ||1512a.com^
 ||16niao20230125.live^
 ||18so.vip^
@@ -36101,6 +36107,7 @@ vkcdnservice.appspot.com^
 ||5xur.top^
 ||6696q.com^
 ||69wx1.top^
+||6cdwf.xyz^
 ||6h1cz.xyz^
 ||7067.top^
 ||77tum.top^
@@ -36137,6 +36144,7 @@ vkcdnservice.appspot.com^
 ||adcd7.com^
 ||adelaideceliacd.com^
 ||adfec3.com^
+||advgjm.com^
 ||aeletheacd.com^
 ||afgathacd.com^
 ||afndhou.xyz^
@@ -36175,6 +36183,7 @@ vkcdnservice.appspot.com^
 ||bekco.xyz^
 ||bestialvehemence.com^
 ||betgdr.xyz^
+||bicid.xyz^
 ||bili96.co^
 ||bjcpjab.cn^
 ||bjtel.cn^
@@ -36384,6 +36393,7 @@ vkcdnservice.appspot.com^
 ||ifbfksf.xyz^
 ||ifbqves.cn^
 ||ifeurcw.cn^
+||igegeda.club^
 ||igtchzp.cn^
 ||iidjo.xyz^
 ||ijnuhb.top^
@@ -36446,6 +36456,7 @@ vkcdnservice.appspot.com^
 ||kingsunsky.ltd^
 ||kjwysxs.cn^
 ||kkgytur.cn^
+||kkkqi.cn^
 ||kkylx.xyz^
 ||kmlxlkz.cn^
 ||knxvwxe.cn^
@@ -36561,6 +36572,7 @@ vkcdnservice.appspot.com^
 ||orsrmrx.cn^
 ||otwiss.xyz^
 ||oubqzcg.cn^
+||owandlk.top^
 ||p2oh1.xyz^
 ||p4pd.cn^
 ||pacix.xyz^
@@ -36590,6 +36602,7 @@ vkcdnservice.appspot.com^
 ||pzlxnd.xyz^
 ||q1zcp.com^
 ||qange.com^
+||qat7i.top^
 ||qatuaad.cn^
 ||qfblqq.com^
 ||qfdtqq.com^
@@ -36619,6 +36632,7 @@ vkcdnservice.appspot.com^
 ||rcxysoj.cn^
 ||rdtjkwy.cn^
 ||readme.red^
+||reamhqf.xyz^
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rgyfqq.com^
@@ -36629,9 +36643,11 @@ vkcdnservice.appspot.com^
 ||rnajhyd.xyz^
 ||robberyinscription.com^
 ||rpajqxo.cn^
+||rqxtbr.xyz^
 ||rqytqq.com^
 ||rrzxlt.xyz^
 ||rsbepv.xyz^
+||rsdop.icu^
 ||rshrpmk.xyz^
 ||rtdxqq.com^
 ||rtjmln.xyz^
@@ -36663,6 +36679,7 @@ vkcdnservice.appspot.com^
 ||svrojrv.cn^
 ||swandlb.top^
 ||szsbiw.xyz^
+||tacool.com^
 ||tangxu.xyz^
 ||taoli.name^
 ||tc911.vip^
@@ -36763,6 +36780,7 @@ vkcdnservice.appspot.com^
 ||wwgqqq.com^
 ||wwqfqq.com^
 ||wx001.online^
+||wxbanking.com^
 ||wxfkanv.cn^
 ||wxxmt.xyz^
 ||wyjbvoz.xyz^
@@ -36828,6 +36846,7 @@ vkcdnservice.appspot.com^
 ||yywh.vip^
 ||z11011.com^
 ||z74lb.com^
+||zaiceyjjqq.com^
 ||zaiyuanyqq.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
@@ -36837,6 +36856,7 @@ vkcdnservice.appspot.com^
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdpphgd.cn^
+||zdvzw.com^
 ||zdyuoae.xyz^
 ||zeatse.buzz^
 ||zebjlt.buzz^
@@ -36863,21 +36883,6 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||zaiceyjjqq.com^
-||kkkqi.cn^
-||14fa20230523.live^
-||rqxtbr.xyz^
-||advgjm.com^
-||reamhqf.xyz^
-||qat7i.top^
-||rsdop.icu^
-||owandlk.top^
-||wxbanking.com^
-||bicid.xyz^
-||igegeda.club^
-||tacool.com^
-||zdvzw.com^
-||6cdwf.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
