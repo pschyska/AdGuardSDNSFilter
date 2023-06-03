@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-02T18:08:00.126Z
+! Last modified: 2023-06-03T00:39:54.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -10942,6 +10942,7 @@ vkcdnservice.appspot.com^
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
+||fundsbe.com^
 ||fungianjaggier.digital^
 ||fungus.online^
 ||funkerpep.com^
@@ -12400,6 +12401,7 @@ vkcdnservice.appspot.com^
 ||hpk42r7a.de^
 ||hpmarzhnny.com^
 ||hppvkbfcuq.com^
+||hpychofen.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hq3x.com^
@@ -36916,6 +36918,12 @@ vkcdnservice.appspot.com^
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||kkkqo.cn^
+||zhaozongqq.com^
+||zkbsvx.xyz^
+||lwandll.top^
+||ebqidwm.xyz^
+||xiaoyunong13.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
