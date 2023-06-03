@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-03T12:11:54.666Z
+! Last modified: 2023-06-03T18:07:36.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||scptp1.com^
+||so333o.com^
+||rdsncyndhj.com^
 ||cdnquality.com^
 ||rmanentsyshru.com^
 ||stratebilater.com^
@@ -30,7 +33,6 @@
 ||xvpqmcgf.com^
 ||cilsammwcblcv.com^
 ||madeupadoption.com^
-||cmadserver.de^
 ||hottercensorbeaker.com^
 ||misarea.com^
 ||atoplayads.com^
@@ -7343,6 +7345,7 @@ vkcdnservice.appspot.com^
 ||clxtsxwjp.com^
 ||cm-trk3.com^
 ||cm-trk5.com^
+||cmadserver.de^
 ||cmasisrjbgfv.xyz^
 ||cmbestsrv.com^
 ||cmbvrtiikioce.xyz^
@@ -28865,6 +28868,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ippcodepink.com^
 ||news.partners.ru.com^
 ||dqwzhseasq.com^
 ||vst.dfn-network.pro^
@@ -34869,6 +34873,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
 ||rtbuzz.net^
+||shoppydoo.com^
 ||yobee.it^
 ||24network.it^
 ||ad4mat.it^
@@ -35284,9 +35289,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 May 2023 15:46 UTC+7
-! Version: 2305301546
-! Blocked: 834 rules
+! Last modified: 03 Jun 2023 21:29 UTC+7
+! Version: 2306032129
+! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -35902,6 +35907,7 @@ vkcdnservice.appspot.com^
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||logv3.metric.vn^
 ||lottery.headlines.pw^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||marketing.hub-js.com^
@@ -36095,12 +36101,14 @@ vkcdnservice.appspot.com^
 ||08u6q.com^
 ||10090dfs.com^
 ||1136999.com^
+||1383a.xyz^
 ||1385a.xyz^
 ||13niao20230422.live^
 ||14fa20230523.live^
 ||1512a.com^
 ||16niao20230125.live^
 ||18so.vip^
+||1cdhf.top^
 ||1qlgi.top^
 ||230579.top^
 ||234mx.club^
@@ -36308,6 +36316,7 @@ vkcdnservice.appspot.com^
 ||e51d1.icu^
 ||eaica.xyz^
 ||ealdi.xyz^
+||ebqidwm.xyz^
 ||ecav5.com^
 ||eciea.xyz^
 ||efilgvz.cn^
@@ -36487,6 +36496,7 @@ vkcdnservice.appspot.com^
 ||kjwysxs.cn^
 ||kkgytur.cn^
 ||kkkqi.cn^
+||kkkqo.cn^
 ||kkylx.xyz^
 ||kmlxlkz.cn^
 ||knxvwxe.cn^
@@ -36527,6 +36537,7 @@ vkcdnservice.appspot.com^
 ||ludpa.xyz^
 ||luuss.cn^
 ||lvy0.cn^
+||lwandll.top^
 ||lwh147.xyz^
 ||lwtqqq.com^
 ||lxbbs.fun^
@@ -36707,6 +36718,7 @@ vkcdnservice.appspot.com^
 ||somddgo.com^
 ||sou58.com^
 ||sozrrkx.xyz^
+||srbzw.cn^
 ||srkl.pw^
 ||stbdepjb.xyz^
 ||svrojrv.cn^
@@ -36716,6 +36728,7 @@ vkcdnservice.appspot.com^
 ||tangxu.xyz^
 ||taoli.name^
 ||tc911.vip^
+||tctltb.com^
 ||tejiachong.co^
 ||tfations.live^
 ||tffulllist.shop^
@@ -36830,6 +36843,7 @@ vkcdnservice.appspot.com^
 ||xiaochen1.cn^
 ||xiaodouding.club^
 ||xiaoliublog.icu^
+||xiaoyunong13.top^
 ||xiiljoy.cn^
 ||xingyang.in^
 ||xiod.xyz^
@@ -36899,6 +36913,7 @@ vkcdnservice.appspot.com^
 ||zhalinylqq.com^
 ||zhalinyyds.com^
 ||zhanghao164.xyz^
+||zhaozongqq.com^
 ||zhemu.xyz^
 ||zhixin.host^
 ||zhoubo01.cn^
@@ -36906,6 +36921,7 @@ vkcdnservice.appspot.com^
 ||zhouduayqq.com^
 ||zhuxiao11.cn^
 ||zjqs.shop^
+||zkbsvx.xyz^
 ||zldzbr.xyz^
 ||zmfdjb.xyz^
 ||znnodl.xyz^
@@ -36916,19 +36932,9 @@ vkcdnservice.appspot.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||kkkqo.cn^
-||zhaozongqq.com^
-||zkbsvx.xyz^
-||lwandll.top^
-||ebqidwm.xyz^
-||xiaoyunong13.top^
-||ztaan.top^
-||1383a.xyz^
-||srbzw.cn^
-||tctltb.com^
-||1cdhf.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -43676,6 +43682,7 @@ analytics-*.aasaam.com
 ||ipsite.ir^
 
 ||analytics.irancell.ir^
+||apptracking.irancell.ir^
 
 ||websocket.ilna.ir^
 # >> J <<
@@ -44299,7 +44306,6 @@ analytics-*.aasaam.com
 ||stats.searchftps.org^
 ||stats.searchsight.com^
 ||stats.sharenet.co.za^
-||stats.shoppydoo.com^
 ||stats.slashgear.com^
 ||stats.slideshare.net^
 ||stats.someecards.com^
