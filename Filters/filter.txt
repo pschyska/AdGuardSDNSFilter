@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-05T18:08:05.481Z
+! Last modified: 2023-06-06T00:41:24.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -12253,6 +12253,7 @@ vkcdnservice.appspot.com^
 ||historine.website^
 ||histormedengi.xyz^
 ||hiswhelectu.xyz^
+||hitbip.com^
 ||hitchrational.com^
 ||hitcpm.com^
 ||hitlnk.com^
@@ -36977,6 +36978,10 @@ vkcdnservice.appspot.com^
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||bcb9.cn^
+||pohpll.xyz^
+||rcsden.top^
+||bxoiksm.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
