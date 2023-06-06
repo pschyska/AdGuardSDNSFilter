@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-06T00:41:24.301Z
+! Last modified: 2023-06-06T06:08:45.474Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -8812,7 +8812,6 @@ vkcdnservice.appspot.com^
 ||dkrbus.com^
 ||dkswptmwowowp.xyz^
 ||dkxwedcdky.com^
-||dl-protect.net^
 ||dl-rms.com^
 ||dledthebarrowb.xyz^
 ||dlfvgndsdfsn.com^
@@ -26159,6 +26158,7 @@ vkcdnservice.appspot.com^
 ||digitalpush.org^
 ||digitalthrottle.com^
 ||disqusads.com^
+||dl-protect.net^
 ||dochase.com^
 ||dollarsponsor.com^
 ||domainadvertising.com^
