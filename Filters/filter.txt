@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-06T12:12:24.799Z
+! Last modified: 2023-06-06T18:08:22.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -33053,6 +33053,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||x-lift.jp^
 ||amazonlogistics.jp^
 ||d-markets.net^
 ||assistads.net^
@@ -36235,6 +36236,7 @@ vkcdnservice.appspot.com^
 ||bapdkgmvn.xyz^
 ||baucdngb.xyz^
 ||baytfede.xyz^
+||bcb9.cn^
 ||bcivqxd.cn^
 ||bcvxfgy.xyz^
 ||bdrzxp.xyz^
@@ -36269,6 +36271,7 @@ vkcdnservice.appspot.com^
 ||brzfqq.com^
 ||bwandlv.top^
 ||bwwlw.cn^
+||bxoiksm.xyz^
 ||c9cc.icu^
 ||campu.ltd^
 ||caozhixiong.cn^
@@ -36340,6 +36343,7 @@ vkcdnservice.appspot.com^
 ||dpaic.xyz^
 ||dqazwsxd.xyz^
 ||drtyujgsg.xyz^
+||dsbt7.com^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
 ||dszhqww.cn^
@@ -36382,6 +36386,7 @@ vkcdnservice.appspot.com^
 ||feild.xyz^
 ||ffbjhl.xyz^
 ||fijipic.xyz^
+||fillhr.xyz^
 ||findnam.xyz^
 ||fionamignon.com^
 ||fjnsnt.xyz^
@@ -36440,6 +36445,7 @@ vkcdnservice.appspot.com^
 ||hejbd.cn^
 ||heliangjun2.cn^
 ||helid.xyz^
+||heretrail.com^
 ||hfhytx.xyz^
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
@@ -36480,6 +36486,7 @@ vkcdnservice.appspot.com^
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
+||isancio.top^
 ||itoken.pro^
 ||iughyy7919.com^
 ||iwandlo.top^
@@ -36673,6 +36680,7 @@ vkcdnservice.appspot.com^
 ||pithjpf.cn^
 ||pkkylyx.xyz^
 ||pkynqq.com^
+||pohpll.xyz^
 ||poiqwnekb.com^
 ||poopd.xyz^
 ||poppy.fit^
@@ -36716,6 +36724,7 @@ vkcdnservice.appspot.com^
 ||rbbbdj.xyz^
 ||rbrv9.cn^
 ||rbxunao.cn^
+||rcsden.top^
 ||rcxysoj.cn^
 ||rdtjkwy.cn^
 ||readme.red^
@@ -36985,11 +36994,6 @@ vkcdnservice.appspot.com^
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||bcb9.cn^
-||pohpll.xyz^
-||rcsden.top^
-||bxoiksm.xyz^
-||heretrail.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
