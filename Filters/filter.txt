@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-06T06:08:45.474Z
+! Last modified: 2023-06-06T12:12:24.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||worshipstubborn.com^
+||unmightboxen.com^
+||sbkuuzozlm.com^
 ||soodihee.net^
 ||biubxxaxucyou.com^
 ||scptp1.com^
@@ -34162,8 +34165,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-06-04 07:53:14 CEST
-# entries:        1105
+# last updated:   2023-06-06 08:24:41 CEST
+# entries:        1110
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -34376,6 +34379,7 @@ vkcdnservice.appspot.com^
 ||collector-pxrf8vapwa.px-cloud.net^
 ||collector.houston-analytics.com^
 ||collect-metrics.aquro.com^
+||comeonconnect-api.omarsys.com^
 ||connectio.s3.amazonaws.com^
 ||content.adten.eu^
 ||content.livesportmedia.eu^
@@ -34481,6 +34485,7 @@ vkcdnservice.appspot.com^
 ||izooto.com^
 ||jackwolfskinsverige.com.se^
 ||js.appboycdn.com^
+||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
 ||js.pafpartners.com^
 ||jss.jajja.com^
@@ -34577,6 +34582,7 @@ vkcdnservice.appspot.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
 ||npario-inc.net^
+||ntrfr.expekt.se^
 ||nucleusanalytics.io^
 ||oas.market.se^
 ||offer-go.com^
@@ -34663,6 +34669,7 @@ vkcdnservice.appspot.com^
 ||script.extellio.com^
 ||script.ioam.de^
 ||scripts.makeinfluence.com^
+||scripts.opti-digital.com^
 ||script.e-space.se^
 ||sdk.pulse.schibsted.com^
 ||se1.siteimprove.com^
@@ -36982,6 +36989,7 @@ vkcdnservice.appspot.com^
 ||pohpll.xyz^
 ||rcsden.top^
 ||bxoiksm.xyz^
+||heretrail.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
