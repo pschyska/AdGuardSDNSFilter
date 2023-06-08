@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-08T12:11:58.671Z
+! Last modified: 2023-06-08T18:08:12.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -28371,9 +28371,7 @@ vkcdnservice.appspot.com^
 ||cls.vrvm.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||abbott.vo.llnwd.net^
-||atkins.vo.llnwd.net^
 ||behance.vo.llnwd.net^
-||edwlifes.vo.llnwd.net^
 ||kjos.vo.llnwd.net^
 ||synthes.vo.llnwd.net^
 ||teachscape.vo.llnwd.net^
@@ -28673,7 +28671,6 @@ vkcdnservice.appspot.com^
 ||sitescout.com^
 ||slb.gedawang.com^
 ||smartadserver.com^
-||smarttds.ru^
 ||splash.appsgeyser.com^
 ||sscefsol.com^
 ||stat.kika-backend.com^
@@ -36247,6 +36244,7 @@ vkcdnservice.appspot.com^
 ||aeletheacd.com^
 ||afgathacd.com^
 ||afndhou.xyz^
+||agathacd.com^
 ||agwdac.xyz^
 ||aicpa.club^
 ||aircraft-fapi.club^
@@ -36287,6 +36285,7 @@ vkcdnservice.appspot.com^
 ||bhfdgdounv.xyz^
 ||bicid.xyz^
 ||bili96.co^
+||bis8j.com^
 ||bjcpjab.cn^
 ||bjiohva.cn^
 ||bjtel.cn^
@@ -36402,7 +36401,9 @@ vkcdnservice.appspot.com^
 ||ej65.xyz^
 ||enahmy.xyz^
 ||endio.xyz^
+||epoun.top^
 ||eqknlsw.xyz^
+||esanciw.top^
 ||euyvpgn.cn^
 ||evenyw.xyz^
 ||evmnlpv.cn^
@@ -36475,6 +36476,7 @@ vkcdnservice.appspot.com^
 ||gzsjym.xyz^
 ||gzsscr.cn^
 ||h731.icu^
+||haili-spitzer.com^
 ||hangtuo.pub^
 ||haxd7.top^
 ||hbbxwan.cn^
@@ -36609,6 +36611,7 @@ vkcdnservice.appspot.com^
 ||lewqiiy.xyz^
 ||lgecqrb.com^
 ||lianxi.link^
+||liates.top^
 ||lifvfr.xyz^
 ||linuozhiyao.xyz^
 ||liweiling.xyz^
@@ -36894,6 +36897,7 @@ vkcdnservice.appspot.com^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vrffwbf.cn^
+||vueegqt.xyz^
 ||vujhaib.cn^
 ||vuxxtn.xyz^
 ||vxvtzx.xyz^
@@ -36950,6 +36954,7 @@ vkcdnservice.appspot.com^
 ||xiaosss.ren^
 ||xiaoyunong13.top^
 ||xiiljoy.cn^
+||xilofr.xyz^
 ||xingyang.in^
 ||xiod.xyz^
 ||xiongxiaoze12.cn^
@@ -37039,18 +37044,11 @@ vkcdnservice.appspot.com^
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||zsnfdphz.com^
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||vueegqt.xyz^
 ||zzqrr.com^
-||liates.top^
-||zsnfdphz.com^
-||esanciw.top^
-||xilofr.xyz^
-||haili-spitzer.com^
-||bis8j.com^
-||agathacd.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
