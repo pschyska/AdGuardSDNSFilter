@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-09T06:09:12.195Z
+! Last modified: 2023-06-09T12:12:36.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||scfsdvc.com^
 ||enbclpbyi.com^
 ||zwbbkjvzqbyba.top^
 ||lmjwqbjmkrzyw.top^
@@ -28029,8 +28030,6 @@ vkcdnservice.appspot.com^
 ||ads-chunks.prod.ihrhls.com^
 ! Watch ABC
 ||api.ads.watchabc.go.com^
-! https://play.google.com/store/apps/details?id=fr.playsoft.teleloisirs
-||ad.prismamediadigital.com^
 ! Supership.jp (also mobile ads)
 ||socdm.com^
 ! Criteo mobile ads
@@ -28065,7 +28064,12 @@ vkcdnservice.appspot.com^
 ||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
+! AfreecaTV
+||reqde.afreecatv.com^
+||adballoon.afreecatv.com^
+||deapi.afreecatv.com^
 !
+||mtag.mman.kr^
 ||hybird.rayjump.com^
 ||anythinktech.com^
 ||d3hdbjtb1686tn.cloudfront.net^
@@ -28294,7 +28298,6 @@ vkcdnservice.appspot.com^
 ||tapdaq-adverts.global.ssl.fastly.net^
 ||rtb.appbid.com^
 ||rtapi.abbi.io^
-||online-prod.zenmxapps.com^
 ||look.kfiopkln.com^
 ||adplex.co.kr^
 ||tveta.naver.net^
@@ -28435,7 +28438,6 @@ vkcdnservice.appspot.com^
 ||ad.ohmyad.co^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
-||ad132m.com^
 ||adback.tango.me^
 ||adblade.com^
 ||adbrau.com^
@@ -28542,7 +28544,6 @@ vkcdnservice.appspot.com^
 ||chartboost.com^
 ||clk.taptica.com^
 ||clkfeed.com^
-||cntcash.ru^
 ||cp.pushwoosh.com^
 ||cpmstar.com^
 ||crispadvertising.com^
@@ -28563,10 +28564,8 @@ vkcdnservice.appspot.com^
 ||focas.jp^
 ||fyber.com^
 ||geede.info^
-||gigamega.su^
 ||go.mobstitialtag.com^
 ||googleadservices.com^
-||gsmtop.net^
 ||gts-ads.twistbox.com^
 ||ha-api.pushwoosh.com^
 ||heyzap.com^
@@ -37061,6 +37060,7 @@ vkcdnservice.appspot.com^
 ||ssancib.top^
 ||v9gfm.xyz^
 ||v88yaat.xyz^
+||bny9.cn^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -43624,12 +43624,6 @@ analytics-*.aasaam.com
 @@|affiliates.adsterra.com^|
 @@|beta.affiliates.adsterra.com^|
 @@|help-advertisers.adsterra.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/781
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/852
-! Blocked by CNAME we-stats.com
-@@||cdnbc-wup.hsbc.com.hk^|
-@@||wup-7b4df495.santander.cl^|
-@@||contents*.00110.citi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/759
 ! Blocked by CNAME impactradius.com
 @@||goto.target.com^|
