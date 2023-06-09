@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-08T18:08:12.359Z
+! Last modified: 2023-06-09T00:43:12.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||enbclpbyi.com^
 ||zwbbkjvzqbyba.top^
 ||lmjwqbjmkrzyw.top^
 ||worshipstubborn.com^
@@ -5730,7 +5731,6 @@ vkcdnservice.appspot.com^
 ||bigotpenniless.com^
 ||bigprizesonline.com^
 ||bigrourg.net^
-||bigsport.today^
 ||bijitsoa.com^
 ||bijwawr.com^
 ||bikehowfaded.com^
@@ -7248,7 +7248,6 @@ vkcdnservice.appspot.com^
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
-||clickadu.com^
 ||clickagy.com^
 ||clickallow.net^
 ||clickaslu.com^
@@ -26156,6 +26155,7 @@ vkcdnservice.appspot.com^
 ||clickable.com^
 ||clickad.pl^
 ||clickadilla.com^
+||clickadu.com^
 ||clickbet88.com^
 ||clickcertain.com^
 ||clickdaly.com^
@@ -28917,6 +28917,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ynlfpyeifc.com^
 ||videoprodavec.ru^
 ||doprodavec.ru^
 ||ippcodepink.com^
@@ -37049,6 +37050,16 @@ vkcdnservice.appspot.com^
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
+||azdxypf.cn^
+||jciske.top^
+||fsnpbh.xyz^
+||pplnjoow.com^
+||yszpegh.xyz^
+||dfjd.xyz^
+||byjykj.xyz^
+||qsanciy.top^
+||ssancib.top^
+||v9gfm.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
