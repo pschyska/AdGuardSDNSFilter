@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-10T12:10:39.946Z
+! Last modified: 2023-06-10T18:07:32.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -33096,6 +33096,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||superdeos.com^
 ||x-lift.jp^
 ||amazonlogistics.jp^
 ||d-markets.net^
@@ -36243,6 +36244,7 @@ vkcdnservice.appspot.com^
 ||acqc9.com^
 ||acsc10.com^
 ||acsydez.cn^
+||ad2023.site^
 ||adadu.cn^
 ||adbtwyxl96.fun^
 ||adcd7.com^
@@ -36364,6 +36366,7 @@ vkcdnservice.appspot.com^
 ||czexrhl.cn^
 ||d7dzf.xyz^
 ||d86n.top^
+||dadcc.cn^
 ||dagft.cn^
 ||daizitu.ren^
 ||dcdf4.com^
@@ -36415,6 +36418,7 @@ vkcdnservice.appspot.com^
 ||enahmy.xyz^
 ||endio.xyz^
 ||epoun.top^
+||eqghuu.com^
 ||eqknlsw.xyz^
 ||esanciw.top^
 ||euyvpgn.cn^
@@ -36434,6 +36438,7 @@ vkcdnservice.appspot.com^
 ||fatvzh.xyz^
 ||fbzmrgf.xyz^
 ||fcied.xyz^
+||fcpnxx.xyz^
 ||fdrxdr.xyz^
 ||fdytdc.xyz^
 ||feiju12138.xyz^
@@ -36544,6 +36549,7 @@ vkcdnservice.appspot.com^
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
+||iruacwa.xyz^
 ||isancio.top^
 ||itoken.pro^
 ||iughyy7919.com^
@@ -36554,6 +36560,7 @@ vkcdnservice.appspot.com^
 ||jbzjegn.cn^
 ||jciske.top^
 ||jdamc.top^
+||jdpm.net.cn^
 ||jeedi.xyz^
 ||jeidd.xyz^
 ||jerrytom.xyz^
@@ -36695,6 +36702,7 @@ vkcdnservice.appspot.com^
 ||nekomasu.ltd^
 ||networkname.xyz^
 ||nezqmud.com^
+||ngishc.top^
 ||nilzq.xyz^
 ||ningdebus.club^
 ||nkvwvx.xyz^
@@ -36734,6 +36742,7 @@ vkcdnservice.appspot.com^
 ||pansclub.xyz^
 ||pazz.xyz^
 ||pbgtpjz.cn^
+||pdweigee.com^
 ||pedjqkl.xyz^
 ||peishuning1.cn^
 ||pepnsnq.cn^
@@ -36809,6 +36818,7 @@ vkcdnservice.appspot.com^
 ||rqxtbr.xyz^
 ||rqytqq.com^
 ||rrzxlt.xyz^
+||rsanciz.top^
 ||rsbepv.xyz^
 ||rsdop.icu^
 ||rshrpmk.xyz^
@@ -36920,6 +36930,7 @@ vkcdnservice.appspot.com^
 ||vueegqt.xyz^
 ||vujhaib.cn^
 ||vuxxtn.xyz^
+||vwtjvd.xyz^
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
@@ -36932,6 +36943,7 @@ vkcdnservice.appspot.com^
 ||wangyq.ltd^
 ||wangyun01.cn^
 ||wbnhqq.com^
+||wbupbv.com^
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
@@ -37061,6 +37073,7 @@ vkcdnservice.appspot.com^
 ||zouqiuyyds.com^
 ||zoushao.xyz^
 ||zpfqolj.cn^
+||zrakpxsf.com^
 ||zrbabog.cn^
 ||zrrnqq.com^
 ||zsblog.vip^
@@ -37070,16 +37083,6 @@ vkcdnservice.appspot.com^
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||dadcc.cn^
-||pdweigee.com^
-||fcpnxx.xyz^
-||ngishc.top^
-||vwtjvd.xyz^
-||iruacwa.xyz^
-||rsanciz.top^
-||ad2023.site^
-||eqghuu.com^
-||wbupbv.com^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
