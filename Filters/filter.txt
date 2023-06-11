@@ -3,9 +3,9 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-11T12:11:43.923Z
+! Last modified: 2023-06-11T18:07:53.304Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.15
+! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 !
 ! Source name: AdGuard Base filter ad servers
@@ -28138,7 +28138,6 @@ vkcdnservice.appspot.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/54135
 ||adv0*.msa.cdn.mediaset.net^
 ! Micromax India
-||ads.go2reach.com^
 ||mimicromax.com^
 ! Duodian
 ||bi.yeshen.com^
@@ -36335,6 +36334,7 @@ vkcdnservice.appspot.com^
 ||5251m.xyz^
 ||52qd.club^
 ||54ha.cn^
+||5kmp7.top^
 ||5vuk.xyz^
 ||5xur.top^
 ||6696q.com^
@@ -36359,6 +36359,7 @@ vkcdnservice.appspot.com^
 ||9wsbf.top^
 ||a3kd0.top^
 ||aa665588aa.com^
+||aa889977aa.com^
 ||aa993388aa.com^
 ||aaaaa288.com^
 ||aaaaa556.com^
@@ -36499,6 +36500,7 @@ vkcdnservice.appspot.com^
 ||d7dzf.xyz^
 ||d86n.top^
 ||dadcc.cn^
+||dadzz.cn^
 ||dagft.cn^
 ||daizitu.ren^
 ||dcdf4.com^
@@ -36515,7 +36517,9 @@ vkcdnservice.appspot.com^
 ||dfec2.com^
 ||dfjd.xyz^
 ||dgfqqq.com^
+||dgvkrt.xyz^
 ||dhaxhsa325.com^
+||dhxrop.com^
 ||dhxrxn.xyz^
 ||diekd.xyz^
 ||diggtp001.com^
@@ -36542,6 +36546,7 @@ vkcdnservice.appspot.com^
 ||eaica.xyz^
 ||ealdi.xyz^
 ||ebqidwm.xyz^
+||ebuqxsjq.com^
 ||ecav5.com^
 ||eciea.xyz^
 ||efilgvz.cn^
@@ -36576,6 +36581,7 @@ vkcdnservice.appspot.com^
 ||feiju12138.xyz^
 ||feild.xyz^
 ||ffbjhl.xyz^
+||fgre9.top^
 ||fijipic.xyz^
 ||fillhr.xyz^
 ||findnam.xyz^
@@ -36743,6 +36749,7 @@ vkcdnservice.appspot.com^
 ||kkgytur.cn^
 ||kkkqi.cn^
 ||kkkqo.cn^
+||kkmbbvz.xyz^
 ||kkylx.xyz^
 ||kmlxlkz.cn^
 ||knxvwxe.cn^
@@ -36778,6 +36785,7 @@ vkcdnservice.appspot.com^
 ||lnpqqq.com^
 ||lobqpt.xyz^
 ||lorenop.icu^
+||lpocne.top^
 ||lqglqq.com^
 ||lrah0.top^
 ||luckydino.ren^
@@ -36850,6 +36858,7 @@ vkcdnservice.appspot.com^
 ||nwecd.xyz^
 ||nwmol.top^
 ||nwuidsbjak.com^
+||nzrovf.xyz^
 ||oalmbmf.xyz^
 ||ocoda.xyz^
 ||ogtphoj.cn^
@@ -36868,6 +36877,7 @@ vkcdnservice.appspot.com^
 ||otwiss.xyz^
 ||oubqzcg.cn^
 ||owandlk.top^
+||oyysbc.xyz^
 ||p2oh1.xyz^
 ||p4pd.cn^
 ||pacix.xyz^
@@ -36981,6 +36991,7 @@ vkcdnservice.appspot.com^
 ||somddgo.com^
 ||sou58.com^
 ||sozrrkx.xyz^
+||spplamt.xyz^
 ||srbzw.cn^
 ||srkl.pw^
 ||ssancib.top^
@@ -36998,6 +37009,7 @@ vkcdnservice.appspot.com^
 ||tffulllist.shop^
 ||tfonlyuse.shop^
 ||tfprivacy.live^
+||tgdopodk.com^
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
@@ -37007,6 +37019,7 @@ vkcdnservice.appspot.com^
 ||tmochyf.cn^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||tsancii.top^
 ||tshtbh.xyz^
 ||ttpybz.xyz^
 ||tuhipkz.xyz^
@@ -37079,6 +37092,7 @@ vkcdnservice.appspot.com^
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
+||wedvmr.xyz^
 ||weeqmcq.cn^
 ||weixinnft.com^
 ||wenxiaowu.xyz^
@@ -37215,20 +37229,6 @@ vkcdnservice.appspot.com^
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||dadzz.cn^
-||ebuqxsjq.com^
-||lpocne.top^
-||tgdopodk.com^
-||tsancii.top^
-||spplamt.xyz^
-||nzrovf.xyz^
-||dgvkrt.xyz^
-||5kmp7.top^
-||fgre9.top^
-||aa889977aa.com^
-||oyysbc.xyz^
-||dhxrop.com^
-||wedvmr.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -41791,7 +41791,6 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||cdn93d99x0e.23bei.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -42124,6 +42123,7 @@ vkcdnservice.appspot.com^
 ||cdn.sinam.top^
 ||cdn.wenzhangba.cn^
 ||cdn1.tvzhe.com^
+||cdn93d99x0e.23bei.com^
 ||cdnjs.hro-cosmetics.com^
 ||cdnjs.mopair-erm.net^
 ||cdnjs.z-face.cn^
