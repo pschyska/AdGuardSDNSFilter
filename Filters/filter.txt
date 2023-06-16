@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-16T12:12:20.848Z
+! Last modified: 2023-06-16T18:08:08.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -24478,6 +24478,7 @@ vkcdnservice.appspot.com^
 ||whjepqhsxed.xyz^
 ||whnoxcmxgbqrq.xyz^
 ||whoachoh.com^
+||whoajeex.xyz^
 ||whoalsos.com^
 ||whoapsoo.com^
 ||whoavaud.net^
@@ -24962,6 +24963,7 @@ vkcdnservice.appspot.com^
 ||xilbalar.com^
 ||xilqhukky.com^
 ||xineday.com^
+||xipaaqgnrehpdns.com^
 ||xiryrnrz.com^
 ||xissidearm.com^
 ||xiwwhyobp.com^
@@ -25036,6 +25038,7 @@ vkcdnservice.appspot.com^
 ||xtraserp.com^
 ||xtremeserve.xyz^
 ||xttaff.com^
+||xtvhkbqmhqu.xyz^
 ||xtygfksar.xyz^
 ||xtyovvojltfo.com^
 ||xu5ctufltn.com^
@@ -25369,6 +25372,7 @@ vkcdnservice.appspot.com^
 ||zatnoh.com^
 ||zaubanel.com^
 ||zauglomo.net^
+||zauglust.net^
 ||zaumaico.com^
 ||zausosti.net^
 ||zauthuvy.com^
@@ -28057,6 +28061,7 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
 ||zfkjrm.xyz^
@@ -36239,7 +36244,6 @@ vkcdnservice.appspot.com^
 ||anifk71.cc^
 ||aniqgsz.cc^
 ||antheaceliacd.com^
-||apiimg.com^
 ||aprlitj.cn^
 ||aqpvglv.cn^
 ||aquvg.com^
@@ -37133,6 +37137,7 @@ vkcdnservice.appspot.com^
 ||haoy1.top^
 ||caaie.xyz^
 ||dadwu.cn^
+||xxhp2iz.icu^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
