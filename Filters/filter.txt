@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-16T18:08:08.910Z
+! Last modified: 2023-06-17T00:37:55.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1321,6 +1321,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||creative.ytboob.live^
 ||advertising.ntuplay.xyz^
 ||d10fhz7gnk5369.cloudfront.net^
 ||notification.tubecup.net^
@@ -34910,6 +34911,8 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||delosnetwork.it^
+||eadv.it^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^
@@ -34956,9 +34959,7 @@ vkcdnservice.appspot.com^
 ||codesour.com^
 ||consigli.it^
 ||coreg-feed.com^
-||delosnetwork.it^
 ||digitalbees.it^
-||eadv.it^
 ||easymarketcrs.it^
 ||ebuzzing.it^
 ||edinetadv.com^
@@ -37138,6 +37139,14 @@ vkcdnservice.appspot.com^
 ||caaie.xyz^
 ||dadwu.cn^
 ||xxhp2iz.icu^
+||grduswfx.com^
+||daccp.cn^
+||hacde6.icu^
+||lhdlbp.xyz^
+||dciep.xyz^
+||mhysbwo.xyz^
+||lsancil.top^
+||jbhhxd.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
