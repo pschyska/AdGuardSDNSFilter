@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-20T12:12:42.401Z
+! Last modified: 2023-06-20T18:07:26.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||domith.com^
 ||shrovyrebuke.com^
 ||delivery.momentummedia.com.au^
 ||whisteeb.xyz^
@@ -1334,6 +1335,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||advertising.ntuplay.xyz^
 ||d10fhz7gnk5369.cloudfront.net^
@@ -2262,6 +2264,7 @@ vkcdnservice.appspot.com^
 ||5608bd4f7e.com^
 ||560fe03925.com^
 ||562i7aqkxu.com^
+||5661361104.com^
 ||56bfc388bf12.com^
 ||56efa4d7b7.com^
 ||56rt2692.de^
@@ -14050,6 +14053,7 @@ vkcdnservice.appspot.com^
 ||kuwooque.com^
 ||kuyecelxn.com^
 ||kvaaa.com^
+||kvaqqvrhvyaupyg.com^
 ||kvecc.com^
 ||kveii.com^
 ||kvemm.com^
@@ -16011,6 +16015,7 @@ vkcdnservice.appspot.com^
 ||nearbyforcedirty.com^
 ||nearestaxe.com^
 ||nearestmicrowavespends.com^
+||nebackalien.com^
 ||nebsefte.net^
 ||nebulouslostpremium.com^
 ||neceme.com^
@@ -17729,6 +17734,7 @@ vkcdnservice.appspot.com^
 ||penitentiaryoverdosetumble.com^
 ||penjazzvice.com^
 ||penmaneffluve.com^
+||pennatepleck.com^
 ||penniedtache.com^
 ||pennilesscomingall.com^
 ||pennilesstestangrily.com^
@@ -18404,6 +18410,7 @@ vkcdnservice.appspot.com^
 ||pppbr.com^
 ||pprq7.com^
 ||pqxbcydpv.xyz^
+||practicallyfire.com^
 ||practicallysacrificestock.com^
 ||practicalwhich.info^
 ||practitionermonsieurstable.com^
@@ -20083,6 +20090,7 @@ vkcdnservice.appspot.com^
 ||rosyruffian.com^
 ||rosytotal.pro^
 ||rotabol.com^
+||rotapsey.net^
 ||rotarb.bid^
 ||rotate4all.com^
 ||rotateme.ru^
@@ -22127,6 +22135,7 @@ vkcdnservice.appspot.com^
 ||taailshiletteris.xyz^
 ||taaqhr6axacd2um.com^
 ||tabaxirwelly.com^
+||tabfloor.com^
 ||tabici.com^
 ||tabledownstairsprovocative.com^
 ||tablequantity.com^
@@ -24215,6 +24224,7 @@ vkcdnservice.appspot.com^
 ||viviendoefelizz.online^
 ||viwthopfoakr.com^
 ||vixoafte.xyz^
+||vizacasa.xyz^
 ||vizagtobfx.com^
 ||vjdciu.com^
 ||vjgqzvmgd.com^
@@ -37409,7 +37419,6 @@ vkcdnservice.appspot.com^
 ||vyye.cn^
 ||afdunaui.com^
 ||uo12.com^
-||vizacasa.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
