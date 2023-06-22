@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-22T12:12:40.171Z
+! Last modified: 2023-06-22T18:08:34.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -33934,6 +33934,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||tfcdn.jingmiuyyds.com^
 ||jciwztfj.com^
 ||zhengliyqq.com^
 ||ra5.xyz^
@@ -44159,9 +44160,9 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/150038
 ! Blocked by CNAME getblueshift.com
 @@||clickattr.wayup.com^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1283
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1393
 ! Blocked by CNAME adperfect.com
-@@||chathamdailynews.remembering.ca^|
+@@||remembering.ca^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1265
 @@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
