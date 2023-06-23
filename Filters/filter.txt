@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-23T00:44:01.662Z
+! Last modified: 2023-06-23T06:10:46.346Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
