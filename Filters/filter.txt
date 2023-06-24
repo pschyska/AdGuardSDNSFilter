@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-23T18:09:39.357Z
+! Last modified: 2023-06-24T00:44:16.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -5047,6 +5047,7 @@ vkcdnservice.appspot.com^
 ||awhileirrelevant.com^
 ||awjljftjplprdml.com^
 ||awjvnfncw.com^
+||awkwardpurfles.com^
 ||awkwardtelegram.com^
 ||awledconside.xyz^
 ||awltovhc.com^
@@ -7425,6 +7426,7 @@ vkcdnservice.appspot.com^
 ||clmbtech.com^
 ||clmcom.com^
 ||clnk.me^
+||clochancanyon.com^
 ||clodsplit.com^
 ||clodyields.com^
 ||clogstrollcastle.com^
@@ -8009,6 +8011,7 @@ vkcdnservice.appspot.com^
 ||cristifibster.life^
 ||critariatele.pro^
 ||criticismheadphoneprinting.com^
+||criticpraiser.com^
 ||crittercorupay.com^
 ||crjdgldmb.com^
 ||crjpgate.com^
@@ -13608,6 +13611,7 @@ vkcdnservice.appspot.com^
 ||jifdrogtovz.com^
 ||jiffehxjwvpoefo.xyz^
 ||jiffspogonia.com^
+||jigaskoye.com^
 ||jigdigtry.com^
 ||jigglypedicab.com^
 ||jighucme.com^
@@ -15358,6 +15362,7 @@ vkcdnservice.appspot.com^
 ||mediapalmtree.com^
 ||mediapeartree.com^
 ||mediapush1.com^
+||mediasama.com^
 ||mediaserf.net^
 ||mediasprucetree.com^
 ||mediategenericburden.com^
@@ -19784,6 +19789,7 @@ vkcdnservice.appspot.com^
 ||reedsinterfering.com^
 ||reedsonceoxbow.com^
 ||reedthatm.biz^
+||reefingcolures.com^
 ||reelnk.com^
 ||reenakun.com^
 ||reencoccous.store^
@@ -20139,6 +20145,7 @@ vkcdnservice.appspot.com^
 ||rhxdsplm.com^
 ||rhythmxchange.com^
 ||rhytic.com^
+||ribbondoorbell.com^
 ||ribsaiji.com^
 ||ribumpin.com^
 ||ribunews.com^
@@ -20782,6 +20789,7 @@ vkcdnservice.appspot.com^
 ||scallionfib.com^
 ||scamblefeedman.com^
 ||scammereating.com^
+||scancemontes.com^
 ||scantlyvedette.com^
 ||scanunderstiff.com^
 ||scapfloored.space^
@@ -36846,6 +36854,7 @@ vkcdnservice.appspot.com^
 ||baidubvjsbvv.com^
 ||baidudbvjksbvs.com^
 ||baidudsvbshj.com^
+||baiduklglndklb.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||bapdkgmvn.xyz^
 ||baucdngb.xyz^
@@ -36956,6 +36965,7 @@ vkcdnservice.appspot.com^
 ||dadwu.cn^
 ||dadzz.cn^
 ||daede.cn^
+||daenf.cn^
 ||dagft.cn^
 ||dagwi.cn^
 ||daizitu.ren^
@@ -37029,6 +37039,7 @@ vkcdnservice.appspot.com^
 ||exz1t.top^
 ||ezf48.xyz^
 ||ezlgszdb.icu^
+||ezraahdn.icu^
 ||f1lws.top^
 ||falal.cn^
 ||fangguanjia.xyz^
@@ -37098,6 +37109,7 @@ vkcdnservice.appspot.com^
 ||gwvzgjb.cn^
 ||gx521.xyz^
 ||gxemtes.xyz^
+||gyhgcgj.xyz^
 ||gykyec.xyz^
 ||gzexsc.top^
 ||gzsjym.xyz^
@@ -37112,6 +37124,7 @@ vkcdnservice.appspot.com^
 ||hbbxwan.cn^
 ||hbkunye.com^
 ||hbrmickt.com^
+||hciea.xyz^
 ||hefei64.com^
 ||hefrpv.xyz^
 ||heild.xyz^
@@ -37126,6 +37139,7 @@ vkcdnservice.appspot.com^
 ||hhff111222.com^
 ||hhrnxr.xyz^
 ||himeneko.ink^
+||hjtedf.xyz^
 ||hldwdz.xyz^
 ||hoiea.xyz^
 ||hontont.com^
@@ -37162,6 +37176,7 @@ vkcdnservice.appspot.com^
 ||igtchzp.cn^
 ||iidjo.xyz^
 ||ijnuhb.top^
+||ildopxge.com^
 ||imgcacaca.vip^
 ||imks.cn^
 ||imu2021.site^
@@ -37178,6 +37193,7 @@ vkcdnservice.appspot.com^
 ||iwandlo.top^
 ||iwdvvoc.cn^
 ||j1p6w.xyz^
+||jaowd.xyz^
 ||jbhhxd.xyz^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
@@ -37485,6 +37501,7 @@ vkcdnservice.appspot.com^
 ||rnhqxh.com^
 ||rp9p0.xyz^
 ||rpajqxo.cn^
+||rppihz.xyz^
 ||rqxtbr.xyz^
 ||rqytqq.com^
 ||rrzxlt.xyz^
@@ -37508,6 +37525,7 @@ vkcdnservice.appspot.com^
 ||sectn.xyz^
 ||semaobf1.com^
 ||seumouxuezha.xyz^
+||sgegie.fun^
 ||sh6ss7.top^
 ||shangyuan.ltd^
 ||shentongjiakao.ren^
@@ -37718,6 +37736,7 @@ vkcdnservice.appspot.com^
 ||xyqmy.xyz^
 ||xyzyqq.com^
 ||xzlurd.xyz^
+||xzxhpcdz.icu^
 ||y3cdp.top^
 ||yanghetp.com^
 ||yangyuqing.xyz^
@@ -37803,19 +37822,18 @@ vkcdnservice.appspot.com^
 ||zvfaxh.xyz^
 ||zxcrr.com^
 ||zxgko.cn^
-||zzqrr.com^
-||ildopxge.com^
-||ezraahdn.icu^
-||daenf.cn^
-||sgegie.fun^
-||gyhgcgj.xyz^
-||jaowd.xyz^
-||rppihz.xyz^
-||hjtedf.xyz^
-||hciea.xyz^
 ||zyauopr.icu^
-||baiduklglndklb.com^
-||xzxhpcdz.icu^
+||zzqrr.com^
+||vbdbmqzu.com^
+||hzvcaadn.icu^
+||eqqi.cn^
+||ciarde.fun^
+||jjkiahh.icu^
+||kopde.xyz^
+||zzrjdp.xyz^
+||crookedchange.com^
+||jxcrnwc.xyz^
+||ptvfzv.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
