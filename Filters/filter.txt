@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-25T12:13:02.144Z
+! Last modified: 2023-06-25T18:08:58.907Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -4157,6 +4157,7 @@ vkcdnservice.appspot.com^
 ||amusingsnow.pro^
 ||amuyonpastour.top^
 ||amwoukrks.autos^
+||amwswkqh.com^
 ||amyeubhbnugjum.xyz^
 ||amygdalbrittle.com^
 ||amylatesating.com^
@@ -24275,6 +24276,7 @@ vkcdnservice.appspot.com^
 ||ustive.com^
 ||usuade.com^
 ||usuadr.com^
+||usuads.com^
 ||usuage.com^
 ||usualaurated.com^
 ||usuallyaltered.com^
@@ -25078,6 +25080,7 @@ vkcdnservice.appspot.com^
 ||weaselbubblehue.com^
 ||weatherpeanutnegligence.com^
 ||weatherplllatform.com^
+||weatherpopularitypassage.com^
 ||weavelurkwiden.com^
 ||weaveradrenaline.com^
 ||web-affiliation.com^
@@ -36083,8 +36086,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 24 Jun 2023 17:25 UTC+7
-! Version: 2306241725
+! Last modified: 25 Jun 2023 22:35 UTC+7
+! Version: 2306252235
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -36769,6 +36772,7 @@ vkcdnservice.appspot.com^
 ||s.soha.vn^
 ||s.zzcdn.me^
 ||s1.zzz.vn^
+||s6.textlink.vn^
 ||sda.tamdiem247.com^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
@@ -36809,7 +36813,6 @@ vkcdnservice.appspot.com^
 ||ta.toprework.vn^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||tech.zapps.me^
-||textlink.vn^
 ||thongke.24h.com.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
@@ -38022,6 +38025,9 @@ vkcdnservice.appspot.com^
 ||liwed.xyz^
 ||dbxok6uo.icu^
 ||nzrlx6wc.icu^
+||gbcnvip15.com^
+||yh20230625tu.com^
+||casisi118.vip^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
