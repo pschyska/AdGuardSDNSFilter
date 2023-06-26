@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-26T06:11:30.602Z
+! Last modified: 2023-06-26T12:14:35.393Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||phasecrance.com^
 ||napainsi.net^
 ||emqomxdwrhol.com^
 ||tiijdxto.com^
@@ -28828,6 +28829,10 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||pangolin16.sgsnssdk.com^
+||sf16-scmcdn-sg.ibytedtos.com^
+||tnc16-*.byteoversea.com^
+||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -38039,6 +38044,10 @@ vkcdnservice.appspot.com^
 ||xnzetb.xyz^
 ||moead.xyz^
 ||zrgbh6bm.icu^
+||baidubdvjssv.com^
+||goxob6wo.icu^
+||yupov6ks.icu^
+||atbdkmt.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
