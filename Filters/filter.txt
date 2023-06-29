@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-06-29T06:10:37.657Z
+! Last modified: 2023-06-29T12:13:51.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||code.adsinnov.com^
 ||desgolurkom.com^
 ||neetoutoo.com^
 ||equirekeither.xyz^
@@ -21549,7 +21550,6 @@ vkcdnservice.appspot.com^
 ||sixtybirthsuperstition.com^
 ||sizeilksohs.com^
 ||siziermamas.com^
-||sizyreelingly.com^
 ||sizzlerisoflor.com^
 ||sjhfnmfki.com^
 ||sjomilbedwarf.digital^
