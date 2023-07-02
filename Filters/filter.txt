@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-01T18:08:28.298Z
+! Last modified: 2023-07-02T00:47:35.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36977,6 +36977,7 @@ vkcdnservice.appspot.com^
 ||aaaaa882.com^
 ||aagomsi.xyz^
 ||aamv.vip^
+||abalado.com^
 ||abc748596aaa.vip^
 ||acbe.club^
 ||accid.xyz^
@@ -37036,6 +37037,7 @@ vkcdnservice.appspot.com^
 ||bcb9.cn^
 ||bcivqxd.cn^
 ||bcvxfgy.xyz^
+||bdfg9a.icu^
 ||bdrzxp.xyz^
 ||beatricenba.com^
 ||beiod.xyz^
@@ -37122,6 +37124,7 @@ vkcdnservice.appspot.com^
 ||cjcvd6.com^
 ||ck33.top^
 ||clkdus.xyz^
+||cloudflare.st^
 ||cloudsong.xyz^
 ||clqkqq.com^
 ||cnmmcjn.cn^
@@ -37157,6 +37160,7 @@ vkcdnservice.appspot.com^
 ||dciep.xyz^
 ||dcnytdpke.xyz^
 ||dcqs4.com^
+||dcvefz.xyz^
 ||dd112233dd.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
@@ -37340,11 +37344,13 @@ vkcdnservice.appspot.com^
 ||heretrail.com^
 ||hesramfi.com^
 ||hfhytx.xyz^
+||hfk7j.top^
 ||hgpdoa.cn^
 ||hhff111222.com^
 ||hhrnxr.xyz^
 ||hifyeldu.top^
 ||himeneko.ink^
+||hjpqt.cn^
 ||hjtedf.xyz^
 ||hlbbn6ii.icu^
 ||hldwdz.xyz^
@@ -37495,6 +37501,7 @@ vkcdnservice.appspot.com^
 ||l3r6p0d5.com^
 ||l74co.xyz^
 ||lazyii.icu^
+||lbprjdi.cn^
 ||lcjyll.xyz^
 ||ldxinb.xyz^
 ||leadc7.icu^
@@ -37771,6 +37778,7 @@ vkcdnservice.appspot.com^
 ||sh6ss7.top^
 ||shangyuan.ltd^
 ||shentongjiakao.ren^
+||sifyeldb.top^
 ||singmwn51g.com^
 ||sisjwol.xyz^
 ||sjalipa.cn^
@@ -37798,10 +37806,13 @@ vkcdnservice.appspot.com^
 ||t0pan.top^
 ||t28goe.cn^
 ||t33ng.com^
+||tainec.fun^
 ||tangxu.xyz^
 ||taoli.name^
+||tbcgumkadc.xyz^
 ||tc911.vip^
 ||tctltb.com^
+||tdavopl.icu^
 ||tejiachong.co^
 ||teusyxz.icu^
 ||tfations.live^
@@ -37832,8 +37843,10 @@ vkcdnservice.appspot.com^
 ||tvszazx.icu^
 ||twandli.top^
 ||twbqqq.com^
+||twgzgqqu.com^
 ||twnafj.xyz^
 ||twww.sbs^
+||twzadf.xyz^
 ||txbhhh.xyz^
 ||txphjl.xyz^
 ||tyrsn6di.icu^
@@ -38089,19 +38102,12 @@ vkcdnservice.appspot.com^
 ||zyauopr.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
-||hjpqt.cn^
-||twgzgqqu.com^
-||dcvefz.xyz^
-||tainec.fun^
-||tdavopl.icu^
-||sifyeldb.top^
-||abalado.com^
-||tbcgumkadc.xyz^
-||twzadf.xyz^
-||bdfg9a.icu^
-||lbprjdi.cn^
-||cloudflare.st^
-||hfk7j.top^
+||dpijohb.icu^
+||ftiodfqk.com^
+||ygxgk.cn^
+||dheear.site^
+||dmxfdp.xyz^
+||bgbyzv.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
