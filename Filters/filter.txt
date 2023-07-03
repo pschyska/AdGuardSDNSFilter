@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-02T18:08:19.029Z
+! Last modified: 2023-07-03T00:45:08.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37134,6 +37134,7 @@ vkcdnservice.appspot.com^
 ||bestialvehemence.com^
 ||betgdr.xyz^
 ||bg04y.xyz^
+||bgbyzv.xyz^
 ||bhcnmrn.icu^
 ||bhfdgdounv.xyz^
 ||bicid.xyz^
@@ -37176,6 +37177,7 @@ vkcdnservice.appspot.com^
 ||c9cc.icu^
 ||caaie.xyz^
 ||caardinal.com^
+||camep.xyz^
 ||campu.ltd^
 ||canser8.top^
 ||canser9.top^
@@ -37265,6 +37267,7 @@ vkcdnservice.appspot.com^
 ||dgfqqq.com^
 ||dgvkrt.xyz^
 ||dhaxhsa325.com^
+||dheear.site^
 ||dherea.site^
 ||dhxrop.com^
 ||dhxrxn.xyz^
@@ -37274,11 +37277,13 @@ vkcdnservice.appspot.com^
 ||djahkee.xyz^
 ||dkcwnsu.xyz^
 ||dl520.fun^
+||dmxfdp.xyz^
 ||dnzmhr.xyz^
 ||dobwll.xyz^
 ||doccd.xyz^
 ||donku.club^
 ||dpaic.xyz^
+||dpijohb.icu^
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
 ||drtyujgsg.xyz^
@@ -37357,6 +37362,7 @@ vkcdnservice.appspot.com^
 ||fsnpbh.xyz^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
+||ftiodfqk.com^
 ||ftptjj.xyz^
 ||fvzljv.xyz^
 ||fweia.xyz^
@@ -37535,6 +37541,7 @@ vkcdnservice.appspot.com^
 ||jrzaht.xyz^
 ||jstimiz.xyz^
 ||jt56.co^
+||jtpu9s.icu^
 ||junkao.club^
 ||justasimple.top^
 ||jvkckeg.cn^
@@ -37586,6 +37593,7 @@ vkcdnservice.appspot.com^
 ||kzjkexn.cn^
 ||kzjqraj.cn^
 ||kzuxlydg.icu^
+||l23jhjfasd.xyz^
 ||l3r6p0d5.com^
 ||l74co.xyz^
 ||lazyii.icu^
@@ -38105,6 +38113,7 @@ vkcdnservice.appspot.com^
 ||yegzkw.xyz^
 ||yenauddk.com^
 ||yfohgo.xyz^
+||ygxgk.cn^
 ||yh20230625tu.com^
 ||yhgumcr.xyz^
 ||yikucdn.com^
@@ -38153,6 +38162,7 @@ vkcdnservice.appspot.com^
 ||zffymmdg.com^
 ||zfmtyv.buzz^
 ||zfmtyv.xyz^
+||zfnclk.buzz^
 ||zgyvg.top^
 ||zhalinylqq.com^
 ||zhalinyyds.com^
@@ -38190,16 +38200,14 @@ vkcdnservice.appspot.com^
 ||zyauopr.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
-||dpijohb.icu^
-||ftiodfqk.com^
-||ygxgk.cn^
-||dheear.site^
-||dmxfdp.xyz^
-||bgbyzv.xyz^
-||l23jhjfasd.xyz^
-||jtpu9s.icu^
-||camep.xyz^
-||zfnclk.buzz^
+||hezlqmwm.com^
+||hgiafe.site^
+||gmicu.cn^
+||nbsxazr.icu^
+||lwzdzf.xyz^
+||bqdzvl.xyz^
+||dmeia.xyz^
+||eifyeldw.top^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
