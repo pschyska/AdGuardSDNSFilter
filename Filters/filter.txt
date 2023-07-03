@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-03T12:14:48.055Z
+! Last modified: 2023-07-03T18:09:13.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4349,6 +4349,7 @@ vkcdnservice.appspot.com^
 ||aplentytwo.com^
 ||aplidhree.com^
 ||apnwcakifv.com^
+||apnxasonfn.com^
 ||apocarpdogdom.com^
 ||apochaeunanime.com^
 ||apologiesbackyardbayonet.com^
@@ -5184,6 +5185,7 @@ vkcdnservice.appspot.com^
 ||babun.club^
 ||babyboomboomads.com^
 ||babyishmate.pro^
+||babynaz.xyz^
 ||babyniceshark.com^
 ||babysitterdeadlockjuly.com^
 ||bac23cfb5b.com^
@@ -8334,6 +8336,7 @@ vkcdnservice.appspot.com^
 ||daphnews.com^
 ||daphnidepoch.com^
 ||dappaa.site^
+||dappab.site^
 ||dappac.site^
 ||dapper.net^
 ||dapperaside.pro^
@@ -20877,6 +20880,7 @@ vkcdnservice.appspot.com^
 ||ruperparverew.xyz^
 ||ruptionverst.space^
 ||rurate.com^
+||rurber.com^
 ||rurbie.com^
 ||rusenov.com^
 ||rusheemeso.digital^
@@ -24424,6 +24428,7 @@ vkcdnservice.appspot.com^
 ||untrk.xyz^
 ||untrol.com^
 ||untropiuson.com^
+||untroy.com^
 ||untruewring.com^
 ||unturfamini.store^
 ||untusthemailha.com.ua^
@@ -34034,7 +34039,6 @@ vkcdnservice.appspot.com^
 ||andhub.jp^
 ||cross-a.net^
 ||tracer.jp^
-||ds4sw9va5hc.com^
 ||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
@@ -34271,7 +34275,6 @@ vkcdnservice.appspot.com^
 ||affiliate.rakuten.co.jp^
 ||aimg.fc2.com^
 ||bar*.shinobi.jp^
-||bizad.nikkeibp.co.jp^
 ||hb.afl.rakuten.co.jp^
 ||hbb.afl.rakuten.co.jp^
 ||media5.fc2.com^
@@ -36225,8 +36228,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Jul 2023 22:26 UTC+7
-! Version: 2307022226
+! Last modified: 03 Jul 2023 21:36 UTC+7
+! Version: 2307032136
 ! Blocked: 847 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -37045,7 +37048,11 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||dd778899dd.com^
+||dhkipdsc.xyz^
 ||cix0wk.com^
+||donchen501.cn^
+||wuye3d.com^
 ||01v62.xyz^
 ||0776.red^
 ||08u6q.com^
@@ -44003,6 +44010,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1411
+@@||gate.first-id.fr^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1401
 ! Blocked by CNAME bodis.com
 @@||leechers-paradise.org^|
