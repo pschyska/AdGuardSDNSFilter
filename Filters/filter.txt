@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-05T06:11:02.800Z
+! Last modified: 2023-07-05T12:15:59.168Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||adsterratech.com^
 ||blkwrjerbklya.top^
 ||enzajjbrrbbvw.top^
 ||sorelyafric.com^
@@ -28197,7 +28198,6 @@ vkcdnservice.appspot.com^
 ||sikr.chimeratool.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
-||srv.tunefindforfans.com^
 ||static.tradetracker.net^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
@@ -29039,6 +29039,7 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
 ||sf16-scmcdn-sg.ibytedtos.com^
@@ -33680,6 +33681,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||medyanative.com^
 ||61ads.net^
 ||ardykffwpfx.xyz^
 ||eskiya.tk^
@@ -34468,6 +34470,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||p97387hj.xyz^
 ||tfcdn.jingmiuyyds.com^
 ||jciwztfj.com^
 ||zhengliyqq.com^
@@ -36328,9 +36331,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 Jul 2023 14:03 UTC+7
-! Version: 2307041403
-! Blocked: 847 rules
+! Last modified: 05 Jul 2023 14:08 UTC+7
+! Version: 2307051408
+! Blocked: 848 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -37113,6 +37116,7 @@ vkcdnservice.appspot.com^
 ||trk.staging.123c.vn^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
+||tvc.biphim.club^
 ||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
@@ -37161,6 +37165,7 @@ vkcdnservice.appspot.com^
 ||abrnfctkn.xyz^
 ||powedw.com^
 ||sq59.cn^
+||plbs9k.icu^
 ||tqdctl.xyz^
 ||3400.org^
 ||tgbevv.xyz^
