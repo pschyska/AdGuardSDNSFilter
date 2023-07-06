@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-06T12:15:15.218Z
+! Last modified: 2023-07-06T18:08:35.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3708,6 +3708,7 @@ vkcdnservice.appspot.com^
 ||ahdytiyc.xyz^
 ||aheale.com^
 ||ahean.com^
+||aheave.com^
 ||ahedrankslowl.com.ua^
 ||ahedrankslowwe.xyz^
 ||ahemsoku.net^
@@ -5916,6 +5917,7 @@ vkcdnservice.appspot.com^
 ||bittygravely.com.com^
 ||bittygravely.com^
 ||bittyrail.com^
+||biturl.co^
 ||bitx.tv^
 ||biwyxipsi.pro^
 ||biz-newsfeed1.com^
@@ -7495,6 +7497,7 @@ vkcdnservice.appspot.com^
 ||cloudimagesa.com^
 ||cloudimagesb.com^
 ||cloudioo.net^
+||cloudlessjimarmpit.com^
 ||cloudlessverticallyrender.com^
 ||cloudlogobox.com^
 ||cloudpsh.top^
@@ -7815,6 +7818,7 @@ vkcdnservice.appspot.com^
 ||contentmentcareless.com^
 ||contentmentweek.com^
 ||contentr.net^
+||contentshamper.com^
 ||contextendless.com^
 ||contextweb.com^
 ||contfor.fun^
@@ -8166,6 +8170,7 @@ vkcdnservice.appspot.com^
 ||cuissenbisque.com^
 ||cukonwoo.com^
 ||culainstrades.com^
+||culass.com^
 ||cullayscrocks.com^
 ||culmedmaumee.com^
 ||culsaids.xyz^
@@ -10219,6 +10224,7 @@ vkcdnservice.appspot.com^
 ||evandr.online^
 ||evangelrhyton.digital^
 ||evasiondemandedlearning.com^
+||evasionseptemberbee.com^
 ||evcknbym.com^
 ||evemasoil.com^
 ||evencontinuallyclaim.com^
@@ -11440,6 +11446,7 @@ vkcdnservice.appspot.com^
 ||gaupingjaguar.com^
 ||gaurecorah.com^
 ||gausic.com^
+||gautaree.com^
 ||gauthait.com^
 ||gauthawhum.com^
 ||gauvaiho.net^
@@ -12238,6 +12245,7 @@ vkcdnservice.appspot.com^
 ||habitofstic.xyz^
 ||habitofsticklik.com^
 ||habitueflasque.com^
+||habovethecityon.info^
 ||habrasysteleii.xyz^
 ||habusima.uno^
 ||hadeti.xyz^
@@ -12723,6 +12731,7 @@ vkcdnservice.appspot.com^
 ||honghaotravel.com^
 ||honorableinitiative.pro^
 ||honorarybreakclank.com^
+||honourcunninglowest.com^
 ||honoursdashed.com^
 ||hoo1luha.com^
 ||hoodcapunbane.digital^
@@ -13117,6 +13126,7 @@ vkcdnservice.appspot.com^
 ||ikrauteri.life^
 ||ikunselt.com^
 ||ilaterdeallyi.info^
+||ilaterdeallyig.info^
 ||ileacfaretta.digital^
 ||ilealscathes.com^
 ||ileeckut.com^
@@ -14298,6 +14308,7 @@ vkcdnservice.appspot.com^
 ||kkmacsqsbf.info^
 ||kkuocsorgz.com^
 ||kkuodlkfapuw.com^
+||kkyqrxqd.com^
 ||klausmoplah.com^
 ||klenhosnc.com^
 ||klikadvertising.com^
@@ -19668,6 +19679,7 @@ vkcdnservice.appspot.com^
 ||pwrgrowthapi.com^
 ||px3792.com^
 ||pxdghffadlhpbw.com^
+||pxdujpdbdqkisil.com^
 ||pxfindone.com^
 ||pxl2015x1.com^
 ||pxmqdhcvpcsra.xyz^
@@ -20717,6 +20729,7 @@ vkcdnservice.appspot.com^
 ||roddinmucial.xyz^
 ||rodentscommise.life^
 ||rodirgix.com^
+||rodroord.net^
 ||roduster.com^
 ||roebuckwagged.com^
 ||roelikewimpler.com^
@@ -21042,6 +21055,7 @@ vkcdnservice.appspot.com^
 ||sabaothamsonia.com^
 ||sabbedgurly.com^
 ||sabergood.com^
+||sabogpapahxead.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sabs-push.xyz^
@@ -21910,6 +21924,7 @@ vkcdnservice.appspot.com^
 ||sleepywin.com^
 ||sleeveashame.com^
 ||sleevemisuseadvice.com^
+||slendercosts.com^
 ||sleptornament.com^
 ||slgynezaygkjqi.com^
 ||slibb.xyz^
@@ -22753,6 +22768,7 @@ vkcdnservice.appspot.com^
 ||sunstrokeload.com^
 ||sunwardamoraic.com^
 ||suomicgeyser.com^
+||suozmtcc.com^
 ||supapush.net^
 ||superadbid.com^
 ||superbdolly.com^
@@ -24341,6 +24357,7 @@ vkcdnservice.appspot.com^
 ||ultrabetas.com^
 ||ultracdn.top^
 ||ultralove.net^
+||ultrasoundrottenreluctant.com^
 ||ultrlove.com^
 ||ulukaris.com^
 ||ulukdliketobeparto.xyz^
@@ -25249,6 +25266,7 @@ vkcdnservice.appspot.com^
 ||vsdxwtvsxp.com^
 ||vskfeduxg.xyz^
 ||vskngnldyl.xyz^
+||vsmokhklbw.com^
 ||vsnpfmoxb.xyz^
 ||vstvstsa.com^
 ||vstvstsaq.com^
@@ -29883,6 +29901,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||newrotatormarch23.bid^
 ||rbfour.bid^
 ||prft1pub.com^
 ||1crlbh48b.ru^
@@ -37198,6 +37217,7 @@ vkcdnservice.appspot.com^
 ||kgeesh.site^
 ||fjsytjs.cn^
 ||yh18h8s.com^
+||evidhjksdtgyxrh.xyz^
 ||tqdctl.xyz^
 ||wuye3d.com^
 ||xiaoxiuapp.com^
