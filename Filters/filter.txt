@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-07T06:10:08.488Z
+! Last modified: 2023-07-07T12:14:32.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||steropestreaks.com^
 ||danbo.org^
 ||miayarus.com^
 ||umexalim.com^
@@ -37298,6 +37299,9 @@ vkcdnservice.appspot.com^
 ||huoju.asia^
 ||lanver.fun^
 ||uejdsw.com^
+||berylnbb.com^
+||bkhblj.xyz^
+||hdpdrandpd.xyz^
 ||wuye3d.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^
