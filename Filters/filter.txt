@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-10T06:11:08.586Z
+! Last modified: 2023-07-10T12:14:26.424Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||emqrjjveqnjab.top^
 ||raferu.com^
 ||bentonuncage.com^
 ||bt.yurokrelax.com^
@@ -29128,6 +29129,7 @@ vkcdnservice.appspot.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
 !
+||tivan.naver.com^
 ||veta.naver.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
@@ -37311,6 +37313,8 @@ vkcdnservice.appspot.com^
 ||pirxzl.xyz^
 ||zfteiv.xyz^
 ||uyq3ruf.icu^
+||erfskhnpter.xyz^
+||baiduvjsbvjknlsvsv.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
@@ -42359,6 +42363,7 @@ vkcdnservice.appspot.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
 ||003store.com^
+||moon.ibytecdn.cn^
 ||0941.org^
 ||1.01fy.cn^
 ||1.07swz.com^
