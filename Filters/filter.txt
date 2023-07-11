@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-11T06:10:21.328Z
+! Last modified: 2023-07-11T12:14:37.087Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33806,6 +33806,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kingdepo.com^
 ||medyanative.com^
 ||61ads.net^
 ||ardykffwpfx.xyz^
@@ -34594,6 +34595,14 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||yh18h8s.com^
+||qhx1h2g.com^
+||jh16csf.com^
+||kl91ccp.com^
+||kxm1b0u.com^
+||sa8zdui.com^
+||pr88vhg.com^
+||gw1jvhs.com^
 ||p97387hj.xyz^
 ||tfcdn.jingmiuyyds.com^
 ||jciwztfj.com^
@@ -37310,13 +37319,10 @@ vkcdnservice.appspot.com^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
-||jh16csf.com^
 ||jpqed.xyz^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
-||kl91ccp.com^
-||kxm1b0u.com^
 ||lanver.fun^
 ||lwide.xyz^
 ||metaversemolecule.com^
@@ -37325,7 +37331,6 @@ vkcdnservice.appspot.com^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||powedw.com^
-||qhx1h2g.com^
 ||qifyeldy.top^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -37343,10 +37348,8 @@ vkcdnservice.appspot.com^
 ||wuye3d.com^
 ||xccadc.com^
 ||xiaoxiuapp.com^
-||yh18h8s.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
-||sa8zdui.com^
 ||jrmrijv.icu^
 ||fuliwang.cc^
 ||lgohse.fun^
@@ -37357,6 +37360,8 @@ vkcdnservice.appspot.com^
 ||moobtcnse.xyz^
 ||wyq3rum.icu^
 ||laink.xyz^
+||dadde.cn^
+||gyq3bew.icu^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zonyff.xyz^
