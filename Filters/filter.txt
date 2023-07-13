@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-13T12:14:35.363Z
+! Last modified: 2023-07-13T18:09:17.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37230,13 +37230,17 @@ vkcdnservice.appspot.com^
 ||baiduvjsbvjknlsvsv.com^
 ||bdates.fun^
 ||berylnbb.com^
+||betcss.site^
 ||bkhblj.xyz^
+||boewgph.icu^
 ||caider.fun^
 ||ciadre.fun^
 ||cix0wk.com^
+||connectreadoasis.com^
 ||csedasdme.xyz^
 ||cuioxbqi.com^
 ||cyq3noz.icu^
+||dadbj.cn^
 ||dadde.cn^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
@@ -37250,17 +37254,21 @@ vkcdnservice.appspot.com^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||eyq3nog.icu^
+||falsarywaybung.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||gkjmev3.com^
 ||glhdan.site^
 ||gyq3bew.icu^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
 ||hikykhz.icu^
+||hlnr9q.icu^
 ||hpvwdkn.cn^
 ||hsadeg.site^
+||hstbrt.xyz^
 ||huoju.asia^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -37273,12 +37281,15 @@ vkcdnservice.appspot.com^
 ||kahgjjd.com^
 ||kgeesh.site^
 ||kyq3hky.icu^
+||kyq3xch.icu^
 ||laink.xyz^
 ||lanver.fun^
 ||lgohse.fun^
+||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
 ||one6u.xyz^
@@ -37293,6 +37304,7 @@ vkcdnservice.appspot.com^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sq59.cn^
+||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
 ||tqdctl.xyz^
@@ -37306,18 +37318,10 @@ vkcdnservice.appspot.com^
 ||xccadc.com^
 ||xcvwrj.xyz^
 ||xiaoxiuapp.com^
+||xmxupz.xyz^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||boewgph.icu^
-||betcss.site^
-||ssjuxsc.cn^
-||xmxupz.xyz^
-||hstbrt.xyz^
-||gkjmev3.com^
-||lifyeldl.top^
-||dadbj.cn^
-||kyq3xch.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
