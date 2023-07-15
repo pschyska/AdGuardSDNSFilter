@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-14T18:08:50.553Z
+! Last modified: 2023-07-15T00:44:02.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37307,6 +37307,7 @@ vkcdnservice.appspot.com^
 ||bkhblj.xyz^
 ||boewgph.icu^
 ||caider.fun^
+||chiese.site^
 ||ciadre.fun^
 ||cix0wk.com^
 ||connectreadoasis.com^
@@ -37330,6 +37331,7 @@ vkcdnservice.appspot.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||fwzvlp.xyz^
 ||gkjmev3.com^
 ||glhdan.site^
 ||gyq3bew.icu^
@@ -37346,6 +37348,7 @@ vkcdnservice.appspot.com^
 ||hzhabei.cn^
 ||ipadf.xyz^
 ||jdcnwd.com^
+||jhzfwl.cn^
 ||jokerlulm.com^
 ||jpqed.xyz^
 ||jrmrijv.icu^
@@ -37355,6 +37358,7 @@ vkcdnservice.appspot.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
 ||laink.xyz^
+||lamkghx.icu^
 ||lanver.fun^
 ||lgohse.fun^
 ||lifyeldl.top^
@@ -37365,6 +37369,8 @@ vkcdnservice.appspot.com^
 ||nryqr.cn^
 ||oifyeldk.top^
 ||one6u.xyz^
+||oopej.xyz^
+||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||powedw.com^
@@ -37375,6 +37381,7 @@ vkcdnservice.appspot.com^
 ||ronbbf.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||sfg11rr.com^
 ||sq59.cn^
 ||ssjuxsc.cn^
 ||tgbevv.xyz^
@@ -37391,18 +37398,17 @@ vkcdnservice.appspot.com^
 ||xcvwrj.xyz^
 ||xiaoxiuapp.com^
 ||xmxupz.xyz^
+||xukou.net^
 ||ymhyw6.lol^
+||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||sfg11rr.com^
-||jhzfwl.cn^
-||chiese.site^
-||oopej.xyz^
-||lamkghx.icu^
-||pcvzpj.xyz^
-||fwzvlp.xyz^
-||zcvyzsyd.icu^
-||xukou.net^
+||jszavs1.com^
+||tmwbszn.icu^
+||qselic.top^
+||pmxalz.xyz^
+||qqnde.xyz^
+||ngbthf.xyz^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
