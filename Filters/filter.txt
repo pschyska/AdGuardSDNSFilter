@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-15T06:09:11.901Z
+! Last modified: 2023-07-15T12:12:30.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12642,6 +12642,7 @@ vkcdnservice.appspot.com^
 ||highrevenuegate.com^
 ||hightopnews.com^
 ||hightopnewstoday.com^
+||highwaycpmrevenue.com^
 ||highwaydizzy.com^
 ||higseres.com^
 ||hikvar.ru^
