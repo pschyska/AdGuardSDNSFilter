@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-16T06:09:28.494Z
+! Last modified: 2023-07-16T12:12:42.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2305,6 +2305,7 @@ vkcdnservice.appspot.com^
 ||5937081273.com^
 ||59987d951d.com^
 ||59a3e34c69.com^
+||59e5e13578.com^
 ||59e6ea7248001c.com^
 ||59eb44884d.com^
 ||5advertise.com^
@@ -8200,6 +8201,7 @@ vkcdnservice.appspot.com^
 ||ctengine.io^
 ||cteripre.com^
 ||ctiavxtakmw.com^
+||ctiotjobkfu.com^
 ||ctm-media.com^
 ||ctmdtrvikipjfv.xyz^
 ||ctnsnet.com^
@@ -17831,6 +17833,7 @@ vkcdnservice.appspot.com^
 ||orricesoxhlet.com^
 ||orrisesdepute.com^
 ||orrsuxapg.com^
+||orrtweqfaa.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortostrikehem.xyz^
