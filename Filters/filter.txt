@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-17T18:09:31.246Z
+! Last modified: 2023-07-18T01:03:23.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36165,6 +36165,7 @@ vkcdnservice.appspot.com^
 !
 ||delosnetwork.it^
 ||eadv.it^
+||epeex.io^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^
@@ -36215,7 +36216,6 @@ vkcdnservice.appspot.com^
 ||easymarketcrs.it^
 ||ebuzzing.it^
 ||edinetadv.com^
-||epeex.io^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
@@ -37531,9 +37531,16 @@ vkcdnservice.appspot.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zexfzson.icu^
+||ertgbme.com^
+||qezpjlp.cn^
+||yuifgh.fun^
+||vvwuqxp.icu^
+||ccnim.xyz^
+||fddxbn.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vxhtxt.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
