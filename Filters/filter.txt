@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-18T12:14:02.362Z
+! Last modified: 2023-07-18T18:09:00.318Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||cpxckfridcxst.com^
+||weaptqsmbshwd.xyz^
 ||bonzai.co^
 ||coholy.com^
 ||mv.outbrain.com^
@@ -8046,7 +8048,6 @@ vkcdnservice.appspot.com^
 ||cpvlabtrk.online^
 ||cpx24.com^
 ||cpxadroit.com^
-||cpxckfridcxst.com^
 ||cpxdeliv.com^
 ||cpxinteractive.com^
 ||cqlupb.com^
@@ -8560,6 +8561,7 @@ vkcdnservice.appspot.com^
 ||debitswiping.com^
 ||debonairseashore.com^
 ||debrium-surbara.com^
+||debsis.com^
 ||debutedhogward.com^
 ||decademical.com^
 ||decatorfending.uno^
@@ -9492,6 +9494,7 @@ vkcdnservice.appspot.com^
 ||dwoopjvhazta.com^
 ||dwrdjfdxtoel.com^
 ||dwwboxlnrlek.xyz^
+||dwwjlvpja.com^
 ||dxajhcdz.com^
 ||dxmjyxksvc.com^
 ||dxmnqojbhimay.com^
@@ -11342,6 +11345,7 @@ vkcdnservice.appspot.com^
 ||funtoday.info^
 ||furiosocomique.com^
 ||furlsstealbilk.com^
+||furnacemanagerstates.com^
 ||furnishedleggysoak.com^
 ||furnishedsalonherring.com^
 ||furorshahdon.com^
@@ -12364,6 +12368,7 @@ vkcdnservice.appspot.com^
 ||hambul.com^
 ||hamletuponcontribute.com^
 ||hammaidentomb.guru^
+||hammaidreswill.com^
 ||hammalorphans.com^
 ||hammerhewer.top^
 ||hammockpublisherillumination.com^
@@ -13154,6 +13159,7 @@ vkcdnservice.appspot.com^
 ||ifinaukncecaf.xyz^
 ||ifknittedhurtful.com^
 ||ifsmatbeg.site^
+||ifvxoluyhof.com^
 ||ifzpvnrjp.com^
 ||ig0nr8hhhb.com^
 ||igameunion.com^
@@ -16310,6 +16316,7 @@ vkcdnservice.appspot.com^
 ||mpay69.com^
 ||mpbngxooxgwkxri.xyz^
 ||mpk01.com^
+||mplayeranyd.info^
 ||mployeesihi.xyz^
 ||mpmant.com^
 ||mpnrs.com^
@@ -16619,6 +16626,7 @@ vkcdnservice.appspot.com^
 ||nceqpmxyhqo.com^
 ||ncernedas.one^
 ||ncesprin.buzz^
+||ncpxhrurirscgsd.com^
 ||ncugaxoxh.com^
 ||ncuwtufam.com^
 ||ndandinter.hair^
@@ -37468,12 +37476,14 @@ vkcdnservice.appspot.com^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
+||bgdizsay.icu^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
 ||btescs.fun^
 ||bttazsyk.icu^
 ||caider.fun^
+||ccnim.xyz^
 ||chiese.site^
 ||ciadre.fun^
 ||cix0wk.com^
@@ -37483,6 +37493,8 @@ vkcdnservice.appspot.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
+||dafdf.cn^
+||dalld.xyz^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -37493,12 +37505,14 @@ vkcdnservice.appspot.com^
 ||dyeperd.icu^
 ||eghyahl.cn^
 ||erfskhnpter.xyz^
+||ertgbme.com^
 ||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
+||fddxbn.xyz^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
@@ -37551,12 +37565,14 @@ vkcdnservice.appspot.com^
 ||oifyeldk.top^
 ||one6u.xyz^
 ||oopej.xyz^
+||owlinggnomist.com^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||pmxalz.xyz^
 ||powedw.com^
 ||pstvvb.xyz^
+||qezpjlp.cn^
 ||qifyeldy.top^
 ||qqnde.xyz^
 ||qselic.top^
@@ -37578,6 +37594,8 @@ vkcdnservice.appspot.com^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vnfsbl.xyz^
+||vvwuqxp.icu^
+||vxhtxt.xyz^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -37590,22 +37608,13 @@ vkcdnservice.appspot.com^
 ||xtbzff.xyz^
 ||xukou.net^
 ||ymhyw6.lol^
+||yuifgh.fun^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zexfzson.icu^
-||ertgbme.com^
-||qezpjlp.cn^
-||yuifgh.fun^
-||vvwuqxp.icu^
-||ccnim.xyz^
-||fddxbn.xyz^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
-||vxhtxt.xyz^
-||dalld.xyz^
-||bgdizsay.icu^
-||owlinggnomist.com^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
