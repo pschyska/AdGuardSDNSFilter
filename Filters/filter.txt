@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-19T06:08:59.987Z
+! Last modified: 2023-07-19T12:13:01.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||furded.com^
+||evours.com^
 ||cpxckfridcxst.com^
 ||weaptqsmbshwd.xyz^
 ||bonzai.co^
@@ -3629,6 +3631,7 @@ vkcdnservice.appspot.com^
 ||afterwardspenal.com^
 ||afterwardstationquestions.com^
 ||aftrangale.com^
+||aftrk1.com^
 ||afwpc.com^
 ||agabreloomr.com^
 ||agacqvofrszqy.com^
@@ -34718,6 +34721,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.jp.ap.g.valuecommerce.com^
