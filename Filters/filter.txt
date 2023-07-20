@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-19T18:08:36.164Z
+! Last modified: 2023-07-20T00:39:51.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -30,7 +30,6 @@
 ||weaptqsmbshwd.xyz^
 ||bonzai.co^
 ||coholy.com^
-||mv.outbrain.com^
 ||douglaug.net^
 ||casize.com^
 ||alleviatepracticableaddicted.com^
@@ -1302,6 +1301,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||creative.ytboob.live^
 ||d10fhz7gnk5369.cloudfront.net^
@@ -8086,6 +8086,7 @@ vkcdnservice.appspot.com^
 ||crottlerennin.com^
 ||crowbarorchat.uno^
 ||crowdgravity.com^
+||crpcruynxxc.com^
 ||crptentry.com^
 ||crptgate.com^
 ||crrepo.com^
@@ -10775,6 +10776,7 @@ vkcdnservice.appspot.com^
 ||fierysolemncow.com^
 ||fifishlbs.com^
 ||fifteenthhardboiledbanker.com^
+||fifthjournalisminadequate.com^
 ||figgleimpregn.com^
 ||fighes.com^
 ||fighla.com^
@@ -37620,6 +37622,14 @@ vkcdnservice.appspot.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vvdzucs.cn^
+||jjklrcw.com^
+||nxhwvt.xyz^
+||ghland.site^
+||enhad.xyz^
+||ntozchv.icu^
+||fwepd.xyz^
+||lrlsrz.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
