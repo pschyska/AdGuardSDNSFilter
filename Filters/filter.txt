@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-20T18:08:19.128Z
+! Last modified: 2023-07-21T00:39:23.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1835,6 +1835,7 @@ vkcdnservice.appspot.com^
 ||1b3tmfcbq.de^
 ||1b73a49a1b.com^
 ||1b9cvfi0nwxqelxu.pro^
+||1betandgonow.com^
 ||1bm3n8sld.de^
 ||1c09d36b99.com^
 ||1c174d5fe7.com^
@@ -28516,6 +28517,7 @@ vkcdnservice.appspot.com^
 ||affiliate.mediatemple.net^
 ||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
+||alarmsportsnetwork.com^
 ||api.140proof.com^
 ||api.bitp.it^
 ||apps.media-lab.ai^
@@ -36364,6 +36366,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList Italy ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
+||adplay.it^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
@@ -37770,6 +37773,17 @@ vkcdnservice.appspot.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||zxrcfw.com^
+||hgehse.site^
+||jzdgn.cn^
+||yyuivw6.com^
+||vhjxrj.xyz^
+||xeynozl.icu^
+||feiln.xyz^
+||lbnqnp.xyz^
+||rifyeldz.top^
+||gjipd.xyz^
+||hongteng.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
