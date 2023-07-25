@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-25T06:09:05.708Z
+! Last modified: 2023-07-25T12:12:56.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||d3tu4h3aa52h5s.cloudfront.net^
+||goatmod.xyz^
 ||inaudiblesattruthfully.com^
 ||napererelysian.com^
 ||obedirectukly.info^
@@ -6284,6 +6286,7 @@ vkcdnservice.appspot.com^
 ||bourranuncurbs.com^
 ||boustahe.com^
 ||bousyshock.com^
+||bouwehee.xyz^
 ||bovemtou.xyz^
 ||bowed-common.pro^
 ||boweddemand.com^
@@ -6582,6 +6585,7 @@ vkcdnservice.appspot.com^
 ||burstcravecraving.com^
 ||burstingdipper.com^
 ||bursulasnags.com^
+||burtonsugar.com^
 ||burydibase.com^
 ||bushesawaitfeminine.com^
 ||bushicitrals.com^
@@ -17615,6 +17619,7 @@ vkcdnservice.appspot.com^
 ||oaujswgofu.com^
 ||oaxoulro.com^
 ||oaxpcohp.com^
+||oazartie.com^
 ||oazoorse.com^
 ||obbdarhmos.com^
 ||obbfpykcoa.com^
