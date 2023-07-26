@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-25T18:08:00.888Z
+! Last modified: 2023-07-26T00:38:15.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||faptdsway.ru^
+||hdbkome.com^
+||mldxqrntd.xyz^
+||saiceezu.xyz^
 ||d3tu4h3aa52h5s.cloudfront.net^
 ||goatmod.xyz^
 ||inaudiblesattruthfully.com^
@@ -8847,6 +8851,7 @@ vkcdnservice.appspot.com^
 ||depositnostrilverge.com^
 ||depressedsinkingbank.com^
 ||depsougnefta.com^
+||deptem.com^
 ||deptigud.xyz^
 ||depucelgalera.com^
 ||depurestole.guru^
@@ -16078,6 +16083,7 @@ vkcdnservice.appspot.com^
 ||measts.com^
 ||measurementaz.com^
 ||measurementpond.com^
+||measuringrules.com^
 ||meatinerhitles.xyz^
 ||meatytell.pro^
 ||mechaelpaceway.com^
@@ -16247,6 +16253,7 @@ vkcdnservice.appspot.com^
 ||metricswpsh.com^
 ||metsaubs.net^
 ||metumpscageful.com^
+||mevarabon.com^
 ||mewgzllnsp.com^
 ||mexicanatoning.live^
 ||mexitlipiffles.com^
@@ -17752,6 +17759,7 @@ vkcdnservice.appspot.com^
 ||odbjmugzoq.com^
 ||oddauthorscreative.com^
 ||oddlyogeed.com^
+||oddsserve.com^
 ||odeerofhisk.xyz^
 ||odipjwipwwyus.xyz^
 ||odnaknopka.ru^
@@ -19342,6 +19350,7 @@ vkcdnservice.appspot.com^
 ||plianteditdisembark.com^
 ||plified.pro^
 ||plinksplanet.com^
+||plirkep.com^
 ||plkatdmeje.com^
 ||plocap.com^
 ||plodpicture.com^
@@ -28663,7 +28672,6 @@ vkcdnservice.appspot.com^
 ||oceanwebcraft.com^
 ||ocelot.studio^
 ||oclus.com^
-||oddsserve.com^
 ||odysseus-nua.com^
 ||ofeetles.pro^
 ||offerforge.com^
@@ -38427,6 +38435,14 @@ vkcdnservice.appspot.com^
 ||zfteiv.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
+||ssdfgq7.com^
+||remfebd.cn^
+||kodfn.xyz^
+||bnds8.site^
+||rlqoyht.icu^
+||tfttbd.xyz^
+||lmnpd.xyz^
+||jzxpxj.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
 ||zxrcfw.com^
