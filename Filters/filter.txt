@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-26T06:08:51.161Z
+! Last modified: 2023-07-26T12:12:16.497Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -28485,6 +28485,7 @@ vkcdnservice.appspot.com^
 ||gururevenue.com^
 ||havetohave.com^
 ||headbidder.net^
+||headerbidding.ai^
 ||headerlift.com^
 ||healthtrader.com^
 ||horse-racing-affiliate-program.co.uk^
@@ -38446,6 +38447,9 @@ vkcdnservice.appspot.com^
 ||lmnpd.xyz^
 ||jzxpxj.xyz^
 ||mrqbuf.xyz^
+||sdchb2.com^
+||hslbahu.top^
+||mt4v4.com^
 ||znyjmbh.icu^
 ||u1022.com^
 ||parnett55.xyz^
