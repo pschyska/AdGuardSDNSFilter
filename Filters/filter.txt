@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-27T06:09:13.968Z
+! Last modified: 2023-07-27T12:12:34.958Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||remarkinspector.com^
+||vwhnfwdbf.com^
+||zidgrrfgb.com^
+||primeleech.com^
 ||phoosuss.net^
 ||hskywgpickh.com^
 ||faptdsway.ru^
@@ -1323,6 +1327,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||adserver.pandora.com^
 ||zap.cdn.zynga.com^
 ||mv.outbrain.com^
 ||ads.sparkflow.net^
@@ -30446,7 +30451,6 @@ vkcdnservice.appspot.com^
 ||adsee.jp^
 ||adserver.goforandroid.com^
 ||adserver.kimia.es^
-||adserver.pandora.com^
 ||adserver.ubiyoo.com^
 ||adshost2.com^
 ||adsmo.ru^
@@ -34427,6 +34431,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||r.z3.fm^
 ||adv.topvideo.tj^
 ||vast.playmatic.video^
 ||oba.rus-km.ru^
@@ -34556,7 +34561,6 @@ vkcdnservice.appspot.com^
 ||jsc.marketgid.com.p.pstl.live^
 ||json.smotri.com^
 ||kinogo.r.worldssl.net^
-||lnews.riafan.ru^
 ||lobster.unionpeer.com^
 ||loki.maximonline.ru^
 ||mixtraff.silvercdn.com^
@@ -38483,6 +38487,8 @@ vkcdnservice.appspot.com^
 ||ssnnn.net^
 ||hghjks2.com^
 ||a9able.com^
+||uxtruz.xyz^
+||8861198.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -44661,6 +44667,8 @@ analytics-*.aasaam.com
 # >> E <<
 
 # >> F <<
+||vast.filmnet.ir^
+
 # https://github.com/MasterKia/PersianBlocker/issues/107
 ||analytics.football360.ir^
 
