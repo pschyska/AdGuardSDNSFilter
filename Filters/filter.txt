@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-28T06:09:15.585Z
+! Last modified: 2023-07-28T12:12:43.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||oucaibie.net^
+||whamauft.com^
 ||cdn.npcta.xyz^
 ||remarkinspector.com^
 ||vwhnfwdbf.com^
@@ -9495,6 +9497,7 @@ vkcdnservice.appspot.com^
 ||drjgjngf.com^
 ||drkness.net^
 ||dronedgentile.com^
+||dronelskipper.com^
 ||droppalpateraft.com^
 ||droppedbanking.com^
 ||drovernomine.com^
@@ -14141,6 +14144,7 @@ vkcdnservice.appspot.com^
 ||jarquizslash.com^
 ||jaseysbionomy.com^
 ||jashautchord.com^
+||jasheest.xyz^
 ||jaspercrozes.com^
 ||jatsekse.net^
 ||jattepush.com^
@@ -22963,6 +22967,7 @@ vkcdnservice.appspot.com^
 ||soupevents.com^
 ||soupteep.xyz^
 ||souptrip.com^
+||sourishpuler.com^
 ||sourne.com^
 ||sourtophulsean.space^
 ||sousefulhea.buzz^
@@ -29022,6 +29027,7 @@ vkcdnservice.appspot.com^
 ||trustx.org^
 ||trytada.com^
 ||tubeadvertising.eu^
+||twads.gg^
 ||tyroo.com^
 ||ubercpm.com^
 ||ultrapartners.com^
@@ -37130,6 +37136,7 @@ vkcdnservice.appspot.com^
 ! Source name: ABPindo ad servers
 ! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
 !
+! Confirmed ad servers
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
@@ -37268,7 +37275,7 @@ vkcdnservice.appspot.com^
 ||webiklan.com^
 ||weblogiklan.com^
 ||yesads.com^
-!
+! Potential ad servers
 ||05ee3a24ed11df058c8.com^
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -37408,8 +37415,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Jul 2023 23:23 UTC+7
-! Version: 2307212323
+! Last modified: 28 Jul 2023 15:33 UTC+7
+! Version: 2307281533
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -38516,6 +38523,7 @@ vkcdnservice.appspot.com^
 ||statisfile.com^
 ||rtborp.xyz^
 ||nnqwe.xyz^
+||svarub.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -44735,6 +44743,7 @@ analytics-*.aasaam.com
 
 # >> N <<
 ||sentry.namava.ir^
+||ws.namava.ir^
 
 ||stc.ninisite.com^
 # >> O <<
@@ -44929,9 +44938,6 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/171
 ||mogo-crypto.net^
-# https://nitter.net/designbazzz/status/1641797300275036163?t=63Lj4RJ5U40VDwwV-fQpKA&s=19
-||fillvpn.com^
-||sharapako.com^
 
 !
 ! Source name: Additional rules
@@ -45485,6 +45491,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/157550
+@@||click.cptrack.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
 ! line25.com - not able to accept cookies to use the page
 @@|ezodn.com^|
