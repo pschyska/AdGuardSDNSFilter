@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-30T12:11:52.511Z
+! Last modified: 2023-07-30T18:07:39.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2022,6 +2022,7 @@ vkcdnservice.appspot.com^
 ||2f488993d1.com^
 ||2fb8or7ai.de^
 ||2fd8c0e9fc.com^
+||2fgrrc9t0.de^
 ||2fnptjci.de^
 ||2gg6ebbhh.de^
 ||2h6skj2da.de^
@@ -2940,6 +2941,7 @@ vkcdnservice.appspot.com^
 ||activemetering.com^
 ||activeoffbracelet.com^
 ||activephilosophy.pro^
+||activepoststale.com^
 ||activitytonic.com^
 ||actpx.com^
 ||actressact.com^
@@ -3037,6 +3039,7 @@ vkcdnservice.appspot.com^
 ||adchap.com^
 ||adchemical.com^
 ||adcl1ckspr0f1t.com^
+||adclaqbhad.com^
 ||adclerks.com^
 ||adclick.pk^
 ||adclickmedia.com^
@@ -9994,6 +9997,7 @@ vkcdnservice.appspot.com^
 ||ejipaifaurga.com^
 ||ejotdqfjazg.com^
 ||ejpzqnqwcszfsz.com^
+||ejrigxesvg.com^
 ||ekareqif.xyz^
 ||ekb-tv.ru^
 ||ekgloczbsblg.com^
@@ -15610,6 +15614,7 @@ vkcdnservice.appspot.com^
 ||ltassrv.com^
 ||ltckrqiy.com^
 ||ltengronsa.com^
+||lteyrcwpoh.xyz^
 ||ltiagmkphobd.com^
 ||ltibabjux.com^
 ||ltijuzoqm.com^
@@ -37352,8 +37357,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Jul 2023 15:33 UTC+7
-! Version: 2307281533
+! Last modified: 30 Jul 2023 21:48 UTC+7
+! Version: 2307302148
 ! Blocked: 835 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -38172,6 +38177,7 @@ vkcdnservice.appspot.com^
 ||a9able.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
+||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||baiduisjkbvsjkl.com^
@@ -38219,6 +38225,7 @@ vkcdnservice.appspot.com^
 ||ddush.xyz^
 ||dehaer.site^
 ||destc8.icu^
+||dgayibf.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
@@ -38260,6 +38267,7 @@ vkcdnservice.appspot.com^
 ||greatnumeric.com^
 ||guke.name^
 ||gyq3bew.icu^
+||gyutmrp.com^
 ||hanwdsii.com^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
@@ -38272,6 +38280,7 @@ vkcdnservice.appspot.com^
 ||hiqua.xyz^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
+||hnfnjn.xyz^
 ||hohmaryt.com^
 ||hongteng.xyz^
 ||hpvwdkn.cn^
@@ -38285,6 +38294,7 @@ vkcdnservice.appspot.com^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
+||ijgbuj.xyz^
 ||ilade.xyz^
 ||ipadf.xyz^
 ||iplm.cc^
@@ -38308,6 +38318,7 @@ vkcdnservice.appspot.com^
 ||jrmrijv.icu^
 ||jslbaha.top^
 ||jszavs1.com^
+||jtbunh.xyz^
 ||jujcjz.xyz^
 ||jutwzssh.icu^
 ||jvjlkih.com^
@@ -38379,6 +38390,7 @@ vkcdnservice.appspot.com^
 ||pirxzl.xyz^
 ||plbs9k.icu^
 ||pmxalz.xyz^
+||poqiod.com^
 ||powedw.com^
 ||pstvvb.xyz^
 ||pzjizsyf.icu^
@@ -38434,6 +38446,7 @@ vkcdnservice.appspot.com^
 ||v1gyb.xyz^
 ||vhjxrj.xyz^
 ||vnfsbl.xyz^
+||vpsgu.cn^
 ||vrlvnz.xyz^
 ||vrr.name^
 ||vvdzucs.cn^
@@ -38462,6 +38475,7 @@ vkcdnservice.appspot.com^
 ||xukou.net^
 ||yhhnjg.com^
 ||ymhyw6.lol^
+||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yyuivw6.com^
 ||zcvyzsyd.icu^
@@ -38474,15 +38488,6 @@ vkcdnservice.appspot.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||gyutmrp.com^
-||yuanxiang19.fun^
-||vpsgu.cn^
-||dgayibf.icu^
-||poqiod.com^
-||jtbunh.xyz^
-||akdie.xyz^
-||hnfnjn.xyz^
-||ijgbuj.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
