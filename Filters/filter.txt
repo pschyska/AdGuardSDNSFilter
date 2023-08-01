@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-01T12:12:28.942Z
+! Last modified: 2023-08-01T18:08:39.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -38364,6 +38364,7 @@ vkcdnservice.appspot.com^
 ||epoid.xyz^
 ||erfskhnpter.xyz^
 ||ertgbme.com^
+||erty0yx.com^
 ||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
@@ -38377,6 +38378,7 @@ vkcdnservice.appspot.com^
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fuliwang.cc^
+||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||ggdrfh5.com^
@@ -38392,6 +38394,7 @@ vkcdnservice.appspot.com^
 ||hanwdsii.com^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
+||hegk01a.top^
 ||hegk03a.top^
 ||hfqdipw.cn^
 ||hgehse.site^
@@ -38469,6 +38472,7 @@ vkcdnservice.appspot.com^
 ||legdeh.fun^
 ||lgohse.fun^
 ||lhiefl.com^
+||lhotajl.icu^
 ||lifyeldl.top^
 ||liitwrz.icu^
 ||lkmhn.com^
@@ -38509,6 +38513,7 @@ vkcdnservice.appspot.com^
 ||ossfile001.com^
 ||p11q.cn^
 ||parnett55.xyz^
+||pbtsjh.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
 ||pfqwbqs.cn^
@@ -38548,6 +38553,7 @@ vkcdnservice.appspot.com^
 ||ssnnn.net^
 ||statisfile.com^
 ||svarub.xyz^
+||svvev3.com^
 ||tarqk5.com^
 ||tftran.shop^
 ||tfttbd.xyz^
@@ -38606,6 +38612,7 @@ vkcdnservice.appspot.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yyuivw6.com^
+||yzllux.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zerolcp.cn^
@@ -38616,13 +38623,6 @@ vkcdnservice.appspot.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||hegk01a.top^
-||erty0yx.com^
-||svvev3.com^
-||lhotajl.icu^
-||pbtsjh.xyz^
-||fvxlhn.xyz^
-||yzllux.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
