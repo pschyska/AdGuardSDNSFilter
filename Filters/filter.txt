@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-01T06:10:08.369Z
+! Last modified: 2023-08-01T12:12:28.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||ezyebrbaymnb.top^
+||griffintardant.guru^
 ||interestingpics.space^
 ||whamauft.com^
 ||cdn.npcta.xyz^
@@ -24406,6 +24408,7 @@ vkcdnservice.appspot.com^
 ||timingbitternessgreasy.com^
 ||timot-cvk.info^
 ||timpanosheng.com^
+||timtamti.net^
 ||timxrio.com^
 ||tinacorners.xyz^
 ||tinbuadserv.com^
@@ -27007,7 +27010,6 @@ vkcdnservice.appspot.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjs.com^
-||wpnrtnmrewunrtok.xyz^
 ||wpnsrv.com^
 ||wpowiqkgykf.com^
 ||wpshsdk.com^
@@ -38620,6 +38622,7 @@ vkcdnservice.appspot.com^
 ||lhotajl.icu^
 ||pbtsjh.xyz^
 ||fvxlhn.xyz^
+||yzllux.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
