@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-02T18:07:56.579Z
+! Last modified: 2023-08-03T00:38:06.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||setupali.shop^
 ||ads.lemmatechnologies.com^
 ||update-mac.com^
 ||ujscdn.com^
@@ -7473,6 +7474,7 @@ vkcdnservice.appspot.com^
 ||clean-browsing.com^
 ||clean.gg^
 ||cleanbrowser.network^
+||cleanerultra.club^
 ||cleaneryelded.site^
 ||cleanflawlessredir.com^
 ||cleanmediaads.com^
@@ -11764,6 +11766,7 @@ vkcdnservice.appspot.com^
 ||gbllqvsxnlsl.com^
 ||gcouncer.buzz^
 ||gcruperparverew.xyz^
+||gdasaasnt.com^
 ||gdecordingholo.info^
 ||gdjejefdqthxmy.xyz^
 ||gdl5vtbbv0lj.com^
@@ -12888,6 +12891,7 @@ vkcdnservice.appspot.com^
 ||hestatueoftheap.com^
 ||hesterinoc.info^
 ||hesthergeyan.com^
+||hetaer.xyz^
 ||hetahien.com^
 ||hetaint.com^
 ||hetairagalapee.tech^
@@ -22869,6 +22873,7 @@ vkcdnservice.appspot.com^
 ||smisto.com^
 ||smists.com^
 ||smitry.com^
+||smjulynews.com^
 ||smjxarmaflpmxj.com^
 ||smoggydisplay.pro^
 ||smokebookcase.com^
@@ -38760,6 +38765,12 @@ vkcdnservice.appspot.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||ssdtour.com^
+||cxsh.cn.com^
+||rhesed.site^
+||dfgymtx.icu^
+||xixrdn.xyz^
+||wsdfame.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
