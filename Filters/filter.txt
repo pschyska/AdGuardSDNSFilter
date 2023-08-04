@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-04T06:09:05.636Z
+! Last modified: 2023-08-04T12:12:32.281Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||lumpyactive.com^
+||adolescentshirt.com^
+||porgruite.com^
 ||abeenrwvyrew.top^
 ||bzzmlqkljkrw.top^
 ||interestingvids.space^
@@ -3168,7 +3171,6 @@ vkcdnservice.appspot.com^
 ||adohana.com^
 ||adojobless.com^
 ||adolescentcounty.pro^
-||adolescentshirt.com^
 ||adomic.com^
 ||adonion.com^
 ||adonweb.ru^
@@ -30338,6 +30340,8 @@ vkcdnservice.appspot.com^
 ||appodeal.com^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 !
+||adstrategy.biz.weibo.com^
+||ad.weibo.com^
 ||geoloc.yospace.com^
 ||banner.hpmdnetwork.ru^
 ||hybrid.ai^
@@ -38901,6 +38905,7 @@ vkcdnservice.appspot.com^
 ||vmdlxj.xyz^
 ||yuanmengbi.com^
 ||oiunga.com^
+||dzkwj0y.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
