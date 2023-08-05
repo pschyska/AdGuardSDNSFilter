@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-04T18:08:17.211Z
+! Last modified: 2023-08-05T00:37:23.653Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1525,6 +1525,7 @@
 ||bn.gogo.mn^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/68502
 ||widget.tippebannere.no^
+||c2c24.pl^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/128653
 ||cdn.gallery^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/5103
@@ -17024,6 +17025,7 @@ vkcdnservice.appspot.com^
 ||myfreshposts.com^
 ||myfreshspot.com^
 ||mygoodlives.com^
+||mygsyv.com^
 ||mygtmn.com^
 ||myhypestories.com^
 ||myimagetracking.com^
@@ -26384,6 +26386,7 @@ vkcdnservice.appspot.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vlbbyi.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vlqllpeevoch.com^
@@ -38951,6 +38954,16 @@ vkcdnservice.appspot.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||bnds4.site^
+||klufjdo.com^
+||rdbousn.cn^
+||vcydyzd.icu^
+||fengyukun03.cn^
+||hbqabbg.cn^
+||jzdwl4.cn^
+||fcbqxt.xyz^
+||dwfjtz.xyz^
+||oijmds.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
