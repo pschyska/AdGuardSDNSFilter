@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-09T12:12:56.015Z
+! Last modified: 2023-08-09T18:08:54.514Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11909,7 +11909,6 @@ vkcdnservice.appspot.com^
 ||get-things-done.net^
 ||get2m5sgstohne.com^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getalltraffic.com^
 ||getapo.com^
@@ -13449,7 +13448,6 @@ vkcdnservice.appspot.com^
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hzkachqd.com^
@@ -28950,6 +28948,7 @@ vkcdnservice.appspot.com^
 ||hotelscombined.com.au^
 ||hprofits.com^
 ||httpool.com^
+||hyros.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
 ||icorp.ro^
@@ -38679,11 +38678,14 @@ vkcdnservice.appspot.com^
 ||89mtdab.xyz^
 ||a8age.com^
 ||a9able.com^
+||aaenv48847h.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
+||aqvwn18102h.com^
+||b4g7k9d2.com^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -38748,12 +38750,14 @@ vkcdnservice.appspot.com^
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
+||dqjojx.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
+||ebscb0l.xyz^
 ||eers0cy.com^
 ||eghyahl.cn^
 ||eheb8.cn^
@@ -38797,6 +38801,7 @@ vkcdnservice.appspot.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde3.icu^
+||haffo70.com^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -38830,6 +38835,7 @@ vkcdnservice.appspot.com^
 ||hujunhao.name^
 ||huoju.asia^
 ||hxhohd.xyz^
+||hxinitv.icu^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -38909,6 +38915,7 @@ vkcdnservice.appspot.com^
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
+||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mmead.xyz^
@@ -39007,11 +39014,13 @@ vkcdnservice.appspot.com^
 ||thesac2.top^
 ||thesac7.top^
 ||tifyeldi.top^
+||tknkfd.xyz^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tseda1.icu^
 ||tseda6.icu^
 ||ttykabh.icu^
 ||tushwjp.icu^
@@ -39030,6 +39039,7 @@ vkcdnservice.appspot.com^
 ||vcydyzd.icu^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
+||vlgkotr.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
@@ -39059,6 +39069,7 @@ vkcdnservice.appspot.com^
 ||xlvqhx.xyz^
 ||xmawwbz.icu^
 ||xmxupz.xyz^
+||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
@@ -39067,6 +39078,7 @@ vkcdnservice.appspot.com^
 ||xukang09.cn^
 ||xukou.net^
 ||yegziyf.cn^
+||ygzqlnt.cn^
 ||yhhnjg.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
@@ -39088,19 +39100,6 @@ vkcdnservice.appspot.com^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||haffo70.com^
-||vlgkotr.cn^
-||tseda1.icu^
-||hxinitv.icu^
-||mkjnba.com^
-||dqjojx.xyz^
-||tknkfd.xyz^
-||ygzqlnt.cn^
-||aqvwn18102h.com^
-||b4g7k9d2.com^
-||xn--jvrp4x1zyfta.net^
-||aaenv48847h.com^
-||ebscb0l.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
