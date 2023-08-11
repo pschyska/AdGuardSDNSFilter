@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-11T06:09:01.035Z
+! Last modified: 2023-08-11T12:11:26.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5868,6 +5868,7 @@ vkcdnservice.appspot.com^
 ||bgyeouoavr.xyz^
 ||bgyutxdcetx.com^
 ||bh3.net^
+||bhalukecky.com^
 ||bharalhallahs.com^
 ||bhcont.com^
 ||bhcumsc.com^
@@ -7617,6 +7618,7 @@ vkcdnservice.appspot.com^
 ||clikxoiqvdlec.xyz^
 ||climesmazdoor.com^
 ||clinchpresent.com^
+||clinerybelfast.info^
 ||clinkeasiestopponent.com^
 ||clipelis.lol^
 ||clipperroutesevere.com^
@@ -8504,6 +8506,7 @@ vkcdnservice.appspot.com^
 ||d2vvyk8pqw001z.cloudfront.net^
 ||d2yeczd6cyyd0z.cloudfront.net^
 ||d37aacdbcc.com^
+||d37ax1qs52h69r.cloudfront.net^
 ||d37sevptuztre3.cloudfront.net^
 ||d3d98dc11c.com^
 ||d3qttli028txpv.cloudfront.net^
@@ -12180,6 +12183,7 @@ vkcdnservice.appspot.com^
 ||glimtors.net^
 ||glirsoss.com^
 ||glishais.net^
+||glisteningproject.pro^
 ||glisteningput.com^
 ||glitteridentifiernavy.com^
 ||glitteringbrush.pro^
@@ -12187,12 +12191,14 @@ vkcdnservice.appspot.com^
 ||glivupegn.com^
 ||glizauvo.net^
 ||glo-glo-oom.com^
+||gloacmie.com^
 ||gloacmug.net^
 ||gloagaus.xyz^
 ||gloalrie.com^
 ||gloamucm.xyz^
 ||gloansad.com^
 ||gloaphoo.net^
+||gloavets.xyz^
 ||globaladblocker.com^
 ||globaladmedia.com^
 ||globaladmedia.net^
@@ -12295,6 +12301,7 @@ vkcdnservice.appspot.com^
 ||goashais.com^
 ||goasrv.com^
 ||gobacktothefuture.biz^
+||gobanspagodas.com^
 ||gobbinsantos.store^
 ||gobetweensmartlyattic.com^
 ||gobiaesker.uno^
@@ -12904,6 +12911,7 @@ vkcdnservice.appspot.com^
 ||hbpcjmegtll.com^
 ||hcckkyoo.com^
 ||hcritiesec.xyz^
+||hcrwvno.com^
 ||hcuukwgpjiykapf.xyz^
 ||hcwmnryoyf.com^
 ||hcxbokndbhw.com^
@@ -13658,6 +13666,7 @@ vkcdnservice.appspot.com^
 ||iistillstayherea.com^
 ||iiwm70qvjmee.com^
 ||ijatsapphiresanda.com^
+||ijbgqlf.com^
 ||ijeetsie.com^
 ||ijorecepous.com^
 ||ijspro-code.com^
@@ -14184,6 +14193,7 @@ vkcdnservice.appspot.com^
 ||isboost.co.jp^
 ||iseatheadline.com^
 ||isegeowrvnxorj.com^
+||iseoiknnqckto.xyz^
 ||ishedtotigai.info^
 ||ishinedmin.lol^
 ||isjratdcaanm.com^
@@ -14373,6 +14383,7 @@ vkcdnservice.appspot.com^
 ||jazzmoist.com^
 ||jazzspeechlessarena.com^
 ||jb7hvckszone.com^
+||jbkelaamjanar.top^
 ||jbkmskjeaevkne.xyz^
 ||jbkwrkmdug.com^
 ||jbm6c54upkui.com^
@@ -15131,6 +15142,7 @@ vkcdnservice.appspot.com^
 ||kukury2hf8nd09.com^
 ||kuleqasfors.one^
 ||kultingecauukse.pics^
+||kultingecauyuksehi.info^
 ||kultingecauyuksehinkitw.info^
 ||kumpulblogger.com^
 ||kumteerg.com^
@@ -15142,6 +15154,7 @@ vkcdnservice.appspot.com^
 ||kurlipush.com^
 ||kursatarak.com^
 ||kusbcyxafo.com^
+||kusciwaqfkaw.com^
 ||kussoscliffy.com^
 ||kustaucu.com^
 ||kutjilsi.com^
@@ -15823,6 +15836,7 @@ vkcdnservice.appspot.com^
 ||losingoldfry.com^
 ||losingsplowter.com^
 ||lositz.com^
+||lostinfuture.com^
 ||lotionmodule.com^
 ||lotosmarkkaa.com^
 ||lotreal.com^
@@ -16086,6 +16100,7 @@ vkcdnservice.appspot.com^
 ||maebtjn.com^
 ||mafrarc3e9h.com^
 ||maftirtagetol.website^
+||mafyak.com^
 ||magazinescontaining.com^
 ||magazinesfluentlymercury.com^
 ||magetrigla.com^
@@ -17370,6 +17385,7 @@ vkcdnservice.appspot.com^
 ||neechuce.net^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
+||neednguarded.space^
 ||needyscarcasserole.com^
 ||neegreez.com^
 ||neehoose.com^
@@ -18050,6 +18066,7 @@ vkcdnservice.appspot.com^
 ||obtrol.com^
 ||obtrusiveflatlymoth.com^
 ||obtrusiveperhaps.com^
+||obtundmassier.com^
 ||obvious-lesson.pro^
 ||obviousraiment.com^
 ||oc2tdxocb3ae0r.com^
@@ -20242,6 +20259,7 @@ vkcdnservice.appspot.com^
 ||profitabletrustednetwork.com^
 ||profitpeelers.com^
 ||profitredirect.com^
+||profoundtwist.com^
 ||profrebecca.com^
 ||profsitu.com^
 ||programinsightplastic.com^
@@ -22408,6 +22426,7 @@ vkcdnservice.appspot.com^
 ||schoolboyblinkclove.com^
 ||schoolboyfingernail.com^
 ||schoolboyslogan.com^
+||schqydstxtsi.com^
 ||schullemony.com^
 ||sciadopi5tysverticil1lata.com^
 ||sciencepoints.com^
@@ -23034,6 +23053,7 @@ vkcdnservice.appspot.com^
 ||sitewithg.com^
 ||sitreleastme.info^
 ||situatebullied.com^
+||situbathool.com^
 ||siversbesomer.space^
 ||sixft-apart.com^
 ||sixmosorts.uno^
@@ -25387,6 +25407,7 @@ vkcdnservice.appspot.com^
 ||tropinpodgily.life^
 ||tropylskins.com^
 ||trothko.com^
+||trotolhonor.com^
 ||troubled-stress.com^
 ||troutrequires.com^
 ||trpohkfedwway.xyz^
@@ -25618,6 +25639,7 @@ vkcdnservice.appspot.com^
 ||u595sebqih.com^
 ||uaaftpsy.com^
 ||uads.cc^
+||uanbpywrumpuj.com^
 ||ubbfpm.com^
 ||ubilinkbin.com^
 ||ubish.com^
@@ -25945,6 +25967,7 @@ vkcdnservice.appspot.com^
 ||unsigilyphor.com^
 ||unskilfulknowingservers.com^
 ||unsnakybrulot.com^
+||unsoggynek.life^
 ||unspinaraka.com^
 ||unstantleran.com^
 ||unsteadybreakfast.pro^
@@ -26433,6 +26456,7 @@ vkcdnservice.appspot.com^
 ||vfyxjsclor.com^
 ||vg4u8rvq65t6.com^
 ||vgfeuwrewzzmc.com^
+||vgmnpjnrpj.com^
 ||vgsjapnjykapgq.com^
 ||vgw35hwr4w6x.com^
 ||vgwtjbeqfpesefn.xyz^
@@ -27705,6 +27729,7 @@ vkcdnservice.appspot.com^
 ||xcelsiusadserver.com^
 ||xclicks.net^
 ||xcowuheclvwryh.com^
+||xcqyvahohs.com^
 ||xctignum.uno^
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
@@ -27999,6 +28024,7 @@ vkcdnservice.appspot.com^
 ||yjgkcbvmnqnicep.xyz^
 ||yjnqeeocqrs.com^
 ||ykdwyf.com^
+||ykrwopdxkw.com^
 ||ylasthepoityelthenl.xyz^
 ||ylasthepoityelthens.com.ua^
 ||ylavjbljpt.com^
@@ -36843,8 +36869,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-02 10:00:55 CEST
-# entries:        1166
+# last updated:   2023-08-11 08:55:37 CEST
+# entries:        1174
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -37605,20 +37631,28 @@ vkcdnservice.appspot.com^
 ||woomio.com^
 ||ws.sharethis.com^
 ||www.adsnet.se^
+||www.alphalete.com.se^
+||www.altrasverige.com.se^
 ||www.awin1.com^
 ||www.blogtoplist.se^
+||www.championsverige.com.se^
 ||www.clarity.ms^
 ||www.dwin2.com^
 ||www.fakturino.se^
+||www.guesssverige.com.se^
+||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
 ||www.linnlilja.se^
 ||www.mymediaindex.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
+||www.vejaskor.com.se^
+||www.vejasskor.com^
 ||www.vizzit.se^
 ||www.air-max.se^
 ||www.datadoghq-browser-agent.com^
+||www.gymshark-sweden.com.se^
 ||x.bidswitch.net^
 ||yieldbird.com^
 
@@ -38869,6 +38903,7 @@ vkcdnservice.appspot.com^
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||b4g7k9d2.com^
+||bai128.xyz^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -38878,6 +38913,7 @@ vkcdnservice.appspot.com^
 ||bcejk.xyz^
 ||bdates.fun^
 ||belindanbd.com^
+||berjzj.xyz^
 ||berylnbb.com^
 ||betcss.site^
 ||bftqdd.xyz^
@@ -38886,6 +38922,7 @@ vkcdnservice.appspot.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bnds3.site^
 ||bnds4.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
@@ -38927,6 +38964,7 @@ vkcdnservice.appspot.com^
 ||dd778899dd.com^
 ||ddush.xyz^
 ||dehaer.site^
+||derew6xbsc.xyz^
 ||destc8.icu^
 ||dffrahax.com^
 ||dfgpifa.com^
@@ -39092,8 +39130,10 @@ vkcdnservice.appspot.com^
 ||liitwrz.icu^
 ||likdie.com^
 ||lkmhn.com^
+||lknnbd.xyz^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
+||lokindt.com^
 ||lokngd.com^
 ||lqjinx.xyz^
 ||lrlsrz.xyz^
@@ -39146,6 +39186,7 @@ vkcdnservice.appspot.com^
 ||pbtsjh.xyz^
 ||pcqsajr.icu^
 ||pcvzpj.xyz^
+||pfhj89w.com^
 ||pfqwbqs.cn^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
@@ -39254,6 +39295,7 @@ vkcdnservice.appspot.com^
 ||xcvwrj.xyz^
 ||xeghes.fun^
 ||xeynozl.icu^
+||xhiit0n.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xixrdn.xyz^
@@ -39264,6 +39306,7 @@ vkcdnservice.appspot.com^
 ||xmxupz.xyz^
 ||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
+||xopxptn.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
 ||xqblnei.cn^
@@ -39289,21 +39332,14 @@ vkcdnservice.appspot.com^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
+||zggrxf.life^
 ||zghsfh.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
-||xopxptn.cn^
-||pfhj89w.com^
-||bai128.xyz^
-||zvasuzb.icu^
-||bnds3.site^
-||lokindt.com^
-||lknnbd.xyz^
-||zggrxf.life^
-||berjzj.xyz^
-||derew6xbsc.xyz^
 ||znyjmbh.icu^
+||36mghtd.xyz^
 ||zonyff.xyz^
+||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
