@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-11T12:11:26.263Z
+! Last modified: 2023-08-11T18:08:05.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2053,6 +2053,7 @@ vkcdnservice.appspot.com^
 ||30koqnlks.de^
 ||30pk41r1i.de^
 ||314d7d699d.com^
+||314gqd3es.de^
 ||316feq0nc.de^
 ||31bqljnla.de^
 ||31cm5fq78.de^
@@ -3854,6 +3855,7 @@ vkcdnservice.appspot.com^
 ||aklsyovkpoyv.com^
 ||akmxts.com^
 ||aktvzyaht.com^
+||aktwusgwep.com^
 ||akzfxmgcq.com^
 ||akzvponimot.com^
 ||alacrityimitation.com^
@@ -6050,6 +6052,7 @@ vkcdnservice.appspot.com^
 ||blastedlurched.com^
 ||blastsbigener.com^
 ||blatwalm.com^
+||blaze-media.com^
 ||blazeobservancebough.com^
 ||blazingswatstated.com^
 ||bldvxzxdpsrjla.com^
@@ -9897,6 +9900,7 @@ vkcdnservice.appspot.com^
 ||eatlengthanid.xyz^
 ||eatsidebicep.com^
 ||eautifulasawea.com^
+||eavailandproc.info^
 ||eavesdroppingsickleemotionally.com^
 ||eavesofefinegoldf.info^
 ||eawp2ra7.top^
@@ -10408,6 +10412,7 @@ vkcdnservice.appspot.com^
 ||era67hfo92w.com^
 ||eraseficins.website^
 ||eraserindecent.com^
+||erbiscusys.info^
 ||ercockremarkedo.info^
 ||ercoeteasacom.com^
 ||erconditingde.info^
@@ -10606,6 +10611,7 @@ vkcdnservice.appspot.com^
 ||exampulsate.com^
 ||exarchykhu.store^
 ||exasperationplotincarnate.com^
+||exbuggishbe.info^
 ||exceedinglydiscovered.com^
 ||excellenceads.com^
 ||excellent-closet.pro^
@@ -13080,6 +13086,7 @@ vkcdnservice.appspot.com^
 ||hhklc.com^
 ||hhkld.com^
 ||hhrsecure.com^
+||hhtxjoa.com^
 ||hhyalsk.com^
 ||hiadone.com^
 ||hiasor.com^
@@ -14144,6 +14151,7 @@ vkcdnservice.appspot.com^
 ||ipsowrite.com^
 ||iptautup.com^
 ||iqimwsctvgbvqx.xyz^
+||iqkjrwf.com^
 ||iqnevmje.com^
 ||iqpkee.com^
 ||iqtest365.online^
@@ -14628,6 +14636,7 @@ vkcdnservice.appspot.com^
 ||jswww.net^
 ||jsyfqeynrvg.com^
 ||jtdqxsfzi.com^
+||jtjtqar.com^
 ||ju427bv7an9n.com^
 ||jubileeirresponsibilityforfeit.com^
 ||jubnaadserve.com^
@@ -14905,6 +14914,7 @@ vkcdnservice.appspot.com^
 ||kidnapbushesfuse.com^
 ||kidsboilingbeech.com^
 ||kidslinecover.com^
+||kifdngi.com^
 ||kihwmtvzvi.com^
 ||kikibobo.top^
 ||kikiloobily.com^
@@ -16026,6 +16036,7 @@ vkcdnservice.appspot.com^
 ||lyingdownt.xyz^
 ||lyingshayride.com^
 ||lyjegushe.pro^
+||lyjznnanareay.top^
 ||lylufhuxqwi.com^
 ||lympin.com^
 ||lynormationpas.com^
@@ -19621,6 +19632,7 @@ vkcdnservice.appspot.com^
 ||pionwaney.com^
 ||piouscheers.com^
 ||pip-pip-pop.com^
+||pipaffiliates.com^
 ||pipeaota.com^
 ||pipeschannels.com^
 ||piplavwci.com^
@@ -20399,6 +20411,7 @@ vkcdnservice.appspot.com^
 ||psarecommendas.com^
 ||psatorsi.com^
 ||psaudous.com^
+||psaugourtauy.com^
 ||psaukaux.net^
 ||psausuck.net^
 ||psautiultvvsqxj.xyz^
@@ -25599,6 +25612,7 @@ vkcdnservice.appspot.com^
 ||txouliypi.com^
 ||txzaazmdhtw.com^
 ||tyatedgrogs.xyz^
+||tychismfeasts.com^
 ||tychon.bid^
 ||tydevelelastic.com^
 ||tydouke.com^
@@ -26240,6 +26254,7 @@ vkcdnservice.appspot.com^
 ||vaipsona.com^
 ||vaipsouw.com^
 ||vaisheph.xyz^
+||vaitotoo.net^
 ||vajoru.xyz^
 ||vak345.com^
 ||valack.com^
@@ -35867,7 +35882,6 @@ vkcdnservice.appspot.com^
 ||flux-g.com^
 ||x5.jougennotuki.com^
 ||ad.atown.jp^
-||ads.pipaffiliates.com^
 ||traffic-exchange.tv^
 ||atype.jp^
 ||blogparts.dgpot.com^
@@ -36083,6 +36097,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||shop.vapelog.jp^
 ||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
 ||ad.jp.ap.valuecommerce.com^
@@ -36153,6 +36168,10 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||3337126.com^
+||yruws6.com^
+||3338637.com^
+||3338652.com^
 ||mlstx.cn^
 ||yh18h8s.com^
 ||qhx1h2g.com^
@@ -37824,7 +37843,6 @@ vkcdnservice.appspot.com^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^
-||clicks.pipaffiliates.com^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
@@ -39338,6 +39356,10 @@ vkcdnservice.appspot.com^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||36mghtd.xyz^
+||egipsbvlgn.xyz^
+||lingsiqiwu.com^
+||baidudvbjkbssjvsvv.com^
+||duyvtanrheje.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
