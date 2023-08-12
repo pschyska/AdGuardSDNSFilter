@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-12T00:28:54.283Z
+! Last modified: 2023-08-12T06:07:48.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -25420,6 +25420,7 @@ vkcdnservice.appspot.com^
 ||trollwarningpaws.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
+||tronads.io^
 ||troncomelets.com^
 ||troolyhonks.com^
 ||troozescript.store^
@@ -28486,6 +28487,8 @@ vkcdnservice.appspot.com^
 ||zylytavo.com^
 ||zypenetwork.com^
 ||zypy2h6rgfux.com^
+! $document blocks
+||adservice.google.
 ||vpn-offers.org^
 ! Third-party
 ||123date.me^
@@ -39374,6 +39377,8 @@ vkcdnservice.appspot.com^
 ||hqdlhgx.cn^
 ||tuplzt.xyz^
 ||lknhrnd.com^
+||jothvz.xyz^
+||jmbluyxkl.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
