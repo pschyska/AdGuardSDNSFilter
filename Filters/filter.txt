@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-15T12:11:40.558Z
+! Last modified: 2023-08-15T18:08:01.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1311,6 +1311,8 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||s.4cola.com^
+||s.4tr.cc^
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^
@@ -39672,6 +39674,10 @@ vkcdnservice.appspot.com^
 ||zszhln.xyz^
 ||sensifyfugged.com^
 ||simblotusitate.com^
+||iqgoukn.cn^
+||ndqcz0e.xyz^
+||chozarpeases.com^
+||hh6820123.com^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -45537,8 +45543,8 @@ analytics-*.aasaam.com
 # analytics.digikala.com
 # ^ Shows online visitors
 
-||sentry-new.divar.ir^
-||ammaar.delivery.zeerak.cloud^
+||sentry.divar.cloud^
+||actionlog.divar.ir^
 
 # >> E <<
 
@@ -45609,7 +45615,6 @@ analytics-*.aasaam.com
 ||ad.technews-iran.com^
 
 ||adengine.telewebion.com^
-||rokhdad.telewebion.com^
 ||analytics.telewebion.com^
 
 # >> U <<
