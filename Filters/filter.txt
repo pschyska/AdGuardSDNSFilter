@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-16T06:08:51.060Z
+! Last modified: 2023-08-16T12:11:42.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||dr7.biz^
 ||wuftoars.net^
 ||afdrivovoq.com^
 ||sjolcdkqwiybh.xyz^
@@ -6469,6 +6470,7 @@ vkcdnservice.appspot.com^
 ||brithungown.com^
 ||briticatederfd.site^
 ||britishinquisitive.com^
+||britonseyer.com^
 ||britonswime.website^
 ||brittleraising.com^
 ||bro.kim^
@@ -8114,6 +8116,7 @@ vkcdnservice.appspot.com^
 ||cophoe.com^
 ||copict.com^
 ||copperseafoodearphones.com^
+||copterezba.com^
 ||copyrightaccesscontrols.com^
 ||copysign.link^
 ||coquitahaiduk.com^
@@ -12956,6 +12959,7 @@ vkcdnservice.appspot.com^
 ||hartalshier.com^
 ||hartattenuate.com^
 ||hartlyengland.com^
+||harvardunions.com^
 ||harvesttheory.com^
 ||harvintact.com^
 ||hasdrs.com^
@@ -13420,6 +13424,7 @@ vkcdnservice.appspot.com^
 ||horsemanterminateplatform.com^
 ||horseuptown.com^
 ||horsiergalchic.com^
+||horsilyoxydase.com^
 ||hortestoz.com^
 ||hortitedigress.com^
 ||hosaur.com^
@@ -21149,6 +21154,7 @@ vkcdnservice.appspot.com^
 ||quikgzfisiodk.com^
 ||quilescornual.uno^
 ||quillyatik.digital^
+||quiltscaudata.com^
 ||quinatedating.top^
 ||quinizechoel.com^
 ||quite-bag-seed-catch.xyz^
@@ -22495,6 +22501,7 @@ vkcdnservice.appspot.com^
 ||salestingoner.org^
 ||salinasbhut.com^
 ||salishcoenact.com^
+||salivanmobster.com^
 ||salloohoelike.website^
 ||sallyfundamental.com^
 ||sallyoxenstops.com^
@@ -22514,6 +22521,7 @@ vkcdnservice.appspot.com^
 ||samogonmarvy.com^
 ||samplerenamed.com^
 ||samplerpouch.com^
+||sampoang.xyz^
 ||samsienshrivel.com^
 ||samsungads.com^
 ||samtrg.com^
@@ -24183,6 +24191,7 @@ vkcdnservice.appspot.com^
 ||stuffserve.com^
 ||stugsoda.com^
 ||stulsh.com^
+||stumercackles.com^
 ||stunninglover.com^
 ||stunningruin.com^
 ||stunsbarbola.website^
@@ -25291,6 +25300,7 @@ vkcdnservice.appspot.com^
 ||tominwigan.top^
 ||tomladvert.com^
 ||tommiesuntewed.com^
+||tomornpinjane.com^
 ||tomponcainite.com^
 ||tomsjousts.life^
 ||tonapplaudfreak.com^
@@ -27161,6 +27171,7 @@ vkcdnservice.appspot.com^
 ||wandererbashful.com^
 ||wandijltus.com^
 ||wangfenxi.com^
+||wanlyavower.com^
 ||wanmolamchoor.store^
 ||wannestfooled.com^
 ||wansultoud.com^
@@ -27177,6 +27188,7 @@ vkcdnservice.appspot.com^
 ||warehousecanneddental.com^
 ||warfarerewrite.com^
 ||warhin.com^
+||wariestbudgers.com^
 ||warilyaggregation.com^
 ||warilycommercialconstitutional.com^
 ||warilytumblercheckbook.com^
@@ -27420,6 +27432,7 @@ vkcdnservice.appspot.com^
 ||whamukoji.pro^
 ||whamuthygle.com^
 ||whaodvfkydib.com^
+||wharployn.com^
 ||whartaug.net^
 ||whartfidalgo.life^
 ||whatisnewappforyou.top^
@@ -28634,6 +28647,7 @@ vkcdnservice.appspot.com^
 ||zlacraft.com^
 ||zlink2.com^
 ||zlink6.com^
+||zlinkc.com^
 ||zlinkm.com^
 ||zljwhbuagdvl.com^
 ||zlx.com.br^
@@ -30989,6 +31003,10 @@ vkcdnservice.appspot.com^
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+! Yandex ads in apps
+||startup.mobile.yandex.net^
+||startup.mobile.webvisor.com^
+||startup-mobile.ap.yandex-net.ru^
 !
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
@@ -39690,6 +39708,7 @@ vkcdnservice.appspot.com^
 ||bmptbyb.com^
 ||vhutitpu.icu^
 ||zcbfjd.xyz^
+||mnpbxjq.cn^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
