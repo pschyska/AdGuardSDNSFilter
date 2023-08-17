@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-17T00:29:35.161Z
+! Last modified: 2023-08-17T06:08:48.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37180,8 +37180,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-13 08:20:48 CEST
-# entries:        1176
+# last updated:   2023-08-17 07:53:10 CEST
+# entries:        1178
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -37503,6 +37503,7 @@ vkcdnservice.appspot.com^
 ||jackwolfskinsverige.com.se^
 ||js.appboycdn.com^
 ||js.datadome.co^
+||js.getlasso.co^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
 ||js.monitor.azure.com^
@@ -37524,6 +37525,7 @@ vkcdnservice.appspot.com^
 ||l.sharethis.com^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
+||lasso.link^
 ||leadconnect.ipmaxi.se^
 ||leadenhancer.com^
 ||legero.com.se^
@@ -39718,6 +39720,11 @@ vkcdnservice.appspot.com^
 ||thesac4.top^
 ||kmjndas.com^
 ||dnceqzz.icu^
+||rszkhn.xyz^
+||hfjk3wa.com^
+||fmre1.com^
+||fiktvlnc.icu^
+||qucncfo.cn^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
