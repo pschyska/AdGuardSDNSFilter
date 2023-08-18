@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-18T06:08:50.681Z
+! Last modified: 2023-08-18T12:11:48.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||smervyfenks.com^
 ||dr7.biz^
 ||wuftoars.net^
 ||afdrivovoq.com^
@@ -1499,6 +1500,15 @@
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
 !---------------------------------------------------------------------
+!------------------------------ Estonian -----------------------------
+!---------------------------------------------------------------------
+! NOTE: Estonian
+!
+! delfi.ee
+delfi
+||ap.delfi.ee^
+||ado.delfi.ee^
+!---------------------------------------------------------------------
 !------------------------------ Georgian -----------------------------
 !---------------------------------------------------------------------
 ! NOTE: Georgian
@@ -1523,8 +1533,6 @@
 ||pijama.*.elasticbeanstalk.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152148
 ||pad.mymovies.it^
-||ap.delfi.ee^
-||ado.delfi.ee^
 !
 !---------------------------------------------------------------------
 !--------------------------- Luxembourgish ---------------------------
@@ -31066,6 +31074,8 @@ vkcdnservice.appspot.com^
 ||appodeal.com^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 !
+||ad.buzzvil.com^
+||screen.buzzvil.com^
 ||adstrategy.biz.weibo.com^
 ||ad.weibo.com^
 ||geoloc.yospace.com^
@@ -35481,7 +35491,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
-
+||market-backend.api.2gis.ru^
 !
 ! Source name: AdGuard Russian filter ad servers first-party
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt
@@ -36896,6 +36906,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||pixoctopus.pixnet.net^
 ||jsx.luyouwang.com^
 ||kdpic.pchome.com.tw^
 ||one.fsylr.com^
@@ -39827,6 +39838,8 @@ vkcdnservice.appspot.com^
 ||lzmvcrp.icu^
 ||zglmvz.buzz^
 ||yjnkas.com^
+||daeis.cn^
+||nswtojdi.icu^
 ||wrpsouf.cn^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -44568,6 +44581,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||bd-js.duote.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
