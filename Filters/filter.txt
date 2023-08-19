@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-18T18:08:01.121Z
+! Last modified: 2023-08-19T00:28:50.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1500,13 +1500,6 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41373
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
-!---------------------------------------------------------------------
-!------------------------------ Estonian -----------------------------
-!---------------------------------------------------------------------
-! NOTE: Estonian
-!
-! delfi.ee
-delfi
 ||ap.delfi.ee^
 ||ado.delfi.ee^
 !---------------------------------------------------------------------
@@ -39846,6 +39839,11 @@ vkcdnservice.appspot.com^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||lishuaibin.cn^
+||gvbhae0.com^
+||vlujojf.icu^
+||zmdjbl.xyz^
+||leadc4.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
