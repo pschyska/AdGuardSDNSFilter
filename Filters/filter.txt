@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-23T12:12:12.641Z
+! Last modified: 2023-08-23T18:06:51.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -27331,6 +27331,7 @@ vkcdnservice.appspot.com^
 ||waymarkgentiin.com^
 ||waymentriddel.com^
 ||waynagmay.com^
+||wazaki.xyz^
 ||wazbuvdcij.com^
 ||wazensee.net^
 ||wbdds.com^
@@ -39337,6 +39338,7 @@ vkcdnservice.appspot.com^
 ||52acc.cn^
 ||52kuwang.cn^
 ||5ggj5cp.com^
+||5lfgdju.com^
 ||777aa999aa.com^
 ||7xixi.site^
 ||8861198.com^
@@ -39489,6 +39491,7 @@ vkcdnservice.appspot.com^
 ||fddxbn.xyz^
 ||feiln.xyz^
 ||fengyukun03.cn^
+||fgetmzx.icu^
 ||fhglcpf.icu^
 ||fiktvlnc.icu^
 ||fjsytjs.cn^
@@ -39526,6 +39529,7 @@ vkcdnservice.appspot.com^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
+||hegk02a.top^
 ||hegk03a.top^
 ||hegk05a.top^
 ||hfjk3wa.com^
@@ -39714,6 +39718,7 @@ vkcdnservice.appspot.com^
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
+||oqyiapj.cn^
 ||oslbahk.top^
 ||ossfile001.com^
 ||p11q.cn^
@@ -39731,6 +39736,7 @@ vkcdnservice.appspot.com^
 ||pjsbuhl.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
+||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
 ||pstvvb.xyz^
@@ -39920,16 +39926,11 @@ vkcdnservice.appspot.com^
 ||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||zpotkvpy.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||5lfgdju.com^
-||fgetmzx.icu^
-||hegk02a.top^
-||pnlhnx.xyz^
-||oqyiapj.cn^
-||zpotkvpy.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
