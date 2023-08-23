@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-22T18:08:03.672Z
+! Last modified: 2023-08-23T00:30:18.036Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||ads1-adnow.com^
 ||thaitchy.net^
 ||chuxuwem.tv^
 ||kxuattexg.com^
@@ -37894,7 +37895,6 @@ vkcdnservice.appspot.com^
 ||statsapi.screen9.com^
 ||statsapi.tiendeo.se^
 ||storymedia.se^
-||st-n.ads1-adnow.com^
 ||survey.interquest.com^
 ||synchrobox.adswizz.com^
 ||s-eu-1.pushpushgo.com^
@@ -38505,7 +38505,6 @@ vkcdnservice.appspot.com^
 ! ---
 ! Dihapus dalam beberapa bulan
 ! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
-! Aug 2023
 
 !
 ! Source name: hostsVN ad servers
@@ -39924,6 +39923,10 @@ vkcdnservice.appspot.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||5lfgdju.com^
+||fgetmzx.icu^
+||hegk02a.top^
+||pnlhnx.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
