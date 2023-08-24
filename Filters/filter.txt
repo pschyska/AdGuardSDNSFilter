@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-24T06:08:48.474Z
+! Last modified: 2023-08-24T12:12:14.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||xegmsox.com^
 ||dioxidtoluyls.com^
 ||optaivuy.net^
 ||ads1-adnow.com^
@@ -31149,6 +31150,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
@@ -35852,7 +35854,6 @@ vkcdnservice.appspot.com^
 ||ad.bestsportstream.com^
 ||ad.donanimhaber.com^
 ||ad.eglenced.com^
-||ad.emlakeki.com^
 ||ad.reklam.xyz^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
@@ -36184,6 +36185,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||nectarineple.com^
 ||antennash.com^
 ||unddeliv.com^
 ||ad.886644.com^
@@ -39943,6 +39945,8 @@ vkcdnservice.appspot.com^
 ||yasg114.com^
 ||itienlo.top^
 ||rvzlobj.cn^
+||txcv68f.com^
+||f1tfmxzg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
