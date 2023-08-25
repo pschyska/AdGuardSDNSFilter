@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-25T12:11:41.293Z
+! Last modified: 2023-08-25T18:08:13.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6592,6 +6592,7 @@ vkcdnservice.appspot.com^
 ||caglaikr.net^
 ||cagothie.net^
 ||cahvpbsikxvvm.xyz^
+||caicuptu.xyz^
 ||caigluph.xyz^
 ||caimoasy.net^
 ||cainismlungee.uno^
@@ -6795,6 +6796,7 @@ vkcdnservice.appspot.com^
 ||cautiousroof.pro^
 ||cauwausa.net^
 ||cauyuksehink.info^
+||cauzoupo.com^
 ||cavalryconvincing.com^
 ||cavecredentialdeer.com^
 ||caveestate.com^
@@ -7828,6 +7830,7 @@ vkcdnservice.appspot.com^
 ||containswasoccupation.com^
 ||contalyze.com^
 ||contehos.com^
+||contemplatepuddingbrain.com^
 ||contemplatereunitededgy.com^
 ||content-ad.net^
 ||content-rec.com^
@@ -10278,6 +10281,7 @@ vkcdnservice.appspot.com^
 ||eputysolomon.com^
 ||eqacypykxa.com^
 ||eqads.com^
+||eqmyjnyjzqzkl.top^
 ||equabilityassortshrubs.com^
 ||equabilitythereupon.com^
 ||equesk.com^
@@ -14544,6 +14548,7 @@ vkcdnservice.appspot.com^
 ||jnhdmksj.top^
 ||jnrtavp2x66u.com^
 ||jnxm2.com^
+||joachoag.xyz^
 ||joaglouwulin.com^
 ||joastous.com^
 ||joathaji.xyz^
@@ -15986,6 +15991,7 @@ vkcdnservice.appspot.com^
 ||lrkenrerjkljb.top^
 ||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
+||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
 ||lrwksobdw.com^
 ||lrzzqvzjejjmz.top^
@@ -16401,6 +16407,7 @@ vkcdnservice.appspot.com^
 ||matrix-news.org^
 ||matswhyask.cam^
 ||matterbadgerpsychic.com^
+||matzohshoey.com^
 ||mauchopt.net^
 ||maudamee.net^
 ||maudau.com^
@@ -18602,6 +18609,7 @@ vkcdnservice.appspot.com^
 ||oolassouwa.com^
 ||ooltutoo.net^
 ||oomgnwdmzwnxn.com^
+||oomsijahail.com^
 ||oomsoapt.net^
 ||oomtexoa.com^
 ||oonsaigu.xyz^
@@ -28082,6 +28090,7 @@ vkcdnservice.appspot.com^
 ||wynvalur.com^
 ||wyoxmklaa.xyz^
 ||wypydowhi.com^
+||wyrtqdvhuiyhml.com^
 ||wysasys.com^
 ||wysyshypti.pro^
 ||wytxjmow.com^
@@ -31998,6 +32007,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||b.we-are-anon.com^
 ||fsm-files.ru^
 ||sofq.site^
 ||iceprogs.ru^
@@ -39374,6 +39384,7 @@ vkcdnservice.appspot.com^
 ||7xixi.site^
 ||8861198.com^
 ||89mtdab.xyz^
+||9cc9ckp.com^
 ||a8age.com^
 ||a9able.com^
 ||aaenv48847h.com^
@@ -39682,6 +39693,7 @@ vkcdnservice.appspot.com^
 ||lfjtiuy.cn^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lhgwcvw.cn^
 ||lhiefl.com^
 ||lhotajl.icu^
 ||lifyeldl.top^
@@ -39708,6 +39720,7 @@ vkcdnservice.appspot.com^
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||mdwhxw.com^
 ||metaversemolecule.com^
 ||mh616.org^
 ||mifyeldx.top^
@@ -39726,6 +39739,7 @@ vkcdnservice.appspot.com^
 ||naqiwjj.icu^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
+||neghes.fun^
 ||ngbthf.xyz^
 ||nhjkm.com^
 ||nieae.xyz^
@@ -39758,6 +39772,7 @@ vkcdnservice.appspot.com^
 ||oslbahk.top^
 ||ossfile001.com^
 ||p11q.cn^
+||p2kfynrr.icu^
 ||p52q.cn^
 ||parnett55.xyz^
 ||pbtsjh.xyz^
@@ -39915,6 +39930,7 @@ vkcdnservice.appspot.com^
 ||xeghes.fun^
 ||xeynozl.icu^
 ||xhiit0n.xyz^
+||xhpghv.xyz^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xixrdn.xyz^
@@ -39956,6 +39972,7 @@ vkcdnservice.appspot.com^
 ||zcbfjd.xyz^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
+||zdwykjd.icu^
 ||zents7.top^
 ||zerolcp.cn^
 ||zexfzson.icu^
@@ -39968,6 +39985,7 @@ vkcdnservice.appspot.com^
 ||zglmvz.buzz^
 ||zglmvz.xyz^
 ||zgtwzq.xyz^
+||zgwsnw.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||zmdjbl.xyz^
@@ -39978,13 +39996,6 @@ vkcdnservice.appspot.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||zdwykjd.icu^
-||xhpghv.xyz^
-||lhgwcvw.cn^
-||neghes.fun^
-||zgwsnw.xyz^
-||9cc9ckp.com^
-||p2kfynrr.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
