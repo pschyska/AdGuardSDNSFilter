@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-26T18:07:58.171Z
+! Last modified: 2023-08-27T00:33:06.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40011,6 +40011,12 @@ vkcdnservice.appspot.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||hbxhnqj.cn^
+||3ad5iot.com^
+||rbodwtj.icu^
+||nbtfbb.xyz^
+||danstr.fun^
+||81wx.info^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -46113,6 +46119,7 @@ analytics-*.aasaam.com
 
 # https://github.com/Webamoozcom/warning-list/discussions/174
 ||tinancefa.org^
+||wibodir.com^
 
 !
 ! Source name: Additional rules
