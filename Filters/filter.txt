@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-27T00:33:06.124Z
+! Last modified: 2023-08-27T06:09:35.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40017,6 +40017,9 @@ vkcdnservice.appspot.com^
 ||nbtfbb.xyz^
 ||danstr.fun^
 ||81wx.info^
+||sbcjahdc.com^
+||999pro.top^
+||l4efwdtg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -45282,7 +45285,6 @@ vkcdnservice.appspot.com^
 ||jab88.com^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
-||jc1.dayfund.cn^
 ||jc1.dayfund.com.cn^
 ||jddaw.com^
 ||jiaoben.eastday.com^
@@ -45456,10 +45458,8 @@ vkcdnservice.appspot.com^
 ||static*.365inews.com^
 ||static.gaomaer.cn^
 ||static.ichehome.com^
-||static.jiaquyi.com^
 ||static.meijiacun.com^
 ||static.rongkao.com^
-||t.cnscore.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
 ||taobc.com^
