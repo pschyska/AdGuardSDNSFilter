@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-27T18:07:10.544Z
+! Last modified: 2023-08-28T00:31:32.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||continentalaileendepict.com^
+||resentfulelsewherethoroughfare.com^
+||hideousactivelyparked.com^
+||pastfrolicpackage.com^
 ||ohkyxnjj.com^
 ||jezailmasking.com^
 ||xegmsox.com^
@@ -5919,6 +5923,7 @@ vkcdnservice.appspot.com^
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmgipyr.com^
 ||bmhenchlyica.xyz^
 ||bmjlzyjwwmwaw.top^
 ||bmkz57b79pxk.com^
@@ -39448,6 +39453,7 @@ vkcdnservice.appspot.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bmyrihf.icu^
 ||bnds3.site^
 ||bnds4.site^
 ||bnds6.site^
@@ -39540,6 +39546,7 @@ vkcdnservice.appspot.com^
 ||eheb8.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
+||eltdeh.top^
 ||enhad.xyz^
 ||epoid.xyz^
 ||eraaoec.cn^
@@ -39600,6 +39607,7 @@ vkcdnservice.appspot.com^
 ||hbxhnqj.cn^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
+||hefei668.com^
 ||hegk01a.top^
 ||hegk02a.top^
 ||hegk03a.top^
@@ -39618,6 +39626,7 @@ vkcdnservice.appspot.com^
 ||hjkiguy.com^
 ||hkctmldg.icu^
 ||hkkeafj.cn^
+||hkscldggm.xyz^
 ||hlnr9q.icu^
 ||hmjhnkas.com^
 ||hnfnjn.xyz^
@@ -39778,6 +39787,7 @@ vkcdnservice.appspot.com^
 ||nifyeldc.top^
 ||nimoatl.icu^
 ||njogejt.icu^
+||nlvgxr.xyz^
 ||nmdotj.xyz^
 ||nmkghh.com^
 ||nmssdbgmf.xyz^
@@ -39960,6 +39970,7 @@ vkcdnservice.appspot.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
 ||wzctuv.xyz^
+||x5hnj21.com^
 ||xccadc.com^
 ||xckj0623.com^
 ||xcvwrj.xyz^
