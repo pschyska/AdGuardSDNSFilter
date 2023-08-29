@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-29T06:09:07.211Z
+! Last modified: 2023-08-29T12:12:03.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7034,6 +7034,7 @@ vkcdnservice.appspot.com^
 ||chatheez.net^
 ||chats2023.online^
 ||chattertasty.com^
+||chauckoo.xyz^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chaukrgukepers.xyz^
@@ -7201,6 +7202,7 @@ vkcdnservice.appspot.com^
 ||chsrkred.com^
 ||chtntr.com^
 ||chugaiwe.net^
+||chugsorlando.com^
 ||chuhramumper.com^
 ||chullohagrode.com^
 ||chultoux.com^
@@ -11007,6 +11009,7 @@ vkcdnservice.appspot.com^
 ||ff4eaea9ba.com^
 ||ff5bd8d9f8df.com^
 ||ff9ffc838f.com^
+||ffcclqkmmlmecf.xyz^
 ||ffffff0000ff.com^
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
@@ -23113,6 +23116,7 @@ vkcdnservice.appspot.com^
 ||shoageep.com^
 ||shoagooy.net^
 ||shoahoom.com^
+||shoaltor.com^
 ||shoawhom.com^
 ||shockadviceinsult.com^
 ||shockeddump.pro^
@@ -25564,6 +25568,7 @@ vkcdnservice.appspot.com^
 ||trade46-q.com^
 ||trading21s.com^
 ||tradingken.com^
+||tradingpancreasdevice.com^
 ||traditionallymeasuringwire.com^
 ||traditionallyobjectlessblinked.com^
 ||traff0221.com^
@@ -27285,6 +27290,7 @@ vkcdnservice.appspot.com^
 ||wangfenxi.com^
 ||wanlyavower.com^
 ||wanmolamchoor.store^
+||wannessdebus.com^
 ||wannestfooled.com^
 ||wansultoud.com^
 ||wantopticalfreelance.com^
@@ -31207,6 +31213,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-api.kidsnote.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
@@ -40062,6 +40069,8 @@ vkcdnservice.appspot.com^
 ||ktienld.top^
 ||oaihiiacb.com^
 ||dsbjdeh.cn^
+||baiduapp.app^
+||wcv68kw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
