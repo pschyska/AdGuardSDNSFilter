@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-29T00:31:02.264Z
+! Last modified: 2023-08-29T06:09:07.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9933,6 +9933,7 @@ vkcdnservice.appspot.com^
 ||efinauknceiwou.info^
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
+||egallsylvate.com^
 ||egcqohrksmlmu.xyz^
 ||eggcupsfriends.com^
 ||eggerscorr.com^
@@ -11052,6 +11053,7 @@ vkcdnservice.appspot.com^
 ||fiinann.com^
 ||fijekone.com^
 ||fijetuxa.com^
+||filasseseeder.com^
 ||filese.me^
 ||filetarget.com^
 ||filetarget.net^
@@ -15334,6 +15336,7 @@ vkcdnservice.appspot.com^
 ||landupoatouwe.xyz^
 ||landwaycru.com^
 ||lanentablelanentablefantasy.com^
+||languewauchts.com^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lanksnail.com^
@@ -17730,6 +17733,7 @@ vkcdnservice.appspot.com^
 ||nicknameuntie.com^
 ||nicksstevmark.com^
 ||nidredra.net^
+||nidudihideout.com^
 ||niececordthrone.com^
 ||nieveni.com^
 ||nifiel.com^
@@ -20356,6 +20360,7 @@ vkcdnservice.appspot.com^
 ||pressize.com^
 ||prestadsng.com^
 ||prestigefunction.com^
+||prestlyamylan.com^
 ||prestoris.com^
 ||prestsusie.com^
 ||presumeauthorizationcamping.com^
@@ -40054,6 +40059,9 @@ vkcdnservice.appspot.com^
 ||thcaes.top^
 ||jygiizv.icu^
 ||vvxhth.xyz^
+||ktienld.top^
+||oaihiiacb.com^
+||dsbjdeh.cn^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
