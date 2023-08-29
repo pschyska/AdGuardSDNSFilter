@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-28T18:08:26.061Z
+! Last modified: 2023-08-29T00:31:02.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13761,6 +13761,7 @@ vkcdnservice.appspot.com^
 ||impatientlyastonishing.com^
 ||impatienttidy.com^
 ||impavidcircean.com^
+||impeccablewriter.com^
 ||impededhaeing.com^
 ||impendingaggregated.com^
 ||impendscouxio.com^
@@ -15226,6 +15227,7 @@ vkcdnservice.appspot.com^
 ||kwtnhdrmbx.com^
 ||kwyuivlaychxe.com^
 ||kxnggkh2nj.com^
+||kxshyo.com^
 ||kxwhiogrswx.com^
 ||kybelefwrkmtt.xyz^
 ||kychajuza.com^
@@ -40046,6 +40048,12 @@ vkcdnservice.appspot.com^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||zpsovpgyk.xyz^
+||rznscya.cn^
+||pnhp3x1.com^
+||thcaes.top^
+||jygiizv.icu^
+||vvxhth.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
