@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-30T12:11:58.979Z
+! Last modified: 2023-08-30T18:08:23.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||ebcfjgnjw.com^
+||paekicz.com^
 ||lzvkmwyavjeeb.top^
 ||continentalaileendepict.com^
 ||resentfulelsewherethoroughfare.com^
@@ -4403,6 +4405,7 @@ vkcdnservice.appspot.com^
 ||asacdn.com^
 ||asafesite.com^
 ||asakserbian.guru^
+||asandcomemu.info^
 ||asbinacler.com^
 ||ascaredresue.space^
 ||asccdn.com^
@@ -5020,6 +5023,7 @@ vkcdnservice.appspot.com^
 ||b9f4882bac.com^
 ||ba01520b8b.com^
 ||ba0182aa75.com^
+||ba488608ee.com^
 ||ba83df6e74.com^
 ||baannre.com^
 ||baaomenaltho.com^
@@ -18630,6 +18634,7 @@ vkcdnservice.appspot.com^
 ||onshowit.com^
 ||onsolrockon.com^
 ||onstunkyr.com^
+||ontinuedidgm.com^
 ||ontj.com^
 ||ontosocietyweary.com^
 ||onugostlyhe.info^
@@ -26948,6 +26953,7 @@ vkcdnservice.appspot.com^
 ||vidforclips.space^
 ||vidghjlgkuyfk.site^
 ||vids-fun.online^
+||vidsforyou.mom^
 ||vidsfun.info^
 ||vidsfun.online^
 ||vidsfun.space^
@@ -28727,6 +28733,7 @@ vkcdnservice.appspot.com^
 ||zapprecisionadmire.com^
 ||zapunited.com^
 ||zaremamynah.com^
+||zarjzwlamwvjy.top^
 ||zarpop.com^
 ||zationserv.one^
 ||zationservantas.info^
@@ -36637,10 +36644,6 @@ vkcdnservice.appspot.com^
 ||ov.yahoo.co.jp^
 ||yads.yahoo.co.jp^
 ||yads.yjtag.yahoo.co.jp^
-!
-! For Safari
-!
-! JP-specific scam
 ||maillovelove.net^
 
 !
@@ -39472,6 +39475,7 @@ vkcdnservice.appspot.com^
 ||38kmute.xyz^
 ||39mydp.xyz^
 ||3ad5iot.com^
+||3er88wn.com^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
@@ -39502,6 +39506,7 @@ vkcdnservice.appspot.com^
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||asdyui16.cn^
+||b0ufmrzl.icu^
 ||b4g7k9d2.com^
 ||bai128.xyz^
 ||baiduapp.app^
@@ -39542,6 +39547,7 @@ vkcdnservice.appspot.com^
 ||boyvtr8.com^
 ||brendanbc.com^
 ||bridgetnbe.com^
+||bsbaswq.cn^
 ||bslbahv.top^
 ||btescs.fun^
 ||btsvad8.com^
@@ -39583,6 +39589,7 @@ vkcdnservice.appspot.com^
 ||dalmfn.xyz^
 ||danstr.fun^
 ||dasv10rewq.xyz^
+||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
 ||dcsxv.com^
 ||dd667788dd.com^
@@ -39590,6 +39597,7 @@ vkcdnservice.appspot.com^
 ||ddush.xyz^
 ||dehaer.site^
 ||derew6xbsc.xyz^
+||desac7.icu^
 ||destc8.icu^
 ||dffrahax.com^
 ||dfgpifa.com^
@@ -39723,6 +39731,7 @@ vkcdnservice.appspot.com^
 ||huaxia.name^
 ||hubiazhi.com^
 ||hujunhao.name^
+||hummingexam.com^
 ||huoju.asia^
 ||hxhohd.xyz^
 ||hxinitv.icu^
@@ -39808,6 +39817,7 @@ vkcdnservice.appspot.com^
 ||lamkghx.icu^
 ||lanver.fun^
 ||lbnqnp.xyz^
+||ldjhlqr.cn^
 ||leadc4.icu^
 ||legdeh.fun^
 ||legopq.site^
@@ -39855,6 +39865,7 @@ vkcdnservice.appspot.com^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
+||mtienlx.top^
 ||mvamnng.cn^
 ||mvgucp.com^
 ||naqiwjj.icu^
@@ -39921,6 +39932,7 @@ vkcdnservice.appspot.com^
 ||puy2.cn^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
+||q27sz.com^
 ||qezpjlp.cn^
 ||qhjm600.com^
 ||qifyeldy.top^
@@ -39935,6 +39947,7 @@ vkcdnservice.appspot.com^
 ||r5dfwjtb.icu^
 ||rabuagc.cn^
 ||rbodwtj.icu^
+||rbsodzgoy.xyz^
 ||rcblfd.xyz^
 ||rdbousn.cn^
 ||rddsjx.xyz^
@@ -39956,6 +39969,7 @@ vkcdnservice.appspot.com^
 ||rtumwzp.icu^
 ||rvzlobj.cn^
 ||rznscya.cn^
+||s2dcm.com^
 ||sacfasv.com^
 ||sacre.cn^
 ||sbcjahdc.com^
@@ -39976,6 +39990,7 @@ vkcdnservice.appspot.com^
 ||sslbahb.top^
 ||ssnnn.net^
 ||statisfile.com^
+||stienlb.top^
 ||suy5x8.com^
 ||svarub.xyz^
 ||svvev3.com^
@@ -39983,6 +39998,7 @@ vkcdnservice.appspot.com^
 ||tcuqqhj.icu^
 ||termvb.xyz^
 ||tfdmzsgy.icu^
+||tfgotoai.shop^
 ||tftran.shop^
 ||tfttbd.xyz^
 ||tgbevv.xyz^
@@ -39995,6 +40011,7 @@ vkcdnservice.appspot.com^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
+||tkqwurl.icu^
 ||tlbjw.com^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
@@ -40028,6 +40045,7 @@ vkcdnservice.appspot.com^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vcydyzd.icu^
+||vfzfrx.xyz^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
 ||vhsutpgui.xyz^
@@ -40136,16 +40154,6 @@ vkcdnservice.appspot.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||desac7.icu^
-||ldjhlqr.cn^
-||tkqwurl.icu^
-||q27sz.com^
-||vfzfrx.xyz^
-||tfgotoai.shop^
-||3er88wn.com^
-||s2dcm.com^
-||dbnsd2viud.xyz^
-||bsbaswq.cn^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
@@ -44883,7 +44891,6 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||ca.yangshengtv.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -45180,6 +45187,7 @@ vkcdnservice.appspot.com^
 ||c1.china.cn^
 ||c1.czcol.cn^
 ||c6.friok.com^
+||ca.yangshengtv.com^
 ||car.qcmrjx.com^
 ||cbdm.weathercn.com^
 ||cc.xiaodapei.com^
