@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-08-30T00:31:04.238Z
+! Last modified: 2023-08-30T06:09:07.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -30167,6 +30167,7 @@ vkcdnservice.appspot.com^
 ||unblockia.com^
 ||undertone.com^
 ||unibots.in^
+||unibotscdn.com^
 ||urlcash.net^
 ||usemax.de^
 ||usenetjunction.com^
