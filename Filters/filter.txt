@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-05T06:09:19.244Z
+! Last modified: 2023-09-05T12:13:13.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4218,6 +4218,7 @@ vkcdnservice.appspot.com^
 ||applabzzeydood.com^
 ||applandforbuddies.top^
 ||applandlight.com^
+||applandsforbests.com^
 ||applaudmaturityasunder.com^
 ||applausebind.com^
 ||applausesuch.com^
@@ -9830,6 +9831,7 @@ vkcdnservice.appspot.com^
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
+||eachuit.uno^
 ||eadirtlseivid.xyz^
 ||eads.to^
 ||eae5daf052d2673b.com^
@@ -20142,6 +20144,7 @@ vkcdnservice.appspot.com^
 ||photographediblefiend.com^
 ||photographingmake.com^
 ||photographingstirinput.com^
+||phourdee.com^
 ||phouvemp.net^
 ||phouwims.net^
 ||phrensaltier.com^
@@ -20294,6 +20297,7 @@ vkcdnservice.appspot.com^
 ||piwixesu.pro^
 ||pixazza.com^
 ||pixelhere.com^
+||pixelplay.pro^
 ||pixfuture.net^
 ||pixinform.com^
 ||pixiv.org^
@@ -27953,6 +27957,7 @@ vkcdnservice.appspot.com^
 ||warmanmamelon.com^
 ||warmheartedtackle.pro^
 ||warmthsmasseur.com^
+||warnmessage.com^
 ||warpassistrefrain.com^
 ||warswhitawe.com^
 ||warten-sie-mal.xyz^
@@ -28484,14 +28489,11 @@ vkcdnservice.appspot.com^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlawpzx.com^
-||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
-||wlt-alice.de^
-||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^
@@ -29350,6 +29352,7 @@ vkcdnservice.appspot.com^
 ||zalawqsahn.com^
 ||zaltaumi.net^
 ||zamansolpuga.com^
+||zambianmarlena.com^
 ||zamiasbrouze.com^
 ||zamioculcas2.org^
 ||zangocash.com^
@@ -40846,6 +40849,7 @@ vkcdnservice.appspot.com^
 ||lgoewtd.icu^
 ||zbzbzb.xyz^
 ||ptfxh.com^
+||ztqdkzn.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -46338,6 +46342,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
+@@||sponsor.nitropay.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157550
 @@||click.cptrack.de^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1412
