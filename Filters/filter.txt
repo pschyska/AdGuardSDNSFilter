@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-07T12:12:43.816Z
+! Last modified: 2023-09-07T18:08:33.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3514,6 +3514,7 @@ vkcdnservice.appspot.com^
 ||ahgcumvpyal.com^
 ||ahjopnbimr.com^
 ||ahjrinrucmp.com^
+||ahjshyoqlo.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahnioppshfwq.com^
@@ -6010,6 +6011,7 @@ vkcdnservice.appspot.com^
 ||bmmauazi.com^
 ||bmpgkspo.xyz^
 ||bmptbyb.com^
+||bmqtvmdg.xyz^
 ||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
@@ -6574,6 +6576,7 @@ vkcdnservice.appspot.com^
 ||buytieposer.com^
 ||buzzardcraizey.com^
 ||buzzvids-direct.com^
+||bvcsfcx.com^
 ||bvmcdn.com^
 ||bvnlrqvinhsje.com^
 ||bvoqzs.com^
@@ -7412,6 +7415,7 @@ vkcdnservice.appspot.com^
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckeckstatus.biz^
+||ckofrnk.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||ckuwrlxngdrfk.com^
@@ -10119,6 +10123,7 @@ vkcdnservice.appspot.com^
 ||eergaroa.com^
 ||eergithi.com^
 ||eeroawug.com^
+||eersutoo.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
 ||eessoost.net^
@@ -13966,6 +13971,7 @@ vkcdnservice.appspot.com^
 ||iebsmqevw.com^
 ||iecjqkiawvifx.com^
 ||ieememberhima.xyz^
+||ieicbkjmmqkcmgq.com^
 ||iendoo.com^
 ||ietyofedinj89yewtburgh.com^
 ||iewhonhdvryu.com^
@@ -18052,6 +18058,7 @@ vkcdnservice.appspot.com^
 ||nedouseso.com^
 ||neechube.net^
 ||neechuce.net^
+||needeevo.xyz^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
 ||neednguarded.space^
@@ -20589,6 +20596,7 @@ vkcdnservice.appspot.com^
 ||plungeideals.life^
 ||pluralsoc.uno^
 ||plusclick.biz^
+||plusungratefulinstruction.com^
 ||plutonactg.com^
 ||plutothejewel.com^
 ||plxserve.com^
@@ -21862,6 +21870,7 @@ vkcdnservice.appspot.com^
 ||qxeemdpaerfjer.xyz^
 ||qxhspimg.com^
 ||qxrbu.com^
+||qxuelcdfvgecwpb.com^
 ||qxyam.com^
 ||qxycdoexyj.com^
 ||qyajwjyjnavzq.top^
@@ -23956,6 +23965,7 @@ vkcdnservice.appspot.com^
 ||sighcrowdivorce.com^
 ||sigherdoless.com^
 ||sighsuspectshaped.com^
+||sightercanidae.com^
 ||sightjutfar.com^
 ||sighttermportent.com^
 ||sigilsspeiss.com^
@@ -28209,6 +28219,7 @@ vkcdnservice.appspot.com^
 ||watchnewpics.info^
 ||watchnewpics.space^
 ||watchnewvids.online^
+||watchnewvids.space^
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
@@ -30185,6 +30196,7 @@ vkcdnservice.appspot.com^
 ||allmediadesk.com^
 ||alpha-affiliates.com^
 ||alright.network^
+||amateur.cash^
 ||amobee.com^
 ||andbeyond.media^
 ||anicli.click^
@@ -40478,6 +40490,7 @@ vkcdnservice.appspot.com^
 ||dd667788dd.com^
 ||dd778899dd.com^
 ||ddush.xyz^
+||degjidp.icu^
 ||dehaer.site^
 ||derew6xbsc.xyz^
 ||desac7.icu^
@@ -40578,6 +40591,7 @@ vkcdnservice.appspot.com^
 ||hacde10.icu^
 ||hacde3.icu^
 ||haffo70.com^
+||haise10.top^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -40626,6 +40640,8 @@ vkcdnservice.appspot.com^
 ||hujunhao.name^
 ||hummingexam.com^
 ||huoju.asia^
+||hvdath.xyz^
+||hwnod.xyz^
 ||hxhohd.xyz^
 ||hxinitv.icu^
 ||hyeqp.xyz^
@@ -40698,6 +40714,7 @@ vkcdnservice.appspot.com^
 ||kmjndas.com^
 ||kmnhgna.com^
 ||knjmhmk.com^
+||knliylh.cn^
 ||kodfn.xyz^
 ||koljnda.com^
 ||kqubxdb.cn^
@@ -40753,6 +40770,7 @@ vkcdnservice.appspot.com^
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||mdhxyhl.cn^
 ||mdwhxw.com^
 ||metaversemolecule.com^
 ||mh616.org^
@@ -40897,6 +40915,7 @@ vkcdnservice.appspot.com^
 ||shulsbs.cn^
 ||simblotusitate.com^
 ||sjbgyak.cn^
+||solaron.top^
 ||sq59.cn^
 ||ssdfgq7.com^
 ||ssdtour.com^
@@ -40941,6 +40960,7 @@ vkcdnservice.appspot.com^
 ||tseda1.icu^
 ||tseda6.icu^
 ||tslbahi.top^
+||ttienli.top^
 ||ttykabh.icu^
 ||tuplzt.xyz^
 ||tushwjp.icu^
@@ -40966,6 +40986,7 @@ vkcdnservice.appspot.com^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vcydyzd.icu^
+||vexilorath.com^
 ||vfzfrx.xyz^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
@@ -41054,6 +41075,7 @@ vkcdnservice.appspot.com^
 ||zbx01.com^
 ||zbzbzb.xyz^
 ||zcbfjd.xyz^
+||zcgqsd.icu^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zdwykjd.icu^
@@ -41085,16 +41107,6 @@ vkcdnservice.appspot.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||haise10.top^
-||mdhxyhl.cn^
-||degjidp.icu^
-||vexilorath.com^
-||hvdath.xyz^
-||zcgqsd.icu^
-||hwnod.xyz^
-||solaron.top^
-||ttienli.top^
-||knliylh.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -45531,7 +45543,11 @@ analytics-*.aasaam.com
 ||adnegah.net^
 ||adpulse.ir^
 ||adsima.net^
+
 ||adtrace.io^
+# https://twitter.com/Nikolaona/status/1699167838697652322
+||adtrace.world^
+
 ||affili.ir^
 ||amarfa.ir^
 ||ayyaar.ir^
