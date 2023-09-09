@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-08T18:08:14.272Z
+! Last modified: 2023-09-09T00:30:10.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6474,6 +6474,7 @@ vkcdnservice.appspot.com^
 ||budapebluest.com^
 ||buddedpetrie.space^
 ||buddhamoduli.com^
+||budroups.xyz^
 ||budsminepatent.com^
 ||budvawshes.ru^
 ||buench.com^
@@ -8300,6 +8301,7 @@ vkcdnservice.appspot.com^
 ||crimeansnakily.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
+||crimpedmelanic.com^
 ||crimsondozeprofessional.com^
 ||crisdomson.com^
 ||cristianonaldo.com^
@@ -10530,6 +10532,7 @@ vkcdnservice.appspot.com^
 ||eoafgbgyebbcy.com^
 ||eoaktaposh.com^
 ||eofst.com^
+||eogaeapolaric.com^
 ||eondunpea.com^
 ||eonsmedia.com^
 ||eonwayaha.com^
@@ -11881,6 +11884,7 @@ vkcdnservice.appspot.com^
 ||fripth.xyz^
 ||friskbiscuit.com^
 ||fristminyas.com^
+||fritdugs.com^
 ||frittercommittee.com^
 ||fritue.com^
 ||frivolous-copy.pro^
@@ -23880,6 +23884,7 @@ vkcdnservice.appspot.com^
 ||shatoawussoo.com^
 ||shattermessseedling.com^
 ||shaufoal.com^
+||shauhacm.net^
 ||shauhaik.xyz^
 ||shauksug.com^
 ||shaumtol.com^
@@ -26797,7 +26802,6 @@ vkcdnservice.appspot.com^
 ||tuitionpancake.com^
 ||tujajnatzbmo.com^
 ||tujourda.net^
-||tukipasti.com^
 ||tulasitoughie.com^
 ||tulipsameedge.com^
 ||tumblebit.com^
@@ -41247,6 +41251,12 @@ vkcdnservice.appspot.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||jweoe.xyz^
+||desac10.icu^
+||xbyoujv.icu^
+||azukgee.cn^
+||hwfoct.icu^
+||pchznf.xyz^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
