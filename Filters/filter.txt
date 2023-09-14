@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-13T18:08:22.763Z
+! Last modified: 2023-09-14T00:31:23.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3975,6 +3975,7 @@ vkcdnservice.appspot.com^
 ||amucksballone.com^
 ||amuletasslike.guru^
 ||amunfezanttor.com^
+||amused-ground.com^
 ||amuseglide.com^
 ||amusingsnow.pro^
 ||amuyonpastour.top^
@@ -8307,6 +8308,7 @@ vkcdnservice.appspot.com^
 ||creativesumo.com^
 ||creativetourlips.com^
 ||creatorcloakroomborrowed.com^
+||crectipumlu.com^
 ||credentialsdispatchsuperstitious.com^
 ||credibilitystakehemisphere.com^
 ||credibilityyowl.com^
@@ -12792,6 +12794,7 @@ vkcdnservice.appspot.com^
 ||godwitescrol.com^
 ||goelbotony.com^
 ||goelismidryl.com^
+||goesdeedinsensitive.com^
 ||goethejauks.com^
 ||goevyqdlo.xyz^
 ||gofecuhxltcqj.xyz^
@@ -14491,6 +14494,7 @@ vkcdnservice.appspot.com^
 ||induceresistbrotherinlaw.com^
 ||indulgeperformance.com^
 ||industrialforemanmovements.com^
+||industriouswounded.com^
 ||inebartotandodw.lol^
 ||inediblepollingbuzz.com^
 ||inediblewiderchuckled.com^
@@ -15275,6 +15279,7 @@ vkcdnservice.appspot.com^
 ||joogivestou.com^
 ||jookaureate.com^
 ||jookouky.net^
+||joomgartiumnyih.com^
 ||joomxer.fun^
 ||joopaish.com^
 ||jooptibi.net^
@@ -19282,6 +19287,7 @@ vkcdnservice.appspot.com^
 ||ohspmuo.com^
 ||ohtctjiuow.com^
 ||ohwhdspj.com^
+||oiarske.com^
 ||oidaio.com^
 ||oigduusrva.com^
 ||oillesssris.guru^
@@ -21399,6 +21405,7 @@ vkcdnservice.appspot.com^
 ||pretextunfinished.com^
 ||pretty-size.pro^
 ||prettypasttime.com^
+||prettypermission.pro^
 ||prettytypicalimpatience.com^
 ||prevailinsolence.com^
 ||prevalentprincess.com^
@@ -25735,6 +25742,7 @@ vkcdnservice.appspot.com^
 ||svarajwens.com^
 ||svbzpenplok.com^
 ||svelterterton.com^
+||svfwyyxzbjrd.com^
 ||sviter2s1olenyami1.com^
 ||svkmxwssih.com^
 ||svntrk.com^
@@ -29177,6 +29185,7 @@ vkcdnservice.appspot.com^
 ||wiglessoctaves.com^
 ||wiglurto.xyz^
 ||wigrirtu.com^
+||wikeqa.uno^
 ||wilcooxcheek.com^
 ||wild-plant.pro^
 ||wildernessproven.com^
@@ -29799,6 +29808,7 @@ vkcdnservice.appspot.com^
 ||xueserverhost.com^
 ||xufmuhavdpze.com^
 ||xuninrfwruoyqb.xyz^
+||xuosvih.com^
 ||xuqatkswi.com^
 ||xuzeez.com^
 ||xvaeqgtbnunpkff.com^
@@ -29940,6 +29950,7 @@ vkcdnservice.appspot.com^
 ||yestilokano.top^
 ||yeteso.uno^
 ||yetterslave.com^
+||yevudi.uno^
 ||yfbduqlo.xyz^
 ||yfbnlrprmjj.com^
 ||yfddaetiu.xyz^
@@ -31162,7 +31173,6 @@ vkcdnservice.appspot.com^
 ||headerbidding.ai^
 ||headerlift.com^
 ||healthtrader.com^
-||heliumads.com^
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
 ||hotelscombined.com.au^
@@ -32774,6 +32784,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||marketing.mangacopy.com^
 ||gdfp.gifshow.com^
 ||p1-lm.adukwai.com^
 ||audiomob.com^
@@ -41777,6 +41788,11 @@ vkcdnservice.appspot.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||tseda4.icu^
+||riqmqrd.icu^
+||boxwcr.icu^
+||naryvz.xyz^
+||hncadh.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
