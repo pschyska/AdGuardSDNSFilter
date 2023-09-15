@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-15T00:31:37.010Z
+! Last modified: 2023-09-15T06:09:25.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||doweralrostra.com^
 ||scwawseh.com^
 ||tipslyrev.com^
 ||popsads.net^
@@ -31909,6 +31910,7 @@ vkcdnservice.appspot.com^
 ||alarmsportsnetwork.com^
 ||api.140proof.com^
 ||api.bitp.it^
+||app.clickfunnels.com^
 ||apps.media-lab.ai^
 ||assets.sheetmusicplus.com^
 ||award.sitekeuring.net^
@@ -41920,6 +41922,7 @@ vkcdnservice.appspot.com^
 ||789peizi.com^
 ||vktztp.xyz^
 ||evb0gxo.icu^
+||alemu4s.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
