@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-14T18:08:28.291Z
+! Last modified: 2023-09-15T00:31:37.010Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6117,6 +6117,7 @@ vkcdnservice.appspot.com^
 ||bodsoakr.xyz^
 ||bodyguardencouraged.com^
 ||boenedb.com^
+||boeneds.com^
 ||boeojpmxvwbgn.com^
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
@@ -27757,6 +27758,7 @@ vkcdnservice.appspot.com^
 ||unhidemeets.com^
 ||unhorseaa.com^
 ||unhosepedalo.com^
+||unhrjzn.com^
 ||unicast.com^
 ||unicorndirtiness.com^
 ||unicornpride123.com^
@@ -41909,6 +41911,15 @@ vkcdnservice.appspot.com^
 ||54dbg.xyz^
 ||xybnfn.xyz^
 ||1jc5t.xyz^
+||tuhzjrr.cn^
+||lestv7.icu^
+||fsmhub.icu^
+||dektcvna.icu^
+||jkzbjv.xyz^
+||ceshi1.ink^
+||789peizi.com^
+||vktztp.xyz^
+||evb0gxo.icu^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -46362,6 +46373,8 @@ analytics-*.aasaam.com
 ||affiliate.digikala.com^
 
 # >> B <<
+||binoads.ir^
+||bl9.ir^
 ||backlink.ir^
 ||behtarinseo.ir^
 ||boorantech.com^
