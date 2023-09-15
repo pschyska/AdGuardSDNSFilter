@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-15T12:12:02.928Z
+! Last modified: 2023-09-15T18:08:23.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -35219,7 +35219,6 @@ vkcdnservice.appspot.com^
 ||barbys.ru^
 ||barpe.ru^
 ||basetts.com^
-||bashirian.biz^
 ||bb.tidopro.biz^
 ||bbeeejafhacbigaeih.ru^
 ||bbeljxm2dvwnfib.ru^
@@ -38794,7 +38793,6 @@ vkcdnservice.appspot.com^
 ||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
-||4strokemedia.com^
 ||a.partner-versicherung.de^
 ||a3h.de^
 ||ablida-rotation.com^
@@ -41105,6 +41103,8 @@ vkcdnservice.appspot.com^
 ||126ccb.xyz^
 ||1378a.xyz^
 ||1379a.xyz^
+||155zn.com^
+||1jc5t.xyz^
 ||1u5gy.xyz^
 ||23dhj4q.com^
 ||3400.org^
@@ -41118,10 +41118,13 @@ vkcdnservice.appspot.com^
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
+||54dbg.xyz^
 ||5gg17gm.com^
 ||5ggj5cp.com^
 ||5lfgdju.com^
 ||777aa999aa.com^
+||777zz777zz.com^
+||789peizi.com^
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
@@ -41142,6 +41145,7 @@ vkcdnservice.appspot.com^
 ||ajkjbcjbaaaed.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
+||alemu4s.com^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||anwqj0i.xyz^
@@ -41218,6 +41222,7 @@ vkcdnservice.appspot.com^
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||cdncloud.asia^
+||ceshi1.ink^
 ||cfdns.vip^
 ||cheda1.icu^
 ||cheda10.icu^
@@ -41255,6 +41260,7 @@ vkcdnservice.appspot.com^
 ||ddush.xyz^
 ||degjidp.icu^
 ||dehaer.site^
+||dektcvna.icu^
 ||derew6xbsc.xyz^
 ||desac10.icu^
 ||desac7.icu^
@@ -41268,6 +41274,7 @@ vkcdnservice.appspot.com^
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||diouy9cvtx.xyz^
 ||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
@@ -41309,6 +41316,7 @@ vkcdnservice.appspot.com^
 ||eslbahw.top^
 ||etienlw.top^
 ||euitx.cn^
+||evb0gxo.icu^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
 ||eyq3nog.icu^
@@ -41333,12 +41341,14 @@ vkcdnservice.appspot.com^
 ||frrhdl.xyz^
 ||frsejhged.xyz^
 ||fsjjrbz.cn^
+||fsmhub.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
 ||fwzvlp.xyz^
 ||fxeaobv.icu^
+||gcbflvx.cn^
 ||gdjme27.com^
 ||ggdrfh5.com^
 ||ggdumze.cn^
@@ -41449,6 +41459,7 @@ vkcdnservice.appspot.com^
 ||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
+||jkzbjv.xyz^
 ||jmbluyxkl.xyz^
 ||jnhgm.com^
 ||jnp0kmm.icu^
@@ -41519,6 +41530,7 @@ vkcdnservice.appspot.com^
 ||legopq.site^
 ||lestv1.icu^
 ||lestv10.icu^
+||lestv7.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -41764,6 +41776,7 @@ vkcdnservice.appspot.com^
 ||tslbahi.top^
 ||ttienli.top^
 ||ttykabh.icu^
+||tuhzjrr.cn^
 ||tuplzt.xyz^
 ||tushwjp.icu^
 ||tuyyex.icu^
@@ -41800,6 +41813,7 @@ vkcdnservice.appspot.com^
 ||vhutitpu.icu^
 ||victoriajumpc.com^
 ||vihppjk.cn^
+||vktztp.xyz^
 ||vlgkotr.cn^
 ||vlujojf.icu^
 ||vmdlxj.xyz^
@@ -41869,6 +41883,7 @@ vkcdnservice.appspot.com^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
+||xybnfn.xyz^
 ||yac5t.cn^
 ||yasg114.com^
 ||ybcnvqf.cn^
@@ -41881,11 +41896,13 @@ vkcdnservice.appspot.com^
 ||yjnkas.com^
 ||ykkbwdf.cn^
 ||ymhyw6.lol^
+||ynfxxbp.xyz^
 ||yofprpv.cn^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yunliunet.com^
+||ywkkmze.cn^
 ||yxvoud.com^
 ||yyefao.com^
 ||yyuivw6.com^
@@ -41928,23 +41945,6 @@ vkcdnservice.appspot.com^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||diouy9cvtx.xyz^
-||54dbg.xyz^
-||xybnfn.xyz^
-||1jc5t.xyz^
-||tuhzjrr.cn^
-||lestv7.icu^
-||fsmhub.icu^
-||dektcvna.icu^
-||jkzbjv.xyz^
-||ceshi1.ink^
-||789peizi.com^
-||vktztp.xyz^
-||evb0gxo.icu^
-||alemu4s.com^
-||ynfxxbp.xyz^
-||gcbflvx.cn^
-||777zz777zz.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
