@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-17T06:08:20.861Z
+! Last modified: 2023-09-17T12:11:07.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26988,6 +26988,7 @@ vkcdnservice.appspot.com^
 ||touchtamilic.com^
 ||touchycart.com^
 ||tougherrancor.website^
+||toughtoxacid.com^
 ||toumnahrafale.com^
 ||toupsonie.com^
 ||touptaiw.xyz^
@@ -41999,6 +42000,8 @@ vkcdnservice.appspot.com^
 ||cnied.xyz^
 ||bnets1.icu^
 ||nmlfev.icu^
+||szn0ehq.icu^
+||ixxoo.asia^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
