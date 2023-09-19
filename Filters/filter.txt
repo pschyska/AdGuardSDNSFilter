@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-19T06:09:34.235Z
+! Last modified: 2023-09-19T12:12:53.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||bettermeter.com^
+||slivmux.com^
+||ebooks.dental^
+||magniffic-strean.com^
 ||qhlegkjlnmg.com^
 ||haustoam.com^
 ||eqvudqracrhalsg.com^
@@ -16261,6 +16265,7 @@ vkcdnservice.appspot.com^
 ||latternarcoticbullet.com^
 ||laudulut.com^
 ||laughbuckle.com^
+||lauglaph.net^
 ||laugoust.com^
 ||laugue.com^
 ||laugus.com^
@@ -17890,6 +17895,7 @@ vkcdnservice.appspot.com^
 ||moapevuwtv.com^
 ||moapuwhe.com^
 ||moartraffic.com^
+||moastizi.xyz^
 ||moatads.com^
 ||moatshoal.digital^
 ||mob1ledev1ces.com^
@@ -18895,6 +18901,7 @@ vkcdnservice.appspot.com^
 ||nonotro.name^
 ||nonspewpa.com^
 ||nonstoppartner.de^
+||nontaxmeteors.com^
 ||noobilubi.com^
 ||noofigat.net^
 ||noojoomo.com^
@@ -19402,6 +19409,7 @@ vkcdnservice.appspot.com^
 ||oftenparttimebeen.com^
 ||ofthecathedral.xyz^
 ||oftheseveryh.xyz^
+||ogblanchi.com^
 ||ogdbqljceatnjal.com^
 ||ogduabkzinl.com^
 ||ogercron.com^
@@ -24600,6 +24608,7 @@ vkcdnservice.appspot.com^
 ||shritebehinds.space^
 ||shriteringle.digital^
 ||shriverrevery.com^
+||shroudsacidite.com^
 ||shrovyrebuke.com^
 ||shrubsbelieve.com^
 ||shrugartisticelder.com^
@@ -37672,6 +37681,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||flarby.com^
 ||pigeoon.com^
 ||trkwinaff13.com^
 ||adsby.io^
