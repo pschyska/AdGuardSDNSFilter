@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-20T12:13:08.122Z
+! Last modified: 2023-09-20T18:08:58.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4849,6 +4849,7 @@ vkcdnservice.appspot.com^
 ||aukalerim.com^
 ||aukarosizox.com^
 ||aukirtoo.com^
+||aukroaze.xyz^
 ||aukseseemyr.info^
 ||auksizox.com^
 ||auksofthecompan.info^
@@ -5326,6 +5327,7 @@ vkcdnservice.appspot.com^
 ||bantgoau.com^
 ||bapkgkskdtjkd.xyz^
 ||baptismmattressstoppage.com^
+||baptrqyesunv.xyz^
 ||barbabridgeoverprotective.com^
 ||barbariannumerous.com^
 ||barbedabout.com^
@@ -5956,6 +5958,7 @@ vkcdnservice.appspot.com^
 ||bj1110.online^
 ||bjakku.com^
 ||bjbjrlnakwvz.top^
+||bjjnovsnejwm.com^
 ||bjornecoydog.com^
 ||bjqug.xyz^
 ||bjxiangcao.com^
@@ -6719,6 +6722,7 @@ vkcdnservice.appspot.com^
 ||bypassprofessordemonstrate.com^
 ||byrledmtscmd.com^
 ||bysqbtyuugub.com^
+||bytejtxbulpncg.com^
 ||bytesabbreviation.com^
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
@@ -13947,6 +13951,7 @@ vkcdnservice.appspot.com^
 ||hoopbeingsmigraine.com^
 ||hoophaub.com^
 ||hooptaik.net^
+||hoopukoetfqqbqr.com^
 ||hoosgowhandbow.com^
 ||hoowooze.net^
 ||hopedwishfulpercent.com^
@@ -14606,6 +14611,7 @@ vkcdnservice.appspot.com^
 ||indelible-awareness.pro^
 ||indelibleweird.pro^
 ||indelicatepokedoes.com^
+||indelphoxom.com^
 ||indexww.com^
 ||indicatemellowlotion.com^
 ||indicatordevotedriver.com^
@@ -30910,6 +30916,7 @@ vkcdnservice.appspot.com^
 ||adm-vids.info^
 ||adm.shinobi.jp^
 ||adman.gr^
+||admaru.com^
 ||admatic.com.tr^
 ||admax.space^
 ||admaxim.com^
@@ -42147,6 +42154,7 @@ vkcdnservice.appspot.com^
 ||gzdszb.cn^
 ||cirruscarnival.com^
 ||pelageforgers.com^
+||vuedivv.icu^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
