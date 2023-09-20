@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-20T00:31:37.042Z
+! Last modified: 2023-09-20T06:09:30.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||opkfijuifbuyynyny.com^
 ||chrothe.com^
 ||urnigarted.com^
 ||bettermeter.com^
@@ -15474,6 +15475,7 @@ vkcdnservice.appspot.com^
 ||jrpkizae.com^
 ||jrrryblqkaejw.top^
 ||jrrryblqkarqv.top^
+||js.j8jp.com^
 ||js.manga1000.top^
 ||js2json.com^
 ||js7k.com^
@@ -42140,6 +42142,8 @@ vkcdnservice.appspot.com^
 ||fnitw.xyz^
 ||clisatf.top^
 ||wzguosutang.com^
+||gzdszb.cn^
+||cirruscarnival.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
@@ -43495,7 +43499,6 @@ vkcdnservice.appspot.com^
 ||j04r.top^
 ||j1p6w.xyz^
 ||j721s.top^
-||j8jp.com^
 ||jaowd.xyz^
 ||japsmna.cyou^
 ||javddngx.cyou^
@@ -45483,7 +45486,6 @@ vkcdnservice.appspot.com^
 ||380.tw^
 ||52av.be^
 ||j8377.com^
-||slipdashedundermine.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||5lu8.com^
