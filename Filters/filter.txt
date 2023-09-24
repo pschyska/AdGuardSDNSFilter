@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-24T06:08:26.334Z
+! Last modified: 2023-09-24T12:10:56.974Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -39375,8 +39375,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-08 09:22:59 CEST
-# entries:        1182
+# last updated:   2023-09-24 12:49:41 CEST
+# entries:        1183
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -39672,6 +39672,7 @@ vkcdnservice.appspot.com^
 ||greatstoryvideo.se^
 ||gtm.findroommate.dk^
 ||gtm.proff.se^
+||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
 ||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
