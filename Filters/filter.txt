@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-25T06:09:41.448Z
+! Last modified: 2023-09-25T12:13:16.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||highcpmrevenuegate.com^
 ||ebdokvydrvqvrak.xyz^
 ||koojaith.xyz^
 ||mwbrnpmixxtu.com^
@@ -13833,7 +13834,6 @@ vkcdnservice.appspot.com^
 ||hievel.com^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
-||highcpmrevenuegate.com^
 ||highcpmrevenuenetwork.com^
 ||highdirtysubsided.com^
 ||highercldfrev.com^
@@ -33201,6 +33201,14 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||92by17snes4.cc^
+||ads*-normal-lq.zijieapi.com^
+||ad.zijieapi.com^
+||pglstatp-toutiao.com^
+||open.e.kuaishou.cn^
+||open.e.kuaishou.com^
+||open.kuaishouzt.com^
+||open.kwaizt.com^
 ||ali-ad.a.yximgs.com^
 ||v*-ad.video.yximgs.com^
 ||tx-ad.a.yximgs.com^
