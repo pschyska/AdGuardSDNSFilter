@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-26T06:09:48.267Z
+! Last modified: 2023-09-26T12:12:56.677Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -28457,7 +28457,6 @@ vkcdnservice.appspot.com^
 ||valemedia.net^
 ||valencevinyls.life^
 ||valerainingexplain.com^
-||valeronevijao.com^
 ||valetedmasaris.website^
 ||valeuceplangka.com^
 ||valgoidaguglia.guru^
@@ -33938,6 +33937,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||sinalpublico.com^
 ||adsocy.com^
 ||fuegodevida.com^
 ||admasters.media^
@@ -39274,7 +39274,6 @@ vkcdnservice.appspot.com^
 ||gbucket.ch^
 ||geldcounter.de^
 ||gigapromo.de^
-||goldbach.com^
 ||gonamic.de^
 ||goodads.de^
 ||green-ads.net^
@@ -42421,6 +42420,7 @@ vkcdnservice.appspot.com^
 ||pvlnjwr.xyz^
 ||rdpsht.xyz^
 ||bzthxv.xyz^
+||asfklgnbvx.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
