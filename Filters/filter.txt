@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-09-27T06:09:51.890Z
+! Last modified: 2023-09-27T12:12:46.806Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8071,6 +8071,7 @@ vkcdnservice.appspot.com^
 ||confvtt.com^
 ||congestionbeautycrystal.com^
 ||congestit.com^
+||congostudia.com^
 ||congressaffrayghosts.com^
 ||congressbench.com^
 ||coningweedery.store^
@@ -21638,6 +21639,7 @@ vkcdnservice.appspot.com^
 ||prdredir.com^
 ||pre4sentre8dhf.com^
 ||preachribbonsummoned.com^
+||prearmscachet.uno^
 ||precedechampion.com^
 ||precedenowadaysbarbecue.com^
 ||precedentadministrator.com^
@@ -42446,6 +42448,8 @@ vkcdnservice.appspot.com^
 ||znrtfj.xyz^
 ||mowec.xyz^
 ||pjzmbhf.cn^
+||zacff.com^
+||36uh.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
