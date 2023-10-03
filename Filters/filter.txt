@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-02T18:09:02.578Z
+! Last modified: 2023-10-03T00:32:20.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4455,6 +4455,7 @@ vkcdnservice.appspot.com^
 ||ardspalkiator.com^
 ||ardunorwest.life^
 ||areahar.com^
+||areairo.com^
 ||areantaid.site^
 ||areasnap.com^
 ||areelbagwyn.com^
@@ -10505,6 +10506,7 @@ vkcdnservice.appspot.com^
 ||egyptpolarity.com^
 ||ehadmethe.xyz^
 ||ehadtwobright.com^
+||ehakpsvdt.com^
 ||ehcstrp.com^
 ||ehoqtjfazgxzee.com^
 ||ehpvvxyp.com^
@@ -17640,6 +17642,7 @@ vkcdnservice.appspot.com^
 ||mauchopt.net^
 ||maudau.com^
 ||maugoops.xyz^
+||mauhara.com^
 ||maulupoa.com^
 ||maumetsvowers.com^
 ||maurejee.com^
@@ -18023,6 +18026,7 @@ vkcdnservice.appspot.com^
 ||minehighs.com^
 ||minently.com^
 ||mineralscreamrobes.com^
+||mineraltip.com^
 ||minglebookwormdecency.com^
 ||mingledunorder.com^
 ||mingysticker.guru^
@@ -18237,6 +18241,7 @@ vkcdnservice.appspot.com^
 ||moilizoi.com^
 ||moistblank.com^
 ||mojoaffiliates.com^
+||mojogike.net^
 ||mokibill.com^
 ||moksoxos.com^
 ||mol18.biz^
@@ -41758,6 +41763,13 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||vttqld.xyz^
+||jofknbpe.xyz^
+||roxewwq.cn^
+||ulrvkee.xyz^
+||psroyx.icu^
+||beste3.icu^
+||neeujqf.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
