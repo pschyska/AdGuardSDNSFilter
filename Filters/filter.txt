@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-03T06:09:32.944Z
+! Last modified: 2023-10-03T12:12:53.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31987,7 +31987,6 @@ vkcdnservice.appspot.com^
 ||links2revenue.com^
 ||linkslot.ru^
 ||linksmart.com^
-||linkspy.cc^
 ||linkstorm.net^
 ||linkwash.de^
 ||linkworth.com^
