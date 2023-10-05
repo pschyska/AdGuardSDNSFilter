@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-05T00:31:57.593Z
+! Last modified: 2023-10-05T06:09:38.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32378,6 +32378,7 @@ vkcdnservice.appspot.com^
 ||starti.pl^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
+||stratos.blue^
 ||streamate.com^
 ||streamdefence.com^
 ||strikead.com^
@@ -32632,7 +32633,6 @@ vkcdnservice.appspot.com^
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
-||bsc-dataseed1.binance.org^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
@@ -41855,6 +41855,7 @@ vkcdnservice.appspot.com^
 ||lnxpdj.xyz^
 ||xmvmir.icu^
 ||roxewwq.cn^
+||hwuogmusthxfpk.xyz^
 ||serda10.icu^
 ||tcgaqh.icu^
 ||ulrvkee.xyz^
@@ -47083,6 +47084,7 @@ analytics-*.aasaam.com
 ||yekbux.com^
 
 # >> Z <<
+||zarad.net^
 
 # >> A <<
 ||analytics.asiatech.ir^
@@ -47152,8 +47154,8 @@ analytics-*.aasaam.com
 # >> L <<
 
 # >> M <<
+||counter.musicsweb.ir^
 ||counter.mahanmusic.net^
-
 ||analytic.magland.ir^
 
 ||affiliate.malltina.com^
