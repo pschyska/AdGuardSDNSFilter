@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-06T12:13:06.151Z
+! Last modified: 2023-10-06T18:09:00.201Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -651,7 +651,6 @@
 ||jotpoolwarren.com^
 ||adsyou.pro^
 ||mopemodelingfrown.com^
-||blogads*.blogspot.com^
 ||adxxx.com^
 ||retdaz.fun^
 ||cryptoadvertising.net^
@@ -5116,6 +5115,7 @@ vkcdnservice.appspot.com^
 ||axungeguying.com^
 ||axungetosher.top^
 ||axwnmenruo.com^
+||axwortbunko.com^
 ||ay.delivery^
 ||ay5u9w4jjc.com^
 ||ayads.co^
@@ -5993,6 +5993,7 @@ vkcdnservice.appspot.com^
 ||biserka.xyz^
 ||bisetsoliped.com^
 ||bisleyserrano.com^
+||bissonbunging.com^
 ||bit-ad.com^
 ||bitbeat7.com^
 ||bitcoin-news.vip^
@@ -12983,6 +12984,7 @@ vkcdnservice.appspot.com^
 ||glogoowo.net^
 ||gloodain.net^
 ||gloodsie.com^
+||gloogeed.xyz^
 ||gloolrey.com^
 ||gloomseb.net^
 ||gloonseetaih.com^
@@ -16260,6 +16262,7 @@ vkcdnservice.appspot.com^
 ||koojaiba.net^
 ||kookarek.com^
 ||koolahwelder.com^
+||koolawet.net^
 ||koopheen.com^
 ||koora2live.com^
 ||koovapou.xyz^
@@ -17028,6 +17031,7 @@ vkcdnservice.appspot.com^
 ||loathederava.uno^
 ||loathepimpery.com^
 ||loatheskeletonethic.com^
+||loathyboyos.com^
 ||loathynay.com^
 ||loazezoo.net^
 ||lobby-x.eu^
@@ -21995,6 +21999,7 @@ vkcdnservice.appspot.com^
 ||previousscambuild.com^
 ||prevuesthurl.com^
 ||prfctmney.com^
+||prftonnes.com^
 ||prhzxq.com^
 ||priceyaspect.pro^
 ||prickjuvenileturnstile.com^
@@ -24340,6 +24345,7 @@ vkcdnservice.appspot.com^
 ||sallyfundamental.com^
 ||sallyoxenstops.com^
 ||salsadistune.digital^
+||salshissed.com^
 ||saltantpipped.live^
 ||saltateblit.com^
 ||saltpairwoo.live^
@@ -26688,6 +26694,7 @@ vkcdnservice.appspot.com^
 ||tartarsharped.com^
 ||tartator.com^
 ||taryarguestio.com^
+||taskariose.com^
 ||taskproceduresseverely.com^
 ||tasmok.com^
 ||tassagohecatic.com^
@@ -30985,6 +30992,7 @@ vkcdnservice.appspot.com^
 ||zabanit.xyz^
 ||zacleporis.com^
 ||zadauque.net^
+||zaffarnimbed.com^
 ||zaglushkaaa.com^
 ||zagtertda.com^
 ||zagvee.com^
@@ -32695,6 +32703,7 @@ vkcdnservice.appspot.com^
 ||pb.s3wfg.com^
 ||pc-my-protection.xyz^
 ||pics.firstload.de^
+||plchldr.co^
 ||popmog.com^
 ||promos.fling.com^
 ||pubfeed.linkby.com^
@@ -41855,38 +41864,38 @@ vkcdnservice.appspot.com^
 ||ddvoht.xyz^
 ||dhgfhedxx.xyz^
 ||gmx27.top^
+||gmx28.top^
 ||gmx30.top^
+||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
+||jndxsuy.xyz^
 ||jofknbpe.xyz^
 ||kvskknklssv.com^
 ||ldvnehc.xyz^
+||liuyi22.cn^
 ||lnxpdj.xyz^
+||lwwlkj1.cn^
+||lxznbz.xyz^
 ||mads7.icu^
+||mcds9.icu^
+||mmvjuti.cn^
+||mwfyab.icu^
 ||neeujqf.cn^
 ||pexavfro.xyz^
+||pqjeoqa.cn^
 ||psroyx.icu^
 ||roxewwq.cn^
 ||serda10.icu^
 ||tcgaqh.icu^
 ||ulrvkee.xyz^
 ||vdggsd005.com^
+||vdggsd006.com^
 ||vttqld.xyz^
 ||xkfigjh.cn^
 ||xmvmir.icu^
 ||xvzfyra.xyz^
 ||xxkswdf.icu^
 ||yepgdita.xyz^
-||pqjeoqa.cn^
-||huhwllvk.xyz^
-||vdggsd006.com^
-||mcds9.icu^
-||mwfyab.icu^
-||gmx28.top^
-||lxznbz.xyz^
-||jndxsuy.xyz^
-||lwwlkj1.cn^
-||mmvjuti.cn^
-||liuyi22.cn^
 ||yhtpsy8888.cc^
 ||01v62.xyz^
 ||023best.cn^
@@ -45694,12 +45703,12 @@ vkcdnservice.appspot.com^
 ||zzxedr.xyz^
 ||zzxmcp.com^
 ||zzzhuoxiaqu.online^
-||94lm.com^
 ||06789.xyz^
 ||3p8801.co^
 ||6651tp.com^
 ||79181531227.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
+||94lm.com^
 ||a.youdao.com^
 ||adrs.sdo.com^
 ||ads-6686.top^
