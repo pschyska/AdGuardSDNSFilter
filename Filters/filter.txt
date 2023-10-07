@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-07T12:11:04.184Z
+! Last modified: 2023-10-07T18:07:50.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -41863,13 +41863,18 @@ vkcdnservice.appspot.com^
 ||anhlnnm.cn^
 ||beste3.icu^
 ||bydcxdy.cn^
+||cuvtnzv.cn^
 ||ddvoht.xyz^
 ||dhgfhedxx.xyz^
+||djiuss.cn^
 ||gmx27.top^
 ||gmx28.top^
+||gmx29.top^
 ||gmx30.top^
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
+||igkgag.xyz^
+||insfengdata.com^
 ||jndxsuy.xyz^
 ||jofknbpe.xyz^
 ||kvskknklssv.com^
@@ -41886,30 +41891,26 @@ vkcdnservice.appspot.com^
 ||pexavfro.xyz^
 ||pqjeoqa.cn^
 ||psroyx.icu^
+||qauksl.icu^
+||quzmtpxw.xyz^
+||rkds10.icu^
 ||roxewwq.cn^
 ||serda10.icu^
 ||tcgaqh.icu^
+||thboxp.xyz^
 ||ulrvkee.xyz^
 ||vdggsd005.com^
 ||vdggsd006.com^
+||vdggsd007.com^
+||vivienjumpe.com^
 ||vttqld.xyz^
+||vxdpmxw.xyz^
+||wjoxqd.com^
 ||xkfigjh.cn^
 ||xmvmir.icu^
 ||xvzfyra.xyz^
 ||xxkswdf.icu^
 ||yepgdita.xyz^
-||quzmtpxw.xyz^
-||rkds10.icu^
-||vdggsd007.com^
-||vxdpmxw.xyz^
-||cuvtnzv.cn^
-||qauksl.icu^
-||gmx29.top^
-||thboxp.xyz^
-||vivienjumpe.com^
-||wjoxqd.com^
-||djiuss.cn^
-||igkgag.xyz^
 ||yhtpsy8888.cc^
 ||01v62.xyz^
 ||023best.cn^
