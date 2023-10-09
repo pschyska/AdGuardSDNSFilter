@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-09T12:13:59.956Z
+! Last modified: 2023-10-09T18:09:03.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8681,7 +8681,6 @@ vkcdnservice.appspot.com^
 ||custodybout.com^
 ||customads.co^
 ||customapi.top^
-||cuteasiangirl.net^
 ||cuterbond.com^
 ||cuterintegrationcrock.com^
 ||cutescale.online^
@@ -20182,6 +20181,7 @@ vkcdnservice.appspot.com^
 ||opportunitysearch.net^
 ||oppositehometowndrunken.com^
 ||oppozga.com^
+||oppressionhopefully.com^
 ||oprill.com^
 ||opsaupsa.com^
 ||opshuckleor.com^
@@ -24698,6 +24698,7 @@ vkcdnservice.appspot.com^
 ||sefsdvc.com^
 ||sefulheadde.info^
 ||segmentcoax.com^
+||segrbdscumdk.com^
 ||segrea.com^
 ||segreencolumn.com^
 ||seibertspart.com^
@@ -34517,6 +34518,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||nwhoxwpuj6.com^
 ||trackclicksplz.site^
 ||b.we-are-anon.com^
 ||fsm-files.ru^
@@ -41890,6 +41892,7 @@ vkcdnservice.appspot.com^
 ||88lajs3.com^
 ||agossuoeach.com^
 ||anhlnnm.cn^
+||bbfnrn.xyz^
 ||beste3.icu^
 ||boats4.top^
 ||bydcxdy.cn^
@@ -41899,6 +41902,7 @@ vkcdnservice.appspot.com^
 ||dhgfhedxx.xyz^
 ||djiuss.cn^
 ||fastjs.org^
+||fkjsjwbs.xyz^
 ||fzgetdy.cn^
 ||gmx27.top^
 ||gmx28.top^
@@ -41907,6 +41911,7 @@ vkcdnservice.appspot.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
+||ibsea.cn^
 ||igkgag.xyz^
 ||insfengdata.com^
 ||jndxsuy.xyz^
@@ -41926,6 +41931,7 @@ vkcdnservice.appspot.com^
 ||mphhgat.xyz^
 ||mwfyab.icu^
 ||neeujqf.cn^
+||negnixa.cn^
 ||orssengseen.com^
 ||pexavfro.xyz^
 ||pqjeoqa.cn^
@@ -41934,16 +41940,20 @@ vkcdnservice.appspot.com^
 ||quzmtpxw.xyz^
 ||rkds10.icu^
 ||roxewwq.cn^
+||rvreuxi.cn^
 ||serda10.icu^
+||sgeth9.icu^
 ||tcgaqh.icu^
 ||thboxp.xyz^
 ||trdmtx.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
+||uwfxvvm.cn^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
 ||vdggsd008.com^
+||vdggsd009.com^
 ||vivienjumpe.com^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
@@ -41955,17 +41965,10 @@ vkcdnservice.appspot.com^
 ||xvzfyra.xyz^
 ||xxkswdf.icu^
 ||yepgdita.xyz^
-||yhtpsy8888.cc^
-||zchvyet.cn^
-||negnixa.cn^
-||fkjsjwbs.xyz^
-||yutiqf.icu^
-||sgeth9.icu^
-||bbfnrn.xyz^
-||vdggsd009.com^
 ||yhlzadr.xyz^
-||ibsea.cn^
-||rvreuxi.cn^
+||yhtpsy8888.cc^
+||yutiqf.icu^
+||zchvyet.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
