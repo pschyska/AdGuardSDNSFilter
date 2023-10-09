@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-09T06:10:19.258Z
+! Last modified: 2023-10-09T12:13:59.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6893,6 +6893,7 @@ vkcdnservice.appspot.com^
 ||caesaw.com^
 ||caeso-nmr.com^
 ||caffleklismos.website^
+||cagerssoohong.com^
 ||cagesscan.com^
 ||caglaikr.net^
 ||cagothie.net^
@@ -7116,6 +7117,7 @@ vkcdnservice.appspot.com^
 ||cavecredentialdeer.com^
 ||caveestate.com^
 ||cavernousshift.pro^
+||cavilerestops.com^
 ||cawbarthe.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -7520,7 +7522,6 @@ vkcdnservice.appspot.com^
 ||chounsee.xyz^
 ||choupaig.xyz^
 ||choupsee.com^
-||chpadblock.com^
 ||chpjnxbxvzmqpx.com^
 ||chpok.pw^
 ||chrantary-vocking.com^
@@ -12097,6 +12098,7 @@ vkcdnservice.appspot.com^
 ||for-joiyvidspics.online^
 ||for-joiyvidspics.site^
 ||forads.pro^
+||foramendowve.com^
 ||foramoongussor.com^
 ||foraxewan.com^
 ||forbidcrenels.com^
@@ -14129,6 +14131,7 @@ vkcdnservice.appspot.com^
 ||hogqmd.com^
 ||hogtiesnosh.guru^
 ||hohese.com^
+||hoickpinyons.com^
 ||hoiiodacdsmro.com^
 ||hoisquit.buzz^
 ||hoistchart.com^
@@ -19122,6 +19125,7 @@ vkcdnservice.appspot.com^
 ||niftpyobkap.com^
 ||nifty-drive.pro^
 ||nigerm.com^
+||niggedpacaya.com^
 ||nighter.club^
 ||nightfallforestallbookkeeper.com^
 ||nightfallroad.com^
@@ -24324,6 +24328,7 @@ vkcdnservice.appspot.com^
 ||safetytds.com^
 ||safewarns.com^
 ||saffianxenian.com^
+||sagbutsbhotia.com^
 ||sagedeportflorist.com^
 ||saggarmammon.com^
 ||saggrowledetc.com^
@@ -25663,6 +25668,7 @@ vkcdnservice.appspot.com^
 ||sosettoourmarke.info^
 ||soshoord.com^
 ||sosigninggrudge.com^
+||sotchart.net^
 ||sotchoum.com^
 ||sotetahe.pro^
 ||sottagejalur.uno^
@@ -29973,6 +29979,7 @@ vkcdnservice.appspot.com^
 ||whychymithy.com^
 ||whyocafenet.space^
 ||wibtntmvox.com^
+||wichauru.xyz^
 ||wichtstoppit.space^
 ||wickedhumankindbarrel.com^
 ||wickiupcopalms.com^
@@ -30078,6 +30085,7 @@ vkcdnservice.appspot.com^
 ||wishesobtrusivefastest.com^
 ||wishfulauthorities.com^
 ||wishfulthingtreble.com^
+||wishjolty.com^
 ||wishjus.com^
 ||wishmayvaganti.website^
 ||wisingpianeta.uno^
@@ -31101,7 +31109,6 @@ vkcdnservice.appspot.com^
 ||zenoviaexchange.com^
 ||zenoviagroup.com^
 ||zeofnuvzsh.com^
-||zeotap.com^
 ||zepazupi.com^
 ||zepihoju.xyz^
 ||zer1ads.com^
@@ -41958,6 +41965,7 @@ vkcdnservice.appspot.com^
 ||vdggsd009.com^
 ||yhlzadr.xyz^
 ||ibsea.cn^
+||rvreuxi.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
