@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-10T06:09:41.901Z
+! Last modified: 2023-10-10T12:12:44.917Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -17100,6 +17100,7 @@ vkcdnservice.appspot.com^
 ||lognegee.com^
 ||logystowtencon.info^
 ||loinpriestinfected.com^
+||loketsaucy.com^
 ||lokinatoer5.com^
 ||loktrk.com^
 ||lolco.net^
@@ -22316,6 +22317,7 @@ vkcdnservice.appspot.com^
 ||psoageph.com^
 ||psoalreh.com^
 ||psognaih.xyz^
+||psojeeng.com^
 ||psoogaix.net^
 ||psoolikoagy.com^
 ||psoompou.xyz^
@@ -24734,6 +24736,7 @@ vkcdnservice.appspot.com^
 ||selfpua.com^
 ||selfpuc.com^
 ||selfreliantboot.pro^
+||selfswayjay.com^
 ||sellbleatregistry.com^
 ||sellingtandays.com^
 ||sellisteatin.com^
@@ -31098,6 +31101,7 @@ vkcdnservice.appspot.com^
 ||zedsapp.com^
 ||zedswrathed.website^
 ||zedxknzlwyofh.com^
+||zeebaith.xyz^
 ||zeeca4u.com^
 ||zeechumy.com^
 ||zeecoomi.net^
@@ -39805,6 +39809,7 @@ vkcdnservice.appspot.com^
 ||rapidads.de^
 ||revresrennab.de^
 ||rgadvert.com^
+||ringier-advertising.ch^
 ||securecnd.com^
 ||seitenaufruf.com^
 ||server4ads.com^
@@ -41995,6 +42000,8 @@ vkcdnservice.appspot.com^
 ||xcqbbcqpl.xyz^
 ||gmx24.top^
 ||actrqdr.cn^
+||dkvakldvnsv.com^
+||lkoqtvvajktpjsk.xyz^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^
@@ -48060,6 +48067,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! Blocked by CNAME data.adobedc.net
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163141
 @@||api.karte.io^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1464
