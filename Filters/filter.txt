@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-12T18:09:14.677Z
+! Last modified: 2023-10-13T00:32:56.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,14 @@
 !
 !
 !
+||cuyynol.com^
+||cbshanld.com^
+||pvtypsgueyqey.com^
+||lstonorallantyne.com^
+||ashionismscol.info^
+||mqqxkkenfws.com^
+||freeply.cards^
+||jpmldwvjqd.xyz^
 ||xaqmijey.com^
 ||lkjjhrwrcmvtl.com^
 ||ondajqfaqolmq.xyz^
@@ -1134,6 +1142,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d3pnod4lg28ix4.cloudfront.net^
 ||d388cbecyo4yoc.cloudfront.net^
 ||s.4cola.com^
 ||s.4tr.cc^
@@ -4292,6 +4301,7 @@ vkcdnservice.appspot.com^
 ||ap-srv.net^
 ||ap3lorf0il.com^
 ||apalbs.com^
+||aparlayship.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apathiaherbist.com^
@@ -12146,6 +12156,7 @@ vkcdnservice.appspot.com^
 ||forseisemelo.top^
 ||forsookjaeger.com^
 ||forsphealan.com^
+||forsungstoolie.com^
 ||fortaillowon.com^
 ||fortaiwy.xyz^
 ||fortdaukthw.hair^
@@ -14351,6 +14362,7 @@ vkcdnservice.appspot.com^
 ||huloxakuxukwduo.xyz^
 ||hulsairtid.com^
 ||humaffableconsulate.com^
+||humanjeep.com^
 ||humble-green.pro^
 ||humblecooperate.com^
 ||humbledleelang.com^
@@ -16809,6 +16821,7 @@ vkcdnservice.appspot.com^
 ||licenseelegance.com^
 ||licereason.space^
 ||lichtpass.com^
+||lickinggetting.com^
 ||lickingimprovementpropulsion.com^
 ||licmiwot.com^
 ||licoshnit.com^
@@ -24930,6 +24943,7 @@ vkcdnservice.appspot.com^
 ||shamelesspersonality.pro^
 ||shamelessspank.com^
 ||shanaurg.net^
+||shanorin.com^
 ||shapelcounset.xyz^
 ||shapeonefoldonefoldmagistrate.com^
 ||share-server.com^
@@ -42082,6 +42096,14 @@ vkcdnservice.appspot.com^
 ||xxkswdf.icu^
 ||y341i.xyz^
 ||yepgdita.xyz^
+||ocwdkp.icu^
+||gmx21.top^
+||zbxtcwi.xyz^
+||haise3.top^
+||mqrupjsm.xyz^
+||qwjtdcl.cn^
+||rcnldz.xyz^
+||vdggsd013.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
