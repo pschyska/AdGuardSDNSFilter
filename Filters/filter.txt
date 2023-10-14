@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-13T18:09:01.018Z
+! Last modified: 2023-10-14T00:30:52.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40763,6 +40763,7 @@ vkcdnservice.appspot.com^
 ||epeex.io^
 ||rtbuzz.net^
 ||shoppydoo.com^
+||tjekscores.dk^
 ||yobee.it^
 ||24network.it^
 ||ad4mat.it^
@@ -40839,7 +40840,6 @@ vkcdnservice.appspot.com^
 ||panea.it^
 ||partypartners.it^
 ||paypublicity.it^
-||pc-on-internet.com^
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
@@ -40872,14 +40872,12 @@ vkcdnservice.appspot.com^
 ||tgadv.it^
 ||tgadvcdn.it^
 ||tipster.space^
-||tjekscores.dk^
 ||upstory.it^
 ||viralbeat.com^
 ||wailay.com^
 ||wbusiness.fr^
 ||widebanner.com^
 ||worldfilia.net^
-||zanox-affiliate.de^
 ||zariumhb.com^
 ||zodiakactive.com^
 
@@ -42113,6 +42111,14 @@ vkcdnservice.appspot.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
+||rzflhxn.cn^
+||gmx16.top^
+||haise5.top^
+||vdggsd014.com^
+||vgjaxnuw.xyz^
+||llblwzg.xyz^
+||oprece.xyz^
+||smlpcz.icu^
 ||yutiqf.icu^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
