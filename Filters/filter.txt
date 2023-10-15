@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-14T18:07:59.913Z
+! Last modified: 2023-10-15T00:34:59.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16066,6 +16066,7 @@ vkcdnservice.appspot.com^
 ||keuktyouexpe.info^
 ||kevelandean.com^
 ||kewhulawi.com^
+||kexojito.com^
 ||keydawnawe.com^
 ||keypush.net^
 ||keyrolan.com^
@@ -42150,6 +42151,10 @@ vkcdnservice.appspot.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
+||athecsz.cn^
+||xqgduov.cn^
+||bgbqfqwi.xyz^
+||vdggsd015.com^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
