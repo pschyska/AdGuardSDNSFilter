@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-18T06:09:48.768Z
+! Last modified: 2023-10-18T12:13:17.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40038,8 +40038,8 @@ vkcdnservice.appspot.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-10-13 18:47:46 CEST
-# entries:        1188
+# last updated:   2023-10-18 08:32:50 CEST
+# entries:        1190
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40244,6 +40244,8 @@ vkcdnservice.appspot.com^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
 ||cmp.network-n.com^
+||cncpt.dk^
+||cncptx.com^
 ||collect.breakit.se^
 ||collect.igodigital.com^
 ||collect.tealiumiq.com^
@@ -42254,6 +42256,10 @@ vkcdnservice.appspot.com^
 ||eht116.com^
 ||wuyaw.cn^
 ||qmoxxhc.cn^
+||gmx46.top^
+||cdsa2.icu^
+||mhnzhlase.xyz^
+||qwesaz.com^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
