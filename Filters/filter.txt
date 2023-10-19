@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-18T18:09:39.523Z
+! Last modified: 2023-10-19T00:32:05.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2164,6 +2164,7 @@ vkcdnservice.appspot.com^
 ||5f450dbe81.com^
 ||5f6dmzflgqso.com^
 ||5fet4fni.de^
+||5h3oyhv838.com^
 ||5icim50.de^
 ||5jdhbfjdfg4.monster^
 ||5jhsbdjfsdf5.monster^
@@ -13707,6 +13708,7 @@ vkcdnservice.appspot.com^
 ||hardilyshook.com^
 ||hardwaretakeoutintimidate.com^
 ||hardynarrow.com^
+||haresmodus.com^
 ||harfuzawmk.com^
 ||harhtwb.com^
 ||haribdathesea.com^
@@ -26842,6 +26844,7 @@ vkcdnservice.appspot.com^
 ||tasttuolxw.com^
 ||tasty-election.com^
 ||tasvagaggox.com^
+||tat3ayogh6.com^
 ||tatdrdpuyi.com^
 ||tatdunsit.com^
 ||tatersbilobed.com^
@@ -29478,6 +29481,7 @@ vkcdnservice.appspot.com^
 ||voynto.com^
 ||vpbceulnfbx.com^
 ||vpico.com^
+||vpipi.com^
 ||vpixrlkggv.com^
 ||vpn-defend.com^
 ||vpn-offers.com^
@@ -34818,7 +34822,6 @@ vkcdnservice.appspot.com^
 ||svitnews.com^
 ||ferdarius.com^
 ||gbf77po03m.com^
-||tat3ayogh6.com^
 ||cau1aighae.com^
 ||bc-click.net^
 ||bc-news.net^
@@ -34973,7 +34976,6 @@ vkcdnservice.appspot.com^
 ||realpush.digital^
 ||catsnetwork.ru^
 ||zzfoms.com^
-||5h3oyhv838.com^
 ||lwmoaf.com^
 ||beginstory.biz^
 ||exolkkl6i2puvf.ru^
@@ -42283,6 +42285,15 @@ vkcdnservice.appspot.com^
 ||yutiqf.icu^
 ||z1wfe.top^
 ||z91f4.top^
+||rkds2.icu^
+||gmx47.top^
+||myyxox.icu^
+||icvsleec.xyz^
+||lianglili2.cn^
+||yxrxsov.xyz^
+||wvtem.com^
+||ugvbsrbht.xyz^
+||dvnqhdmze.xyz^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
