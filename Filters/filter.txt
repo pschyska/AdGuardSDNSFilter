@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-19T18:09:09.019Z
+! Last modified: 2023-10-20T00:32:15.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4101,6 +4101,7 @@ vkcdnservice.appspot.com^
 ||amuseglide.com^
 ||amusingsnow.pro^
 ||amuyonpastour.top^
+||amvmzbmzaryya.top^
 ||amwoukrks.autos^
 ||amwswkqh.com^
 ||amyeubhbnugjum.xyz^
@@ -7384,6 +7385,7 @@ vkcdnservice.appspot.com^
 ||chancellorharrowbelieving.com^
 ||chandoowitumki.guru^
 ||changarreviver.com^
+||changerwauking.com^
 ||changesshortly.com^
 ||channelvids.online^
 ||channelvids.space^
@@ -15856,6 +15858,7 @@ vkcdnservice.appspot.com^
 ||jujaufur.net^
 ||jujwhjmtidgp.com^
 ||julia-liz.com^
+||julidanroebuck.com^
 ||julkkoazfkh.com^
 ||jullyambery.net^
 ||julolecalve.website^
@@ -16296,6 +16299,7 @@ vkcdnservice.appspot.com^
 ||knucklecivichereafter.com^
 ||knurryaikuchi.guru^
 ||knutenegros.pro^
+||knvjwrwvaqvll.top^
 ||knziesxepvaina.com^
 ||koabouch.net^
 ||koabukedosi.com^
@@ -19791,6 +19795,7 @@ vkcdnservice.appspot.com^
 ||ocuwyfarlvbq.com^
 ||ocwagmlizb.com^
 ||odbjmugzoq.com^
+||odbxgdxgvo.com^
 ||oddauthorscreative.com^
 ||oddlyogeed.com^
 ||oddsserve.com^
@@ -42306,6 +42311,11 @@ vkcdnservice.appspot.com^
 ||yxrxsov.xyz^
 ||z1wfe.top^
 ||z91f4.top^
+||rcnithgm.xyz^
+||qinjgh.icu^
+||ppvpmrt.xyz^
+||haise4.top^
+||hcgbhq.com^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
