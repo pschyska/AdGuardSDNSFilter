@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-20T18:07:57.749Z
+! Last modified: 2023-10-21T00:30:49.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5345,6 +5345,7 @@ vkcdnservice.appspot.com^
 ||bailedperiodic.com^
 ||baileyflossallpurpose.com^
 ||bailifftoddle.com^
+||bailoaso.xyz^
 ||bailonushe.com^
 ||bailpeas.com^
 ||bainederrain.xyz^
@@ -8432,6 +8433,7 @@ vkcdnservice.appspot.com^
 ||cowmankai.com^
 ||cowmanvampyre.uno^
 ||coxaesmooth.digital^
+||coxiesthubble.com^
 ||coxosots.xyz^
 ||coxziptwo.com^
 ||coyerbarrets.com^
@@ -12430,6 +12432,7 @@ vkcdnservice.appspot.com^
 ||fultraightdec.xyz^
 ||fulvenebocca.com^
 ||fumarinpest.com^
+||fumersoctoon.com^
 ||fummkxa.com^
 ||funcats.info^
 ||funconsistency.com^
@@ -12745,6 +12748,7 @@ vkcdnservice.appspot.com^
 ||geotrkclknow.com^
 ||ger97coined.cfd^
 ||geraflows.com^
+||geratedbawled.com^
 ||gereacumina.com^
 ||gerefadelves.com^
 ||germanplumpcries.com^
@@ -13764,6 +13768,7 @@ vkcdnservice.appspot.com^
 ||hatsheisaco.xyz^
 ||hatsplexor.com^
 ||hatwasallo.com^
+||hauboisphenols.com^
 ||hauchiwu.com^
 ||hauganes.net^
 ||haulairtime.com^
@@ -17375,6 +17380,7 @@ vkcdnservice.appspot.com^
 ||lunio.net^
 ||lunyfallace.com^
 ||lunylarynx.uno^
+||lupvaqvfeka.com^
 ||lupyjpkuykoc.com^
 ||luracancamus.com^
 ||luralgaqp.com^
@@ -22897,6 +22903,7 @@ vkcdnservice.appspot.com^
 ||qnsr.com^
 ||qoaaa.com^
 ||qobarmbghaiv.xyz^
+||qodyldusxloinpn.com^
 ||qofowyki.xyz^
 ||qogilljcxwvrhj.com^
 ||qomate.xyz^
@@ -24241,6 +24248,7 @@ vkcdnservice.appspot.com^
 ||rtk.io^
 ||rtmark.net^
 ||rtmladnew.com^
+||rtncskottpfwb.com^
 ||rtnews.pro^
 ||rtorvhhdru.xyz^
 ||rtoukfareputfe.info^
@@ -24405,6 +24413,7 @@ vkcdnservice.appspot.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sabs-push.xyz^
+||sacquebenzine.com^
 ||sacralcabaa.com^
 ||sacrawasat.store^
 ||sacredperpetratorbasketball.com^
@@ -27401,6 +27410,7 @@ vkcdnservice.appspot.com^
 ||tignuget.net^
 ||tigraiosar.space^
 ||tigrisbewray.life^
+||tihursoa.net^
 ||tiijdxto.com^
 ||tikbblove.com^
 ||tikiwi.org^
@@ -27678,6 +27688,7 @@ vkcdnservice.appspot.com^
 ||torrent-repa.site^
 ||torrentprotection.com^
 ||torrentsafeguard.com^
+||torselinly.com^
 ||toselfless.com^
 ||tosfeed.com^
 ||toshelmeton.com^
@@ -42323,6 +42334,11 @@ vkcdnservice.appspot.com^
 ||z1wfe.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
+||zzyy20.top^
+||asfybkiy.xyz^
+||usxuyr.icu^
+||zzyy17.top^
+||bzvhgbr.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
