@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-22T06:08:25.672Z
+! Last modified: 2023-10-22T12:10:59.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4916,6 +4916,7 @@ vkcdnservice.appspot.com^
 ||auberginecorny.com^
 ||auboaksa.com^
 ||aubpfvvsiyf.xyz^
+||aubsehog.net^
 ||auburn9819.com^
 ||auchoocm.com^
 ||auchoons.net^
@@ -32893,6 +32894,7 @@ vkcdnservice.appspot.com^
 ||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
 ||alarmsportsnetwork.com^
+||allsportsflix.
 ||api.140proof.com^
 ||api.bitp.it^
 ||apps.media-lab.ai^
@@ -42409,6 +42411,8 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zzyy17.top^
 ||zzyy19.top^
+||crazyit8.com^
+||yuanxiab.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
