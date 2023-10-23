@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-23T06:10:17.396Z
+! Last modified: 2023-10-23T12:13:11.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33965,6 +33965,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||adfork.co.kr^
 ||92by17snes4.cc^
 ||ads*-normal-lq.zijieapi.com^
 ||ad.zijieapi.com^
@@ -42451,6 +42452,7 @@ vkcdnservice.appspot.com^
 ||pidurrmu.xyz^
 ||liuyuhuaa.cn^
 ||scqaaf.cn^
+||shx11.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
@@ -46648,6 +46650,8 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||huohuo.huamuwo.com^
+||ichc1.xinglinpukang.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
