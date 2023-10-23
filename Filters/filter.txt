@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-22T18:07:43.876Z
+! Last modified: 2023-10-23T00:32:44.212Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||othiijwtgcmjmj.com^
+||xlarixmmdvr.xyz^
+||ifntizihsffqi.com^
+||ntmastsault.info^
+||omouswoma.info^
+||pumjkngivq.com^
 ||xmverqdrjodohf.com^
 ||eqrjuxvhvclqxw.xyz^
 ||nesfspublicate.info^
@@ -1169,6 +1175,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dfjlgfb4lxka5.cloudfront.net^
 ||dupcczkfziyd3.cloudfront.net^
 ||d1cglulyxpv8sj.cloudfront.net^
 ||c.down.tube^
@@ -42434,6 +42441,14 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||jnkmhn.com^
+||cgbswl.icu^
+||yuanxiaa.cn^
+||diaocaixiaq.cn^
+||zjdruhn.xyz^
+||nyhgvn.xyz^
+||hkrytf.xyz^
+||pidurrmu.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
