@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-24T12:12:26.807Z
+! Last modified: 2023-10-24T18:09:08.342Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||promo.pixelsee.app^
 ||lugajxy.com^
 ||loivpdbzx.com^
 ||pubgalaxy.com^
@@ -41386,6 +41387,8 @@ vkcdnservice.appspot.com^
 ! https://github.com/realodix/AdBlockID/issues/376
 ! XL Axiata
 ! https://github.com/realodix/AdBlockID/issues/151
+! Indosat Ooredoo
+! https://github.com/realodix/AdBlockID/issues/213
 ! Telkom Indihome
 ! https://github.com/sentabi/telkom/blob/master/internet-positif.md
 ||welcome.indihome.co.id^
@@ -42246,6 +42249,7 @@ vkcdnservice.appspot.com^
 ||aueajkn.cn^
 ||awaw.asia^
 ||bbfnrn.xyz^
+||berrynicolo.com^
 ||beste3.icu^
 ||bgbqfqwi.xyz^
 ||bjtgds.xyz^
@@ -42266,6 +42270,7 @@ vkcdnservice.appspot.com^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cuvtnzv.cn^
+||cxpjrqa.cn^
 ||ddvoht.xyz^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
@@ -42288,6 +42293,7 @@ vkcdnservice.appspot.com^
 ||foizico.cn^
 ||fptdxkm.com^
 ||fzgetdy.cn^
+||gejhhh.cn^
 ||gelbjvl.cn^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -42310,10 +42316,12 @@ vkcdnservice.appspot.com^
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx42.top^
 ||gmx45.top^
 ||gmx46.top^
 ||gmx47.top^
 ||gmx48.top^
+||gqleov.icu^
 ||grthhr.xyz^
 ||gslejoki.xyz^
 ||gth112.com^
@@ -42334,8 +42342,10 @@ vkcdnservice.appspot.com^
 ||insfengdata.com^
 ||ionjkcj.cn^
 ||iqs871.com^
+||irtefs.xyz^
 ||iujlwn.icu^
 ||jlhlnd.xyz^
+||jmhngn.com^
 ||jndxsuy.xyz^
 ||jnkmhn.com^
 ||jofknbpe.xyz^
@@ -42349,6 +42359,7 @@ vkcdnservice.appspot.com^
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
+||l404k.com^
 ||ldvnehc.xyz^
 ||lianglili2.cn^
 ||liuyi22.cn^
@@ -42381,6 +42392,7 @@ vkcdnservice.appspot.com^
 ||negnixa.cn^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
+||njppuaj.cn^
 ||njtbiml.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
@@ -42399,6 +42411,7 @@ vkcdnservice.appspot.com^
 ||pqjeoqa.cn^
 ||psroyx.icu^
 ||qauksl.icu^
+||qbhjokk.xyz^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
@@ -42450,6 +42463,7 @@ vkcdnservice.appspot.com^
 ||vdggsd017.com^
 ||vgjaxnuw.xyz^
 ||vivienjumpe.com^
+||vizhtd.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
 ||whdwydt.cn^
@@ -42475,6 +42489,7 @@ vkcdnservice.appspot.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
+||yivkzvog.xyz^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -42489,17 +42504,6 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||cxpjrqa.cn^
-||njppuaj.cn^
-||yivkzvog.xyz^
-||irtefs.xyz^
-||qbhjokk.xyz^
-||vizhtd.xyz^
-||jmhngn.com^
-||gqleov.icu^
-||gejhhh.cn^
-||berrynicolo.com^
-||gmx42.top^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
