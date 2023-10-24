@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-23T18:07:49.292Z
+! Last modified: 2023-10-24T00:32:06.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4202,6 +4202,7 @@ vkcdnservice.appspot.com^
 ||angprobinsyano.su^
 ||anguac.com^
 ||anguished-child.pro^
+||anguishedjudgment.com^
 ||anguishexperimental.com^
 ||anguishleague.com^
 ||anguishlonesome.com^
@@ -4500,6 +4501,7 @@ vkcdnservice.appspot.com^
 ||arbourrenewal.com^
 ||arbourtalessterile.com^
 ||arbtrnskid.com^
+||arbutintentie.com^
 ||arbutterfreer.com^
 ||arcadiavehemently.com^
 ||arccarterultimate.com^
@@ -5946,6 +5948,7 @@ vkcdnservice.appspot.com^
 ||bh3.net^
 ||bhalukecky.com^
 ||bharalhallahs.com^
+||bharsilked.com^
 ||bhcont.com^
 ||bhcostefja.com^
 ||bhcumsc.com^
@@ -11976,6 +11979,7 @@ vkcdnservice.appspot.com^
 ||flapgroundless.com^
 ||flapicyconquered.com^
 ||flarebania.com^
+||flarytapuyan.com^
 ||flashclicks.com^
 ||flashesmouches.store^
 ||flashnetic.com^
@@ -12998,6 +13002,7 @@ vkcdnservice.appspot.com^
 ||glaunsun.net^
 ||glaurtas.com^
 ||glauvoob.com^
+||glauxoaw.xyz^
 ||glaxaukr.net^
 ||glazegha.com^
 ||glazilyvenues.com^
@@ -17598,6 +17603,7 @@ vkcdnservice.appspot.com^
 ||magicianboundary.com^
 ||magicianoptimisticbeard.com^
 ||magicignoresoil.com^
+||magnificent-listen.com^
 ||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
 ||magnificohec.xyz^
@@ -19789,6 +19795,7 @@ vkcdnservice.appspot.com^
 ||obsessivepetsbean.com^
 ||obsessivepossibilityminimize.com^
 ||obsidiancutter.top^
+||obsignphippe.com^
 ||obsors.com^
 ||obspkoirhnvq.xyz^
 ||obssiyjiachvh.xyz^
@@ -20153,6 +20160,7 @@ vkcdnservice.appspot.com^
 ||oneclickpic.net^
 ||onecomedyservices.com^
 ||onedmp.com^
+||onedragon.win^
 ||oneegrou.net^
 ||onefoldonefoldpitched.com^
 ||onegalact.com^
@@ -20236,6 +20244,7 @@ vkcdnservice.appspot.com^
 ||oodsauns.net^
 ||oodsoobe.com^
 ||oodsotso.com^
+||ooeciumpokable.com^
 ||ooftauph.com^
 ||ooftounu.com^
 ||oofycyur.com^
@@ -21107,6 +21116,7 @@ vkcdnservice.appspot.com^
 ||pdn-2.com^
 ||pdn-3.com^
 ||pdn-5.com^
+||pdridjiviq.com^
 ||pdsyibwlxd.xyz^
 ||pdvacde.com^
 ||peacebanana.com^
@@ -24799,6 +24809,7 @@ vkcdnservice.appspot.com^
 ||sdg.desihamster.pro^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||sdkl.info^
 ||sdmfyqkghzedvx.com^
 ||sdnygannce.com^
 ||sdprsvbnj.xyz^
@@ -26271,6 +26282,7 @@ vkcdnservice.appspot.com^
 ||stgcdn.com^
 ||stgowan.com^
 ||sthenicrefunds.com^
+||sthoutte.com^
 ||stialt.com^
 ||sticalsdebaticalfe.info^
 ||stichosxylenol.guru^
@@ -26407,6 +26419,7 @@ vkcdnservice.appspot.com^
 ||strickenenergetic.com^
 ||strictgrittwine.com^
 ||strident-writing.com^
+||stridentbedroom.pro^
 ||stringssymptomfishing.com^
 ||stringthumbprowl.com^
 ||striperaised.com^
@@ -27004,6 +27017,7 @@ vkcdnservice.appspot.com^
 ||tearpilotzoo.com^
 ||teasacomsys.xyz^
 ||teasimilarman.com^
+||teatycacicus.com^
 ||teazledbyes.com^
 ||tebadu.com^
 ||tecaavdsy.com^
@@ -28317,6 +28331,7 @@ vkcdnservice.appspot.com^
 ||tyifdiff.xyz^
 ||tyingentered.com^
 ||tylfgkf.com^
+||tylocintriones.com^
 ||tylosischewer.com^
 ||tyluslandmil.com^
 ||tynt.com^
@@ -31399,6 +31414,7 @@ vkcdnservice.appspot.com^
 ||zigreroa.net^
 ||zigzag-ruin.pro^
 ||zigzaggodmotheragain.com^
+||zigzagrowy.com^
 ||zihogchfaan.com^
 ||zijaipse.com^
 ||zikraist.net^
@@ -42467,6 +42483,14 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||cxpjrqa.cn^
+||njppuaj.cn^
+||yivkzvog.xyz^
+||irtefs.xyz^
+||qbhjokk.xyz^
+||vizhtd.xyz^
+||jmhngn.com^
+||gqleov.icu^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
