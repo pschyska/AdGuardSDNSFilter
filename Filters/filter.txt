@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-25T00:32:02.977Z
+! Last modified: 2023-10-25T06:09:29.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -41385,21 +41385,6 @@ vkcdnservice.appspot.com^
 ! Source name: AdblockID adservers
 ! Source: https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 !
-!
-||ads.jogloitcenter.com
-||c303.pw^
-! https://github.com/realodix/AdBlockID/issues/376
-! XL Axiata
-! https://github.com/realodix/AdBlockID/issues/151
-! Indosat Ooredoo
-! https://github.com/realodix/AdBlockID/issues/213
-! Telkom Indihome
-! https://github.com/sentabi/telkom/blob/master/internet-positif.md
-||welcome.indihome.co.id^
-!||d31qbv1cthcecs.cloudfront.net^$3p,domain=~advertisingfresh.com|~kaskus.co.id
-!||d5nxst8fruw4z.cloudfront.net^$3p,domain=~bukalapak.com
-! https://github.com/realodix/AdBlockID/issues/953
-||darts-ads.telkom.co.id^
 ! ---
 ! Dihapus dalam beberapa bulan
 ! 205.251.197.235, 205.251.198.251, 205.251.193.177, 205.251.195.134
@@ -42513,6 +42498,10 @@ vkcdnservice.appspot.com^
 ||dsbfpt.xyz^
 ||cthbini.xyz^
 ||kaaqgf.icu^
+||gnuoipb.cn^
+||dunrnd.com^
+||juljrd.xyz^
+||sregfle.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
