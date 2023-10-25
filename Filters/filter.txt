@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-24T18:09:08.342Z
+! Last modified: 2023-10-25T00:32:02.977Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9013,6 +9013,7 @@ vkcdnservice.appspot.com^
 ||datingtoday.top^
 ||datingtopgirls.com^
 ||datingvr.ru^
+||dattoswitches.com^
 ||daubierbatties.uno^
 ||daughterbump.com^
 ||daughterinlawrib.com^
@@ -21361,6 +21362,7 @@ vkcdnservice.appspot.com^
 ||pgonews.pro^
 ||pgpartner.com^
 ||pgssl.com^
+||phaglalt.com^
 ||phague.com^
 ||phaignux.xyz^
 ||phaikroo.net^
@@ -25656,6 +25658,7 @@ vkcdnservice.appspot.com^
 ||smisto.com^
 ||smists.com^
 ||smithamenamel.com^
+||smithumbewreck.com^
 ||smitry.com^
 ||smjulynews.com^
 ||smjxarmaflpmxj.com^
@@ -26375,6 +26378,7 @@ vkcdnservice.appspot.com^
 ||stotchou.com^
 ||stotoowu.net^
 ||stougnee.com^
+||stouksom.xyz^
 ||stoushgowds.com^
 ||stovearmpitagreeable.com^
 ||stovecharacterize.com^
@@ -42504,6 +42508,11 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||hynahyqq.xyz^
+||gmx44.top^
+||dsbfpt.xyz^
+||cthbini.xyz^
+||kaaqgf.icu^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
