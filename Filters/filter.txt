@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-25T12:12:39.040Z
+! Last modified: 2023-10-25T18:09:07.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42229,8 +42229,10 @@ vkcdnservice.appspot.com^
 ||24w0p.com^
 ||273knt.xyz^
 ||44jui.top^
+||5jzu5t.com^
 ||6528fdyngk.xyz^
 ||6gcstb.xyz^
+||888bb666cc.com^
 ||88lajs3.com^
 ||88lajs4.com^
 ||a4bj6.xyz^
@@ -42266,16 +42268,21 @@ vkcdnservice.appspot.com^
 ||cntc8.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
+||cthbini.xyz^
 ||cuvtnzv.cn^
 ||cxpjrqa.cn^
+||ddkh59.com^
 ||ddvoht.xyz^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
 ||djiuss.cn^
 ||dkvakldvnsv.com^
 ||dpj0uvy.icu^
+||dqlfabc.cn^
 ||dqzehgha.xyz^
+||dsbfpt.xyz^
 ||dumeia.cn^
+||dunrnd.com^
 ||dvnqhdmze.xyz^
 ||dwerzv.xyz^
 ||ebmlsvw.cn^
@@ -42292,6 +42299,7 @@ vkcdnservice.appspot.com^
 ||fzgetdy.cn^
 ||gejhhh.cn^
 ||gelbjvl.cn^
+||ghbdsbfd.com^
 ||gixgav.icu^
 ||gizlnr.com^
 ||gmx11.top^
@@ -42314,10 +42322,12 @@ vkcdnservice.appspot.com^
 ||gmx29.top^
 ||gmx30.top^
 ||gmx42.top^
+||gmx44.top^
 ||gmx45.top^
 ||gmx46.top^
 ||gmx47.top^
 ||gmx48.top^
+||gnuoipb.cn^
 ||gqleov.icu^
 ||grthhr.xyz^
 ||gslejoki.xyz^
@@ -42332,6 +42342,7 @@ vkcdnservice.appspot.com^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
+||hynahyqq.xyz^
 ||ibsea.cn^
 ||icvsleec.xyz^
 ||igkgag.xyz^
@@ -42346,7 +42357,9 @@ vkcdnservice.appspot.com^
 ||jndxsuy.xyz^
 ||jnkmhn.com^
 ||jofknbpe.xyz^
+||juljrd.xyz^
 ||jvjmjt.xyz^
+||kaaqgf.icu^
 ||klfbnklddfbkn.com^
 ||knhmgn.com^
 ||knuaxfv.cn^
@@ -42409,6 +42422,7 @@ vkcdnservice.appspot.com^
 ||psroyx.icu^
 ||qauksl.icu^
 ||qbhjokk.xyz^
+||qbswezw.cn^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
@@ -42432,6 +42446,7 @@ vkcdnservice.appspot.com^
 ||shipostrich.com^
 ||shx11.xyz^
 ||smlpcz.icu^
+||sregfle.cn^
 ||tcgaqh.icu^
 ||tdhlmto.cn^
 ||thboxp.xyz^
@@ -42468,6 +42483,7 @@ vkcdnservice.appspot.com^
 ||wkrcbszi.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
+||wuruigroup.com^
 ||wuyaw.cn^
 ||wvtem.com^
 ||xcqbbcqpl.xyz^
@@ -42501,16 +42517,6 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||hynahyqq.xyz^
-||gmx44.top^
-||dsbfpt.xyz^
-||cthbini.xyz^
-||kaaqgf.icu^
-||gnuoipb.cn^
-||dunrnd.com^
-||juljrd.xyz^
-||sregfle.cn^
-||ghbdsbfd.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
