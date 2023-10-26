@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-25T18:09:07.916Z
+! Last modified: 2023-10-26T00:31:20.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26515,7 +26515,6 @@ vkcdnservice.appspot.com^
 ||suburbincriminatesubdue.com^
 ||subwaygirlieweasel.com^
 ||succeedappointedsteve.com^
-||succeedscene.com^
 ||success-news.net^
 ||successfulpatience.com^
 ||successionflimsy.com^
@@ -42517,6 +42516,14 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||fcgmoas.cn^
+||gwdobvs.cn^
+||olltcqg.xyz^
+||okpcyp.icu^
+||nyfgpbsc.xyz^
+||beezwol.com^
+||ksrgsc.xyz^
+||dcdglb.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
