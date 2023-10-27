@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-26T18:08:53.889Z
+! Last modified: 2023-10-27T00:31:29.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12478,6 +12478,7 @@ vkcdnservice.appspot.com^
 ||fulheaddedfea.com^
 ||fullagearnut.com^
 ||fulltraffic.net^
+||fullvids.online^
 ||fullvids.space^
 ||fullwhile.pro^
 ||fullycoordinatecarbonate.com^
@@ -16720,6 +16721,7 @@ vkcdnservice.appspot.com^
 ||lauthana.net^
 ||lavando2scas1hh1.com^
 ||lavatorybrandnew.com^
+||lavatorydownybasket.com^
 ||lavatoryhitschoolmaster.com^
 ||laversleopold.guru^
 ||lavishnessoverboard.com^
@@ -27043,6 +27045,7 @@ vkcdnservice.appspot.com^
 ||tearingflickermeaning.com^
 ||tearingreasoningempower.com^
 ||tearpilotzoo.com^
+||tearsincompetentuntidy.com^
 ||teasacomsys.xyz^
 ||teasimilarman.com^
 ||teatycacicus.com^
@@ -27107,6 +27110,7 @@ vkcdnservice.appspot.com^
 ||tellyowingrichest.com^
 ||telwrite.com^
 ||tembetanymil.com^
+||temksrtd.net^
 ||tempbugs.com^
 ||tempeorek.org^
 ||temperacaimans.com^
@@ -30824,6 +30828,7 @@ vkcdnservice.appspot.com^
 ||xiwwhyobp.com^
 ||xjakcitm.com^
 ||xjfbhxp.com^
+||xjktawqrcaw.com^
 ||xjqpxitqkaeodwi.xyz^
 ||xjrwxfdphc.com^
 ||xkbydybnle.com^
@@ -42552,6 +42557,13 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||woxwhfdo.xyz^
+||avplwte.xyz^
+||suzoqz.icu^
+||syjkscy.cn^
+||lmfehr.xyz^
+||df-long.cn^
+||lryqef.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
