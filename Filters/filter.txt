@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-27T18:08:44.012Z
+! Last modified: 2023-10-28T00:30:48.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||planetvids.space^
 ||mobileoffers-ep-download.com^
 ||arvigorothan.com^
 ||fringesdurocs.com^
@@ -5493,6 +5494,7 @@ vkcdnservice.appspot.com^
 ||beastsclassbiscuit.com^
 ||beastsmalefic.uno^
 ||beatifulapplabland.com^
+||beatifulllhistory.com^
 ||beautifulasaweath.info^
 ||beaverculbert.uno^
 ||beavertron.com^
@@ -42401,6 +42403,17 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||lwhffh.xyz^
+||fepmpify.xyz^
+||rntdqwc.xyz^
+||wyoaij.icu^
+||naweslt.cn^
+||jupeicha.cn^
+||unqrroh.cn^
+||mrthav.xyz^
+||gmx40.top^
+||vrivslffndepxqd.xyz^
+||clcmdie.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
