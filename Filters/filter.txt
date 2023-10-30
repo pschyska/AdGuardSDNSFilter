@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-30T06:09:52.701Z
+! Last modified: 2023-10-30T12:12:50.595Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -18219,6 +18219,7 @@ vkcdnservice.appspot.com^
 ||mmotraffic.com^
 ||mmphijndajxiui.com^
 ||mmtnat.com^
+||mmvideocdn.com^
 ||mn1nm.com^
 ||mn230126pb.com^
 ||mnaujmo.com^
@@ -33892,6 +33893,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.mediamixer.co.kr^
 ||adx.promo^
 ||adfork.co.kr^
 ||92by17snes4.cc^
@@ -34736,6 +34738,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bzgmcqqfxd.com^
+||ejxosoryso.ru^
 ||all-audio.pro^
 ||rbfive.bid^
 ||nwhoxwpuj6.com^
@@ -42465,6 +42469,8 @@ vkcdnservice.appspot.com^
 ||n019q.com^
 ||bdlexn.xyz^
 ||brorzpj.cn^
+||gmx10.top^
+||drtyuigj.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
