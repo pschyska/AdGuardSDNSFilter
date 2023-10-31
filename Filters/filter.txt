@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-30T18:09:11.248Z
+! Last modified: 2023-10-31T00:32:39.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32506,6 +32506,7 @@ vkcdnservice.appspot.com^
 ||realhumandeals.com^
 ||realssp.co.kr^
 ||rediads.com^
+||redintelligence.net^
 ||republer.com^
 ||revenueflex.com^
 ||revive-adserver.net^
@@ -42513,6 +42514,14 @@ vkcdnservice.appspot.com^
 ||zcpsc.top^
 ||zents2.top^
 ||zjdruhn.xyz^
+||gmx37.top^
+||gmx31.top^
+||durynslg.xyz^
+||bnnfvd.xyz^
+||nyvgbt.xyz^
+||hnkhgw.com^
+||bpbfymv.xyz^
+||iccjkn.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
