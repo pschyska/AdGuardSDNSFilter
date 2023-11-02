@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-01T18:08:59.512Z
+! Last modified: 2023-11-02T00:32:15.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||vidsfull.online^
 ||edeybivah.com^
 ||wowhaujy.com^
 ||go.mnaspm.com^
@@ -4681,6 +4682,7 @@ vkcdnservice.appspot.com^
 ||aspireetopee.com^
 ||aspirerrehedge.life^
 ||asqconn.com^
+||asquintarmenic.cfd^
 ||asrcajsuql.com^
 ||asrety.com^
 ||asrntiljustetyerec.info^
@@ -6199,6 +6201,7 @@ vkcdnservice.appspot.com^
 ||bobboro.com^
 ||bocageicepick.com^
 ||bocoyoutage.com^
+||bodaile.com^
 ||bodelen.com^
 ||bodhihause.space^
 ||bodilywondering.com^
@@ -10095,6 +10098,7 @@ vkcdnservice.appspot.com^
 ||dwithmefeyauknal.info^
 ||dwlgvbapt.com^
 ||dwlmjxf.com^
+||dwomtkmr.com^
 ||dwoonqodmk.com^
 ||dwoopjvhazta.com^
 ||dwrdjfdxtoel.com^
@@ -10823,6 +10827,7 @@ vkcdnservice.appspot.com^
 ||eoafgbgyebbcy.com^
 ||eoaktaposh.com^
 ||eobvppi.com^
+||eofripvanwin.org^
 ||eofst.com^
 ||eogaeapolaric.com^
 ||eondunpea.com^
@@ -13713,6 +13718,7 @@ vkcdnservice.appspot.com^
 ||hathehadin.com^
 ||hatredsmell.uno^
 ||hats-47b.com^
+||hatsamevill.org^
 ||hatsheisaco.xyz^
 ||hatsplexor.com^
 ||hatwasallo.com^
@@ -18385,6 +18391,7 @@ vkcdnservice.appspot.com^
 ||molemarshy.com^
 ||moligh.com^
 ||molrizub.com^
+||molseelr.xyz^
 ||moltenforger.top^
 ||moltingcasher.tech^
 ||molttenglobins.casa^
@@ -18624,6 +18631,7 @@ vkcdnservice.appspot.com^
 ||muddiedbubales.com^
 ||muddyjustify.com^
 ||muddytransplantinsert.com^
+||mufcrkk.com^
 ||mufflealiases.com^
 ||mufflercypress.com^
 ||mufflerlamia.com^
@@ -26671,6 +26679,7 @@ vkcdnservice.appspot.com^
 ||sweatybar.pro^
 ||sweatyequityhelicopter.com^
 ||sweatytraining.pro^
+||swebatcnoircv.xyz^
 ||swedecornysupper.com^
 ||sweepadstoday.click^
 ||sweepawejasper.com^
@@ -29880,6 +29889,7 @@ vkcdnservice.appspot.com^
 ||waynagmay.com^
 ||wazaki.xyz^
 ||wazbuvdcij.com^
+||wazctigribhy.com^
 ||wazensee.net^
 ||wbdds.com^
 ||wbfhivtydh.com^
@@ -33246,6 +33256,7 @@ vkcdnservice.appspot.com^
 ||d1t8it0ywk3xu.cloudfront.net^
 ||d1tizxwina1bjc.cloudfront.net^
 ||d1tt3ye7u0e0ql.cloudfront.net^
+||d1tttug1538qv1.cloudfront.net^
 ||d1twn22x8kvw17.cloudfront.net^
 ||d1u1byonn4po0b.cloudfront.net^
 ||d1uae3ok0byyqw.cloudfront.net^
@@ -42597,6 +42608,13 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||ynulcpt.cn^
+||nubcdaqa.xyz^
+||cgqwgv.icu^
+||vdggsd002.com^
+||hjnjjcw.xyz^
+||hvpard.xyz^
+||bfbchr.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
