@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-04T00:32:02.435Z
+! Last modified: 2023-11-04T06:13:56.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15987,7 +15987,6 @@ vkcdnservice.appspot.com^
 ||kamalafooner.space^
 ||kamamwvzmmzmy.top^
 ||kamassirangers.tech^
-||kaminari.systems^
 ||kamnebo.info^
 ||kamost.com^
 ||kanatventose.com^
@@ -42704,6 +42703,7 @@ vkcdnservice.appspot.com^
 ||egadfe.xyz^
 ||vdggsd004.com^
 ||pptclb.xyz^
+||hfjhr.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
