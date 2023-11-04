@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-03T18:09:05.689Z
+! Last modified: 2023-11-04T00:32:02.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2344,6 +2344,7 @@ vkcdnservice.appspot.com^
 ||7c33690bea.com^
 ||7ca78m3csgbrid7ge.com^
 ||7cc70.com^
+||7d3656bee3.com^
 ||7da3a14504.com^
 ||7db44be9a6.com^
 ||7df1f04330.com^
@@ -3314,6 +3315,7 @@ vkcdnservice.appspot.com^
 ||adv9.net^
 ||advancementaccrue.com^
 ||advancenopregnancy.com^
+||advancinginfinitely.com^
 ||advancingrecruitingamy.com^
 ||advang.com^
 ||advantageglobalmarketing.com^
@@ -6659,6 +6661,7 @@ vkcdnservice.appspot.com^
 ||bullnunname.com^
 ||bullymust.com^
 ||bulrev.com^
+||bulserv.com^
 ||bultaika.net^
 ||bultenanogra.cfd^
 ||bulyiel.com^
@@ -8334,6 +8337,7 @@ vkcdnservice.appspot.com^
 ||countlesstrustworthylamb.com^
 ||countriesnews.com^
 ||countryinflammable.com^
+||countrynot.com^
 ||countshryw.xyz^
 ||countypuddleillusion.com^
 ||coupdisturb.com^
@@ -8356,6 +8360,7 @@ vkcdnservice.appspot.com^
 ||couthieisobath.com^
 ||coutilresgat.com^
 ||couwainu.xyz^
+||couwhivu.com^
 ||coveredbetting.com^
 ||covisithebraic.com^
 ||cowagesabaca.life^
@@ -9973,6 +9978,7 @@ vkcdnservice.appspot.com^
 ||dssdv.com^
 ||dsstrk.com^
 ||dsultra.com^
+||dswqtkpk.com^
 ||dt4ever.com^
 ||dt51.net^
 ||dtadnetwork.com^
@@ -14108,6 +14114,7 @@ vkcdnservice.appspot.com^
 ||hitcpm.com^
 ||hitlnk.com^
 ||hiug862dj0.com^
+||hizanpwhexw.com^
 ||hizlireklam.com^
 ||hjalma.com^
 ||hjfonyiuo.com^
@@ -15777,6 +15784,7 @@ vkcdnservice.appspot.com^
 ||jpmdwnhazw.com^
 ||jpovulldaghw.com^
 ||jpzvrsuwdavpjw.com^
+||jqlqmeveax.com^
 ||jqlumzbdtet.com^
 ||jqtree.com^
 ||jquerycdn.host^
@@ -16444,6 +16452,7 @@ vkcdnservice.appspot.com^
 ||kusciwaqfkaw.com^
 ||kussoscliffy.com^
 ||kustaucu.com^
+||kutdbbfy.xyz^
 ||kutjilsi.com^
 ||kuttarmufti.com^
 ||kuwooque.com^
@@ -17373,6 +17382,7 @@ vkcdnservice.appspot.com^
 ||lukdliketobepa.info^
 ||lukpush.com^
 ||lulavsepoxy.guru^
+||lulgpmdmbtedzl.com^
 ||lullxkwwu.com^
 ||lumaktoys.com^
 ||luminosoocchio.com^
@@ -23624,6 +23634,7 @@ vkcdnservice.appspot.com^
 ||relkconka.com^
 ||reloadsusa.com^
 ||relostmorions.uno^
+||reluctancefleck.com^
 ||reluctantyankpairs.com^
 ||relumedbiaxial.com^
 ||reluraun.com^
@@ -26038,6 +26049,7 @@ vkcdnservice.appspot.com^
 ||splief.com^
 ||splittingpick.com^
 ||splodgydossing.com^
+||spo-play.live^
 ||spondeetougher.guru^
 ||spongecell.com^
 ||spongewoodenheroism.com^
@@ -28129,6 +28141,7 @@ vkcdnservice.appspot.com^
 ||trpop.xyz^
 ||trribbup.xyz^
 ||trrmmxjst.com^
+||trsbmiw.com^
 ||trskwvl.com^
 ||trtjigpsscmv9epe10.com^
 ||truanet.com^
@@ -28543,6 +28556,7 @@ vkcdnservice.appspot.com^
 ||uloadeeksurvey.space^
 ||uloaludu.xyz^
 ||ulourgaz.net^
+||ulried.com^
 ||ulrzovfukgkljw.com^
 ||ulseugnrmnrww.com^
 ||ultimatumloftyharvest.com^
@@ -29713,6 +29727,7 @@ vkcdnservice.appspot.com^
 ||vwimkumfuk.com^
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
+||vwqohlgfneusxy.com^
 ||vwuyuahqf.com^
 ||vwwptjtqokjd.com^
 ||vxjmolopbsma.com^
@@ -30809,6 +30824,7 @@ vkcdnservice.appspot.com^
 ||xgstemmj.com^
 ||xhaeuubhi.xyz^
 ||xhlzokzxoxykxf.com^
+||xhpzrfj.com^
 ||xhr0.xyz^
 ||xhwdvwqrfvwnl.com^
 ||xhxondbtvhboa.com^
@@ -32908,6 +32924,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList ad servers third-party
 ! Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 !
+||1023131818.rsc.cdn77.org^
 ||1048284882.rsc.cdn77.org^
 ||1052706846.rsc.cdn77.org^
 ||1063072263.rsc.cdn77.org^
@@ -32964,6 +32981,7 @@ vkcdnservice.appspot.com^
 ||1834979659.rsc.cdn77.org^
 ||1857169728.rsc.cdn77.org^
 ||1871869301.rsc.cdn77.org^
+||1881195794.rsc.cdn77.org^
 ||1917697853.rsc.cdn77.org^
 ||1922803716.rsc.cdn77.org^
 ||1942213827.rsc.cdn77.org^
@@ -42679,6 +42697,13 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zys13.top^
+||cklithuw.xyz^
+||cammak.xyz^
+||ktvtxir.xyz^
+||egadfe.xyz^
+||vdggsd004.com^
+||pptclb.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
