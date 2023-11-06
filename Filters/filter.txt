@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-05T18:07:45.317Z
+! Last modified: 2023-11-06T00:33:33.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||icxcrnciutiltaf.com^
+||kaqpnobbjzdwi.com^
+||xhwwcif.com^
+||srasylzu.com^
+||dweatherbe.org^
+||nandweandthe.org^
 ||zogrepsili.com^
 ||vidsfull.online^
 ||edeybivah.com^
@@ -42793,6 +42799,11 @@ vkcdnservice.appspot.com^
 ||zlncvn.xyz^
 ||zys13.top^
 ||zys15.top^
+||idddlon.xyz^
+||zys16.top^
+||uavejnys.xyz^
+||xjxbdh.xyz^
+||fotaxf.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
