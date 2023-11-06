@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-06T12:13:36.182Z
+! Last modified: 2023-11-06T18:09:04.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42123,6 +42123,7 @@ vkcdnservice.appspot.com^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
 ||foizico.cn^
+||fotaxf.xyz^
 ||fptdxkm.com^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -42194,6 +42195,7 @@ vkcdnservice.appspot.com^
 ||ibsea.cn^
 ||iccjkn.icu^
 ||icvsleec.xyz^
+||idddlon.xyz^
 ||igkgag.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -42345,6 +42347,8 @@ vkcdnservice.appspot.com^
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uavejnys.xyz^
+||udpdmeb.cn^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
@@ -42394,6 +42398,7 @@ vkcdnservice.appspot.com^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
+||xjxbdh.xyz^
 ||xkfigjh.cn^
 ||xlca666.site^
 ||xmvmir.icu^
@@ -42426,15 +42431,10 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
-||idddlon.xyz^
 ||zys16.top^
-||uavejnys.xyz^
-||xjxbdh.xyz^
-||fotaxf.xyz^
-||zuugfj.cn^
-||udpdmeb.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
