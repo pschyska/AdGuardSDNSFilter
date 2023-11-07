@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-07T12:12:41.981Z
+! Last modified: 2023-11-07T18:08:41.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||thompoot.com^
+||altcoin.care^
 ||recholta.net^
 ||rydpsqdsaja.com^
 ||jjwmlaynwwbll.top^
@@ -42042,6 +42044,7 @@ vkcdnservice.appspot.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
+||2c0a5.xyz^
 ||3562wsgkbcm.xyz^
 ||3dh9y.com^
 ||44jui.top^
@@ -42051,6 +42054,7 @@ vkcdnservice.appspot.com^
 ||888bb666cc.com^
 ||88lajs3.com^
 ||88lajs4.com^
+||88lajs6.com^
 ||999aa666bb.com^
 ||a4bj6.xyz^
 ||aaknmt.icu^
@@ -42062,11 +42066,13 @@ vkcdnservice.appspot.com^
 ||anhlnnm.cn^
 ||aniede.xyz^
 ||anjneia.xyz^
+||aqburrae.xyz^
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
 ||avplwte.xyz^
 ||awaw.asia^
+||azdiqsb.cn^
 ||bbfnrn.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
@@ -42134,6 +42140,7 @@ vkcdnservice.appspot.com^
 ||estixfl.cn^
 ||ewioud.com^
 ||exemptambientcream.com^
+||eyjvq.xyz^
 ||fastjs.org^
 ||faxffjo.com^
 ||fcgmoas.cn^
@@ -42147,6 +42154,7 @@ vkcdnservice.appspot.com^
 ||foizico.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||ftzzbx.xyz^
 ||fzgetdy.cn^
 ||g2ak5.com^
 ||gejhhh.cn^
@@ -42240,6 +42248,7 @@ vkcdnservice.appspot.com^
 ||kaaqgf.icu^
 ||kjdbcjkmc.com^
 ||klfbnklddfbkn.com^
+||klwhuci.cn^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||kshrsf.icu^
@@ -42416,6 +42425,7 @@ vkcdnservice.appspot.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wyiegt.icu^
 ||wyoaij.icu^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
@@ -42453,18 +42463,12 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zndvfrl.xyz^
+||znwzcmd.cn^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
-||aqburrae.xyz^
-||zndvfrl.xyz^
-||ftzzbx.xyz^
-||znwzcmd.cn^
-||2c0a5.xyz^
-||azdiqsb.cn^
-||wyiegt.icu^
-||eyjvq.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
