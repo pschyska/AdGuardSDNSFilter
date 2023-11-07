@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-07T06:09:21.126Z
+! Last modified: 2023-11-07T12:12:41.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||recholta.net^
+||rydpsqdsaja.com^
 ||jjwmlaynwwbll.top^
 ||icxcrnciutiltaf.com^
 ||kaqpnobbjzdwi.com^
@@ -13410,6 +13412,7 @@ vkcdnservice.appspot.com^
 ||guasarestant.com^
 ||gubopedruph.com^
 ||guchihyfa.pro^
+||guddledarride.com^
 ||gudouzov.com^
 ||guemalgist.com^
 ||guerrilla-links.com^
@@ -16111,6 +16114,7 @@ vkcdnservice.appspot.com^
 ||kistfulmafiosi.space^
 ||kistfulmapach.life^
 ||kistutch.net^
+||kistversets.com^
 ||kitantiterhalac.xyz^
 ||kitchencafeso.com^
 ||kithudru.xyz^
@@ -17250,6 +17254,7 @@ vkcdnservice.appspot.com^
 ||lubbreton.com^
 ||lubowitz.biz^
 ||lubrazati.com^
+||lucentfreer.com^
 ||lucentposition.com^
 ||luciditycuddle.com^
 ||luciditymadeupfarfetched.com^
@@ -18021,6 +18026,7 @@ vkcdnservice.appspot.com^
 ||miaeglaring.uno^
 ||miamiahokums.com^
 ||miamribud.com^
+||miaouedcrevass.com^
 ||miayarus.com^
 ||miboundwhiffet.com^
 ||micastskangli.com^
@@ -19793,6 +19799,7 @@ vkcdnservice.appspot.com^
 ||ofhgkuopngw.com^
 ||ofhypnoer.com^
 ||ofleafeona.com^
+||ofoockoo.com^
 ||ofpiplupon.com^
 ||ofqopmnpia.com^
 ||ofqvwaosjq.com^
@@ -23943,6 +23950,7 @@ vkcdnservice.appspot.com^
 ||roabmyrevngqqk.com^
 ||roachoavi.com^
 ||roadmappenal.com^
+||roadoati.xyz^
 ||roakicat.net^
 ||roambedroom.com^
 ||roastoup.com^
@@ -42455,6 +42463,8 @@ vkcdnservice.appspot.com^
 ||znwzcmd.cn^
 ||2c0a5.xyz^
 ||azdiqsb.cn^
+||wyiegt.icu^
+||eyjvq.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
