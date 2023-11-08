@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-07T18:08:41.808Z
+! Last modified: 2023-11-08T00:32:41.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8368,6 +8368,7 @@ vkcdnservice.appspot.com^
 ||cpahmeokparn.com^
 ||cpalabtracking.com^
 ||cpaoffers.network^
+||cpaokhfmaccu.com^
 ||cpaspeed.online^
 ||cpaway.com^
 ||cpays.com^
@@ -12570,6 +12571,7 @@ vkcdnservice.appspot.com^
 ||gbfgvzfcjfs.com^
 ||gbfwqsakvaysygn.xyz^
 ||gblcdn.com^
+||gbpkmltxpcsj.xyz
 ||gckkxvpbhhlx.com^
 ||gcqaxqowifrf.com^
 ||gcruperparverew.xyz^
@@ -15373,6 +15375,7 @@ vkcdnservice.appspot.com^
 ||jaggiertridii.com^
 ||jagice.uno^
 ||jagqrhvcvoqjw.com^
+||jaigaivi.xyz^
 ||jailabridge.com^
 ||jainbagong.com^
 ||jaireehu.net^
@@ -27191,6 +27194,7 @@ vkcdnservice.appspot.com^
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theyunm.com^
 ||thgebtibfyry.com^
 ||thick-ruin.pro^
 ||thickbabysittinghandled.com^
@@ -31083,6 +31087,7 @@ vkcdnservice.appspot.com^
 ||yummy-gap.pro^
 ||yumomis.com^
 ||yunded.com^
+||yunmaue.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppads.com^
@@ -40828,6 +40833,7 @@ vkcdnservice.appspot.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
+||hbagency.it^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||tjekscores.dk^
@@ -40882,7 +40888,6 @@ vkcdnservice.appspot.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
-||hbagency.it^
 ||hubaffiliations.net^
 ||inaffiliago.it^
 ||ioladv.it^
@@ -42469,6 +42474,10 @@ vkcdnservice.appspot.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||jqtkzuco.xyz^
+||lfhnzbj.xyz^
+||bzbopfh.cn^
+||ndbaxn.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
