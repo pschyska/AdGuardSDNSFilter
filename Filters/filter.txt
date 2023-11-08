@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-08T00:32:41.872Z
+! Last modified: 2023-11-08T06:09:37.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40021,8 +40021,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-05 05:40:19 CET
-# entries:        1197
+# last updated:   2023-11-08 07:03:44 CET
+# entries:        1194
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40163,7 +40163,6 @@ vkcdnservice.appspot.com^
 ||c.eacla.com^
 ||cache6.riedta.com^
 ||campersverige.com.se^
-||cardata.se^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
@@ -40380,7 +40379,6 @@ vkcdnservice.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
 ||live.demand.supply^
-||ljuskompaniet.se^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
 ||loewe.com.se^
@@ -40760,7 +40758,6 @@ vkcdnservice.appspot.com^
 ||tracking.etidning.fagersta-posten.se^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
-||trafikstyrelsen.com^
 ||trckr.nordiskemedier.dk^
 ||trckr1.nordiskemedier.dk^
 ||tretorn-rea.com.se^
@@ -42478,6 +42475,8 @@ vkcdnservice.appspot.com^
 ||lfhnzbj.xyz^
 ||bzbopfh.cn^
 ||ndbaxn.xyz^
+||aispyd.icu^
+||whols.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
