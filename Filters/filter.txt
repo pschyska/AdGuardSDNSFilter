@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-08T06:09:37.817Z
+! Last modified: 2023-11-08T12:12:17.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12174,6 +12174,7 @@ vkcdnservice.appspot.com^
 ||framentyder.pro^
 ||frameworkdeserve.com^
 ||francetobaccotrading.com^
+||franciatirribi.com^
 ||francisunbeget.com^
 ||francoistsjacqu.info^
 ||franecki.net^
@@ -25866,6 +25867,7 @@ vkcdnservice.appspot.com^
 ||spinbiased.com^
 ||spinbox.net^
 ||spinbox1.com^
+||spinderirpe.com^
 ||spinna.online^
 ||spinna.shop^
 ||spinna.site^
@@ -27863,6 +27865,7 @@ vkcdnservice.appspot.com^
 ||treenghsas.com^
 ||treepullmerriment.com^
 ||trehtnoas.com^
+||treitrejewfish.com^
 ||trekstereo.com^
 ||trellian.com^
 ||tremblingpitcher.com^
@@ -31162,6 +31165,7 @@ vkcdnservice.appspot.com^
 ||zatloudredr.com^
 ||zatnoh.com^
 ||zaubanel.com^
+||zaucharo.xyz^
 ||zauglomo.net^
 ||zauglust.net^
 ||zaumaico.com^
@@ -33816,6 +33820,9 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad*.mtgglobals.com^
+||ad-*.amazonaws.com^
+||tapulsads.ru^
 ||*-hb-bid-feedback.mtgglobals.com^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
@@ -41219,9 +41226,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Nov 2023 22:44 UTC+7
-! Version: 2311052244
-! Blocked: 845 rules
+! Last modified: 08 Nov 2023 14:37 UTC+7
+! Version: 2311081437
+! Blocked: 846 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42477,6 +42484,12 @@ vkcdnservice.appspot.com^
 ||ndbaxn.xyz^
 ||aispyd.icu^
 ||whols.cn^
+||elas666.pics^
+||wyohm.xyz^
+||apis301.com^
+||1k2l3m4n5o.com^
+||c1ecda.com^
+||virginiasibyl.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
