@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-09T06:09:52.157Z
+! Last modified: 2023-11-09T12:12:30.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9229,6 +9229,7 @@ vkcdnservice.appspot.com^
 ||dessly.ru^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||desugeng.xyz^
 ||desxpbub.xyz^
 ||detachedbates.com^
 ||detachmentoccasionedarena.com^
@@ -22425,6 +22426,7 @@ vkcdnservice.appspot.com^
 ||ptechait.com^
 ||ptecmooz.net^
 ||ptecmuny.com^
+||ptedreer.com^
 ||ptedroab.xyz^
 ||pteeksou.xyz^
 ||pteevaih.xyz^
@@ -42517,6 +42519,7 @@ vkcdnservice.appspot.com^
 ||eshbqn.icu^
 ||muyxmmz.cn^
 ||xlam.cn^
+||toyhyhv.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -47795,6 +47798,8 @@ analytics-*.aasaam.com
 # >> E <<
 
 # >> F <<
+||sentry.fidibo.net^
+
 ||vast.filmnet.ir^
 
 # https://github.com/MasterKia/PersianBlocker/issues/107
