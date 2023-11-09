@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-08T18:09:00.183Z
+! Last modified: 2023-11-09T00:32:46.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7185,6 +7185,7 @@ vkcdnservice.appspot.com^
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdpommmy.com^
 ||cdrvrs.com^
 ||cdsbnrs.com^
 ||cdtbox.rocks^
@@ -15399,6 +15400,7 @@ vkcdnservice.appspot.com^
 ||jamchew.com^
 ||jamdomn.pro^
 ||jame3s67jo9yc4e.com^
+||jamminds.com^
 ||jamokeuntress.com^
 ||jamsoulsfriday.com^
 ||jamstech.store^
@@ -23122,6 +23124,7 @@ vkcdnservice.appspot.com^
 ||raphanysteers.com^
 ||raphidewakener.com^
 ||rapidhits.net^
+||rapidlybeaver.com^
 ||rapolok.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -27633,6 +27636,7 @@ vkcdnservice.appspot.com^
 ||topprofitablecpm.com^
 ||topprofitablegate.com^
 ||toprevenuecpmnetwork.com^
+||toprevenuegate.com^
 ||toprevenuenetwork.com^
 ||topsummerapps.net^
 ||topswp.com^
@@ -42505,6 +42509,12 @@ vkcdnservice.appspot.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||mlumlio.cn^
+||xxlfteg.xyz^
+||arbbj6.com^
+||sglahyea.xyz^
+||nndytv.xyz^
+||eshbqn.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
