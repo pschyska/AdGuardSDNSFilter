@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-10T00:32:49.216Z
+! Last modified: 2023-11-10T06:09:21.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40058,8 +40058,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-08 07:03:44 CET
-# entries:        1194
+# last updated:   2023-11-10 07:01:58 CET
+# entries:        1174
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40137,7 +40137,6 @@ vkcdnservice.appspot.com^
 ||analytics-sdk.yle.fi^
 ||analytics.ci-360.se^
 ||angry-golick-2a96e5.netlify.app^
-||annons.lidkopingsnytt.nu^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
 ||annonsera.kyrkanstidning.se^
@@ -40161,7 +40160,6 @@ vkcdnservice.appspot.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
 ||asicsisverige.com^
-||asicsverige.com.se^
 ||asmassets.mtvnservices.com^
 ||asset.pagefair.com^
 ||assets.adfenix.com^
@@ -40180,17 +40178,14 @@ vkcdnservice.appspot.com^
 ||bellmetric.net^
 ||bettersport.se^
 ||bettingstugan.se^
-||bilcertificat.se^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
 ||bjursundfastigheter.se^
-||bmbstatic.blob.core.windows.net^
 ||boost-cdn.manatee.dk^
 ||boot.pbstck.com^
 ||borsvarlden-banners.azurewebsites.net^
 ||brandy.bonniernewslifestyle.se^
-||brews.marketale.com^
 ||browser.covatic.io^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
@@ -40320,14 +40315,12 @@ vkcdnservice.appspot.com^
 ||e.viously.com^
 ||eas.mediekompaniet.com^
 ||easyresearch.se^
-||eccoskorea.com.se^
 ||ecdn.analysis.fi^
 ||ecsanalytics.com^
 ||edge.atmtd.com^
 ||edge.quantserve.com^
 ||embi-media.com^
 ||etc-cdn-staging.ams3.digitaloceanspaces.com^
-||eteppy.com^
 ||eum.instana.io^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
 ||events-collector.spot.im^
@@ -40359,12 +40352,10 @@ vkcdnservice.appspot.com^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
-||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
 ||hapyak.com^
 ||heroaffiliates.com^
 ||hollistersverige.com.se^
-||hpevoices.com^
 ||hsadspixel.net^
 ||h.online-metrix.net^
 ||iba.feedblitz.com^
@@ -40410,7 +40401,6 @@ vkcdnservice.appspot.com^
 ||lasso.link^
 ||leadconnect.ipmaxi.se^
 ||leadenhancer.com^
-||legero.com.se^
 ||leiki.com^
 ||leiki-doubleclick-proxy.appspot.com^
 ||levaochbo.compricer.se^
@@ -40425,7 +40415,6 @@ vkcdnservice.appspot.com^
 ||log-api.newrelic.com^
 ||longchampstockholm.com.se^
 ||low1sneakerssverige.com^
-||lululemonstockholm.com.se^
 ||lwadm.com^
 ||m.burt.io^
 ||m.extellio.com^
@@ -40463,13 +40452,10 @@ vkcdnservice.appspot.com^
 ||missaffiliate.com^
 ||mmetrix.mobi^
 ||moceanads.com^
-||mountainhardwearsverige.com.se^
-||mouskor.com.se^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
 ||mtpc.se^
 ||mtst.io^
-||muckbootssverige.com.se^
 ||munchkin.marketo.net^
 ||my.hellobar.com^
 ||n.dyntrk.com^
@@ -40500,7 +40486,6 @@ vkcdnservice.appspot.com^
 ||p.insplanet.com^
 ||p.lp4.io^
 ||palmangelssverige.com.se^
-||patagonias.com.se^
 ||pcf.tdscd.com^
 ||petrk.com^
 ||piwik.qmmedia.zone^
@@ -40522,7 +40507,6 @@ vkcdnservice.appspot.com^
 ||prd-collector-platform.ex.co^
 ||proxyas.com^
 ||publish-int.se^
-||pumaskorrea.com.se^
 ||pushcrew.com^
 ||pxl.host^
 ||r.existenz.se^
@@ -40531,7 +40515,6 @@ vkcdnservice.appspot.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||redistats.com^
-||reeboksverige.com.se^
 ||region1.google-analytics.com^
 ||regstat.se^
 ||reklam.6x.se^
@@ -40797,7 +40780,6 @@ vkcdnservice.appspot.com^
 ||traffic.feedremedy.com^
 ||trckr.nordiskemedier.dk^
 ||trckr1.nordiskemedier.dk^
-||tretorn-rea.com.se^
 ||trugaze.io^
 ||twin-iq.kickfire.com^
 ||ubembed.com^
@@ -40805,7 +40787,6 @@ vkcdnservice.appspot.com^
 ||upsales.com^
 ||userneeds.dk^
 ||utt.impactcdn.com^
-||vagabondskorrea.com.se^
 ||valentinosverige.com^
 ||veinteractive.com^
 ||vejaskorstockholm.com.se^
@@ -41256,9 +41237,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Nov 2023 14:37 UTC+7
-! Version: 2311081437
-! Blocked: 846 rules
+! Last modified: 10 Nov 2023 10:57 UTC+7
+! Version: 2311101057
+! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41476,6 +41457,7 @@ vkcdnservice.appspot.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
+||realclick.vn^
 ||rec.aiservice.vn^
 ||s.tuoitre.vn^
 ||sbbanner-com.cdn.ampproject.org^
@@ -41926,7 +41908,6 @@ vkcdnservice.appspot.com^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||r.tinmoi24.vn^
-||realclick.vn^
 ||report.mediahub.vn^
 ||report.vnay.vn^
 ||report2.mediahub.vn^
@@ -42037,7 +42018,6 @@ vkcdnservice.appspot.com^
 ||truoctran.com^
 ||ttus.tructiepbongda.me^
 ||tvc.biphim.club^
-||tvnotice.kg.garena.vn^
 ||upfile16.mediaphim.com^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
@@ -42537,6 +42517,7 @@ vkcdnservice.appspot.com^
 ||jppxnhe.xyz^
 ||whqgyo.xyz^
 ||icwnix.icu^
+||bxbyll.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -47839,6 +47820,8 @@ analytics-*.aasaam.com
 
 ||websocket.ilna.ir^
 # >> J <<
+||sentry.alibaba.ir^
+||tracker.jabama.com^
 
 # >> K <<
 ||kar-sentry.karnameh.com^
