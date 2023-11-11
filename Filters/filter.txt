@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-10T18:08:44.464Z
+! Last modified: 2023-11-11T00:32:06.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,20 @@
 !
 !
 !
+||urqxesau.com^
+||fetinhapinhedt.com^
+||herdintwillelitt.com^
+||omruihaeaf.com^
+||egldvmz.com^
+||wnvdgegsjoqoe.xyz^
+||irkilgw.com^
+||kjuftmdofmsrhq.com^
+||cvrkjnaoazazh.com^
+||xojepxhvvan.com^
+||maihikuh.com^
+||abbtrupp.com^
+||uglimontana.digital^
+||waeiftfylzo.com^
 ||mwazhey.com^
 ||eghnybyvn.com^
 ||yhlvgpqsr.com^
@@ -1237,6 +1251,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d36utvtykl56bp.cloudfront.net^
 ||d34gjfm75zhp78.cloudfront.net^
 ||d1f7vr2umogk27.cloudfront.net^
 ||dfjlgfb4lxka5.cloudfront.net^
@@ -28202,6 +28217,7 @@ vkcdnservice.appspot.com^
 ||twinrdsyte.com^
 ||twinrtb.com^
 ||twinsoflave.com^
+||twinsrv.com^
 ||twinstanglebroken.com^
 ||twirlsengaud.life^
 ||twistads.com^
@@ -42541,6 +42557,12 @@ vkcdnservice.appspot.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
+||uncs7.top^
+||vhhxnb.xyz^
+||quqtone.cn^
+||hwvwxerw.xyz^
+||mggzah.icu^
+||vjzjpt.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
