@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-11T06:08:28.454Z
+! Last modified: 2023-11-11T12:12:04.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40093,8 +40093,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-10 07:01:58 CET
-# entries:        1174
+# last updated:   2023-11-11 13:01:39 CET
+# entries:        1170
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40284,7 +40284,6 @@ vkcdnservice.appspot.com^
 ||cdn.relevant-digital.com^
 ||cdn.vip-hd-movies.xyz^
 ||cdn.zx-adnet.com^
-||chaco.com.se^
 ||cintnetworks.com^
 ||cision.com^
 ||cl.k5a.io^
@@ -40424,7 +40423,6 @@ vkcdnservice.appspot.com^
 ||js.hs-banner.com^
 ||jtp.expressen.se^
 ||jubiitag.dk^
-||kaloo.ga^
 ||keenstockholm.com.se^
 ||keymetrics.se^
 ||ksdarprt.reseguiden.se^
@@ -40456,7 +40454,6 @@ vkcdnservice.appspot.com^
 ||m1.analytics.sitevision-cloud.se^
 ||marcjacobssverige.com.se^
 ||markhor.organicfruitapps.com^
-||marlin.kumo.at^
 ||marmotsverige.com.se^
 ||masture.mobi^
 ||matomo.chsc.dk^
@@ -40850,7 +40847,6 @@ vkcdnservice.appspot.com^
 ||ws.sharethis.com^
 ||www.adsnet.se^
 ||www.alphalete.com.se^
-||www.altrasverige.com.se^
 ||www.aservice.tools^
 ||www.awin1.com^
 ||www.blogtoplist.se^
@@ -40863,6 +40859,7 @@ vkcdnservice.appspot.com^
 ||www.kundvisaren.se^
 ||www.linnlilja.se^
 ||www.mymediaindex.com^
+||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
@@ -42568,6 +42565,7 @@ vkcdnservice.appspot.com^
 ||gscsahv011.com^
 ||mvng.cn^
 ||pzcogpj.icu^
+||wymzwy.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
