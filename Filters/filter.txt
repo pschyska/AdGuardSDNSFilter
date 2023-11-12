@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-12T00:35:48.987Z
+! Last modified: 2023-11-12T06:08:34.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -24663,6 +24663,7 @@ vkcdnservice.appspot.com^
 ||scarletcashwi5.com^
 ||scarofnght.com^
 ||scarwan.com^
+||scashwl.com^
 ||scatterdisagreeabledealer.com^
 ||scavelbuntine.life^
 ||scbvydod.xyz^
@@ -31878,6 +31879,7 @@ vkcdnservice.appspot.com^
 ||aralego.com^
 ||arcadebannerexchange.org^
 ||arcadechain.com^
+||armanet.co^
 ||artsai.com^
 ||assemblyexchange.com^
 ||assoc-amazon.ca^
@@ -32178,6 +32180,7 @@ vkcdnservice.appspot.com^
 ||foremedia.net^
 ||forex-affiliate.com^
 ||free3dgame.xyz^
+||freedomadnetwork.com^
 ||freerotator.com^
 ||friendlyduck.com^
 ||fruitkings.com^
@@ -42591,6 +42594,10 @@ vkcdnservice.appspot.com^
 ||drjyjr.xyz^
 ||hixutb.xyz^
 ||qqvlsr.icu^
+||913mj.xyz^
+||hibj.online^
+||bthypgm.cn^
+||whranc.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
