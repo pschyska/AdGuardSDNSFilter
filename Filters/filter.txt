@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-12T12:11:18.464Z
+! Last modified: 2023-11-12T18:07:55.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5251,6 +5251,7 @@ vkcdnservice.appspot.com^
 ||b6143975c9.com^
 ||b6750bc2a1.com^
 ||b6880ffb9a.com^
+||b70f0a4569.com^
 ||b719c1d1e8.com^
 ||b73uszzq3g9h.com^
 ||b76e86c54d.com^
@@ -10799,6 +10800,7 @@ vkcdnservice.appspot.com^
 ||ensetepoggies.com^
 ||ensignconfinedspurt.com^
 ||ensignpancreasrun.com^
+||ensinthetertaning.com^
 ||ensosignal.com^
 ||ensueswill.com^
 ||entailresponded.com^
@@ -11930,6 +11932,7 @@ vkcdnservice.appspot.com^
 ||fleshlyzombis.com^
 ||flewke.com^
 ||flexlinks.com^
+||flhdqtto.com^
 ||flickerbridge.com^
 ||flickeringintention.pro^
 ||fliddercharm.space^
@@ -15530,6 +15533,7 @@ vkcdnservice.appspot.com^
 ||jecorinsetover.guru^
 ||jecromaha.info^
 ||jedotsad.xyz^
+||jedrixurykpjl.com^
 ||jeehaish.com^
 ||jeehathu.com^
 ||jeejujou.net^
@@ -17449,6 +17453,7 @@ vkcdnservice.appspot.com^
 ||lyssapebble.com^
 ||lythonefa.com^
 ||lythrumnoetics.website^
+||lyvbqbvwlbery.top^
 ||lyvbqbvwllblj.top^
 ||lyvbqbvwllvnb.top^
 ||lywasnothycant.info^
@@ -18724,6 +18729,7 @@ vkcdnservice.appspot.com^
 ||mxsuikhqaggf.com^
 ||mxtads.com^
 ||mxuiso.com^
+||mxzluxet.com^
 ||my-hanson.com^
 ||my1elitclub.com^
 ||myabsconds.com^
@@ -19248,6 +19254,7 @@ vkcdnservice.appspot.com^
 ||nixopho.com^
 ||niyamabusiest.casa^
 ||nization.com^
+||njfxmqvonppwq.com^
 ||njlzougyfjo.com^
 ||njufnhkmqpk.xyz^
 ||njvacw.xyz^
@@ -23693,6 +23700,7 @@ vkcdnservice.appspot.com^
 ||resigndictationhorns.com^
 ||resignedsauna.com^
 ||resilesfuriant.guru^
+||resinherjecling.com^
 ||resinyanthdia.com^
 ||resistcorrectly.com^
 ||resistsarcasm.com^
@@ -25416,6 +25424,7 @@ vkcdnservice.appspot.com^
 ||sjomilbedwarf.digital^
 ||sjtactic.com^
 ||sjtbhdeakgsgr.com^
+||sjteyeztnf.com^
 ||skcapepyshdr.xyz^
 ||skeeingfondu.life^
 ||skeezovkjgexs.com^
@@ -28210,6 +28219,7 @@ vkcdnservice.appspot.com^
 ||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||tweeseconable.website^
+||twelfthdistasteful.com^
 ||twelvethighpostal.com^
 ||twentiethparticipation.com^
 ||twentyalight.com^
@@ -40111,8 +40121,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-11 13:01:39 CET
-# entries:        1170
+# last updated:   2023-11-12 17:37:45 CET
+# entries:        1171
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40312,6 +40322,7 @@ vkcdnservice.appspot.com^
 ||cmp.network-n.com^
 ||cncpt.dk^
 ||cncptx.com^
+||cncpt-central.com^
 ||collect.breakit.se^
 ||collect.igodigital.com^
 ||collect.tealiumiq.com^
@@ -42128,6 +42139,7 @@ vkcdnservice.appspot.com^
 ||88lajs3.com^
 ||88lajs4.com^
 ||88lajs6.com^
+||913mj.xyz^
 ||999aa666bb.com^
 ||a4bj6.xyz^
 ||aaknmt.icu^
@@ -42159,6 +42171,7 @@ vkcdnservice.appspot.com^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bjtgds.xyz^
+||bmtfka93.xyz^
 ||bmxvxl.xyz^
 ||bnets9.icu^
 ||bnnfvd.xyz^
@@ -42166,6 +42179,7 @@ vkcdnservice.appspot.com^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
 ||brorzpj.cn^
+||bthypgm.cn^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
 ||bzbopfh.cn^
@@ -42187,6 +42201,7 @@ vkcdnservice.appspot.com^
 ||cntc8.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
+||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
 ||cxpjrqa.cn^
@@ -42202,6 +42217,7 @@ vkcdnservice.appspot.com^
 ||dpj0uvy.icu^
 ||dqlfabc.cn^
 ||dqzehgha.xyz^
+||drjyjr.xyz^
 ||drtyuigj.xyz^
 ||dsbfpt.xyz^
 ||dskjhs.com^
@@ -42288,6 +42304,7 @@ vkcdnservice.appspot.com^
 ||gqleov.icu^
 ||grthhr.xyz^
 ||gscsahv011.com^
+||gscsahv012.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -42298,6 +42315,8 @@ vkcdnservice.appspot.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
 ||hfjhr.cn^
+||hibj.online^
+||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
@@ -42323,6 +42342,7 @@ vkcdnservice.appspot.com^
 ||ionjkcj.cn^
 ||iqs871.com^
 ||irtefs.xyz^
+||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
 ||jevwdao.cn^
@@ -42340,6 +42360,7 @@ vkcdnservice.appspot.com^
 ||jvjmjt.xyz^
 ||kaaqgf.icu^
 ||kjdbcjkmc.com^
+||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
 ||knhmgn.com^
@@ -42390,6 +42411,7 @@ vkcdnservice.appspot.com^
 ||mvng.cn^
 ||mwfyab.icu^
 ||myyxox.icu^
+||mzthbna.xyz^
 ||n019q.com^
 ||nangongmall.com^
 ||naweslt.cn^
@@ -42405,6 +42427,7 @@ vkcdnservice.appspot.com^
 ||njrnwan.cn^
 ||njtbiml.xyz^
 ||nndytv.xyz^
+||nnfalf.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
 ||nubcdaqa.xyz^
@@ -42443,11 +42466,13 @@ vkcdnservice.appspot.com^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qoqoangry.com^
+||qqvlsr.icu^
 ||qtq632.com^
 ||quqtone.cn^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
+||qwnmfiti.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rkds1.icu^
@@ -42528,6 +42553,7 @@ vkcdnservice.appspot.com^
 ||whdwydt.cn^
 ||whols.cn^
 ||whqgyo.xyz^
+||whranc.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
 ||wlzlrlp.xyz^
@@ -42542,6 +42568,7 @@ vkcdnservice.appspot.com^
 ||wymzwy.cn^
 ||wyoaij.icu^
 ||wyohm.xyz^
+||x2y22.fun^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -42552,6 +42579,7 @@ vkcdnservice.appspot.com^
 ||xmvmir.icu^
 ||xqgduov.cn^
 ||xrcembm.cn^
+||xucyufv.icu^
 ||xvorpqz.cn^
 ||xvzfyra.xyz^
 ||xxfphsg.cn^
@@ -42587,22 +42615,6 @@ vkcdnservice.appspot.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||qwnmfiti.xyz^
-||csmfee.xyz^
-||mzthbna.xyz^
-||xucyufv.icu^
-||gscsahv012.com^
-||x2y22.fun^
-||drjyjr.xyz^
-||hixutb.xyz^
-||qqvlsr.icu^
-||913mj.xyz^
-||hibj.online^
-||bthypgm.cn^
-||whranc.cn^
-||nnfalf.xyz^
-||kkmsa.top^
-||itwzlyq.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
