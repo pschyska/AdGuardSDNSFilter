@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-13T12:13:06.319Z
+! Last modified: 2023-11-13T18:08:52.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -39269,7 +39269,6 @@ vkcdnservice.appspot.com^
 ||cpro.baidu.com^
 ||deqwas.net^
 ||download.jword.jp^
-||find-a.jp^
 ||fivecdm.com^
 ||fxprime-popular.com^
 ||hitgraph.jp^
@@ -40126,8 +40125,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-12 17:37:45 CET
-# entries:        1171
+# last updated:   2023-11-13 15:07:44 CET
+# entries:        1061
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40137,9 +40136,7 @@ vkcdnservice.appspot.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
-||ad.spreaker.com^
 ||adcell.io^
-||adclick.se^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -40154,9 +40151,7 @@ vkcdnservice.appspot.com^
 ||ads.fotosidan.se^
 ||ads.holid.io^
 ||ads.insikt24.se^
-||ads.internet24.se^
 ||ads.kelkoo.com^
-||ads.lektion.se^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
@@ -40167,7 +40162,6 @@ vkcdnservice.appspot.com^
 ||ads.skargarden.se^
 ||ads.skidspar.se^
 ||ads.skolvarlden.se^
-||ads.spania.no^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
 ||ads.veterinaren.nu^
@@ -40180,7 +40174,6 @@ vkcdnservice.appspot.com^
 ||advert.livesportmedia.eu^
 ||advert.rabaldermedia.se^
 ||af.analytics.elx.cloud^
-||affiliatemedia.noaccountcasino.com^
 ||affiliatemedia.speedybet.com^
 ||affiliates.videoslots.com^
 ||affiliator.com^
@@ -40194,11 +40187,9 @@ vkcdnservice.appspot.com^
 ||analytics.gen.shield.monitoringservice.co^
 ||analytics.hpscloud.se^
 ||analytics.ica.se^
-||analytics.imponline.com^
 ||analytics.kaltura.com^
 ||analytics.kb.se^
 ||analytics.mailmunch.co^
-||analytics.netcent.se^
 ||analytics.nikkasystems.com^
 ||analytics.sunet.se^
 ||analytics.svt.se^
@@ -40207,14 +40198,11 @@ vkcdnservice.appspot.com^
 ||angry-golick-2a96e5.netlify.app^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
-||annonsera.kyrkanstidning.se^
 ||anonymousdemographics.com^
-||apccdn.apsis1.com^
 ||api.adfenix.com^
 ||api.deep.bi^
 ||api.fouanalytics.com^
 ||api.getlevelten.com^
-||api.innomdc.com^
 ||api.retargetly.com^
 ||api.segment.io^
 ||api3847.d41.co^
@@ -40229,7 +40217,6 @@ vkcdnservice.appspot.com^
 ||arbetaren.innocraft.cloud^
 ||asicsisverige.com^
 ||asmassets.mtvnservices.com^
-||asset.pagefair.com^
 ||assets.adfenix.com^
 ||assets.heylink.com^
 ||auction-release.mlpapi.com^
@@ -40237,19 +40224,16 @@ vkcdnservice.appspot.com^
 ||autodeal.agilecrm.com^
 ||autoleasedi.bytelab.dk^
 ||ax.idg.se^
-||azalead.com^
 ||b.ns1p.net^
 ||b1.trickyrock.com^
 ||banners.instaforex.com^
 ||barbours.com.se^
 ||bcm.interactives.dk^
 ||bellmetric.net^
-||bettersport.se^
 ||bettingstugan.se^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^
 ||bitstarz.com^
-||bjursundfastigheter.se^
 ||boost-cdn.manatee.dk^
 ||boot.pbstck.com^
 ||borsvarlden-banners.azurewebsites.net^
@@ -40261,7 +40245,6 @@ vkcdnservice.appspot.com^
 ||bulletproof-analytics.com^
 ||buzzador.com^
 ||c.eacla.com^
-||cache6.riedta.com^
 ||campersverige.com.se^
 ||cargodisplayads.com^
 ||carneoam.com^
@@ -40283,7 +40266,6 @@ vkcdnservice.appspot.com^
 ||cdn.blueconic.net^
 ||cdn.brandmetrics.com^
 ||cdn.churnkit.com^
-||cdn.connatix.com^
 ||cdn.convertbox.com^
 ||cdn.decibelinsight.net^
 ||cdn.foxpush.net^
@@ -40337,7 +40319,6 @@ vkcdnservice.appspot.com^
 ||collector-pxrf8vapwa.pxchk.net^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-pxrf8vapwa.px-cloud.net^
-||collector.houston-analytics.com^
 ||collect-metrics.aquro.com^
 ||comeonconnect-api.omarsys.com^
 ||connectio.s3.amazonaws.com^
@@ -40352,7 +40333,6 @@ vkcdnservice.appspot.com^
 ||creatopy-adtag-production.b-cdn.net^
 ||cs.ns1p.net^
 ||ctx.matchads.net^
-||curedonswab.com^
 ||curemedia.se^
 ||cxpublic.com^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
@@ -40372,8 +40352,6 @@ vkcdnservice.appspot.com^
 ||dl.episerver.net^
 ||dmp.theadex.com^
 ||doktor-se.onelink.me^
-||doppler-beacons.cbsivideo.com^
-||double.se^
 ||dpm.demdex.net^
 ||drift.com^
 ||driftt.com^
@@ -40384,7 +40362,6 @@ vkcdnservice.appspot.com^
 ||eas.mediekompaniet.com^
 ||easyresearch.se^
 ||ecdn.analysis.fi^
-||ecsanalytics.com^
 ||edge.atmtd.com^
 ||edge.quantserve.com^
 ||embi-media.com^
@@ -40427,7 +40404,6 @@ vkcdnservice.appspot.com^
 ||hsadspixel.net^
 ||h.online-metrix.net^
 ||iba.feedblitz.com^
-||icarabatt.com^
 ||iconosquare.com^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
@@ -40448,17 +40424,13 @@ vkcdnservice.appspot.com^
 ||js.getlasso.co^
 ||js.glitnoraffiliates.com^
 ||js.hsleadflows.net^
-||js.pafpartners.com^
-||jss.jajja.com^
 ||jssdk.pulse.schibsted.com^
 ||jssdkcdns.mparticle.com^
 ||js-agent.newrelic.com^
 ||js.hs-analytics.net^
 ||js.hs-banner.com^
 ||jtp.expressen.se^
-||jubiitag.dk^
 ||keenstockholm.com.se^
-||keymetrics.se^
 ||ksdarprt.reseguiden.se^
 ||kyrkoskatten.se^
 ||kyrkskatt.se^
@@ -40468,7 +40440,6 @@ vkcdnservice.appspot.com^
 ||lasso.link^
 ||leadconnect.ipmaxi.se^
 ||leadenhancer.com^
-||leiki.com^
 ||leiki-doubleclick-proxy.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
@@ -40496,12 +40467,9 @@ vkcdnservice.appspot.com^
 ||matomo.mindbite.cloud^
 ||matomo.studio.se^
 ||matomo.vibb.ax^
-||matomo-sysutv.goteborg.se^
 ||maxetise.net^
 ||mcgtrack.herokuapp.com^
-||mdn2015x4.com^
 ||media.hajper.com^
-||media.plista.com^
 ||mediaglacier.com^
 ||mediakraft.se^
 ||mediaserver.entainpartners.com^
@@ -40510,14 +40478,12 @@ vkcdnservice.appspot.com^
 ||mega.folkbladet.nu^
 ||mega.vk.se^
 ||meltwater.com^
-||menthu.vdsinside.com^
 ||metapic.se^
 ||metrics.brightcove.com^
 ||micro.rubiconproject.com^
 ||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^
-||moceanads.com^
 ||mraffiliate.com^
 ||mrporter-creative.prf.hn^
 ||mtpc.se^
@@ -40525,21 +40491,16 @@ vkcdnservice.appspot.com^
 ||munchkin.marketo.net^
 ||my.hellobar.com^
 ||n.dyntrk.com^
-||n24mobse.nuggad.net^
-||n24se.nuggad.net^
-||nbes.nu^
 ||network.ad.nu^
 ||newstats.blogg.se^
 ||nexus.ensighten.com^
 ||nichehuset.dk^
 ||nobull-sverige.com.se^
-||nordishopping.com^
 ||norranstats.azurewebsites.net^
 ||norstatsurveys.com^
 ||npario-inc.net^
 ||ntrfr.expekt.se^
 ||nucleusanalytics.io^
-||oas.market.se^
 ||offer-go.com^
 ||omni-ad-blocket.herokuapp.com^
 ||onetag-sys.com^
@@ -40549,12 +40510,10 @@ vkcdnservice.appspot.com^
 ||optnmnstr.com^
 ||otc-cdn.relevant-digital.com^
 ||owa.agriprim.se^
-||p.insplanet.com^
 ||p.lp4.io^
 ||palmangelssverige.com.se^
 ||pcf.tdscd.com^
 ||petrk.com^
-||piwik.qmmedia.zone^
 ||pix.spot.im^
 ||pixel.carambo.la^
 ||pixel.glimr.io^
@@ -40568,7 +40527,6 @@ vkcdnservice.appspot.com^
 ||plus.sharedcount.com^
 ||popitunder.com^
 ||portalhc.com^
-||postnord-sverige.com^
 ||pp.lp4.io^
 ||prd-collector-platform.ex.co^
 ||proxyas.com^
@@ -40576,14 +40534,12 @@ vkcdnservice.appspot.com^
 ||pushcrew.com^
 ||pxl.host^
 ||r.existenz.se^
-||rabattcoop.com^
 ||reauthenticator.com^
 ||recirculation.spot.im^
 ||record.findtrustclicks.com^
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
-||reklam.6x.se^
 ||report.23video.com^
 ||research-int.se^
 ||resor-external.barnsemester.se^
@@ -40594,7 +40550,6 @@ vkcdnservice.appspot.com^
 ||revive.nyheteridag.se^
 ||revive.teknikveckan.com^
 ||revive.tv7.fi^
-||revive.zinion.com^
 ||revive.99mac.se^
 ||revrelations.com^
 ||richmediastudio.com^
@@ -40609,14 +40564,12 @@ vkcdnservice.appspot.com^
 ||rum-http-intake.logs.datadoghq.eu^
 ||s.ntv.io^
 ||s10.histats.com^
-||s400.mxcdn.net^
 ||sak.userreport.com^
 ||salesbooster.ai^
 ||sannsyn.com^
 ||sbs.deliveryengine.adswizz.com^
 ||sc.lfeeder.com^
 ||schibsted-cdn.relevant-digital.com^
-||science.omni.se^
 ||script.crazyegg.com^
 ||script.extellio.com^
 ||script.ioam.de^
@@ -40626,7 +40579,6 @@ vkcdnservice.appspot.com^
 ||sdk.pulse.schibsted.com^
 ||se1.siteimprove.com^
 ||se5.pliing.com^
-||sebse.nuggad.net^
 ||secure.curl7bike.com^
 ||secure.quantserve.com^
 ||secure.reaktion.se^
@@ -40639,10 +40591,8 @@ vkcdnservice.appspot.com^
 ||serenitycandles.com.se^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
-||se-ads-microservice.aws.aller.com^
 ||sgtm.inet.se^
 ||sibautomation.com^
-||sifomedia.sportsverige.se^
 ||skattamindre.se^
 ||sleeknote.com^
 ||smetrics.aftonbladet.se^
@@ -40654,7 +40604,6 @@ vkcdnservice.appspot.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
-||ssl.sifomedia.se^
 ||ssl.webserviceaward.com^
 ||stat.modette.se^
 ||stat.nyheter24.se^
@@ -40668,7 +40617,6 @@ vkcdnservice.appspot.com^
 ||static.step.dk^
 ||static.ws.apsis.one^
 ||static.zotabox.com^
-||static-se.plista.com^
 ||statistics.heltenkelt.se^
 ||statistik.blogg1.se^
 ||statistik.mxo.se^
@@ -40676,10 +40624,8 @@ vkcdnservice.appspot.com^
 ||stats.agrar.nu^
 ||stats.blogg.se^
 ||stats.bluebillywig.com^
-||stats.bytelabs.se^
 ||stats.datawrapper.de^
 ||stats.docu.info^
-||stats.healthcare.se^
 ||stats.helsingborg.se^
 ||stats.jibber.social^
 ||stats.kaltura.com^
@@ -40702,7 +40648,6 @@ vkcdnservice.appspot.com^
 ||t.contentinsights.com^
 ||t.elasticsuite.io^
 ||t.fml.rip^
-||t.influact.com^
 ||t.myvisitors.se^
 ||t.raptorsmartadvisor.com^
 ||t0.extreme-dm.com^
@@ -40714,7 +40659,6 @@ vkcdnservice.appspot.com^
 ||tags.bkrtx.com^
 ||tags.crwdcntrl.net^
 ||tags.refinery89.com^
-||tags.webtraffic.se^
 ||tapet.bonniernews.se^
 ||telemetric.dk^
 ||telemetry.bambuser.io^
@@ -40725,7 +40669,6 @@ vkcdnservice.appspot.com^
 ||tourn.co^
 ||tourn.se^
 ||tr.apsisforms.com^
-||track.addevent.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
 ||tracker.gamedock.io^
@@ -40851,15 +40794,12 @@ vkcdnservice.appspot.com^
 ||ubembed.com^
 ||umami.nordiskehandel.cloud^
 ||upsales.com^
-||userneeds.dk^
 ||utt.impactcdn.com^
 ||valentinosverige.com^
-||veinteractive.com^
 ||vejaskorstockholm.com.se^
 ||vg02.met.vgwort.de^
 ||viagogo.se^
 ||viamtvse.112.2o7.net^
-||vikispot.com^
 ||visitanalytics.userreport.com^
 ||vitals.vercel-insights.com^
 ||w.sharethis.com^
@@ -40867,18 +40807,19 @@ vkcdnservice.appspot.com^
 ||wct-1.com^
 ||wct-2.com^
 ||webbannons.ntm.eu^
+||webbplatsanalys.goteborg.se^
 ||websdk.appsflyer.com^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
 ||web-sdk.smartlook.com^
 ||west.statisticplatform.com^
-||widget.boende.se^
 ||widget.cdn.citygate.se^
 ||widget.citygate.se^
 ||widgets.getsitecontrol.com^
 ||widgets.spklw.com^
 ||woomio.com^
 ||ws.sharethis.com^
+||www.adnordics.com^
 ||www.adsnet.se^
 ||www.alphalete.com.se^
 ||www.aservice.tools^
@@ -40891,7 +40832,6 @@ vkcdnservice.appspot.com^
 ||www.guesssverige.com.se^
 ||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
-||www.linnlilja.se^
 ||www.mymediaindex.com^
 ||www.runningshoessverige.com^
 ||www.stadiumstage.com^
@@ -40900,7 +40840,6 @@ vkcdnservice.appspot.com^
 ||www.vejaskor.com.se^
 ||www.vejasskor.com^
 ||www.vizzit.se^
-||www.air-max.se^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
 ||x.bidswitch.net^
@@ -42120,6 +42059,8 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||05826.online^
+||0a2b3c4d5e.com^
 ||0efghij.com^
 ||0ghijkl.com^
 ||0mnopqr.com^
@@ -42260,6 +42201,7 @@ vkcdnservice.appspot.com^
 ||foizico.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -42310,6 +42252,7 @@ vkcdnservice.appspot.com^
 ||grthhr.xyz^
 ||gscsahv011.com^
 ||gscsahv012.com^
+||gscsahv013.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -42350,6 +42293,7 @@ vkcdnservice.appspot.com^
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
+||jcbjcb9.cn^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
 ||jili9.io^
@@ -42381,6 +42325,7 @@ vkcdnservice.appspot.com^
 ||kzprugp.xyz^
 ||l404k.com^
 ||l80ays.com^
+||lblwhh.xyz^
 ||ldvnehc.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
@@ -42442,10 +42387,12 @@ vkcdnservice.appspot.com^
 ||oapyrzde.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
+||oektiu.xyz^
 ||okpcyp.icu^
 ||olltcqg.xyz^
 ||omkxes.xyz^
 ||omzxutfm.com^
+||ooejkd.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -42486,6 +42433,7 @@ vkcdnservice.appspot.com^
 ||rkds5.icu^
 ||rntdqwc.xyz^
 ||roxewwq.cn^
+||rrfccx.com^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rzflhxn.cn^
@@ -42496,6 +42444,7 @@ vkcdnservice.appspot.com^
 ||shipostrich.com^
 ||shx11.xyz^
 ||smlpcz.icu^
+||splfnok.cn^
 ||sqevnrb.com^
 ||sregfle.cn^
 ||srlhgo.cn^
@@ -42505,6 +42454,7 @@ vkcdnservice.appspot.com^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
 ||tewsdnka35.xyz^
+||tfczk.xyz^
 ||tgjdbx.xyz^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
@@ -42512,8 +42462,10 @@ vkcdnservice.appspot.com^
 ||toyhyhv.icu^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
+||tuvixr.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uakxkb.icu^
 ||uavejnys.xyz^
 ||udpdmeb.cn^
 ||ugvbsrbht.xyz^
@@ -42599,6 +42551,7 @@ vkcdnservice.appspot.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||yjxzvqy.xyz^
 ||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -42613,26 +42566,15 @@ vkcdnservice.appspot.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zpvuugw.cn^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||05826.online^
-||splfnok.cn^
-||yjxzvqy.xyz^
-||zmfcnlvu.xyz^
-||gscsahv013.com^
-||lblwhh.xyz^
-||uakxkb.icu^
-||oektiu.xyz^
-||tuvixr.xyz^
-||rrfccx.com^
-||jcbjcb9.cn^
-||tfczk.xyz^
-||zpvuugw.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
