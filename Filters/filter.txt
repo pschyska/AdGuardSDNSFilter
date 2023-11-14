@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-13T18:08:52.312Z
+! Last modified: 2023-11-14T00:33:04.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,19 @@
 !
 !
 !
+||ykmvnhue.com^
+||vauthaud.net^
+||nabicbh.com^
+||ioxffew.com^
+||fodsoack.com^
+||mllatydz.com^
+||bohowhepsked.com^
+||cideparenhem.com^
+||tuddicijloxb.com^
+||diidgtmupyls.com^
+||absjcirtbhm.com^
+||advymjwwsuhs.com^
+||yaiehgpawwu.com^
 ||longlakeweb.com^
 ||sgunqfpjtxfndtt.com^
 ||bvudraqxpl.com^
@@ -1264,6 +1277,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dad1mq193mgtr.cloudfront.net^
 ||d3vw74hiy9xqtm.cloudfront.net^
 ||d36utvtykl56bp.cloudfront.net^
 ||d34gjfm75zhp78.cloudfront.net^
@@ -34764,6 +34778,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||givemelink.cc^
+||mediabrama.com^
 ||ehqaobjhna.com^
 ||istmvh.com^
 ||talktomeplease.biz^
@@ -42575,6 +42591,14 @@ vkcdnservice.appspot.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
+||gaopinoa.cn^
+||ppenid.xyz^
+||imxsvpxe.xyz^
+||llnxdx.xyz^
+||trrmkzesvyqrary.com^
+||gscsahv014.com^
+||fgttbz.xyz^
+||aqiemc.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
