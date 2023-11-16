@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-16T06:09:49.747Z
+! Last modified: 2023-11-16T12:13:06.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -34900,6 +34900,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||wensonk.com^
+||smatr.net^
 ||tailstories.biz^
 ||hhdjcabafaejaibaaaeg.world^
 ||givemelink.cc^
@@ -40263,8 +40265,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-13 15:07:44 CET
-# entries:        1061
+# last updated:   2023-11-16 08:30:36 CET
+# entries:        1059
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40403,7 +40405,6 @@ vkcdnservice.appspot.com^
 ||cdn.biddercore.io^
 ||cdn.blueconic.net^
 ||cdn.brandmetrics.com^
-||cdn.churnkit.com^
 ||cdn.convertbox.com^
 ||cdn.decibelinsight.net^
 ||cdn.foxpush.net^
@@ -40674,7 +40675,6 @@ vkcdnservice.appspot.com^
 ||r.existenz.se^
 ||reauthenticator.com^
 ||recirculation.spot.im^
-||record.findtrustclicks.com^
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
@@ -40968,7 +40968,6 @@ vkcdnservice.appspot.com^
 ||www.dwin2.com^
 ||www.fakturino.se^
 ||www.guesssverige.com.se^
-||www.gymsharkswedens.com^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
 ||www.runningshoessverige.com^
@@ -40980,6 +40979,7 @@ vkcdnservice.appspot.com^
 ||www.vizzit.se^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
+||www.gym-sharksweden.com^
 ||x.bidswitch.net^
 ||yieldbird.com^
 
@@ -42750,6 +42750,9 @@ vkcdnservice.appspot.com^
 ||ybedus.xyz^
 ||xcholvbc.xyz^
 ||hfwld.cn^
+||pzwjonv.icu^
+||zhongfumzzew.com^
+||mbiypew.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
