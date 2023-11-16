@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-16T00:34:12.513Z
+! Last modified: 2023-11-16T06:09:49.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9013,6 +9013,7 @@ vkcdnservice.appspot.com^
 ||datingcentral.top^
 ||datingkoen.site^
 ||datingpush.space^
+||datingsphere.top^
 ||datingstyle.top^
 ||datingtoday.top^
 ||datingtopgirls.com^
@@ -9765,6 +9766,7 @@ vkcdnservice.appspot.com^
 ||dmvporebntt.com^
 ||dmwiguazwm.com^
 ||dmzjmp.com^
+||dn9.biz^
 ||dnavexch.com^
 ||dnavtbt.com^
 ||dnemkhkbsdbl.com^
@@ -12379,6 +12381,7 @@ vkcdnservice.appspot.com^
 ||freutz.com^
 ||freychang.fun^
 ||freyrclogs.com^
+||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
 ||fri4esianewheywr90itrage.com^
@@ -18674,6 +18677,7 @@ vkcdnservice.appspot.com^
 ||mp3bars.com^
 ||mp3dance.today^
 ||mp3pro.xyz^
+||mp3vizor.com^
 ||mpafnyfiexpe.net^
 ||mpanythathav.info^
 ||mpay69.com^
@@ -24917,6 +24921,7 @@ vkcdnservice.appspot.com^
 ||secondcommander.com^
 ||secondlytorch.com^
 ||secondquaver.com^
+||secondtrick.com^
 ||secondunderminecalm.com^
 ||secprf.com^
 ||secrecysatisfy.com^
@@ -25800,6 +25805,7 @@ vkcdnservice.appspot.com^
 ||sobakapi2sa8la09.com^
 ||sobakenchmaphk.com^
 ||sobbingservingcolony.com^
+||sobesed.com^
 ||socalledattestation.com^
 ||socalledscanty.com^
 ||soccercadencefridge.com^
@@ -26472,6 +26478,7 @@ vkcdnservice.appspot.com^
 ||streenoutrove.life^
 ||streetcoddiffident.com^
 ||streetmilligram.com^
+||streetuptowind.com^
 ||streetupwind.com^
 ||streitmackled.com^
 ||stremanp.com^
@@ -26608,6 +26615,7 @@ vkcdnservice.appspot.com^
 ||suitesdyed.space^
 ||suiteshowedlottery.com^
 ||suitetattoo.com^
+||sukcheatppwa.com^
 ||sukultingecauy.info^
 ||sulelysr.com^
 ||sulkvulnerableexpecting.com^
@@ -31229,6 +31237,7 @@ vkcdnservice.appspot.com^
 ||youradexchange.com^
 ||yourbestappever.top^
 ||yourbestlandever.com^
+||yourbestperfectdates.life^
 ||yourcommonfeed.com^
 ||yourcoolfeed.com^
 ||yourfreshposts.com^
@@ -34910,7 +34919,6 @@ vkcdnservice.appspot.com^
 ||iceprogs.ru^
 ||voidnetwork.cloud^
 ||tds.bid^
-||streetuptowind.com^
 ||sarafan.fun^
 ||newrotatormarch23.bid^
 ||rbfour.bid^
@@ -35615,7 +35623,6 @@ vkcdnservice.appspot.com^
 ||iidfxj.com^
 ||qakdki.com^
 ||daklatasvir.su^
-||mp3vizor.com^
 ||annrdf.com^
 ||yycjho.com^
 ||traficon.pro^
@@ -42740,6 +42747,9 @@ vkcdnservice.appspot.com^
 ||bhiagi.xyz^
 ||tfrwxv.xyz^
 ||nlfbdgr.xyz^
+||ybedus.xyz^
+||xcholvbc.xyz^
+||hfwld.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
