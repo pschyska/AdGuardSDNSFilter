@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-17T12:12:49.896Z
+! Last modified: 2023-11-17T18:09:12.334Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,14 @@
 !
 !
 !
+||uueuxygn.com^
+||jaaqbbqbst.com^
+||evenghiougher.com^
+||lfewvebxzt.com^
+||qakmlfdseuzfkz.com^
+||lygbbkgykzcr.com^
+||cymqhqxuchas.com^
+||fuckmehd.pro^
 ||adeditiontowri.org^
 ||grfvngaqbcsw.com^
 ||pbfnyvl.com^
@@ -1370,6 +1378,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||pbcs.realtor.com^
 ||d108nnfn2eigw4.cloudfront.net^
 ||d2osk0po1oybwz.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
@@ -6379,6 +6388,7 @@ vkcdnservice.appspot.com^
 ||boinkcash.com^
 ||boistyaya.com^
 ||bokeden.com^
+||bokomarratel.com^
 ||boldboycott.com^
 ||boldinsect.pro^
 ||bolivarmaltol.website^
@@ -7927,6 +7937,7 @@ vkcdnservice.appspot.com^
 ||cloisonprecool.uno^
 ||cloisteroutdooragitate.com^
 ||clokemidriff.com^
+||cloneabaff.com^
 ||clongerip.com^
 ||clonkfanion.com^
 ||clorec.net^
@@ -8783,6 +8794,7 @@ vkcdnservice.appspot.com^
 ||curinetuxedos.com^
 ||curlybottom.com^
 ||curlyhomes.com^
+||curnberthed.com^
 ||currantsummary.com^
 ||currencyoffuture.com^
 ||curriculture.com^
@@ -10092,6 +10104,7 @@ vkcdnservice.appspot.com^
 ||druttlelimbec.digital^
 ||drwornspinster.com^
 ||dryerpreliminarymainly.com^
+||dryerslegatos.com^
 ||dryinfestinsight.com^
 ||drystervernile.life^
 ||ds3.biz^
@@ -11750,6 +11763,7 @@ vkcdnservice.appspot.com^
 ||fehaishu.com^
 ||feignoccasionedmound.com^
 ||feignthat.com^
+||feiriegershon.com^
 ||fejla.com^
 ||fejwcnbsu.com^
 ||felidaeyojuane.com^
@@ -12106,6 +12120,7 @@ vkcdnservice.appspot.com^
 ||fluttermotorway.com^
 ||fluvioalkyl.uno^
 ||fluxads.com^
+||fluxtowed.com^
 ||fluxy.xyz^
 ||flyerseminarmaintenance.com^
 ||flyingadvert.com^
@@ -14135,6 +14150,7 @@ vkcdnservice.appspot.com^
 ||highercldfrevb.com^
 ||higherlargerdate.com^
 ||highestfollowing.com^
+||highestgaugers.com^
 ||higheurest.com^
 ||highjournalistbargain.com^
 ||highmaidfhr.com^
@@ -16523,6 +16539,7 @@ vkcdnservice.appspot.com^
 ||kubiadserv.icu^
 ||kubicadza.xyz^
 ||kubicserves.icu^
+||kuboohee.xyz^
 ||kubrea.com^
 ||kueezrtb.com^
 ||kuezfqvztt.com^
@@ -16974,6 +16991,7 @@ vkcdnservice.appspot.com^
 ||li2meh6eni3tis.com^
 ||liadinfqfjmc.xyz^
 ||liaisondegreedaughters.com^
+||liambafaying.com^
 ||liambahaloed.com^
 ||libbetpalooka.life^
 ||libcdn.xyz^
@@ -21939,6 +21957,7 @@ vkcdnservice.appspot.com^
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polredsy.com^
 ||polrimsi.xyz^
 ||poltarimus.com^
 ||polyad.net^
@@ -24681,6 +24700,7 @@ vkcdnservice.appspot.com^
 ||samelagura.uno^
 ||sameplace.lol^
 ||samghasps.com^
+||samhitareviser.com^
 ||samogonmarvy.com^
 ||samplerenamed.com^
 ||samplerpouch.com^
@@ -41414,8 +41434,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Nov 2023 16:27 UTC+7
-! Version: 2311151627
+! Last modified: 17 Nov 2023 22:21 UTC+7
+! Version: 2311172221
 ! Blocked: 845 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -42240,8 +42260,11 @@ vkcdnservice.appspot.com^
 ||17123.net^
 ||1bctkn.xyz^
 ||1cpkcnm.com^
+||1iuybpo.com^
 ||1k2l3m4n5o.com^
+||1kfnsra.com^
 ||1kqfzwd.com^
+||1weorpu.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
@@ -42284,6 +42307,7 @@ vkcdnservice.appspot.com^
 ||awaw.asia^
 ||azdiqsb.cn^
 ||bbfnrn.xyz^
+||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
 ||berrynicolo.com^
@@ -42308,8 +42332,10 @@ vkcdnservice.appspot.com^
 ||bzbopfh.cn^
 ||bzvhgbr.xyz^
 ||c1ecda.com^
+||c78zf.xyz^
 ||cadizer.com^
 ||cammak.xyz^
+||caonme.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
@@ -42441,6 +42467,7 @@ vkcdnservice.appspot.com^
 ||gscsahv013.com^
 ||gscsahv014.com^
 ||gslejoki.xyz^
+||gszetzdm.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
 ||haise3.top^
@@ -42453,6 +42480,7 @@ vkcdnservice.appspot.com^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
 ||hibj.online^
+||hihlj.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkrytf.xyz^
@@ -42462,6 +42490,7 @@ vkcdnservice.appspot.com^
 ||hunklm.com^
 ||huxifena.cn^
 ||hvpard.xyz^
+||hw0.com.cn^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
@@ -42506,6 +42535,7 @@ vkcdnservice.appspot.com^
 ||kkmsa.top^
 ||klfbnklddfbkn.com^
 ||klwhuci.cn^
+||kncrya.xyz^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||kshrsf.icu^
@@ -42539,6 +42569,7 @@ vkcdnservice.appspot.com^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
 ||m05ib.xyz^
+||m2k3j7x8.com^
 ||mads7.icu^
 ||mbiypew.cn^
 ||mcds7.icu^
@@ -42597,6 +42628,7 @@ vkcdnservice.appspot.com^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
 ||pajhvd.xyz^
+||pdngnx.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
 ||pfrbnl.xyz^
@@ -42646,6 +42678,7 @@ vkcdnservice.appspot.com^
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||sllo.top^
 ||smlpcz.icu^
 ||splfnok.cn^
 ||sqevnrb.com^
@@ -42653,9 +42686,11 @@ vkcdnservice.appspot.com^
 ||srlhgo.cn^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||tae0t.site^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
+||teamjwar.com^
 ||tewsdnka35.xyz^
 ||tfczk.xyz^
 ||tfrwxv.xyz^
@@ -42774,6 +42809,7 @@ vkcdnservice.appspot.com^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
+||zdjtxjp.xyz^
 ||zents2.top^
 ||zhongfumzzew.com^
 ||zjdruhn.xyz^
@@ -42787,19 +42823,6 @@ vkcdnservice.appspot.com^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||pdngnx.xyz^
-||tae0t.site^
-||zdjtxjp.xyz^
-||gszetzdm.xyz^
-||bctxtl.xyz^
-||kncrya.xyz^
-||caonme.xyz^
-||sllo.top^
-||teamjwar.com^
-||hw0.com.cn^
-||c78zf.xyz^
-||hihlj.online^
-||1weorpu.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
