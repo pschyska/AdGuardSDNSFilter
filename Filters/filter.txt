@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-20T06:10:17.863Z
+! Last modified: 2023-11-20T12:13:38.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||dautegoa.xyz^
 ||uueuxygn.com^
 ||jaaqbbqbst.com^
 ||evenghiougher.com^
@@ -39547,6 +39548,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||creative.141live.com^
 ||shop.vapelog.jp^
 ||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
@@ -40346,8 +40348,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-16 08:30:36 CET
-# entries:        1059
+# last updated:   2023-11-20 07:33:59 CET
+# entries:        1060
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40958,6 +40960,7 @@ vkcdnservice.appspot.com^
 ||tracking.etidning.vlt.se^
 ||tracking.etidning.vn.se^
 ||tracking.eurosport.com^
+||tracking.expressen.se^
 ||tracking.falkopingstidning.se^
 ||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
@@ -42590,7 +42593,6 @@ vkcdnservice.appspot.com^
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
-||l404k.com^
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
@@ -42888,6 +42890,8 @@ vkcdnservice.appspot.com^
 ||rett.top^
 ||zhangyuting04.cn^
 ||holdntlc.com^
+||jane2.top^
+||gcbtgh26.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -47086,6 +47090,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||ipad.pc899.cn^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
