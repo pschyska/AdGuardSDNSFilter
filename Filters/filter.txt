@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-21T06:09:58.173Z
+! Last modified: 2023-11-21T12:13:23.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||jazzlowness.com^
 ||scoggerashrams.com^
 ||dautegoa.xyz^
 ||uueuxygn.com^
@@ -39631,6 +39632,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ggsfq.xyz^
 ||lqxbkqdtvtdhw.xyz^
 ||bilec.xyz^
 ||vkjsnvk.com^
@@ -40357,8 +40359,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-20 07:33:59 CET
-# entries:        1060
+# last updated:   2023-11-21 13:08:45 CET
+# entries:        1061
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -40856,6 +40858,7 @@ vkcdnservice.appspot.com^
 ||stats.bluebillywig.com^
 ||stats.datawrapper.de^
 ||stats.docu.info^
+||stats.ehandel.se^
 ||stats.helsingborg.se^
 ||stats.jibber.social^
 ||stats.kaltura.com^
