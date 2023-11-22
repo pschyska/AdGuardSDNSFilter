@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-22T06:09:58.652Z
+! Last modified: 2023-11-22T12:13:22.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||gronsoad.com^
 ||jazzlowness.com^
 ||scoggerashrams.com^
 ||dautegoa.xyz^
@@ -42982,6 +42983,9 @@ vkcdnservice.appspot.com^
 ||zattdf.xyz^
 ||slkdfg.com^
 ||aiiaqw.xyz^
+||415677.com^
+||jane1.top^
+||stylishar.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
