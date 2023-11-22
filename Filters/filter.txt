@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-21T18:09:46.786Z
+! Last modified: 2023-11-22T00:36:06.558Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3006,6 +3006,7 @@ vkcdnservice.appspot.com^
 ||acofrnsr44es3954b.com^
 ||acollo.info^
 ||acoolreknit.com^
+||acostaom.com^
 ||acquaintanceexemptspinach.com^
 ||acquaintanceinsaneinaudible.com^
 ||acquaintedexpectations.com^
@@ -3207,6 +3208,7 @@ vkcdnservice.appspot.com^
 ||adherenceenmitycentury.com^
 ||adhoc4.net^
 ||adhub.digital^
+||adiingsinspiri.org^
 ||adiquity.com^
 ||adirtlseividwhik.xyz^
 ||aditsafeweb.com^
@@ -4934,6 +4936,7 @@ vkcdnservice.appspot.com^
 ||atadserver.com^
 ||atala-apw.com^
 ||atas.io^
+||atavusatumble.uno^
 ||atcelebitor.com^
 ||atchshipsmoter.com^
 ||atchshipsmotor.com^
@@ -7330,6 +7333,7 @@ vkcdnservice.appspot.com^
 ||cdnaz.win^
 ||cdnbit.com^
 ||cdncontentstorage.com^
+||cdnfimgs.com^
 ||cdnfreemalva.com^
 ||cdngain.com^
 ||cdngcloud.com^
@@ -7371,6 +7375,7 @@ vkcdnservice.appspot.com^
 ||ceeleeca.com^
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
+||cegadazwdsp.com^
 ||cegrithy.net^
 ||ceilingbruiseslegend.com^
 ||ceillons.site^
@@ -7477,6 +7482,7 @@ vkcdnservice.appspot.com^
 ||chairmansmile.com^
 ||chairwaydenew.site^
 ||chaisewharry.top^
+||chaistos.net^
 ||chajagibbous.com^
 ||chalaips.com^
 ||challasowns.com^
@@ -9201,6 +9207,7 @@ vkcdnservice.appspot.com^
 ||decorationguinea.com^
 ||decorationproducer.com^
 ||decordingaudied.site^
+||decreasetome.com^
 ||decreertenet.website^
 ||decurvepon.com^
 ||deddsunland.com^
@@ -10479,6 +10486,7 @@ vkcdnservice.appspot.com^
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
+||eclatssaic.guru^
 ||eclebgjz.com^
 ||eclkmpbn.com^
 ||eclogicmeows.com^
@@ -11337,6 +11345,7 @@ vkcdnservice.appspot.com^
 ||exhno.com^
 ||exi8ef83z9.com^
 ||exinepenname.top^
+||existencethrough.com^
 ||existingcraziness.com^
 ||exists-mazard.icu^
 ||existsdesist.com^
@@ -13671,6 +13680,7 @@ vkcdnservice.appspot.com^
 ||gushswarthy.com^
 ||gussame.com^
 ||gussbkpr.website^
+||gustilyoblate.uno^
 ||gutjfeskwfk.xyz^
 ||gutobtdagruw.com^
 ||gutsnights.com^
@@ -13706,6 +13716,7 @@ vkcdnservice.appspot.com^
 ||gymsgranth.com^
 ||gynicsperdy.top^
 ||gypsiedjilt.com^
+||gypufahuyhov.xyz^
 ||gyratesequal.website^
 ||gzcxtuxgqjrhz.com^
 ||gziduzaj.com^
@@ -14693,6 +14704,7 @@ vkcdnservice.appspot.com^
 ||iaxwnffhikiac.com^
 ||ibatom.com^
 ||ibdjdtmkq.xyz^
+||ibeelten.net^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||ibrapush.com^
@@ -15115,6 +15127,7 @@ vkcdnservice.appspot.com^
 ||infodonorbranch.com^
 ||infopagleey.com^
 ||infopicked.com^
+||informantbartonharass.com^
 ||informcheck.net^
 ||informcheck.uno^
 ||informereng.com^
@@ -16291,6 +16304,7 @@ vkcdnservice.appspot.com^
 ||khatexcepeded.info^
 ||khayatarai.com^
 ||khekwufgwbl.com^
+||khfpcxqwrauj.com^
 ||khment.com^
 ||khocixcadfuk.com^
 ||khoslo.com^
@@ -16473,6 +16487,7 @@ vkcdnservice.appspot.com^
 ||koalaups.com^
 ||koapsuha.net^
 ||kobeden.com^
+||kocairdo.net^
 ||kocaisin.xyz^
 ||kochov.com^
 ||kofirusy.pro^
@@ -16627,6 +16642,7 @@ vkcdnservice.appspot.com^
 ||kwyuivlaychxe.com^
 ||kxfwgqkuojcq.com^
 ||kxhmyeedwkbgrh.xyz^
+||kxnaaxml.com^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
 ||kxwhiogrswx.com^
@@ -21838,6 +21854,7 @@ vkcdnservice.appspot.com^
 ||playamopartners.com^
 ||playbook88a2.com^
 ||playboyconformhusband.com^
+||playeranyd.org^
 ||playerseo.club^
 ||playerstrivefascinated.com^
 ||playertraffic.com^
@@ -25192,6 +25209,7 @@ vkcdnservice.appspot.com^
 ||sesoionsglear.xyz^
 ||sessionamateur.com^
 ||sethiteblindly.guru^
+||setitoefanyor.org^
 ||setopsdata.com^
 ||setsdowntown.com^
 ||setsspreadenable.com^
@@ -29048,6 +29066,7 @@ vkcdnservice.appspot.com^
 ||urgefranchise.com^
 ||urgoldpie.club^
 ||urimnugocfr.com^
+||urimtats.com^
 ||urinehere.com^
 ||uringherenurew.info^
 ||urldelivery.com^
@@ -33068,6 +33087,7 @@ vkcdnservice.appspot.com^
 ||1489231108.rsc.cdn77.org^
 ||1607947743.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1678970469.rsc.cdn77.org^
 ||1691730330.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1754457440.rsc.cdn77.org^
@@ -33127,6 +33147,7 @@ vkcdnservice.appspot.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
 ||campaigns.williamhill.com^
+||cdn22904910.ahacdn.me^
 ||chandrabinduad.com^
 ||chicoryapp.com^
 ||clarity.abacast.com^
@@ -33555,6 +33576,7 @@ vkcdnservice.appspot.com^
 ||d2i4wzwe8j1np9.cloudfront.net^
 ||d2i55s0cnk529c.cloudfront.net^
 ||d2it3a9l98tmsr.cloudfront.net^
+||d2izcn32j62dtp.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
 ||d2j71mqxljhlck.cloudfront.net^
 ||d2jgbcah46jjed.cloudfront.net^
@@ -42951,6 +42973,16 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||lkot.top^
+||38bw0.space^
+||kmlpgjh.xyz^
+||fytpft.xyz^
+||tozwrqnq.xyz^
+||mhzftye.xyz^
+||ileled.xyz^
+||zattdf.xyz^
+||slkdfg.com^
+||aiiaqw.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
