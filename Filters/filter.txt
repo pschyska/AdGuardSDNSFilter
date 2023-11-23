@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-22T18:09:07.873Z
+! Last modified: 2023-11-23T00:34:02.199Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1771,6 +1771,7 @@ vkcdnservice.appspot.com^
 ||004809f9da.com^
 ||0083334e84.com^
 ||00d3ed994e.com^
+||00d84987c0.com^
 ||0111d594c7.com^
 ||01220b75a7.com^
 ||01c70a2a06.com^
@@ -5324,6 +5325,7 @@ vkcdnservice.appspot.com^
 ||azskk.com^
 ||aztecash.com^
 ||azulcw7.com^
+||azwkjjkmbqavv.top^
 ||azxcuqzzozi.com^
 ||azxdkucizr.com^
 ||azxorqjkafa.com^
@@ -6242,6 +6244,7 @@ vkcdnservice.appspot.com^
 ||bletheequus.com^
 ||blewtheleledm.one^
 ||blfoddifghcmeyc.com^
+||blg-1216lb.com^
 ||blicatedlitytl.info^
 ||blidbqd.com^
 ||blindlydutra.com^
@@ -7727,6 +7730,7 @@ vkcdnservice.appspot.com^
 ||ciazdymfepv.com^
 ||cicelysewans.com^
 ||cictivesmuha.xyz^
+||cifawsoqvawj.com^
 ||cifflattie.com^
 ||cightsnating.com^
 ||ciihjhyfoddflhy.xyz^
@@ -13137,6 +13141,7 @@ vkcdnservice.appspot.com^
 ||glo-glo-oom.com^
 ||gloacmie.com^
 ||gloacmug.net^
+||gloaftil.com^
 ||gloagaus.xyz^
 ||gloalrie.com^
 ||gloamucm.xyz^
@@ -15570,6 +15575,7 @@ vkcdnservice.appspot.com^
 ||ixinst.com^
 ||ixjrwczv.com^
 ||ixkhaxpubqf.com^
+||ixkofjcwzlz.com^
 ||ixnow.xyz^
 ||ixnp.com^
 ||ixqthii.com^
@@ -18474,6 +18480,7 @@ vkcdnservice.appspot.com^
 ||mlkpbktmqrsry.com^
 ||mlmyobhn.com^
 ||mlnadvertising.com^
+||mlpeqwkruffs.com^
 ||mlsys.xyz^
 ||mluptwapaj.com^
 ||mlvgxzenoiz.com^
@@ -20842,6 +20849,7 @@ vkcdnservice.appspot.com^
 ||overlettolt.com^
 ||overlook.fun^
 ||overlooked-cup.pro^
+||overlooked-scratch.pro^
 ||overmewer.com^
 ||overnumeler.com^
 ||overonixa.com^
@@ -21584,6 +21592,7 @@ vkcdnservice.appspot.com^
 ||phoaglee.com^
 ||phoalard.net^
 ||phoampun.net^
+||phoamsoa.xyz^
 ||phoapsoo.com^
 ||phoaptee.net^
 ||phoaraut.com^
@@ -29554,6 +29563,7 @@ vkcdnservice.appspot.com^
 ||vidsocean.space^
 ||vidsofdream.space^
 ||vidsplanet.online^
+||vidsplanet.space^
 ||vidsreal.online^
 ||vidsreal.space^
 ||vidsservices.info^
@@ -29723,6 +29733,7 @@ vkcdnservice.appspot.com^
 ||vmwxsiaco.xyz^
 ||vmxqgmefynoep.xyz^
 ||vnbgcquiihu.xyz^
+||vndcrknbh.xyz^
 ||vneffwecka.com^
 ||vnfunsvrtm.com^
 ||vnrherdsxr.com^
@@ -33090,6 +33101,7 @@ vkcdnservice.appspot.com^
 ||1437953666.rsc.cdn77.org^
 ||1483167401.rsc.cdn77.org^
 ||1489231108.rsc.cdn77.org^
+||1590742428.rsc.cdn77.org^
 ||1607947743.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1678970469.rsc.cdn77.org^
@@ -42990,6 +43002,15 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||corcztpc.xyz^
+||ran2.top^
+||7bspu.site^
+||quzpvtt.xyz^
+||rxrdjb.xyz^
+||hkvuzv.xyz^
+||dzdxnbc.xyz^
+||jackdd.xyz^
+||mhglue.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
