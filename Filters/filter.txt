@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-24T06:10:59.744Z
+! Last modified: 2023-11-24T12:12:48.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||prosocrawn.com^
+||geometryworstaugust.com^
 ||cpcstdploqqh.com^
 ||psedregn.net^
 ||edvxygh.com^
@@ -39731,6 +39733,8 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||max211.top^
+||st-fly.b-cdn.net^
 ||ggsfq.xyz^
 ||lqxbkqdtvtdhw.xyz^
 ||bilec.xyz^
@@ -43055,6 +43059,7 @@ vkcdnservice.appspot.com^
 ||huxsvl.xyz^
 ||kkeojk.xyz^
 ||tobyxev.com^
+||wecklrb.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -47241,6 +47246,7 @@ vkcdnservice.appspot.com^
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||gg88.bj.bcebos.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
