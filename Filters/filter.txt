@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-25T12:11:24.047Z
+! Last modified: 2023-11-25T18:08:00.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,13 @@
 !
 !
 !
+||fmorugnmnihrcv.com^
+||oulrarta.net^
+||cdosagebreakfast.com^
+||unpaundlagot.com^
+||onservantas.org^
+||vvzzphefzcdfr.com^
+||qxiabfmmtjhyv.com^
 ||prosocrawn.com^
 ||geometryworstaugust.com^
 ||cpcstdploqqh.com^
@@ -1400,6 +1407,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dppaivsn6f9dy.cloudfront.net^
 ||dv663fc06d35i.cloudfront.net^
 ||pbcs.realtor.com^
 ||d108nnfn2eigw4.cloudfront.net^
@@ -42480,6 +42488,7 @@ vkcdnservice.appspot.com^
 ||awaw.asia^
 ||azdiqsb.cn^
 ||bbfnrn.xyz^
+||bcovazp.icu^
 ||bctxtl.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
@@ -42490,6 +42499,7 @@ vkcdnservice.appspot.com^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bhiagi.xyz^
+||bjhhbox.xyz^
 ||bjtgds.xyz^
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
@@ -42667,6 +42677,7 @@ vkcdnservice.appspot.com^
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
 ||hchuviq.cn^
@@ -42696,6 +42707,7 @@ vkcdnservice.appspot.com^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
 ||hynahyqq.xyz^
+||i9klo.com^
 ||ibsea.cn^
 ||iccjkn.icu^
 ||icvsleec.xyz^
@@ -42721,6 +42733,7 @@ vkcdnservice.appspot.com^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
+||jiangyahuid.top^
 ||jili9.io^
 ||jingxuanjingyan.com^
 ||jlhlnd.xyz^
@@ -42742,6 +42755,7 @@ vkcdnservice.appspot.com^
 ||kbbrptv.xyz^
 ||kbzs88.com^
 ||kemas.top^
+||kfckcu.xyz^
 ||kjdbcjkmc.com^
 ||kkeojk.xyz^
 ||kkmsa.top^
@@ -42764,7 +42778,9 @@ vkcdnservice.appspot.com^
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
+||leidad.xyz^
 ||lejshxao.xyz^
+||lemida.xyz^
 ||lewhrzv.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
@@ -42854,6 +42870,7 @@ vkcdnservice.appspot.com^
 ||pdngnx.xyz^
 ||pdweoyw.cn^
 ||pexavfro.xyz^
+||pezttb.xyz^
 ||pfrbnl.xyz^
 ||phwrju.xyz^
 ||pidurrmu.xyz^
@@ -42865,9 +42882,11 @@ vkcdnservice.appspot.com^
 ||prhphla.xyz^
 ||psroyx.icu^
 ||ptdofj.xyz^
+||pvnzrr.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
 ||pzwjonv.icu^
+||q4v3c.site^
 ||qauksl.icu^
 ||qbhjokk.xyz^
 ||qboywc.xyz^
@@ -42951,6 +42970,7 @@ vkcdnservice.appspot.com^
 ||uakxkb.icu^
 ||uavejnys.xyz^
 ||udpdmeb.cn^
+||uebipacy.xyz^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
@@ -42988,6 +43008,7 @@ vkcdnservice.appspot.com^
 ||vjzjpt.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
+||vrdxznr.xyz^
 ||vrivslffndepxqd.xyz^
 ||vrnrpzy.xyz^
 ||vrosqolcg.com^
@@ -43079,17 +43100,6 @@ vkcdnservice.appspot.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||jiangyahuid.top^
-||bjhhbox.xyz^
-||uebipacy.xyz^
-||q4v3c.site^
-||kfckcu.xyz^
-||pezttb.xyz^
-||leidad.xyz^
-||pvnzrr.xyz^
-||lemida.xyz^
-||haree.cn^
-||i9klo.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
