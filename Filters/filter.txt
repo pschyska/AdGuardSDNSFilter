@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-24T18:08:31.791Z
+! Last modified: 2023-11-25T00:32:21.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3000,6 +3000,7 @@ vkcdnservice.appspot.com^
 ||acerbityjessamy.com^
 ||acertb.com^
 ||acfsxqoa.com^
+||acfyamxwluprpx.com^
 ||acgqanakrna.com^
 ||achaipheegly.com^
 ||achcdn.com^
@@ -14009,6 +14010,7 @@ vkcdnservice.appspot.com^
 ||hdbkome.com^
 ||hditers.com^
 ||hdjfeed.top^
+||hdphumepmtikhbg.xyz^
 ||hdpreview.com^
 ||hdsqvypdt.com^
 ||hdvcode.com^
@@ -32426,6 +32428,7 @@ vkcdnservice.appspot.com^
 ||croea.com^
 ||cryptoads.space^
 ||cryptocoinsad.com^
+||cryptoecom.care^
 ||ctrhub.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
@@ -43076,6 +43079,14 @@ vkcdnservice.appspot.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
+||jiangyahuid.top^
+||bjhhbox.xyz^
+||uebipacy.xyz^
+||q4v3c.site^
+||kfckcu.xyz^
+||pezttb.xyz^
+||leidad.xyz^
+||pvnzrr.xyz^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
