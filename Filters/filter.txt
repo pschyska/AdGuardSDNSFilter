@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-28T00:34:36.519Z
+! Last modified: 2023-11-28T06:09:46.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1824,6 +1824,7 @@ vkcdnservice.appspot.com^
 ||02aa19117f396e9.com^
 ||02ce917efd.com^
 ||0398067ebe.com^
+||03bdb617ed.com^
 ||03ed9035a0801f.com^
 ||04-f-bmf.com^
 ||041353e6dd.com^
@@ -2690,6 +2691,7 @@ vkcdnservice.appspot.com^
 ||9d36cf3402.com^
 ||9d407e803d.com^
 ||9dmnv9z0gtoh.com^
+||9e1852531b.com^
 ||9eb10b7a3d04a.com^
 ||9ee93ebe3a.com^
 ||9f50508b3c.com^
@@ -2768,6 +2770,7 @@ vkcdnservice.appspot.com^
 ||aabproxytests.top^
 ||aabproxytestsdomain.top^
 ||aabtestsproxydomain.top^
+||aac585e70c.com^
 ||aaf26c0e6a.com^
 ||aafdcq.com^
 ||aagm.link^
@@ -8863,6 +8866,7 @@ vkcdnservice.appspot.com^
 ||dabletoverdid.space^
 ||daccroi.com^
 ||dacmaiss.com^
+||dacnmevunbtu.com^
 ||dadhuhram.com^
 ||dadisary.buzz^
 ||dadosgratis.club^
@@ -9721,6 +9725,7 @@ vkcdnservice.appspot.com^
 ||dkrxtdnlg.com^
 ||dkswptmwowowp.xyz^
 ||dl-rms.com^
+||dle-news.xyz^
 ||dledthebarrowb.com^
 ||dledthebarrowb.xyz^
 ||dlfvgndsdfsn.com^
@@ -11936,6 +11941,7 @@ vkcdnservice.appspot.com^
 ||fjdpdcdndc.com^
 ||fjoyewwxrowqy.com^
 ||fjttbkoxer.xyz^
+||fkbkun.com^
 ||fkbwtoopwg.com^
 ||fkcvtiqbbgedb.com^
 ||fkexeijtqstuh.xyz^
@@ -16284,6 +16290,7 @@ vkcdnservice.appspot.com^
 ||kjheamwouk.xyz^
 ||kjisypvbsanmlem.xyz^
 ||kjjbgclciiay.xyz^
+||kjklisbcab.com^
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjsvvnzcto.com^
@@ -17353,6 +17360,7 @@ vkcdnservice.appspot.com^
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
 ||lpawakkabpho.com^
+||lpeqztx.com^
 ||lpetooopz.com^
 ||lpfmeavbcqbmy.com^
 ||lpfulinotaherere.info^
@@ -19648,6 +19656,7 @@ vkcdnservice.appspot.com^
 ||nunciosmegasse.website^
 ||nunhoefey.com^
 ||nuniceberg.com^
+||nupdhyzetb.com^
 ||nupharbakongo.com^
 ||nuphizarrafw.com^
 ||nuqwe.com^
@@ -19710,6 +19719,7 @@ vkcdnservice.appspot.com^
 ||nzikpan.com^
 ||nzilixqaxocl.com^
 ||nzme-ads.co.nz^
+||nzuebfy.com^
 ||o-oo.ooo^
 ||o18.click^
 ||o18.link^
@@ -20644,6 +20654,7 @@ vkcdnservice.appspot.com^
 ||outelectrodean.com^
 ||outensootier.guru^
 ||outflednailbin.com^
+||outfortbogwort.guru^
 ||outgateniceish.com^
 ||outgivefaculae.store^
 ||outglowkeysets.guru^
@@ -23047,6 +23058,7 @@ vkcdnservice.appspot.com^
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qquubyoknj.com^
+||qqvlbzlbqenbk.top^
 ||qqvthrkrseoog.com^
 ||qqvvkebebnbb.top^
 ||qqvvkebebnlq.top^
@@ -24749,6 +24761,7 @@ vkcdnservice.appspot.com^
 ||sbxitxnmfxzyf.com^
 ||sbxsdvwfabvx.com^
 ||sbyqtugtfe.com^
+||scabtauter.uno^
 ||scadsstar.com^
 ||scadstech.com^
 ||scaffoldoppresshaphazard.com^
@@ -26167,6 +26180,7 @@ vkcdnservice.appspot.com^
 ||squirtburpimplore.com^
 ||sqydhgubsy.com^
 ||sr7pv7n5x.com^
+||srabwfqwjoc.com^
 ||srcsmrtgs.com^
 ||sreamyourvids.online^
 ||sreamyourvids.space^
@@ -26728,6 +26742,7 @@ vkcdnservice.appspot.com^
 ||sutiletoroid.com^
 ||sutraf.com^
 ||suwotsoukry.com^
+||suwytid.com^
 ||suxobjjrokh.com^
 ||suxtryawma.com^
 ||suyextfn.com^
@@ -29323,6 +29338,7 @@ vkcdnservice.appspot.com^
 ||vfjmmodcgwxrr.com^
 ||vfjydbpywqwe.xyz^
 ||vfl81ea28aztw7y3.pro^
+||vflouksffoxmlnk.xyz^
 ||vftqmnqopdf.xyz^
 ||vfvdsati.com^
 ||vfyxjsclor.com^
@@ -30981,6 +30997,7 @@ vkcdnservice.appspot.com^
 ||xxaparfuel.xyz^
 ||xxccdshj.com^
 ||xxcpsqquegwmi.com^
+||xxdjxbvafjlw.com^
 ||xxe2.com^
 ||xxgqsbfwbmtqa.com^
 ||xxlargepop.com^
@@ -41384,8 +41401,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Nov 2023 15:23 UTC+7
-! Version: 2311271523
+! Last modified: 28 Nov 2023 10:57 UTC+7
+! Version: 2311281057
 ! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -42911,6 +42928,9 @@ vkcdnservice.appspot.com^
 ||jwjzf.online^
 ||qdtjjxr.xyz^
 ||ccwxma.xyz^
+||zpvfsrb.xyz^
+||raolmsc.com^
+||yongzhen8.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
