@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-29T06:09:41.059Z
+! Last modified: 2023-11-29T12:13:11.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||zsgpdafjd.com^
+||wzcznlufq.com^
 ||ytvigqwx.com^
 ||waunsgraphs.website^
 ||homierceston.top^
@@ -30687,6 +30689,7 @@ vkcdnservice.appspot.com^
 ||wretcheddrunkard.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
+||wrfkjw.com^
 ||wrgjbsjxb.xyz^
 ||wriedwite.uno^
 ||wrient.com^
@@ -42968,6 +42971,7 @@ vkcdnservice.appspot.com^
 ||bavkvoks.xyz^
 ||oouiqi.xyz^
 ||fxkfhbn.xyz^
+||commonwealthproficient.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -49055,6 +49059,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/167320
+@@||cmp.inmobi.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164769
 @@||cdn.us*.exponea.com^|
 ! Blocked by CNAME data.adobedc.net
