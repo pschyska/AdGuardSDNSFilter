@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-30T18:09:33.715Z
+! Last modified: 2023-12-01T00:37:40.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15832,6 +15832,7 @@ vkcdnservice.appspot.com^
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
 ||jlmokzndbiafs.com^
+||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
 ||jmaomkosxfi.com^
 ||jmeanzkixok.com^
@@ -31404,6 +31405,7 @@ vkcdnservice.appspot.com^
 ||yrvzqabfxe.com^
 ||yscntxil.com^
 ||ysemblyjusting.info^
+||ysesials.net^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
 ||ytbzqtrog.com^
@@ -32018,6 +32020,7 @@ vkcdnservice.appspot.com^
 ||adshot.de^
 ||adshuffle.com^
 ||adsiduous.com^
+||adsight.nl^
 ||adslivecorp.com^
 ||adsmart.hk^
 ||adsninja.ca^
@@ -43077,6 +43080,12 @@ vkcdnservice.appspot.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
+||a99hz.space^
+||raxetyrw.xyz^
+||birgga.top^
+||tklnzv.xyz^
+||uhjxitn.xyz^
+||3i2i.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
