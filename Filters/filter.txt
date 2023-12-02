@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-01T18:09:00.623Z
+! Last modified: 2023-12-02T00:33:08.058Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4303,6 +4303,7 @@ vkcdnservice.appspot.com^
 ||amjtizfeqwz.com^
 ||amltaqap.com^
 ||ammankeyan.com^
+||ammannests.com^
 ||ammits.com^
 ||ammunitionconsiderinstitution.com^
 ||amnew.net^
@@ -10738,6 +10739,7 @@ vkcdnservice.appspot.com^
 ||elajowser.com^
 ||elandsbasses.com^
 ||elasticad.net^
+||elasticdestruct.com^
 ||elaterconditin.info^
 ||elbowfixes.com^
 ||elbowrevolutionary.com^
@@ -11127,6 +11129,7 @@ vkcdnservice.appspot.com^
 ||eru5tdmbuwxm.com^
 ||erumen.com^
 ||eruthoxup.com^
+||ervqqtdjdxvgh.com^
 ||eryarriedstr.info^
 ||erysilenitmanb.com^
 ||erytheadestrer.digital^
@@ -21449,6 +21452,7 @@ vkcdnservice.appspot.com^
 ||permissioncornshrine.com^
 ||permitwarmer.com^
 ||peropusparmese.com^
+||perperarenail.com^
 ||perpetratoralienglory.com^
 ||perpetratoronpour.com^
 ||perpetualprovoke.com^
@@ -21616,6 +21620,7 @@ vkcdnservice.appspot.com^
 ||phourdee.com^
 ||phouvemp.net^
 ||phouwims.net^
+||phpkxtwuibv.com^
 ||phraa-lby.com^
 ||phrensaltier.com^
 ||phsism.com^
@@ -22228,6 +22233,7 @@ vkcdnservice.appspot.com^
 ||ppovysmcycmwvv.com^
 ||pppbr.com^
 ||pprq7.com^
+||ppvmhhpxuomjwo.xyz^
 ||pqaz.xyz^
 ||pqxbcydpv.xyz^
 ||practicallyfire.com^
@@ -27229,6 +27235,7 @@ vkcdnservice.appspot.com^
 ||teambetaffiliates.com^
 ||teamsmarched.com^
 ||teamsperilous.com^
+||teaqrznepjv.com^
 ||tearingdubnought.com^
 ||tearingflickermeaning.com^
 ||tearingreasoningempower.com^
@@ -29186,6 +29193,7 @@ vkcdnservice.appspot.com^
 ||uwayemfogibbgh.xyz^
 ||uwfcqtdb.xyz^
 ||uwhuglup.net^
+||uwmlmhcjmjvuqy.xyz^
 ||uwoaptee.com^
 ||uwrzjgtnur.com^
 ||uxdfxyepfow.xyz^
@@ -29779,6 +29787,7 @@ vkcdnservice.appspot.com^
 ||vookamoo.com^
 ||vooodkabelochkaa.com^
 ||voopsoog.xyz^
+||vooruvou.com^
 ||voosegou.xyz^
 ||vooshagy.net^
 ||vooshozo.com^
@@ -29953,6 +29962,7 @@ vkcdnservice.appspot.com^
 ||wahahespecked.guru^
 ||wahile.com^
 ||wahoha.com^
+||waigriwa.xyz^
 ||waihoz.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
@@ -30134,6 +30144,7 @@ vkcdnservice.appspot.com^
 ||wci0jf62.cfd^
 ||wcmcs.net^
 ||wct.link^
+||wcuolmojkzir.com^
 ||wcvyyacmnoamt.com^
 ||wcxegvp.com^
 ||wd282endfws.de^
@@ -33099,6 +33110,7 @@ vkcdnservice.appspot.com^
 ||1080161847.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
+||1186656647.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1194047269.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
@@ -43120,6 +43132,9 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||atmdew.xyz^
+||9i8i.com^
+||cmiega.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
