@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-02T18:07:55.718Z
+! Last modified: 2023-12-03T00:36:36.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42414,11 +42414,13 @@ vkcdnservice.appspot.com^
 ||8zkt7.xyz^
 ||913mj.xyz^
 ||999aa666bb.com^
+||9i8i.com^
 ||a4bj6.xyz^
 ||a99hz.space^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
 ||aaknmt.icu^
+||aapubcti.xyz^
 ||actrqdr.cn^
 ||aflsj.com^
 ||agossuoeach.com^
@@ -42441,6 +42443,7 @@ vkcdnservice.appspot.com^
 ||arbbj6.com^
 ||asfybkiy.xyz^
 ||athecsz.cn^
+||atmdew.xyz^
 ||aueajkn.cn^
 ||autyxdek.xyz^
 ||avplwte.xyz^
@@ -42500,6 +42503,7 @@ vkcdnservice.appspot.com^
 ||ckmbig.xyz^
 ||clcmdie.com^
 ||cmdcdacq.xyz^
+||cmiega.top^
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
@@ -42582,6 +42586,7 @@ vkcdnservice.appspot.com^
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fifqjp.xyz^
+||fjxstt.xyz^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
@@ -42599,6 +42604,7 @@ vkcdnservice.appspot.com^
 ||g0fc3.com^
 ||g2ak5.com^
 ||gaopinoa.cn^
+||gbc27.online^
 ||gcbtgh26.xyz^
 ||gejhhh.cn^
 ||gelbjvl.cn^
@@ -42671,6 +42677,7 @@ vkcdnservice.appspot.com^
 ||hibj.online^
 ||hihlj.online^
 ||hinm.online^
+||hitchprivilege.com^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
@@ -42687,6 +42694,7 @@ vkcdnservice.appspot.com^
 ||huxsvl.xyz^
 ||hvpard.xyz^
 ||hw0.com.cn^
+||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
 ||hxhx9.cn^
@@ -42697,6 +42705,7 @@ vkcdnservice.appspot.com^
 ||icvsleec.xyz^
 ||icwnix.icu^
 ||idddlon.xyz^
+||ieequd.icu^
 ||igkgag.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -42718,6 +42727,7 @@ vkcdnservice.appspot.com^
 ||jcbjcb9.cn^
 ||jeqxuvv.icu^
 ||jevwdao.cn^
+||jhl1993.cn^
 ||jiangjinmoa.cn^
 ||jiangyahuid.top^
 ||jiangyahuir.top^
@@ -42767,6 +42777,7 @@ vkcdnservice.appspot.com^
 ||kyikdee.cn^
 ||kzprugp.xyz^
 ||l80ays.com^
+||latu.cc^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
@@ -42793,6 +42804,7 @@ vkcdnservice.appspot.com^
 ||lwmzoaf.cn^
 ||lwwlkj1.cn^
 ||lxznbz.xyz^
+||lznpcwl.xyz^
 ||m05ib.xyz^
 ||m2k3j7x8.com^
 ||mads7.icu^
@@ -42896,6 +42908,7 @@ vkcdnservice.appspot.com^
 ||qboywc.xyz^
 ||qbswezw.cn^
 ||qdtjjxr.xyz^
+||qgl27.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
@@ -42983,6 +42996,7 @@ vkcdnservice.appspot.com^
 ||trdmtx.xyz^
 ||trrmkzesvyqrary.com^
 ||ttgjwxp.icu^
+||tunovl.xyz^
 ||tuvixr.xyz^
 ||txzepl.xyz^
 ||tyuetxt.com^
@@ -43132,20 +43146,13 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||atmdew.xyz^
-||9i8i.com^
-||cmiega.top^
-||fjxstt.xyz^
-||gbc27.online^
-||aapubcti.xyz^
-||lznpcwl.xyz^
-||hwpvbdj.xyz^
-||tunovl.xyz^
-||ieequd.icu^
-||latu.cc^
-||qgl27.xyz^
-||jhl1993.cn^
-||hitchprivilege.com^
+||2s8s.com^
+||xrrhwgj.xyz^
+||jqvajfvs.xyz^
+||rivdxb.xyz^
+||twlmq.space^
+||uskoie.xyz^
+||needqnv.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -46120,7 +46127,6 @@ vkcdnservice.appspot.com^
 ||zzxedr.xyz^
 ||zzxmcp.com^
 ||06789.xyz^
-||mnnmnn.com^
 ||3p8801.co^
 ||6651tp.com^
 ||79181531227.com^
@@ -46162,6 +46168,7 @@ vkcdnservice.appspot.com^
 ||lmlmvip.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
+||mnnmnn.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||n0211.com^
 ||n0244.com^
