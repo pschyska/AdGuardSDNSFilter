@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-04T18:09:41.591Z
+! Last modified: 2023-12-05T00:35:06.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14317,6 +14317,7 @@ vkcdnservice.appspot.com^
 ||highrevenuecpmnetrok.com^
 ||highrevenuecpmnetwork.com^
 ||highrevenuegate.com^
+||hightech24h.com^
 ||hightopnews.com^
 ||hightopnewstoday.com^
 ||highwaycpmrevenue.com^
@@ -17916,6 +17917,7 @@ vkcdnservice.appspot.com^
 ||mairunoa.xyz^
 ||maisoope.xyz^
 ||maisvznypp.com^
+||maithooh.net^
 ||maiuschaco.com^
 ||majasgaol.com^
 ||majesticinsensitive.com^
@@ -23220,6 +23222,7 @@ vkcdnservice.appspot.com^
 ||qebuvi.xyz^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
+||qemyetwxfcwhtyy.com^
 ||qeqaqnvwmbkyj.top^
 ||qfdn3gyfbs.com^
 ||qfisatztut.com^
@@ -24543,6 +24546,7 @@ vkcdnservice.appspot.com^
 ||rouinfernapean.com^
 ||roujonoa.net^
 ||roulediana.com^
+||roumakie.com^
 ||roumucee.com^
 ||rounca.com^
 ||rouncepreyful.com^
@@ -43321,6 +43325,14 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||dzvy7.space^
+||sqgnqc.xyz^
+||sotunet.com^
+||xgrcfz.xyz^
+||sbhduht.xyz^
+||ygfgzmzo.xyz^
+||vbzrkme.xyz^
+||jltolz.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
