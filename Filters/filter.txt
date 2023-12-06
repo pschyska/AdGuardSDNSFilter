@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-06T06:10:09.736Z
+! Last modified: 2023-12-06T12:13:24.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||nifty-transportation.com^
 ||vrcjleonnurifjy.xyz^
 ||ecoulsou.xyz^
 ||rtwdzxstpanmn.com^
@@ -35258,6 +35259,10 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||flyroll.ru^
+||adstreamer.ru^
+||videohead.tech^
+||openssp.ru^
 ||079301eaff0975107716716fd1cb0dcd.com^
 ||gimnsr.com^
 ||wensonk.com^
@@ -43387,6 +43392,11 @@ vkcdnservice.appspot.com^
 ||awareista.com^
 ||zigyspv.icu^
 ||linj.top^
+||yshlor.icu^
+||ioswhi.com^
+||xiaohuishu.top^
+||05pg9z.com^
+||p5kzev.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
