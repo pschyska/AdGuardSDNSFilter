@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-07T00:34:13.715Z
+! Last modified: 2023-12-07T06:10:07.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40676,8 +40676,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-03 06:36:12 CET
-# entries:        1054
+# last updated:   2023-12-07 06:20:43 CET
+# entries:        1053
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41005,7 +41005,6 @@ vkcdnservice.appspot.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
 ||markhor.organicfruitapps.com^
-||marmotsverige.com.se^
 ||masture.mobi^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
@@ -43451,6 +43450,10 @@ vkcdnservice.appspot.com^
 ||nwpcptmm.xyz^
 ||maxun066.top^
 ||maxun118.top^
+||lvzkfcm.cn^
+||cwrxgb.icu^
+||manymgsgn.com^
+||bmatgg18.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
