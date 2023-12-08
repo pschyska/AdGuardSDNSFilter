@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-07T18:09:30.771Z
+! Last modified: 2023-12-08T00:34:47.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7199,6 +7199,7 @@ vkcdnservice.appspot.com^
 ||cahvpbsikxvvm.xyz^
 ||caicuptu.xyz^
 ||caigluph.xyz^
+||caigobou.com^
 ||caimoasy.net^
 ||cainauhi.xyz^
 ||cainismlungee.uno^
@@ -10641,6 +10642,7 @@ vkcdnservice.appspot.com^
 ||echoachy.xyz^
 ||echoizepheeal.uno^
 ||echskbpghlc.com^
+||eciivxqtur.com^
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
@@ -11183,6 +11185,7 @@ vkcdnservice.appspot.com^
 ||eoveukrnme.info^
 ||eoweridus.com^
 ||eownouncillors.info^
+||eoxaxdglxecvguh.xyz^
 ||epacash.com^
 ||epagogerepines.com^
 ||epailseptox.com^
@@ -15038,6 +15041,7 @@ vkcdnservice.appspot.com^
 ||iletterismyper.info^
 ||ilgwuqgvdzl.com^
 ||iliifmido.xyz^
+||iliketomakingpics.com^
 ||ilinouck.net^
 ||ilkmawgod.site^
 ||illallwoe.com^
@@ -43473,6 +43477,13 @@ vkcdnservice.appspot.com^
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||uito.top^
+||ydv7k.cyou^
+||wwhsxwow.xyz^
+||cnqaaa.xyz^
+||hdbppx.xyz^
+||murdyq.com^
+||wzzlnld.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -47939,6 +47950,7 @@ analytics-*.aasaam.com
 # >> G <<
 
 # >> H <<
+||analytics.hostiran.net^
 ||hiads.hidoctor.ir^
 
 # >> I <<
