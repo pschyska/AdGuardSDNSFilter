@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-09T00:33:48.524Z
+! Last modified: 2023-12-09T06:08:35.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -41853,9 +41853,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 08 Dec 2023 23:41 UTC+7
-! Version: 2312082341
-! Blocked: 860 rules
+! Last modified: 09 Dec 2023 07:40 UTC+7
+! Version: 2312090740
+! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41870,7 +41870,6 @@ vkcdnservice.appspot.com^
 ||adfly.vn^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
-||admon.com.vn^
 ||adnetwork.vn^
 ||adp.vnecdn.net^
 ||ads-admin.hubs.vn^
@@ -42305,6 +42304,7 @@ vkcdnservice.appspot.com^
 ||analytic.baodantoc.vn^
 ||analytic.thuanbui.me^
 ||analytic.vnanet.vn^
+||analytics.admon.com.vn^
 ||analytics.aita.gov.vn^
 ||analytics.amedigital.vn^
 ||analytics.bachtuongphat.com^
@@ -43561,6 +43561,7 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||wnllmyw.xyz^
+||kqvvqv.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
