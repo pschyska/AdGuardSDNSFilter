@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-10T12:11:47.077Z
+! Last modified: 2023-12-10T18:08:20.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12243,6 +12243,7 @@ vkcdnservice.appspot.com^
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -15655,6 +15656,7 @@ vkcdnservice.appspot.com^
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhoncj.com^
 ||jhrfemourkojc.com^
@@ -19228,6 +19230,7 @@ vkcdnservice.appspot.com^
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -41079,8 +41082,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Dec 2023 07:40 UTC+7
-! Version: 2312090740
+! Last modified: 10 Dec 2023 22:06 UTC+7
+! Version: 2312102206
 ! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -42001,6 +42004,7 @@ vkcdnservice.appspot.com^
 ||awareista.com^
 ||awaw.asia^
 ||ax7fv.space^
+||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
 ||bavkvoks.xyz^
@@ -42031,6 +42035,7 @@ vkcdnservice.appspot.com^
 ||boats4.top^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
+||bpdtrfb.xyz^
 ||bplrpf.xyz^
 ||brorzpj.cn^
 ||btfjjwt.xyz^
@@ -42156,6 +42161,7 @@ vkcdnservice.appspot.com^
 ||foizico.cn^
 ||fortxfq.cn^
 ||fotaxf.xyz^
+||foxoxn.xyz^
 ||fptdxkm.com^
 ||fqtljn.xyz^
 ||fsgiosi.com^
@@ -42248,6 +42254,7 @@ vkcdnservice.appspot.com^
 ||hinm.online^
 ||hitchprivilege.com^
 ||hixutb.xyz^
+||hjdkvt.xyz^
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
 ||hkrytf.xyz^
@@ -42348,6 +42355,7 @@ vkcdnservice.appspot.com^
 ||koyuod.xyz^
 ||kqbrgl.icu^
 ||kqvvqv.icu^
+||kqwerp.top^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
@@ -42375,6 +42383,7 @@ vkcdnservice.appspot.com^
 ||lkoqtvvajktpjsk.xyz^
 ||lkot.top^
 ||llblwzg.xyz^
+||lleo.top^
 ||llmxt.fun^
 ||llnxdx.xyz^
 ||lmfehr.xyz^
@@ -42442,6 +42451,7 @@ vkcdnservice.appspot.com^
 ||negnixa.cn^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
+||nfldgbt.xyz^
 ||njppuaj.cn^
 ||njreka.xyz^
 ||njrnwan.cn^
@@ -42458,8 +42468,10 @@ vkcdnservice.appspot.com^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
+||oafhif.icu^
 ||oapyrzde.xyz^
 ||ocpydszq.xyz^
+||ocryndsu.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -42587,7 +42599,9 @@ vkcdnservice.appspot.com^
 ||stylishar.com^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||szbxm.cn^
 ||tae0t.site^
+||tc8ji.website^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
@@ -42635,6 +42649,7 @@ vkcdnservice.appspot.com^
 ||uskoie.xyz^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
+||uwerpyh.cn^
 ||uwfxvvm.cn^
 ||uzrxoxd.xyz^
 ||v34s6r.com^
@@ -42697,6 +42712,7 @@ vkcdnservice.appspot.com^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
+||wxsignin.top^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -42788,19 +42804,6 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||bpdtrfb.xyz^
-||aymwiq.xyz^
-||lleo.top^
-||tc8ji.website^
-||ocryndsu.xyz^
-||nfldgbt.xyz^
-||hjdkvt.xyz^
-||oafhif.icu^
-||kqwerp.top^
-||szbxm.cn^
-||foxoxn.xyz^
-||wxsignin.top^
-||uwerpyh.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
