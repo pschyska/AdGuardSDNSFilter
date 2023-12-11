@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-11T00:35:26.732Z
+! Last modified: 2023-12-11T06:10:16.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8596,6 +8596,7 @@ vkcdnservice.appspot.com^
 ||credentialsdispatchsuperstitious.com^
 ||credibilitystakehemisphere.com^
 ||credibilityyowl.com^
+||creditbitesize.com^
 ||creditorapido.xyz^
 ||credulityicicle.com^
 ||creedaileenboiler.com^
@@ -17056,6 +17057,7 @@ vkcdnservice.appspot.com^
 ||lividtrash.pro^
 ||livrfufzios.com^
 ||livyersremoval.com^
+||liwnffsxdhn.com^
 ||lixnirokjqp.com^
 ||lixsbdifa.com^
 ||lizapaisan.com^
@@ -30341,6 +30343,7 @@ vkcdnservice.appspot.com^
 ||woxfiybiepgltf.com^
 ||woymebsi.com^
 ||wpadmngr.com^
+||wpcgyoyq.com^
 ||wphmavwgay.xyz^
 ||wpkdqrzzcodvjc.com^
 ||wpncdn.com^
@@ -31139,6 +31142,7 @@ vkcdnservice.appspot.com^
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
 ||zelllwrite.com^
+||zelqytckpgzwag.com^
 ||zelrasty.net^
 ||zelrulte.com^
 ||zemewitted.com^
