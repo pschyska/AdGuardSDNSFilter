@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-10T18:08:20.003Z
+! Last modified: 2023-12-11T00:35:26.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31979,6 +31979,7 @@ vkcdnservice.appspot.com^
 ||e-generator.com^
 ||e-planning.net^
 ||e-viral.com^
+||eadsrv.com^
 ||easy-ads.com^
 ||easyhits4u.com^
 ||easyinline.com^
@@ -40690,6 +40691,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/easylistitaly_adservers.txt
 !
 ||adplay.it^
+||brznetwork.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
@@ -40731,7 +40733,6 @@ vkcdnservice.appspot.com^
 ||banzaiadv.it^
 ||beead.it^
 ||break-even.it^
-||brznetwork.com^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
 ||clacson24.com^
@@ -42804,6 +42805,16 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||zf4.top^
+||zxpvalr.xyz^
+||sltle.icu^
+||ptflrj.xyz^
+||aerbgpn.xyz^
+||limopf.top^
+||ravzbd.xyz^
+||ukkkmg.xyz^
+||ucjevgue.xyz^
+||seutop.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
