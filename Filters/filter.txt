@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-12T06:10:06.837Z
+! Last modified: 2023-12-12T12:13:19.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10557,6 +10557,7 @@ vkcdnservice.appspot.com^
 ||eedsaung.net^
 ||eegamaub.net^
 ||eegeeglou.com^
+||eeghadse.com^
 ||eegnacou.com^
 ||eegookiz.com^
 ||eehimeer.xyz^
@@ -12586,6 +12587,7 @@ vkcdnservice.appspot.com^
 ||fxgoaeplst.com^
 ||fxiuuaa.com^
 ||fxrbsadtui.com^
+||fybkhsfntvuyat.com^
 ||fydczmk.com^
 ||fyglovilo.pro^
 ||fyhgvfmryxprn.xyz^
@@ -17754,6 +17756,7 @@ vkcdnservice.appspot.com^
 ||manconsider.com^
 ||mandatorycaptaincountless.com^
 ||mandatscrate.com^
+||manduzo.xyz^
 ||manesscrass.com^
 ||manetgauzily.life^
 ||manewadninth.com^
@@ -17956,6 +17959,7 @@ vkcdnservice.appspot.com^
 ||mbzgogo.xyz^
 ||mc7clurd09pla4nrtat7ion.com^
 ||mcdote.com^
+||mcizas.com^
 ||mckensecuryr.info^
 ||mclude.com^
 ||mcppsh.com^
@@ -21722,6 +21726,7 @@ vkcdnservice.appspot.com^
 ||ploygunline.com^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
+||plrst.com^
 ||plsrcmp.com^
 ||pltamaxr.com^
 ||pluckfigburst.com^
@@ -30617,6 +30622,7 @@ vkcdnservice.appspot.com^
 ||wvnuubmothth.com^
 ||wvpfumotgpsfy.com^
 ||wvsrebdogmq.com^
+||wvvkxni.com^
 ||wvwxjfjjytaf.com^
 ||wvxcdtuhcagistb.xyz^
 ||ww2.imgadult.com^
@@ -31484,6 +31490,7 @@ vkcdnservice.appspot.com^
 ||zukore.com^
 ||zukuta.com^
 ||zukxd6fkxqn.com^
+||zumfzaamdxaw.com^
 ||zumolery.xyz^
 ||zumrieth.com^
 ||zunnynd.com^
@@ -42989,6 +42996,7 @@ vkcdnservice.appspot.com^
 ||0hq6k.site^
 ||lhtnuop.xyz^
 ||mefiafd.top^
+||88dgl.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
