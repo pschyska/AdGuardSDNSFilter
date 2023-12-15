@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-14T18:09:07.036Z
+! Last modified: 2023-12-15T00:35:10.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,22 @@
 !
 !
 !
+||oijorfkfwtdswv.xyz^
+||lmmpjhvli.com^
+||jsgmsoapx.com^
+||jssiiamvbuqqkb.com^
+||faffwut.com^
+||iwjerwaxjblelve.com^
+||zfhuzyw.com^
+||amkbpcc.com^
+||tbradshedm.org^
+||unicatethebe.org^
+||fkyhqtfiopfit.com^
+||xevbjycybvb.xyz^
+||lacerateinventorwaspish.com^
+||cnfccdxhggrz.com^
+||zxwhkosabux.com^
+||ybuduzpe.com^
 ||wwvqxqmcvfxwqq.com^
 ||rodrergi.com^
 ||actpbfa.com^
@@ -50,7 +66,6 @@
 ||vdenwwytxmw.com^
 ||jyfirjqojg.xyz^
 ||endingrude.com^
-||lacerateinventorwaspish.com^
 ||treblescholarfestival.com^
 ||evecticvocoder.life^
 ||korununkept.digital^
@@ -1245,6 +1260,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2f0ixlrgtk7ff.cloudfront.net^
 ||buzzer.xhamster.com^
 ||d12nvv2jqzsaax.cloudfront.net^
 ||d9leupuz17y6i.cloudfront.net^
@@ -16449,6 +16465,7 @@ vkcdnservice.appspot.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzkmmbrrzn.com^
 ||kzsfip3v.cfd^
+||l-iw.de^
 ||l1native.com^
 ||l1vec4ms.com^
 ||l3g3media.com^
@@ -43149,6 +43166,15 @@ vkcdnservice.appspot.com^
 ||1227a.xyz^
 ||jdbfknsbkldns.com^
 ||88dgn.top^
+||88dgx.top^
+||fxbcc.cyou^
+||kkyjfdj.xyz^
+||fhdjdv.xyz^
+||pgieqr.top^
+||ajbpcxi.xyz^
+||qtciam.xyz^
+||birglucy.xyz^
+||vjnxpj.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
