@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-15T06:10:03.081Z
+! Last modified: 2023-12-15T12:12:55.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2277,6 +2277,7 @@ vkcdnservice.appspot.com^
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
+||6001628d3d.com^
 ||600z.com^
 ||6016799644.com^
 ||6068a17eed25.com^
@@ -6691,6 +6692,7 @@ vkcdnservice.appspot.com^
 ||byeej.com^
 ||byfoongusor.com^
 ||bygliscortor.com^
+||byildmkzjyjx.com^
 ||byluvdiscor.com^
 ||bymnyzbkylvkv.top^
 ||bymyth.com^
@@ -9525,6 +9527,7 @@ vkcdnservice.appspot.com^
 ||djmaza.in^
 ||djphnuhkbjf.com^
 ||djqacscl.com^
+||djsdmdbwlpbab.com^
 ||djssdvbo.com^
 ||djxfar6.com^
 ||dk4ywix.com^
@@ -16234,6 +16237,7 @@ vkcdnservice.appspot.com^
 ||klrnhhzh.com^
 ||klsdee.com^
 ||kluauvass.com^
+||kmeqdnmgdkpn.com^
 ||kmhfsrwqdu.com^
 ||kmkixuha.com^
 ||kmlvdhequlpli.com^
@@ -21681,6 +21685,7 @@ vkcdnservice.appspot.com^
 ||plkatdmeje.com^
 ||plkoxaypcmzkus.com^
 ||pllah.com^
+||plmhezvbcjcywo.com^
 ||plntxgh.com^
 ||plocap.com^
 ||plodpicture.com^
@@ -22883,6 +22888,7 @@ vkcdnservice.appspot.com^
 ||qdagihwi.xyz^
 ||qdmil.com^
 ||qdprapwflpvxpyl.com^
+||qdxzpcytii.com^
 ||qe0ckm024b.com^
 ||qebuvi.xyz^
 ||qel-qel-fie.com^
@@ -23975,6 +23981,7 @@ vkcdnservice.appspot.com^
 ||rigill.com^
 ||rigorousoxidenovelty.com^
 ||rigryvusfyu.xyz^
+||rijmfqzckx.com^
 ||rikehemanwho.com^
 ||rileclothingtweak.com^
 ||rilelogicbuy.com^
@@ -34733,7 +34740,7 @@ vkcdnservice.appspot.com^
 !
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
-||s.mangalivre.net^
+
 !
 ! Source name: AdGuard Spanish/Portuguese filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
@@ -43174,6 +43181,8 @@ vkcdnservice.appspot.com^
 ||qtciam.xyz^
 ||birglucy.xyz^
 ||vjnxpj.xyz^
+||alchemeeten.com^
+||worlderva.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
