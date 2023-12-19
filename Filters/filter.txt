@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-19T00:34:38.311Z
+! Last modified: 2023-12-19T06:09:59.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5328,6 +5328,7 @@ vkcdnservice.appspot.com^
 ||bambao.lol^
 ||bambarmedia.com^
 ||banagonatural.tech^
+||banbuyserve.com^
 ||banclip.com^
 ||bandageretaliateemail.com^
 ||bande2az.com^
@@ -13204,6 +13205,7 @@ vkcdnservice.appspot.com^
 ||gorillasneer.com^
 ||gorillatraffic.xyz^
 ||gorillatrk.com^
+||gorillatrking.com^
 ||gorkt.com^
 ||gororn.com^
 ||gorskprof2it8og09.com^
@@ -15826,6 +15828,7 @@ vkcdnservice.appspot.com^
 ||jowarblushed.space^
 ||jowliercollude.com^
 ||jowlishdiviner.com^
+||joxaviri.com^
 ||joycreatorheader.com^
 ||joyfulfearsome.com^
 ||joygaskin.com^
@@ -19945,6 +19948,7 @@ vkcdnservice.appspot.com^
 ||occxhidubbh.com^
 ||ocddolmggjc.com^
 ||ocdouoqjvmn.com^
+||ocean-trk.com^
 ||oceanfilmingexperience.com^
 ||oceanvids.space^
 ||ocexprhrknxrhe.com^
@@ -28085,7 +28089,6 @@ vkcdnservice.appspot.com^
 ||tractusoutsum.com^
 ||tradbypass.com^
 ||trade46-q.com^
-||tradertimerz.media^
 ||trading21s.com^
 ||tradingken.com^
 ||tradingpancreasdevice.com^
@@ -32728,7 +32731,6 @@ vkcdnservice.appspot.com^
 ||nitmus.com^
 ||nitropay.com^
 ||njih.net^
-||nobeta.com.br^
 ||notsy.io^
 ||nsstatic.com^
 ||nsstatic.net^
@@ -43431,6 +43433,7 @@ vkcdnservice.appspot.com^
 ||demifa.top^
 ||rsvvfx.xyz^
 ||hznaxah.cn^
+||uuxfznnf.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
