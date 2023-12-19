@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-18T18:09:30.065Z
+! Last modified: 2023-12-19T00:34:38.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,13 @@
 !
 !
 !
+||ovkamwvdof.com^
+||groacoaz.com^
+||stepchateautolerance.com^
+||strandedpeel.com
+||evwmwnd.com^
+||eneverseen.org^
+||realiukzem.org^
 ||decbusi.com^
 ||jenwyrjbvvlrl.top^
 ||elwcchbwtnohia.com^
@@ -1288,6 +1295,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d39xdhxlbi0rlm.cloudfront.net^
 ||dvv009j588zal.cloudfront.net^
 ||d18ql5xgy7gz3p.cloudfront.net^
 ||d2f0ixlrgtk7ff.cloudfront.net^
@@ -32740,6 +32748,7 @@ vkcdnservice.appspot.com^
 ||offersquared.com^
 ||og-affiliate.com^
 ||okanjo.com^
+||onetag-sys.com^
 ||onlyalad.net^
 ||onscroll.com^
 ||onvertise.com^
@@ -40847,7 +40856,6 @@ vkcdnservice.appspot.com^
 ||nucleusanalytics.io^
 ||offer-go.com^
 ||omni-ad-blocket.herokuapp.com^
-||onetag-sys.com^
 ||openx.financialpublishers.nl^
 ||openx.gamereactor.dk^
 ||openx.jaktsidan.se^
@@ -43413,6 +43421,16 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kuxfznnf.xyz^
+||bvnjeqa.xyz^
+||uckgqa.xyz^
+||n2faw.site^
+||iolsrikq.xyz^
+||ectyet.top^
+||vvlhrz.xyz^
+||demifa.top^
+||rsvvfx.xyz^
+||hznaxah.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
