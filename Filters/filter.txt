@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-19T06:09:59.311Z
+! Last modified: 2023-12-19T12:13:07.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40486,8 +40486,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-17 06:44:32 CET
-# entries:        1055
+# last updated:   2023-12-19 12:26:29 CET
+# entries:        1056
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41024,6 +41024,7 @@ vkcdnservice.appspot.com^
 ||tr.apsisforms.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
+||track.yetric.app^
 ||tracker.gamedock.io^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
@@ -43434,6 +43435,9 @@ vkcdnservice.appspot.com^
 ||rsvvfx.xyz^
 ||hznaxah.cn^
 ||uuxfznnf.xyz^
+||buxfznnf.xyz^
+||tatyboy.top^
+||sdjbcjsbdjk.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
