@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-22T00:33:52.006Z
+! Last modified: 2023-12-22T06:09:52.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32701,6 +32701,7 @@ vkcdnservice.appspot.com^
 ||cpfclassifieds.com^
 ||cpm.media^
 ||cpmleader.com^
+||crazyrocket.io^
 ||crispads.com^
 ||croea.com^
 ||cryptoads.space^
@@ -43757,6 +43758,9 @@ vkcdnservice.appspot.com^
 ||kycxhgrp.xyz^
 ||lmrhhn.xyz^
 ||ghreha.top^
+||1234good.com^
+||uycxhgrp.xyz^
+||huryds.top^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
