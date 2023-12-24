@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-23T18:08:24.503Z
+! Last modified: 2023-12-24T00:36:44.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40607,6 +40607,7 @@ vkcdnservice.appspot.com^
 ||affilixxl.de^
 ||agaso.de^
 ||allads4you.de^
+||alphaads.de^
 ||amunx.de^
 ||anzeigen-vor-ort.de^
 ||anzeigenlieferant.de^
@@ -43859,6 +43860,14 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||tf0.top^
+||kdsahkln.xyz^
+||udb3n.icu^
+||ohdvafp.xyz^
+||ykxafzdu.xyz^
+||cxapio.xyz^
+||tgvgzt.xyz^
+||ielgag.top^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
