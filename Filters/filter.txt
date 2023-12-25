@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-25T12:12:27.941Z
+! Last modified: 2023-12-25T18:08:45.644Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -42856,6 +42856,7 @@ vkcdnservice.appspot.com^
 ||3562wsgkbcm.xyz^
 ||38bw0.space^
 ||3dh9y.com^
+||3hufi.site^
 ||3i2i.com^
 ||3uvz5.xyz^
 ||415677.com^
@@ -42928,6 +42929,7 @@ vkcdnservice.appspot.com^
 ||aqwsms.xyz^
 ||ar611.xyz^
 ||arbbj6.com^
+||arhnuin.xyz^
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||atmdew.xyz^
@@ -42967,6 +42969,7 @@ vkcdnservice.appspot.com^
 ||bhlntz.xyz^
 ||birgga.top^
 ||birglucy.xyz^
+||bjappzvz.xyz^
 ||bjhhbox.xyz^
 ||bjtgds.xyz^
 ||bmatgg18.xyz^
@@ -42980,6 +42983,7 @@ vkcdnservice.appspot.com^
 ||bpdtrfb.xyz^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
+||bqxexj.xyz^
 ||brorzpj.cn^
 ||btfjjwt.xyz^
 ||bthypgm.cn^
@@ -43215,6 +43219,7 @@ vkcdnservice.appspot.com^
 ||hanadrmc.xyz^
 ||hangzhouhdb.top^
 ||haokanshipin.com^
+||hapqncfg.xyz^
 ||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
@@ -43337,6 +43342,7 @@ vkcdnservice.appspot.com^
 ||kemas.top^
 ||kfckcu.xyz^
 ||kfpicimage.xyz^
+||kjappzvz.xyz^
 ||kjdbcjkmc.com^
 ||kkeojk.xyz^
 ||kkisoo.com^
@@ -43433,6 +43439,7 @@ vkcdnservice.appspot.com^
 ||mhglue.xyz^
 ||mhnzhlase.xyz^
 ||mhzftye.xyz^
+||mjappzvz.xyz^
 ||mlumlio.cn^
 ||mlzjepc.xyz^
 ||mmiedf.xyz^
@@ -43522,6 +43529,7 @@ vkcdnservice.appspot.com^
 ||oryhic.xyz^
 ||ovfvkfc.xyz^
 ||owkmmo.xyz^
+||owyame.xyz^
 ||oxrvfsi.xyz^
 ||ozolei.xyz^
 ||p5kzev.com^
@@ -43676,7 +43684,9 @@ vkcdnservice.appspot.com^
 ||tgvgzt.xyz^
 ||thboxp.xyz^
 ||thjwxz.xyz^
+||tipl.top^
 ||titv.top^
+||tjappzvz.xyz^
 ||tklnzv.xyz^
 ||tmlwvxae.xyz^
 ||tmvebl.xyz^
@@ -43719,6 +43729,7 @@ vkcdnservice.appspot.com^
 ||uidwyx.icu^
 ||uiszwh.icu^
 ||uito.top^
+||ujappzvz.xyz^
 ||ukjwyv.icu^
 ||ukkkmg.xyz^
 ||ulrvkee.xyz^
@@ -43825,6 +43836,7 @@ vkcdnservice.appspot.com^
 ||xgrcfz.xyz^
 ||xiaohuishu.top^
 ||xixil.cn^
+||xjappzvz.xyz^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
 ||xkjmjj.com^
@@ -43894,6 +43906,7 @@ vkcdnservice.appspot.com^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
+||zd0.top^
 ||zdjtxjp.xyz^
 ||zents2.top^
 ||zf4.top^
@@ -43922,18 +43935,6 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||kjappzvz.xyz^
-||hapqncfg.xyz^
-||zd0.top^
-||bqxexj.xyz^
-||3hufi.site^
-||owyame.xyz^
-||arhnuin.xyz^
-||ujappzvz.xyz^
-||tipl.top^
-||bjappzvz.xyz^
-||xjappzvz.xyz^
-||tjappzvz.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
@@ -47698,6 +47699,7 @@ vkcdnservice.appspot.com^
 ||dmym.aixyy.com^
 ||dn*.ixinwei.com^
 ||domain1.chahaoba.cn^
+||domcwlxin.360doc.cn^
 ||du1.bbdj.com^
 ||edu.jiukang.org^
 ||ee.shixunwang.net^
