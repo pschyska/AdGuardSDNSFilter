@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-26T00:33:12.425Z
+! Last modified: 2023-12-26T06:09:46.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40887,8 +40887,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-22 07:55:14 CET
-# entries:        1059
+# last updated:   2023-12-26 06:18:49 CET
+# entries:        1060
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41155,6 +41155,7 @@ vkcdnservice.appspot.com^
 ||gase.hit.gemius.pl^
 ||get.s-onetag.com^
 ||girohjalm.com.se^
+||gtm.allabolag.se^
 ||gtm.findroommate.dk^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
@@ -43944,6 +43945,12 @@ vkcdnservice.appspot.com^
 ||daslethv.com^
 ||iiwoqm.xyz^
 ||lkuygf.top^
+||uiiepofl.xyz^
+||hscnpk86.shop^
+||maxunn55.top^
+||maxucc77.top^
+||zu2.top^
+||biiepofl.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
