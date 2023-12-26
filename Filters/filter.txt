@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-26T06:09:46.792Z
+! Last modified: 2023-12-26T12:12:19.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||pepapigg.xyz^
 ||socde.com^
 ||elfnxscnmtao.com^
 ||etxahpe.com^
@@ -43951,6 +43952,11 @@ vkcdnservice.appspot.com^
 ||maxucc77.top^
 ||zu2.top^
 ||biiepofl.xyz^
+||xiiepofl.xyz^
+||055g.com^
+||lkenflknkd.com^
+||iossdok.com^
+||tiiepofl.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
@@ -49218,6 +49224,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
+@@||recommender.scarabresearch.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167622
 ! Blocked by CNAME extole.com
 @@||refer.discover.com^|
