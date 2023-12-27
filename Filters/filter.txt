@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-26T18:08:45.575Z
+! Last modified: 2023-12-27T00:32:44.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4086,6 +4086,7 @@ vkcdnservice.appspot.com^
 ||ameedbezique.uno^
 ||amelatrina.com^
 ||amendablepartridge.com^
+||amendsgeneralize.com^
 ||amenityleisurelydays.com^
 ||amenityremorse.com^
 ||ameofmuki.info^
@@ -12056,6 +12057,7 @@ vkcdnservice.appspot.com^
 ||flipool.com^
 ||flixcontentshop.com^
 ||flixdot.com^
+||flixtrial.com^
 ||flmfcox.com^
 ||flneurtoyed.tech^
 ||flnxcveswar.com^
@@ -43978,6 +43980,13 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||dfg6.top^
+||dbpxivi.xyz^
+||1sk27.fun^
+||koqsxdpx.xyz^
+||jkbdpp.xyz^
+||wqnwdjjc.xyz^
+||uuuzuu.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
