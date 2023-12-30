@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-12-29T18:09:00.352Z
+! Last modified: 2023-12-30T00:32:48.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9714,6 +9714,7 @@ vkcdnservice.appspot.com^
 ||divedresign.com^
 ||diversecrashconcern.com^
 ||diversityspaceship.com^
+||divertbywordinjustice.com^
 ||dividedbecameinquisitive.com^
 ||dividedching.com^
 ||dividedscientific.com^
@@ -14371,6 +14372,7 @@ vkcdnservice.appspot.com^
 ||hmsykhbqvesopt.xyz^
 ||hmyuokltxplqwfa.com^
 ||hn1l.online^
+||hn1l.site^
 ||hnkyxyknp.com^
 ||hnrgmc.com^
 ||hntkeiupbnoaeha.xyz^
@@ -31922,6 +31924,7 @@ vkcdnservice.appspot.com^
 ||yoginsnorland.com^
 ||yojanaarabic.life^
 ||yokeeroud.com^
+||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yonabrar.com^
 ||yonhelioliskor.com^
@@ -33691,6 +33694,7 @@ vkcdnservice.appspot.com^
 !
 ||1002867133.rsc.cdn77.org^
 ||1035218900.rsc.cdn77.org^
+||1044195567.rsc.cdn77.org^
 ||1052982219.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
@@ -33703,6 +33707,7 @@ vkcdnservice.appspot.com^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1885212191.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -44163,6 +44168,12 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||ksvkfwth.xyz^
+||ugpibtpk.xyz^
+||rsvkfwth.xyz^
+||zohdfd.xyz^
+||jhpbtp.xyz^
+||sdxzqec.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
