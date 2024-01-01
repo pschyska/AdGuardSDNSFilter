@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-01T12:12:40.158Z
+! Last modified: 2024-01-01T18:09:25.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -43210,6 +43210,7 @@ vkcdnservice.appspot.com^
 ||beste3.icu^
 ||bfbchr.xyz^
 ||bfgtfxd.com^
+||bflybplr.xyz^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bhiagi.xyz^
@@ -43286,6 +43287,7 @@ vkcdnservice.appspot.com^
 ||crhabkd.cn^
 ||criknudsr.com^
 ||cry2h.cn^
+||cshlal.icu^
 ||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
@@ -43408,6 +43410,7 @@ vkcdnservice.appspot.com^
 ||fyexyd.icu^
 ||fytpft.xyz^
 ||fzgetdy.cn^
+||fznxvf.xyz^
 ||g0fc3.com^
 ||g2ak5.com^
 ||gaopinoa.cn^
@@ -43506,6 +43509,7 @@ vkcdnservice.appspot.com^
 ||hkljed.xyz^
 ||hkrytf.xyz^
 ||hkvuzv.xyz^
+||hltqsbl.cn^
 ||hnkhgw.com^
 ||holdntlc.com^
 ||holmesmind.com^
@@ -43522,6 +43526,7 @@ vkcdnservice.appspot.com^
 ||hvlitr.xyz^
 ||hvpard.xyz^
 ||hw0.com.cn^
+||hwhacum.cn^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
@@ -43616,6 +43621,7 @@ vkcdnservice.appspot.com^
 ||kekmhvbb.xyz^
 ||kemas.top^
 ||kfckcu.xyz^
+||kflybplr.xyz^
 ||kfpicimage.xyz^
 ||kiiepofl.xyz^
 ||kjappzvz.xyz^
@@ -43720,6 +43726,7 @@ vkcdnservice.appspot.com^
 ||meilunsc.com^
 ||mekmhvbb.xyz^
 ||merywf.xyz^
+||mflybplr.xyz^
 ||mfnfylx.xyz^
 ||mggzah.icu^
 ||mhdlll.com^
@@ -43964,6 +43971,7 @@ vkcdnservice.appspot.com^
 ||sllo.top^
 ||sltle.icu^
 ||smbx8.net^
+||smgsue.xyz^
 ||smlpcz.icu^
 ||sogou.st^
 ||sotunet.com^
@@ -43974,7 +43982,9 @@ vkcdnservice.appspot.com^
 ||srldkqj.cn^
 ||srlhgo.cn^
 ||stylishar.com^
+||suclj.xyz^
 ||suzoqz.icu^
+||svhdbmp.cn^
 ||syjkscy.cn^
 ||szbxm.cn^
 ||tae0t.site^
@@ -43990,6 +44000,7 @@ vkcdnservice.appspot.com^
 ||tewsdnka35.xyz^
 ||tf0.top^
 ||tfczk.xyz^
+||tflybplr.xyz^
 ||tfrwxv.xyz^
 ||tgjdbx.xyz^
 ||tgvgzt.xyz^
@@ -44041,6 +44052,7 @@ vkcdnservice.appspot.com^
 ||udsahkln.xyz^
 ||uebipacy.xyz^
 ||uekmhvbb.xyz^
+||uflybplr.xyz^
 ||ugpibtpk.xyz^
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
@@ -44083,6 +44095,7 @@ vkcdnservice.appspot.com^
 ||valerieavisnba.com^
 ||valerieurania.com^
 ||vbzrkme.xyz^
+||vcjczwnc.xyz^
 ||vdggsd001.com^
 ||vdggsd002.com^
 ||vdggsd003.com^
@@ -44165,6 +44178,7 @@ vkcdnservice.appspot.com^
 ||xdsahkln.xyz^
 ||xeazoj.icu^
 ||xekmhvbb.xyz^
+||xflybplr.xyz^
 ||xfqrsjq.cn^
 ||xfztgxt.com^
 ||xg6hb.xyz^
@@ -44259,6 +44273,7 @@ vkcdnservice.appspot.com^
 ||zigyspv.icu^
 ||ziyzcu.buzz^
 ||zjdruhn.xyz^
+||zjjlhvo.xyz^
 ||zkfojr.xyz^
 ||zlncvn.xyz^
 ||zmfcnlvu.xyz^
@@ -44281,19 +44296,6 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||fznxvf.xyz^
-||hwhacum.cn^
-||vcjczwnc.xyz^
-||kflybplr.xyz^
-||zjjlhvo.xyz^
-||hltqsbl.cn^
-||smgsue.xyz^
-||uflybplr.xyz^
-||cshlal.icu^
-||svhdbmp.cn^
-||bflybplr.xyz^
-||xflybplr.xyz^
-||tflybplr.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
