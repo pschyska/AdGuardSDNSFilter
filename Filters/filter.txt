@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-01T00:38:10.261Z
+! Last modified: 2024-01-01T06:10:39.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3744,6 +3744,7 @@ vkcdnservice.appspot.com^
 ||agloogly.com^
 ||agloowie.com^
 ||agmtrk.com^
+||agngplsooascil.com^
 ||agnoetecluster.uno^
 ||agnrcrpwyyn.com^
 ||agonelambes.website^
@@ -5321,6 +5322,7 @@ vkcdnservice.appspot.com^
 ||babyishmate.pro^
 ||babynaz.xyz^
 ||babyniceshark.com^
+||babysittingbeerthrobbing.com^
 ||bac23cfb5b.com^
 ||baccatepsychon.com^
 ||bacishushaby.com^
@@ -5587,6 +5589,7 @@ vkcdnservice.appspot.com^
 ||bccda4ab57.com^
 ||bcczmm.com^
 ||bcd7ad4271.com^
+||bcd8072b72.com^
 ||bcea24c9be.com^
 ||bceptemujahb.com^
 ||bcfaonqj.com^
@@ -12071,6 +12074,7 @@ vkcdnservice.appspot.com^
 ||fkexeijtqstuh.xyz^
 ||fkovjfx.com^
 ||fksnk.com^
+||fkugzbngtla.com^
 ||fkyhqtfiopfit.com^
 ||fla4n6ne7r8ydcohcojnnor.com^
 ||flabbyyolkinfection.com^
@@ -12700,6 +12704,7 @@ vkcdnservice.appspot.com^
 ||g91games.com^
 ||ga-ads.com^
 ||gacoufti.com^
+||gadbytyhmybnir.com^
 ||gadgetnews.one^
 ||gadsabs.com^
 ||gadsatz.com^
@@ -23426,6 +23431,7 @@ vkcdnservice.appspot.com^
 ||pyxzealot.com^
 ||pyzwxkb.com^
 ||pzawclkyxuno.com^
+||pzeazgmwem.com^
 ||pzgbqbk.com^
 ||pzoynkxexnx.com^
 ||pzwdtz.com^
@@ -25451,6 +25457,7 @@ vkcdnservice.appspot.com^
 ||sdeiqmltglx.com^
 ||sdg.desihamster.pro^
 ||sdhfbvd.com^
+||sdhltncfqbu.com^
 ||sdkfjxjertertry.com^
 ||sdkl.info^
 ||sdmfyqkghzedvx.com^
@@ -41100,8 +41107,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-31 07:59:21 CET
-# entries:        1078
+# last updated:   2024-01-01 06:36:19 CET
+# entries:        1069
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41125,14 +41132,12 @@ vkcdnservice.appspot.com^
 ||ads.expekt.se^
 ||ads.fotosidan.se^
 ||ads.holid.io^
-||ads.insikt24.se^
 ||ads.kelkoo.com^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
 ||ads.mrgreen.com^
 ||ads.nordreportern.se^
-||ads.nyatider.nu^
 ||ads.playpilot.com^
 ||ads.skargarden.se^
 ||ads.skidspar.se^
@@ -41194,7 +41199,6 @@ vkcdnservice.appspot.com^
 ||apsislead.com^
 ||aquaplatform.com^
 ||arbetaren.innocraft.cloud^
-||asicsisverige.com^
 ||asmassets.mtvnservices.com^
 ||assets.adfenix.com^
 ||assets.heylink.com^
@@ -41228,7 +41232,6 @@ vkcdnservice.appspot.com^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
-||caterpillarsverige.net^
 ||caviera-sverige.shop^
 ||cdn.adfenix.com^
 ||cdn.adswizz.com^
@@ -41250,7 +41253,6 @@ vkcdnservice.appspot.com^
 ||cdn.gravitec.net^
 ||cdn.hubvisor.io^
 ||cdn.jst.ai^
-||cdn.maaw.io^
 ||cdn.matomo.cloud^
 ||cdn.myadmessenger.com^
 ||cdn.oribi.io^
@@ -41290,7 +41292,6 @@ vkcdnservice.appspot.com^
 ||cncptx.com^
 ||cncpt-central.com^
 ||collect.breakit.se^
-||collect.igodigital.com^
 ||collect.tealiumiq.com^
 ||collector.brandmetrics.com^
 ||collector.cint.com^
@@ -41375,7 +41376,6 @@ vkcdnservice.appspot.com^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
-||gym-shark-sverige.com.se^
 ||hapyak.com^
 ||heroaffiliates.com^
 ||hsadspixel.net^
@@ -44279,6 +44279,10 @@ vkcdnservice.appspot.com^
 ||zjjlhvo.xyz^
 ||hltqsbl.cn^
 ||smgsue.xyz^
+||uflybplr.xyz^
+||cshlal.icu^
+||svhdbmp.cn^
+||bflybplr.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
