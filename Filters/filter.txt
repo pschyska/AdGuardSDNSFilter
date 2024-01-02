@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-02T00:33:33.562Z
+! Last modified: 2024-01-02T06:09:48.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33732,6 +33732,7 @@ vkcdnservice.appspot.com^
 ||webwap.org^
 ||whatstheword.co^
 ||whizzco.com^
+||widget.packeta.com^
 ||wlmarketing.com^
 ||wmmediacorp.com^
 ||wordego.com^
@@ -44314,6 +44315,10 @@ vkcdnservice.appspot.com^
 ||kltmjevd.xyz^
 ||lbjdbym.xyz^
 ||mlegyu.xyz^
+||3azpx.xyz^
+||gcwwsv.icu^
+||ultmjevd.xyz^
+||bltmjevd.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
