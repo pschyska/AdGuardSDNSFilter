@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-01T18:09:25.229Z
+! Last modified: 2024-01-02T00:33:33.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,17 @@
 !
 !
 !
+||igjptqlywyvfveq.com^
+||wuksosta.com^
+||vztlivv.com^
+||nerfctv.com^
+||ywhowascryin.com^
+||ytoworkwi.org^
+||wkpfgjbmd.com^
+||sfuoasztfxr.com^
+||rtxbdugpeumpmye.xyz^
+||pgmfuffwfl.com^
+||myraqcajwkeyqd.com^
 ||srwfwllymprt.com^
 ||orpoobj.com^
 ||worldwhoisq.org^
@@ -1320,6 +1331,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1qow5kxfhwlu8.cloudfront.net^
 ||d2s31asn9gp5vl.cloudfront.net^
 ||sponsor.imacdn.com^
 ||d3qvcyf9oa6vhw.cloudfront.net^
@@ -44296,6 +44308,12 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||njpyrn.xyz^
+||skdaj.cn^
+||ecpshapm.xyz^
+||kltmjevd.xyz^
+||lbjdbym.xyz^
+||mlegyu.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
