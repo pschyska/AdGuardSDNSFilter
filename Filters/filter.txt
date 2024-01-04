@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-04T06:09:43.672Z
+! Last modified: 2024-01-04T12:12:36.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11660,7 +11660,6 @@ vkcdnservice.appspot.com^
 ||falcatayamalka.com^
 ||falkag.net^
 ||falkwo.com^
-||fallaciousfifth.com^
 ||fallingseveral.com^
 ||fallinsolence.com^
 ||falloutbraidengaged.com^
@@ -26042,7 +26041,6 @@ vkcdnservice.appspot.com^
 ||shitcustody.com^
 ||shitucka.net^
 ||shivateicher.com^
-||shiverscissors.com^
 ||shlyapajhd2kle8pnc09.com^
 ||shoabsie.xyz^
 ||shoageep.com^
@@ -33937,7 +33935,6 @@ vkcdnservice.appspot.com^
 ||webwap.org^
 ||whatstheword.co^
 ||whizzco.com^
-||widget.packeta.com^
 ||wlmarketing.com^
 ||wmmediacorp.com^
 ||wordego.com^
@@ -39816,6 +39813,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||srvd2204.com^
 ||cryptosmoke.care^
 ||intermediaworks.com^
 ||rtb.pixad.com.tr^
@@ -41336,8 +41334,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-01 06:36:19 CET
-# entries:        1069
+# last updated:   2024-01-04 12:11:58 CET
+# entries:        1070
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41396,6 +41394,7 @@ vkcdnservice.appspot.com^
 ||analytics.codigo.se^
 ||analytics.gen.shield.monitoringservice.co^
 ||analytics.hpscloud.se^
+||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kaltura.com^
 ||analytics.kb.se^
@@ -44551,6 +44550,12 @@ vkcdnservice.appspot.com^
 ||oqvucp.icu^
 ||tszoxhtk.xyz^
 ||uqjqripb.xyz^
+||xqjqripb.xyz^
+||werssf.com^
+||at885.icu^
+||bqjqripb.xyz^
+||bujz.top^
+||tqjqripb.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
