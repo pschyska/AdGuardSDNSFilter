@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-05T12:12:52.580Z
+! Last modified: 2024-01-05T18:09:09.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||hrkplkgjs.com^
+||glowedhyalins.com^
 ||dotercouther.uno^
 ||overlapparians.com^
 ||artertapirus.com^
@@ -3646,6 +3648,7 @@ vkcdnservice.appspot.com^
 ||affyrolo.info^
 ||afgham.com^
 ||afgwciwbjxcsfro.com^
+||afgwsgl.com^
 ||afgzipohma.com^
 ||afm01.com^
 ||afodreet.net^
@@ -6137,6 +6140,7 @@ vkcdnservice.appspot.com^
 ||blakelousepreoccupation.com^
 ||blamads.com^
 ||blamedbuckie.fun^
+||blamersservian.digital^
 ||blancheavily.uno^
 ||bland-husband.com^
 ||blanddish.pro^
@@ -6876,6 +6880,7 @@ vkcdnservice.appspot.com^
 ||bvoqzs.com^
 ||bvtfutroyr.com^
 ||bvudraqxpl.com^
+||bvyblnenz.com^
 ||bwbmyzvjnqlna.top^
 ||bwbmyzvjnqlwv.top^
 ||bwmvzwkbqlmrz.top^
@@ -7372,6 +7377,7 @@ vkcdnservice.appspot.com^
 ||cendantofth.org^
 ||ceneicons.com^
 ||ceneverdreams.com^
+||ceneverdreams.org^
 ||cennter.com^
 ||cenous.com^
 ||censelysoviell.xyz^
@@ -9096,6 +9102,7 @@ vkcdnservice.appspot.com^
 ||dayznews.biz^
 ||daz3rw5a5k4h.com^
 ||dazhantai.com^
+||db20da1532.com^
 ||db5f3a82ab.com^
 ||db72c26349.com^
 ||dbbsrv.com^
@@ -10260,6 +10267,7 @@ vkcdnservice.appspot.com^
 ||dummieseardrum.com^
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
+||dunceryquant.com^
 ||duncip.com^
 ||dunct.com^
 ||dunderaffiliates.com^
@@ -11156,6 +11164,7 @@ vkcdnservice.appspot.com^
 ||erinoccluse.website^
 ||erizoricher.life^
 ||erkeincepts.website^
+||erlvjjyk.com^
 ||erm5aranwt7hucs.com^
 ||ernesseitenean.com^
 ||erniphiq.com^
@@ -12741,6 +12750,7 @@ vkcdnservice.appspot.com^
 ||fuzeelamby.com^
 ||fuzinghummaul.com^
 ||fuzzywardshoplifting.com^
+||fvcdduqg.com^
 ||fvcwqkkqmuv.com^
 ||fvgxfupisy.com^
 ||fvzhenljkw.com^
@@ -15072,6 +15082,7 @@ vkcdnservice.appspot.com^
 ||iiydmrr.com^
 ||ijatsapphiresanda.com^
 ||ijbgqlf.com^
+||ijebtcgu.com^
 ||ijeetsie.com^
 ||ijhpdtiij.com^
 ||ijmrburud.com^
@@ -16192,6 +16203,7 @@ vkcdnservice.appspot.com^
 ||jocauzee.net^
 ||jocelynrace.com^
 ||jodhpurrarish.digital^
+||jodroacm.com^
 ||joereisp.xyz^
 ||jogdied.com^
 ||johamp.com^
@@ -16908,6 +16920,7 @@ vkcdnservice.appspot.com^
 ||kremarkedone.com^
 ||kreud.com^
 ||krful.com^
+||krgukepers.org^
 ||krilor.com^
 ||krisydark.com^
 ||krjxhvyyzp.com^
@@ -17641,6 +17654,7 @@ vkcdnservice.appspot.com^
 ||lmnrorgeummvsqe.com^
 ||lmp3.org^
 ||lmqowtvu.com^
+||lmvrjajerrbwv.top^
 ||lnabew.com^
 ||lnbswijsipf.com^
 ||lncfuqbgpnmxm.xyz^
@@ -17854,6 +17868,7 @@ vkcdnservice.appspot.com^
 ||lpnjcnigcfuk.com^
 ||lpravybegqv.com^
 ||lptrak.com^
+||lpzhlqrrcvpnzj.com^
 ||lqammdjflcecau.com^
 ||lqcdn.com^
 ||lqdfscnbki.com^
@@ -18942,6 +18957,7 @@ vkcdnservice.appspot.com^
 ||mnetads.com^
 ||mng-ads.com^
 ||mnhjk.com^
+||mnhjkl.com^
 ||mniumlapsers.com^
 ||mnnuhtvnubdg.xyz^
 ||mnodtbmmomqo.com^
@@ -20540,6 +20556,7 @@ vkcdnservice.appspot.com^
 ||oddsserve.com^
 ||odeerofhisk.xyz^
 ||odipjwipwwyus.xyz^
+||odkfzmwfkjgzag.com^
 ||odlyccugg.com^
 ||odnaknopka.ru^
 ||odnaturedfe.org^
@@ -24333,6 +24350,7 @@ vkcdnservice.appspot.com^
 ||refrigeratemaimbrunette.com^
 ||refrigeratespinsterreins.com^
 ||refugedcuber.com^
+||refulgecomsat.com^
 ||refundsreisner.life^
 ||refusedfellow.com^
 ||refuserates.com^
@@ -28627,6 +28645,7 @@ vkcdnservice.appspot.com^
 ||tonesprotectioncard.com^
 ||tonganserried.life^
 ||tongsgodforsaken.com^
+||tonicdivedfounded.com^
 ||tonicelement.digital^
 ||tonicneighbouring.com^
 ||toninjaska.com^
@@ -29308,6 +29327,7 @@ vkcdnservice.appspot.com^
 ||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
+||tzrlfzwyicvj.com^
 ||tzugumojfm.com^
 ||tzuhumrwypw.com^
 ||tzvojcc.com^
@@ -29383,6 +29403,7 @@ vkcdnservice.appspot.com^
 ||ufpcdn.com^
 ||ufptkylyfa.com^
 ||ufsbauge.com^
+||ufzqrmflbnlze.com^
 ||ugahutoa.com^
 ||ugalia.com^
 ||ugawnotrjj.xyz^
@@ -29447,6 +29468,7 @@ vkcdnservice.appspot.com^
 ||ukenthascaptureu.info^
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
+||ukidiayddbshfl.com^
 ||ukiyoyechromy.com^
 ||uklgakwqy.com^
 ||ukmlastityty.info^
@@ -29505,6 +29527,7 @@ vkcdnservice.appspot.com^
 ||ummihaqhu.xyz^
 ||umnstoodthe.com^
 ||umoughtcallm.com^
+||umplohzn.com^
 ||umpteenimpave.guru^
 ||umqpchxoq.xyz^
 ||umqqfyqkjlxrh.xyz^
@@ -32458,6 +32481,7 @@ vkcdnservice.appspot.com^
 ||zdajdudqfq.com^
 ||zdhq.xyz^
 ||zdjljvsi.com^
+||zdljbrwosbymft.com^
 ||zdxblxwjoees.com^
 ||zeads.com^
 ||zealeddrizzly.com^
@@ -34026,12 +34050,14 @@ vkcdnservice.appspot.com^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1193176784.rsc.cdn77.org^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1805629149.rsc.cdn77.org^
 ||1885212191.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -34237,6 +34263,7 @@ vkcdnservice.appspot.com^
 ||d18b5y9gp0lr93.cloudfront.net^
 ||d18e74vjvmvza1.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
+||d18hqfm1ev805k.cloudfront.net^
 ||d18kg2zy9x3t96.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d18myvrsrzjrd7.cloudfront.net^
@@ -34705,6 +34732,7 @@ vkcdnservice.appspot.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
+||d3e54v103j8qbb.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
@@ -35997,6 +36025,9 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||fnasmpygwa.com^
+||o1qry0qq83.com^
+||fft.delovoemesto.ru^
 ||xhivjkfghj.com^
 ||tlxjuj.com^
 ||dpjrba.com^
@@ -43446,6 +43477,7 @@ vkcdnservice.appspot.com^
 ||autyxdek.xyz^
 ||auvohoxm.xyz^
 ||avplwte.xyz^
+||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
 ||awzddev.cn^
@@ -43455,9 +43487,11 @@ vkcdnservice.appspot.com^
 ||bachou.cn^
 ||baitu3lllqubyqmttdkjsv.com^
 ||bavkvoks.xyz^
+||baxbyfn.cn^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
+||bbyfsfo.cn^
 ||bcovazp.icu^
 ||bcqnbge.cn^
 ||bctxtl.xyz^
@@ -43500,6 +43534,7 @@ vkcdnservice.appspot.com^
 ||bpdtrfb.xyz^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
+||bpyerxzn.xyz^
 ||bqjqripb.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
@@ -43902,6 +43937,7 @@ vkcdnservice.appspot.com^
 ||kkisoo.com^
 ||kkmsa.top^
 ||kkosiso.com^
+||kksjoa.com^
 ||kkyjfdj.xyz^
 ||klfbnklddfbkn.com^
 ||kltmjevd.xyz^
@@ -43914,6 +43950,7 @@ vkcdnservice.appspot.com^
 ||koqsxdpx.xyz^
 ||koyuod.xyz^
 ||kphcrjth.xyz^
+||kpyerxzn.xyz^
 ||kqbrgl.icu^
 ||kqjqripb.xyz^
 ||kqvvqv.icu^
@@ -44028,6 +44065,7 @@ vkcdnservice.appspot.com^
 ||mpgsqk.xyz^
 ||mphcrjth.xyz^
 ||mphhgat.xyz^
+||mpyerxzn.xyz^
 ||mqjqripb.xyz^
 ||mqrupjsm.xyz^
 ||mqznjujv.xyz^
@@ -44237,8 +44275,10 @@ vkcdnservice.appspot.com^
 ||s019.com^
 ||s5ue6.com^
 ||sagcyq.xyz^
+||sakguz.icu^
 ||sbhduht.xyz^
 ||scqaaf.cn^
+||sd2ua.icu^
 ||sdjbcjsbdjk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
@@ -44273,7 +44313,9 @@ vkcdnservice.appspot.com^
 ||suzoqz.icu^
 ||svhdbmp.cn^
 ||syjkscy.cn^
+||szbpf.cn^
 ||szbxm.cn^
+||szmkr.cn^
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
@@ -44309,6 +44351,7 @@ vkcdnservice.appspot.com^
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tphcrjth.xyz^
+||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
@@ -44366,6 +44409,7 @@ vkcdnservice.appspot.com^
 ||unxuoag.cn^
 ||uoqsxdpx.xyz^
 ||uphcrjth.xyz^
+||upyerxzn.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uskoie.xyz^
@@ -44421,6 +44465,7 @@ vkcdnservice.appspot.com^
 ||vjzjpt.xyz^
 ||vljjtj.xyz^
 ||vmr6t.icu^
+||vnvyhj.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
@@ -44456,6 +44501,7 @@ vkcdnservice.appspot.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wvyqks.xyz^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
@@ -44501,6 +44547,7 @@ vkcdnservice.appspot.com^
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
 ||xphcrjth.xyz^
+||xpyerxzn.xyz^
 ||xqgduov.cn^
 ||xqjqripb.xyz^
 ||xrcembm.cn^
@@ -44596,19 +44643,6 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||baxbyfn.cn^
-||vnvyhj.xyz^
-||kpyerxzn.xyz^
-||sakguz.icu^
-||wvyqks.xyz^
-||avvfjhg.xyz^
-||szmkr.cn^
-||sd2ua.icu^
-||upyerxzn.xyz^
-||bpyerxzn.xyz^
-||szbpf.cn^
-||xpyerxzn.xyz^
-||tpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
