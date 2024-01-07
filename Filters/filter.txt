@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-07T00:38:09.287Z
+! Last modified: 2024-01-07T06:09:05.605Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26538,6 +26538,7 @@ vkcdnservice.appspot.com^
 ||smartappsfly.com^
 ||smartdating.top^
 ||smartlnk.com^
+||smartpicrotation.com^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^
@@ -41426,8 +41427,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-04 12:11:58 CET
-# entries:        1070
+# last updated:   2024-01-07 05:48:44 CET
+# entries:        1071
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -41929,6 +41930,7 @@ vkcdnservice.appspot.com^
 ||stats.wpmucdn.com^
 ||stats.wp.com^
 ||stats2.agilecrm.com^
+||stats2.ehandel.se^
 ||statsapi.screen9.com^
 ||statsapi.tiendeo.se^
 ||storymedia.se^
@@ -44687,6 +44689,11 @@ vkcdnservice.appspot.com^
 ||bhktalt.cn^
 ||yfzpxnb.xyz^
 ||fjhrq.xyz^
+||aojeet.icu^
+||uuoizbtl.xyz^
+||lkrv.top^
+||szmty.cn^
+||buoizbtl.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
