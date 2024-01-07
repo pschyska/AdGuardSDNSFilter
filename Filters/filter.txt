@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-06T18:08:20.694Z
+! Last modified: 2024-01-07T00:38:09.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33357,6 +33357,7 @@ vkcdnservice.appspot.com^
 ||cryptoads.space^
 ||cryptocoinsad.com^
 ||cryptoecom.care^
+||cryptotrials.care^
 ||ctrhub.com^
 ||ctrmanager.com^
 ||ctxtfl.com^
@@ -33554,6 +33555,7 @@ vkcdnservice.appspot.com^
 ||klakus.com^
 ||komoona.com^
 ||kovla.com^
+||kurzycz.care^
 ||laim.tv^
 ||lanistaconcepts.com^
 ||lcwfab1.com^
@@ -44679,6 +44681,12 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||lhzxbp.xyz^
+||kuoizbtl.xyz^
+||ugkpsi.xyz^
+||bhktalt.cn^
+||yfzpxnb.xyz^
+||fjhrq.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
