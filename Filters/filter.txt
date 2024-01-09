@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-09T06:10:06.772Z
+! Last modified: 2024-01-09T12:13:02.675Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||dwvbfnqrbif.com^
+||despectclogwyn.com^
 ||justey.com^
 ||hrkplkgjs.com^
 ||glowedhyalins.com^
@@ -17598,6 +17600,7 @@ vkcdnservice.appspot.com^
 ||lirateblister.com^
 ||lirdooch.xyz^
 ||lispingwraths.space^
+||list-ads.com^
 ||listeraislatory.site^
 ||listfulhymnals.website^
 ||listguineaelementary.com^
@@ -36105,6 +36108,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cchbdata.net^
+||s.ccsyncuuid.net^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
 ||fft.delovoemesto.ru^
@@ -39688,6 +39693,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||exad.smi2.ru^
+||tgb.hsmedia.ru^
 ||market-backend.api.2gis.ru^
 !
 ! Source name: AdGuard Russian filter ad servers first-party
@@ -44780,6 +44787,10 @@ vkcdnservice.appspot.com^
 ||uzelzfnj.xyz^
 ||bzelzfnj.xyz^
 ||szmdp.cn^
+||xzelzfnj.xyz^
+||tzelzfnj.xyz^
+||ljhbhy.cn^
+||adtx2.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -50302,6 +50313,7 @@ analytics-*.aasaam.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/190
 @@||awin1.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/185
+@@||app.adjust.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/183
 @@||feed.adrelayer.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/168
