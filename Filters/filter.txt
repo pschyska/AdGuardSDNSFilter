@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-10T18:09:22.512Z
+! Last modified: 2024-01-11T00:35:13.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -44875,6 +44875,13 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||ypcngw.xyz^
+||wbkaqly.cn^
+||kebohjhh.xyz^
+||bvhvnt.xyz^
+||zrljzgs.xyz^
+||setoniale.com^
+||stusnais.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -49410,6 +49417,9 @@ analytics-*.aasaam.com
 # >> U <<
 
 # >> V <<
+# https://github.com/MasterKia/PersianBlocker/issues/219
+||analytics.jeldnews.com^
+
 ||sentry.virgool.io^
 
 # https://github.com/MasterKia/PersianBlocker/issues/121
