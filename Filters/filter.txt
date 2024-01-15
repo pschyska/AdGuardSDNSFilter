@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-15T00:36:39.512Z
+! Last modified: 2024-01-15T06:10:37.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26180,6 +26180,7 @@ vkcdnservice.appspot.com^
 ||servinghandy.com^
 ||servingserved.com^
 ||servtraff97.com^
+||servw.bid^
 ||sesabercuacroo.xyz^
 ||sesameebookspeedy.com^
 ||sesamefiddlesticks.com^
@@ -37241,7 +37242,6 @@ vkcdnservice.appspot.com^
 ||unhwav.com^
 ||rolzox.com^
 ||baibiigcfdjgdgacig.ru^
-||servw.bid^
 ||retharitus.com^
 ||rfpozf.com^
 ||m-growninppcode.com^
@@ -43434,9 +43434,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jan 2024 11:09 UTC+7
-! Version: 2401141109
-! Blocked: 860 rules
+! Last modified: 15 Jan 2024 09:26 UTC+7
+! Version: 2401150926
+! Blocked: 861 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44083,6 +44083,7 @@ vkcdnservice.appspot.com^
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
+||measure.pti.com.vn^
 ||measure.vndirect.com.vn^
 ||media.dabong247.com^
 ||menu.metu.vn^
@@ -44260,9 +44261,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Jan 2024 11:14 UTC+7
-! Version: 2401141114
-! Blocked: 4,048 rules
+! Last modified: 15 Jan 2024 09:26 UTC+7
+! Version: 2401150926
+! Blocked: 4,049 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44270,6 +44271,7 @@ vkcdnservice.appspot.com^
 ||009855.com^
 ||010172.com^
 ||0fb.co^
+||0fb.ltd^
 ||113-bca.online^
 ||11tiki.com^
 ||123-vay.com^
@@ -49678,6 +49680,8 @@ vkcdnservice.appspot.com^
 ||uyulwc.xyz^
 ||dafdfd.cn^
 ||2024114t.shop^
+||u2tu4.icu^
+||rvbiocn.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
