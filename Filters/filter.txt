@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-16T00:35:00.260Z
+! Last modified: 2024-01-16T06:10:18.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -27167,6 +27167,7 @@ vkcdnservice.appspot.com^
 ||speani.com^
 ||speato.com^
 ||special-offers.online^
+||specialcraftbox.com^
 ||specialisthuge.com^
 ||specialistinsensitive.com^
 ||specialistrocky.com^
@@ -49736,6 +49737,9 @@ vkcdnservice.appspot.com^
 ||ffawfa.cn^
 ||zghrxn.xyz^
 ||8ovgk.online^
+||gkswas.xyz^
+||mvbvvch.xyz^
+||stq89.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
