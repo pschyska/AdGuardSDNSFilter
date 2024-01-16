@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-15T18:09:09.412Z
+! Last modified: 2024-01-16T00:35:00.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4719,6 +4719,7 @@ vkcdnservice.appspot.com^
 ||arousestatic.com^
 ||arouth.com^
 ||aroyiise.xyz^
+||arqsafhutlam.com^
 ||arquilavaan.com^
 ||arqznlwzkkaev.top^
 ||arqznlwzkkjla.top^
@@ -4845,6 +4846,7 @@ vkcdnservice.appspot.com^
 ||asnoibator.com^
 ||asnortsalol.website^
 ||aso1.net^
+||asoawhum.com^
 ||asopn.com^
 ||asosettoourma.info^
 ||asoulrox.com^
@@ -13404,6 +13406,7 @@ vkcdnservice.appspot.com^
 ||glancingambulance.com^
 ||glareart.com^
 ||glargoun.uk^
+||glaringregister.com^
 ||glassesoftruth.com^
 ||glassmilheart.com^
 ||glaubuph.com^
@@ -16190,6 +16193,7 @@ vkcdnservice.appspot.com^
 ||jbrlsr.com^
 ||jbrnmlmvnazey.top^
 ||jbtul.com^
+||jbwiujl.com^
 ||jc32arlvqpv8.com^
 ||jcbyeqvstf.xyz^
 ||jcdhgpqglpjwh.xyz^
@@ -17470,6 +17474,7 @@ vkcdnservice.appspot.com^
 ||leadenabsolution.com^
 ||leadensought.com^
 ||leading-fishing.pro^
+||leadingindication.pro^
 ||leadingservicesintimate.com^
 ||leadmediapartners.com^
 ||leadsecnow.com^
@@ -18096,6 +18101,7 @@ vkcdnservice.appspot.com^
 ||lpmetorealiuk.info^
 ||lpnjcnigcfuk.com^
 ||lpravybegqv.com^
+||lptiljy.com^
 ||lptrak.com^
 ||lpzhlqrrcvpnzj.com^
 ||lqammdjflcecau.com^
@@ -20581,6 +20587,7 @@ vkcdnservice.appspot.com^
 ||nvougpk.com^
 ||nvqjpzxufp.com^
 ||nvrblk.xyz^
+||nvudvvaecq.com^
 ||nvyrgsqdqh.com^
 ||nvzcoggh.com^
 ||nwejuljibczi.com^
@@ -25645,6 +25652,7 @@ vkcdnservice.appspot.com^
 ||sabbedgurly.com^
 ||sabergood.com^
 ||sabianic.com^
+||sabotageharass.com^
 ||sabredwillble.com^
 ||sabrinacaulked.com^
 ||sacquebenzine.com^
@@ -29599,6 +29607,7 @@ vkcdnservice.appspot.com^
 ||twinedabider.guru^
 ||twinfill.com^
 ||twinkle-fun.net^
+||twinklecourseinvade.com^
 ||twinnercarrat.digital^
 ||twinpinenetwork.com^
 ||twinrdack.com^
@@ -30019,6 +30028,7 @@ vkcdnservice.appspot.com^
 ||unluckydead.pro^
 ||unluxioer.com^
 ||unmanedstele.com^
+||unmarcharthra.com^
 ||unmasksxyloma.uno^
 ||unmergeullaged.com^
 ||unmetswipy.com^
@@ -30278,6 +30288,7 @@ vkcdnservice.appspot.com^
 ||uswardwot.com^
 ||usylkoifiwa.com^
 ||uszaodwya.com^
+||ut13r.online^
 ||utaitlastwebe.com^
 ||utantialcottish.xyz^
 ||utarget.co.uk^
@@ -31240,6 +31251,7 @@ vkcdnservice.appspot.com^
 ||watchahv.com^
 ||watchcpm.com^
 ||watchercupboard.com^
+||watchespounceinvolving.com^
 ||watchesthereupon.com^
 ||watchestwenties.com^
 ||watchexcellent.pics^
@@ -32141,6 +32153,7 @@ vkcdnservice.appspot.com^
 ||wwwowww.xyz^
 ||wwwpromoter.com^
 ||wwwwndings.click^
+||wwxnbsvwultw.com^
 ||wxaqazawxhjiz.com^
 ||wxcqdnf.com^
 ||wxejroeeteesr.com^
@@ -34451,6 +34464,7 @@ vkcdnservice.appspot.com^
 ||1070165434.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1082580998.rsc.cdn77.org^
+||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
@@ -34460,6 +34474,7 @@ vkcdnservice.appspot.com^
 ||1203782659.rsc.cdn77.org^
 ||1244458189.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1460689281.rsc.cdn77.org^
 ||1603463731.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -49717,6 +49732,10 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kozhyf.icu^
+||ffawfa.cn^
+||zghrxn.xyz^
+||8ovgk.online^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
