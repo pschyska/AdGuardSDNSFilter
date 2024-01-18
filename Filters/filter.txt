@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-18T12:13:35.037Z
+! Last modified: 2024-01-18T18:09:42.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4291,6 +4291,7 @@ vkcdnservice.appspot.com^
 ||amywhereby.com^
 ||amzargfaht.com^
 ||amzbtuolwp.com^
+||anacjpmrv.com^
 ||anaguahoagies.com^
 ||anahitagirted.uno^
 ||analitits.com^
@@ -6355,6 +6356,7 @@ vkcdnservice.appspot.com^
 ||bngtrak.com^
 ||bngwlt.com^
 ||bnhtml.com^
+||bnivcpronr.com^
 ||bnmjjwinf292.com^
 ||bnmkl.com^
 ||bnohewjt.com^
@@ -8852,6 +8854,7 @@ vkcdnservice.appspot.com^
 ||cteripre.com^
 ||cthisismoych.com^
 ||cthkgodgy.com^
+||ctiarbwaxam.com^
 ||cticalwhichhere.info^
 ||ctiotjobkfu.com^
 ||ctm-media.com^
@@ -12131,6 +12134,7 @@ vkcdnservice.appspot.com^
 ||fewergkit.com^
 ||fewplan.pro^
 ||fewrfie.com^
+||fexyop.com^
 ||fezacoox.net^
 ||fezzanminyans.com^
 ||ff00c90f6a.com^
@@ -14987,6 +14991,7 @@ vkcdnservice.appspot.com^
 ||hthinleavesofefi.info^
 ||htihvgpmna.xyz^
 ||htintpa.tech^
+||htjuxdkjppm.com^
 ||htkcm.com^
 ||htl.bid^
 ||htlbid.com^
@@ -16712,6 +16717,7 @@ vkcdnservice.appspot.com^
 ||jxvilsjyrh.com^
 ||jxybgyu.com^
 ||jyarkinhechershedt.xyz^
+||jybaekajjmroq.top^
 ||jydydmctzxcea.com^
 ||jyfirjqojg.xyz^
 ||jygotubvpyguak.com^
@@ -17302,6 +17308,7 @@ vkcdnservice.appspot.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzcdgja.com^
 ||kzkmmbrrzn.com^
+||kzknjdlalls.com^
 ||kzsfip3v.cfd^
 ||l-iw.de^
 ||l1native.com^
@@ -17507,6 +17514,7 @@ vkcdnservice.appspot.com^
 ||lcentntel.com^
 ||lcfooiqhro.com^
 ||lcjiusbyqfpdo.com^
+||lcloperoxeo.xyz^
 ||lcmbppikwtxujc.xyz^
 ||lcswbwinvhzm.com^
 ||lcvdvyqpewwhllt.com^
@@ -19987,6 +19995,7 @@ vkcdnservice.appspot.com^
 ||nearestmicrowavespends.com^
 ||nearestsweaty.com^
 ||neat-excuse.pro^
+||neatenmikra.life^
 ||neathygienesmash.com^
 ||neatsafety.com^
 ||nebsefte.net^
@@ -23812,6 +23821,7 @@ vkcdnservice.appspot.com^
 ||puqobfkghmyb.com^
 ||purchaserteddy.com^
 ||purchasertormentscoundrel.com^
+||purgoaho.xyz^
 ||purlieudinette.uno^
 ||purlingmoonmen.tech^
 ||purpleads.io^
@@ -25241,6 +25251,7 @@ vkcdnservice.appspot.com^
 ||rjhiomohthqr.com^
 ||rjw4obbw.com^
 ||rjwhuxgjjm.com^
+||rkajleihgyidsu.com^
 ||rkalbwupipuow.xyz^
 ||rkfodhkxmf.com^
 ||rkgwzfwjgk.com^
@@ -27589,6 +27600,7 @@ vkcdnservice.appspot.com^
 ||stekraucmauk.com^
 ||steltilr.xyz^
 ||stemboastfulrattle.com^
+||stemsshutdown.com^
 ||stenadewy.pro^
 ||stenchdaltonrunaway.com^
 ||stengskelped.com^
@@ -28164,6 +28176,7 @@ vkcdnservice.appspot.com^
 ||syyycc.com^
 ||syyzbelmw.com^
 ||syzijqaufe.com^
+||syzwiooheckxb.com^
 ||szbnnqyqn.com^
 ||szhcyxtszb.com^
 ||szqxvo.com^
@@ -28458,6 +28471,7 @@ vkcdnservice.appspot.com^
 ||temperaturecoalitionbook.com^
 ||tempergleefulvariability.com^
 ||temperrunnersdale.com^
+||templa.xyz^
 ||temporalirrelevant.com^
 ||temporarilylavenderenforce.com^
 ||temporarilylocate.com^
@@ -32503,6 +32517,7 @@ vkcdnservice.appspot.com^
 ||xukpresesmr.info^
 ||xuninrfwruoyqb.xyz^
 ||xuosvih.com^
+||xuqarnasvru.com^
 ||xuudtwhlkrbah.com^
 ||xuzeez.com^
 ||xvaeqgtbnunpkff.com^
@@ -48664,6 +48679,7 @@ vkcdnservice.appspot.com^
 ||commonwealthproficient.com^
 ||corcztpc.xyz^
 ||cpddgcr.xyz^
+||cpmlwhra.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||criknudsr.com^
@@ -48730,6 +48746,7 @@ vkcdnservice.appspot.com^
 ||ebpex.space^
 ||ecpshapm.xyz^
 ||ectyet.top^
+||edvxgqx.com^
 ||eejwvwoo.xyz^
 ||efalid.top^
 ||egadfe.xyz^
@@ -48788,6 +48805,7 @@ vkcdnservice.appspot.com^
 ||fmvbyji.cn^
 ||fmzifaqi.xyz^
 ||foizico.cn^
+||fol9v.xyz^
 ||fortxfq.cn^
 ||fotaxf.xyz^
 ||foxoxn.xyz^
@@ -48882,6 +48900,7 @@ vkcdnservice.appspot.com^
 ||haise3.top^
 ||haise4.top^
 ||haise5.top^
+||halqpt.xyz^
 ||hanadrmc.xyz^
 ||hangzhouhdb.top^
 ||haokanshipin.com^
@@ -49223,6 +49242,7 @@ vkcdnservice.appspot.com^
 ||muyihh.top^
 ||muyxmmz.cn^
 ||mvbvvch.xyz^
+||mvevgi.xyz^
 ||mvng.cn^
 ||mvpqrydt.xyz^
 ||mwfyab.icu^
@@ -49320,6 +49340,7 @@ vkcdnservice.appspot.com^
 ||pengjinvc.top^
 ||pexavfro.xyz^
 ||pezttb.xyz^
+||pfjfjid.xyz^
 ||pfjtgxc.cn^
 ||pfrbnl.xyz^
 ||pgieqr.top^
@@ -49449,6 +49470,7 @@ vkcdnservice.appspot.com^
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||sidfiz.icu^
 ||sigjuw.xyz^
 ||skdaj.cn^
 ||skdunkig.xyz^
@@ -49589,6 +49611,7 @@ vkcdnservice.appspot.com^
 ||ulrvkee.xyz^
 ||ultmjevd.xyz^
 ||um9.top^
+||umrstfl.cn^
 ||uncs7.top^
 ||unfhxszj.xyz^
 ||unidict.cn^
@@ -49646,6 +49669,7 @@ vkcdnservice.appspot.com^
 ||vdggsd016.com^
 ||vdggsd017.com^
 ||vdtxlt.xyz^
+||vggg5.space^
 ||vgjaxnuw.xyz^
 ||vhhxnb.xyz^
 ||vhotcvp.xyz^
@@ -49685,6 +49709,7 @@ vkcdnservice.appspot.com^
 ||wewbnso.cn^
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
+||wftyehw.cn^
 ||whdwydt.cn^
 ||whols.cn^
 ||whqgyo.xyz^
@@ -49859,15 +49884,6 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||sidfiz.icu^
-||umrstfl.cn^
-||vggg5.space^
-||pfjfjid.xyz^
-||halqpt.xyz^
-||fol9v.xyz^
-||mvevgi.xyz^
-||cpmlwhra.xyz^
-||wftyehw.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
