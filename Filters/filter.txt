@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-18T00:34:57.360Z
+! Last modified: 2024-01-18T06:10:16.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7632,6 +7632,7 @@ vkcdnservice.appspot.com^
 ||checkm8.com^
 ||checkoutfree.com^
 ||checkup02.biz^
+||checkupforecast.com^
 ||checkyofeed.com^
 ||cheddaramusias.life^
 ||cheecmou.com^
@@ -49833,6 +49834,8 @@ vkcdnservice.appspot.com^
 ||vggg5.space^
 ||pfjfjid.xyz^
 ||halqpt.xyz^
+||fol9v.xyz^
+||mvevgi.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
