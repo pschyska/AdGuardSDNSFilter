@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-18T18:09:42.881Z
+! Last modified: 2024-01-19T00:35:29.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6028,6 +6028,7 @@ vkcdnservice.appspot.com^
 ||bgevhldiekl.xyz^
 ||bgjsjep.com^
 ||bgkrbh.com^
+||bgrgkbnqdsvxc.com^
 ||bgxerhrcqkdpjib.xyz^
 ||bgyeouoavr.xyz^
 ||bgyutxdcetx.com^
@@ -6127,6 +6128,7 @@ vkcdnservice.appspot.com^
 ||bincatracs.com^
 ||bindingguessingconfessed.com^
 ||bineukdwithmef.info^
+||bingoocy.com^
 ||binhwheyey.uno^
 ||binmenkollast.com^
 ||binomnet.com^
@@ -14593,6 +14595,7 @@ vkcdnservice.appspot.com^
 ||hhrsecure.com^
 ||hhtxjoa.com^
 ||hiadone.com^
+||hialstrfkctx.com^
 ||hiasor.com^
 ||hiatecudgel.website^
 ||hibezu.xyz^
@@ -20666,6 +20669,7 @@ vkcdnservice.appspot.com^
 ||nvqjpzxufp.com^
 ||nvrblk.xyz^
 ||nvudvvaecq.com^
+||nvxcvyfedg.com^
 ||nvyrgsqdqh.com^
 ||nvzcoggh.com^
 ||nwejuljibczi.com^
@@ -22003,6 +22007,7 @@ vkcdnservice.appspot.com^
 ||partnerentry.com^
 ||partnerlinks.io^
 ||partpedestal.com^
+||partsbury.com^
 ||partsfroveil.com^
 ||partsnoises.com^
 ||partyingdisastrouskitty.com^
@@ -24300,6 +24305,7 @@ vkcdnservice.appspot.com^
 ||qyajwjyjnavzq.top^
 ||qydrwhhk.xyz^
 ||qyenlspei.com^
+||qykxyax.com^
 ||qylgfuikc.com^
 ||qymdcuco.com^
 ||qynpfyvxkyv.com^
@@ -31005,6 +31011,7 @@ vkcdnservice.appspot.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vksegjhestouij.com^
+||vksphze.com^
 ||vkusbtnxubme.com^
 ||vlbbyi.com^
 ||vlbyzgj.com^
@@ -49884,6 +49891,13 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||urueuah.cn^
+||pknrnj.xyz^
+||wmnraj.icu^
+||rxojynr.icu^
+||bxnxdlb.xyz^
+||1821z.website^
+||sukneyu.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
