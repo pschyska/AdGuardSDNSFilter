@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-19T06:10:05.347Z
+! Last modified: 2024-01-19T12:12:58.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||snipersex.com^
 ||auhpaewvbgwjr.com^
 ||wokaptoa.com^
 ||lambedbarbal.website^
@@ -27021,7 +27022,6 @@ vkcdnservice.appspot.com^
 ||snhtvtp.com^
 ||snicherchitra.space^
 ||snidethereto.com^
-||snipersex.com^
 ||snippystowstool.com^
 ||snippyteevee.com^
 ||snippyyuncan.uno^
@@ -49916,6 +49916,8 @@ vkcdnservice.appspot.com^
 ||l7ghj.xyz^
 ||xwlnhw.com^
 ||stbwhln.cn^
+||m6500.top^
+||rotondelibya.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
