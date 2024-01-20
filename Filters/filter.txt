@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-20T06:08:56.785Z
+! Last modified: 2024-01-20T12:11:50.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3627,6 +3627,7 @@ vkcdnservice.appspot.com^
 ||aeffe3nhrua5hua.com^
 ||aegiumks.com^
 ||aejslgc.com^
+||aekhfdpxcw.com^
 ||aembxbxmnuspyr.com^
 ||aeneasclosure.website^
 ||aerariacongoni.uno^
@@ -13204,6 +13205,7 @@ vkcdnservice.appspot.com^
 ||gempeety.com^
 ||gempoussee.com^
 ||gen-ref.com^
+||genaumsa.net^
 ||genbalar.com^
 ||generalebad.xyz^
 ||generalizebusinessman.com^
@@ -16600,6 +16602,7 @@ vkcdnservice.appspot.com^
 ||jsdelvr.com^
 ||jsfeedadsget.com^
 ||jsfrfeuubna.com^
+||jsftfmegwcyhsed.com^
 ||jsfuz.com^
 ||jsmentry.com^
 ||jsmjmp.com^
@@ -21304,6 +21307,7 @@ vkcdnservice.appspot.com^
 ||ookroulsaurd.com^
 ||ookroush.com^
 ||oolassouwa.com^
+||ooloptou.net^
 ||ooltutoo.net^
 ||oomgnwdmzwnxn.com^
 ||oomsijahail.com^
@@ -43629,8 +43633,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Jan 2024 23:07 UTC+7
-! Version: 2401152307
+! Last modified: 20 Jan 2024 16:06 UTC+7
+! Version: 2401201606
 ! Blocked: 861 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44456,9 +44460,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Jan 2024 21:59 UTC+7
-! Version: 2401162159
-! Blocked: 4,053 rules
+! Last modified: 20 Jan 2024 16:07 UTC+7
+! Version: 2401201607
+! Blocked: 4,066 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44870,6 +44874,7 @@ vkcdnservice.appspot.com^
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
 ||dadw11.com^
+||dadw22.com^
 ||dadw55.com^
 ||daef33.com^
 ||daikinvietnam.vn^
@@ -44983,6 +44988,8 @@ vkcdnservice.appspot.com^
 ||duchessefit.com^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
+||dv-ca-nhan-vpbank.com^
+||dv-nang-cap-vpbank.com^
 ||dvdienmayxanh.com^
 ||dvfbnhan.com^
 ||e-bankingshopee.vn^
@@ -45998,6 +46005,7 @@ vkcdnservice.appspot.com^
 ||mysp.ac^
 ||nalhajarm.cfd^
 ||nang-cap-online-vpbank.com^
+||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-tin-dung-ca-nhan.com^
@@ -46008,6 +46016,7 @@ vkcdnservice.appspot.com^
 ||nanghanmuc-vpb.online^
 ||nanghanmucthe-thetindung.com^
 ||nanghanmucthetindung247.com^
+||nanghanmucthevib.com^
 ||nap-the.vn^
 ||napallgame.com^
 ||napasvidientu247.com^
@@ -46479,6 +46488,7 @@ vkcdnservice.appspot.com^
 ||quickvayorg.com^
 ||quocdanhbank.online^
 ||quocthang.me^
+||quydautuvingroup.com^
 ||quydoi-tiente247.weebly.com^
 ||quydoichuyenkhoanquocte.weebly.com^
 ||quydoitienquocte24h7azx.weebly.com^
@@ -46852,6 +46862,7 @@ vkcdnservice.appspot.com^
 ||shopkellygaming.net^
 ||shopkellygaming.vn^
 ||shopkingoff.com^
+||shoplazada.net^
 ||shoplazada19.com^
 ||shoplienquan.click^
 ||shoplienquan.vn^
@@ -47006,6 +47017,7 @@ vkcdnservice.appspot.com^
 ||showcrack.com^
 ||showzyeye.com^
 ||shrimpskins.org^
+||shvnb.kfcvnpay.com^
 ||siamturakit.shop^
 ||sicherheitsdienst-boettger.de^
 ||sieuatoc.com^
@@ -47363,6 +47375,7 @@ vkcdnservice.appspot.com^
 ||tikivip666.com^
 ||tikivip777.com^
 ||tikivip888.com^
+||tikivn.in^
 ||tikivn.live^
 ||tikivn118.com^
 ||tikivn12.com^
@@ -47640,6 +47653,7 @@ vkcdnservice.appspot.com^
 ||vay60s.com^
 ||vay9.co^
 ||vay9.com^
+||vayagribank.online^
 ||vayasieutoc.com^
 ||vaybimo.com^
 ||vaycaptoc-vn.com^
@@ -47788,6 +47802,7 @@ vkcdnservice.appspot.com^
 ||vayvonshinhanhanoi.com^
 ||vayvonshinhantoanquoc.online^
 ||vayvonshinhanvn.com^
+||vayvontheoluong.site^
 ||vayvontieudungshinhanbank.com^
 ||vayysieutoc.com^
 ||vcb-diglicabrnk.com^
@@ -48023,6 +48038,7 @@ vkcdnservice.appspot.com^
 ||vinaconex.org^
 ||vincomonevip.net^
 ||vingroup.shop^
+||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
 ||vip-dien-mayxanh.com^
@@ -48423,6 +48439,7 @@ vkcdnservice.appspot.com^
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
+||zla963.top^
 ||zmomo.cc^
 ||znavidsde.cfd^
 ||zvay.online^
@@ -49942,6 +49959,9 @@ vkcdnservice.appspot.com^
 ||ypffkbpq.xyz^
 ||hkaiedb.icu^
 ||cpffkbpq.xyz^
+||ryyuvrt.cn^
+||xpffkbpq.xyz^
+||wdadad.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
