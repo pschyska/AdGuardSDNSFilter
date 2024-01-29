@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-29T12:12:47.492Z
+! Last modified: 2024-01-29T18:08:26.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||mads-fe.amazon.com^
+||venturepeasant.com^
 ||riweeboo.com^
 ||8trd.online^
 ||publisher1st.com^
@@ -50380,6 +50382,7 @@ vkcdnservice.appspot.com^
 ||bbyfsfo.cn^
 ||bcovazp.icu^
 ||bcqnbge.cn^
+||bcthd12.shop^
 ||bctxtl.xyz^
 ||bdjdpyrt.xyz^
 ||bdlexn.xyz^
@@ -50398,6 +50401,7 @@ vkcdnservice.appspot.com^
 ||bflybplr.xyz^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
+||bgeg1.fun^
 ||bhhzlax.xyz^
 ||bhiagi.xyz^
 ||bhktalt.cn^
@@ -50477,6 +50481,7 @@ vkcdnservice.appspot.com^
 ||chnvgdkw.xyz^
 ||chrtds.xyz^
 ||chubsxmg.xyz^
+||chzjidgc.xyz^
 ||cjndvoglik.xyz^
 ||cjohpsc.cn^
 ||cjpczyi.cn^
@@ -50519,6 +50524,7 @@ vkcdnservice.appspot.com^
 ||daslethv.com^
 ||dbpxivi.xyz^
 ||dcdglb.xyz^
+||ddaixdz.cn^
 ||ddkh59.com^
 ||ddllhqj.xyz^
 ||ddvoht.xyz^
@@ -50670,6 +50676,7 @@ vkcdnservice.appspot.com^
 ||gelbjvl.cn^
 ||gepvgv.icu^
 ||gfbdb1.com^
+||gfpvvwf.xyz^
 ||ggrfab.icu^
 ||ggsnyc.xyz^
 ||ghbdsbfd.com^
@@ -51015,6 +51022,7 @@ vkcdnservice.appspot.com^
 ||lrbvxx.xyz^
 ||lryqef.xyz^
 ||lsce.top^
+||lthmfx.xyz^
 ||lutrbr.xyz^
 ||lvnlrmn.xyz^
 ||lvzkfcm.cn^
@@ -51161,6 +51169,7 @@ vkcdnservice.appspot.com^
 ||nyfgpbsc.xyz^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
+||nykvdwi.cn^
 ||nyvgbt.xyz^
 ||nzlrfdv.xyz^
 ||oafhif.icu^
@@ -51386,6 +51395,7 @@ vkcdnservice.appspot.com^
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
+||szbxw.cn^
 ||szmdp.cn^
 ||szmkr.cn^
 ||szmmb.cn^
@@ -51443,6 +51453,7 @@ vkcdnservice.appspot.com^
 ||trf6b.top^
 ||trojangfw.xyz^
 ||trrmkzesvyqrary.com^
+||tsaristcanapes.com^
 ||tsvkfwth.xyz^
 ||tszoxhtk.xyz^
 ||ttgjwxp.icu^
@@ -51590,6 +51601,7 @@ vkcdnservice.appspot.com^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
 ||vvlhrz.xyz^
+||vwsgmf.icu^
 ||vxdpmxw.xyz^
 ||vyriglq.cn^
 ||w3wci.site^
@@ -51611,6 +51623,7 @@ vkcdnservice.appspot.com^
 ||whranc.cn^
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
+||wkybwa.xyz^
 ||wkzsmj.icu^
 ||wlzlrlp.xyz^
 ||wmnraj.icu^
@@ -51658,6 +51671,7 @@ vkcdnservice.appspot.com^
 ||xhgpuxim.xyz^
 ||xhnvgdkw.xyz^
 ||xhubsxmg.xyz^
+||xhzjidgc.xyz^
 ||xiaobizaizi1.top^
 ||xiaohuishu.top^
 ||xiiepofl.xyz^
@@ -51735,6 +51749,7 @@ vkcdnservice.appspot.com^
 ||yhnvgdkw.xyz^
 ||yhtpsy8888.cc^
 ||yhubsxmg.xyz^
+||yhzjidgc.xyz^
 ||yivkzvog.xyz^
 ||yjbdyjnctgj.top^
 ||yjxzvqy.xyz^
@@ -51811,19 +51826,6 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||yhzjidgc.xyz^
-||wkybwa.xyz^
-||nykvdwi.cn^
-||lthmfx.xyz^
-||bgeg1.fun^
-||gfpvvwf.xyz^
-||tsaristcanapes.com^
-||vwsgmf.icu^
-||chzjidgc.xyz^
-||bcthd12.shop^
-||ddaixdz.cn^
-||szbxw.cn^
-||xhzjidgc.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
