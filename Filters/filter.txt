@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-30T18:09:05.505Z
+! Last modified: 2024-01-31T00:33:03.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7169,6 +7169,7 @@ vkcdnservice.appspot.com^
 ||caboclonymphly.com^
 ||cabotsmuskit.com^
 ||cachegorilla.com^
+||cachegorilla.net^
 ||cackssandhog.com^
 ||cacmatch.com^
 ||cacvduyrybba.xyz^
@@ -24596,6 +24597,7 @@ vkcdnservice.appspot.com^
 ||popmyads.com^
 ||popnc.com^
 ||poppysol.com^
+||poprtb.com^
 ||popruexo.com^
 ||popsads.com^
 ||popsads.net^
@@ -28732,6 +28734,7 @@ vkcdnservice.appspot.com^
 ||solemnlypink.com^
 ||solemnvine.com^
 ||solestudious.com^
+||soliads.io^
 ||soliads.net^
 ||solicitorlaptopfooting.com^
 ||solicitorviewer.com^
@@ -34195,6 +34198,7 @@ vkcdnservice.appspot.com^
 ||xmlapiclickredirect10102022.com^
 ||xmlgrab.com^
 ||xmlheartbiddotnet.monster^
+||xmlking.com^
 ||xmllover.com^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
@@ -36416,6 +36420,7 @@ vkcdnservice.appspot.com^
 ||1419560424.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
+||1647871863.rsc.cdn77.org^
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -38071,7 +38076,6 @@ vkcdnservice.appspot.com^
 ||ad.duapps.com^
 ! Ads on some Chinese smartphones
 ||ufz.doesxyz.com^
-||id1.cn^
 ||xdrig.com^
 ||usp1.baidu.com^
 ||i2.myapkcdn.in^
@@ -38197,11 +38201,9 @@ vkcdnservice.appspot.com^
 ||promotionad.nvcam.net^
 ||ad.nvdvr.cn^
 ||krt.asycxtz.cn^
-||hnr.wwxhba.xyz^
 ||erg.ihclam.cn^
 ||hnl.ijgocb.cn^
 ||ob.leap.app^
-||daxuetong.zone^
 ||qist.me^
 ||ads-gdl.imovideo.ru^
 ||ads.imovideo.ru^
@@ -38260,7 +38262,6 @@ vkcdnservice.appspot.com^
 ||ad.tencentmusic.com^
 ||ads.iosappsworld.com^
 ||ads-cloud.rovio.com^
-||mobnatives.com^
 ||aag.yahooapis.jp^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||adcel.co^
@@ -38332,7 +38333,6 @@ vkcdnservice.appspot.com^
 ||data-optout-service.uca.cloud.unity3d.com^
 ||thind-gke-euw.prd.data.corp.unity3d.com^
 ||unityads.unity3d.com^
-||gop1.co^
 ||nkis.nikkei.com^
 ||gameanalysis.appcpi.net^
 ||ads.bulldogcpi.com^
@@ -38394,7 +38394,6 @@ vkcdnservice.appspot.com^
 ||tw.api.vpon.com^
 ||sdk.adtiming.com^
 ||adsmogo.net^
-||adsmogo.org^
 ||adsmogo.mobi^
 ||chartboosts.com^
 ||mobpowertech.com^
@@ -38408,7 +38407,6 @@ vkcdnservice.appspot.com^
 ||tkmftc.aotter.net^
 ||d32z5ni8t5127x.cloudfront.net^
 ||sumatoad.com^
-||upsight-api.com^
 ||gdn.bigfishgames.com^
 ||883.engine.mobileapptracking.com^
 ||ad.daum.net^
@@ -38443,9 +38441,7 @@ vkcdnservice.appspot.com^
 ||wdig.vo.llnwd.net^
 ||appnext.hs.llnwd.net^
 ||adsdk.vrvm.com^
-||moatads.com.edgekey.net^
 ||a.applvn.com^
-||buzzad.io^
 ||adslot.uc.cn^
 ||jssdk.rayjump.com^
 ||adtheorent.com^
@@ -38457,13 +38453,11 @@ vkcdnservice.appspot.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
 ||zzhengre.com^
-||fjrkn.com^
 ||tongqing2015.com^
 ||pw.lpsxssm.com^
 ||bidsopt.com^
 ||tpbid.com^
 ||exe.bid^
-||ssphwy.com^
 ||hyperadx.com^
 ||admarvel.com^
 ||mopub-win-us-east.bksn.se^
@@ -38496,16 +38490,13 @@ vkcdnservice.appspot.com^
 ||ad.smaad.jp^
 ||ad.vrvm.com^
 ||adblade.com^
-||adbrau.com^
 ||adcamp.ru^
 ||adcel.vrvm.com^
 ||addapptr.com^
-||adextent.com^
 ||adform.com^
 ||adhood.com^
 ||adinfo.tango.me^
 ||adinfuse.com^
-||aditic.net^
 ||adkmob.com^
 ||adleads.com^
 ||adlibr.com^
@@ -38533,23 +38524,19 @@ vkcdnservice.appspot.com^
 ||adsee.jp^
 ||adserver.goforandroid.com^
 ||adserver.kimia.es^
-||adserver.ubiyoo.com^
 ||adshost2.com^
 ||adsmo.ru^
 ||adsmoloco.com^
 ||adsrvr.org^
-||adsymptotic.com^
 ||adtilt.com^
 ||adtrack.king.com^
 ||adv.mxmcdn.net^
 ||advertising.com^
-||adwhirl.com^
 ||adwods.com^
 ||adz.mobi^
 ||adzmobi.com^
 ||api.fusepowered.com^
 ||api.usebutton.com^
-||appclick.co^
 ||appclick.net^
 ||applifier.com^
 ||applovin.com^
@@ -38559,7 +38546,6 @@ vkcdnservice.appspot.com^
 ||appserver-cp.com^
 ||appshelf.ttpsdk.info^
 ||appwall.tv2phone.cn^
-||apxadtracking.net^
 ||as.adfonic.net^
 ||astrsk.net^
 ||atti.com^
@@ -38574,9 +38560,7 @@ vkcdnservice.appspot.com^
 ||bigmobileads.com^
 ||bubblesmedia.ru^
 ||c8.net.ua^
-||campaigns.apps-connects.com^
 ||cashprom.ru^
-||castplatform.com^
 ||cdn-image.com^
 ||celtra.com^
 ||ceppartner.com^
@@ -38609,7 +38593,6 @@ vkcdnservice.appspot.com^
 ||gts-ads.twistbox.com^
 ||ha-api.pushwoosh.com^
 ||heyzap.com^
-||hormebets.info^
 ||hostgrater.com^
 ||houseads-prod.elasticbeanstalk.com^
 ||houseads.ttpsdk.info^
@@ -38631,7 +38614,6 @@ vkcdnservice.appspot.com^
 ||intowow.com^
 ||investingchannel.com^
 ||javacript.gq^
-||jmp9.com^
 ||justad.mobi^
 ||keydot.net^
 ||kochava.com^
@@ -38647,7 +38629,6 @@ vkcdnservice.appspot.com^
 ||mads.bz^
 ||manage.com^
 ||mbn.com.ua^
-||mdotm.com^
 ||medialand.ru^
 ||mediate-ios-*.hyprmx.com^
 ||metamx.com^
@@ -38665,15 +38646,12 @@ vkcdnservice.appspot.com^
 ||mobiledl.adboe.com^
 ||mobon.com^
 ||mofox.com^
-||mojiva.com^
 ||mtburn.jp^
 ||mtrcss.com^
-||mxttrf.com^
 ||mydas.mobi^
 ||nativex.com^
 ||nearbyad.com^
 ||nend.net^
-||njs.manhuahome.com^
 ||nomalleadzuaff.com^
 ||novostimira.biz^
 ||os.scmpacdn.com^
@@ -38690,13 +38668,10 @@ vkcdnservice.appspot.com^
 ||pub1.co^
 ||pubnative.net^
 ||questionmarket.com^
-||rek.mobi^
 ||richpays.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||saymedia.com^
-||sdk.native123.com^
 ||sdk.starbolt.io^
-||serve-sys.com^
 ||servebom.com^
 ||sessionm.com^
 ||silvermob.com^
@@ -38740,9 +38715,7 @@ vkcdnservice.appspot.com^
 ||vserv.mobi^
 ||vungle.com^
 ||waiads.com^
-||wap-click.com^
 ||wapstart.ru^
-||wbn.su^
 ||west.bidtellect.com^
 ||widespace.com^
 ||presage.io^
@@ -38750,9 +38723,7 @@ vkcdnservice.appspot.com^
 ||ximad.com^
 ||yandexadexchange.net^
 ||yc-ads.s3.amazonaws.com^
-||yemonisoni.com^
 ||youmi.net^
-!+ NOT_OPTIMIZED
 !+ PLATFORM(ios)
 ||deloton.com$important
 !+ PLATFORM(ios)
@@ -38799,21 +38770,12 @@ vkcdnservice.appspot.com^
 ||adsocy.com^
 ||fuegodevida.com^
 ||admasters.media^
-||cibgphkiqbjk.com^
 ||publi.atresmediapublicidad.com^
 ||banners.inforchannel.com.br^
-||popunder.online^
 ||juicebarads.com^
-||adcains.com^
-||lspzhtvstux.com^
-||xfkkvjabbogciwl.top^
 ||cameracaseira.com^
 ||bloco.top^
 ||fireadsone.com^
-||xwktyiydn.com^
-||pwjwgrtznpl.com^
-||embedplayerbooyah.com^
-||clubesaudedeassinatura.com.br^
 ||zcp.zwame.pt^
 ||adserver*.euroweeklynews.com^
 ||ads.enrt.eu^
@@ -38822,38 +38784,26 @@ vkcdnservice.appspot.com^
 ||25haich4342.ru^
 ||bserver.gp-guia.net^
 ||widgets.informars.com^
-||potu.xyz^
 ||ymonetize.com^
-||nucleo.ml^
 ||phoenix-widget.com^
-||c9p7at3pctmprvb5ecq66vvd.ml^
 ||premiumads.com.br^
 ||subdo.torrentrapid.com^
 ||sunmedia.tv^
 ||lzrikate.com^
-||redemw.com^
-||grupoemidia.com.br^
 ||tckn-code.com^
 ||zona1.at.ua^
 ||qebodu.com^
 ||adw.sapo.pt^
 ||midan.io^
-||lojapremio.com.br^
-||adsnetworkbr.ml^
 ||sworatio.co^
 ||waycash.net^
 ||actualtrade.eu^
 ||ad-pub.terra.com.br^
 ||ad.batanga.com^
 ||ad.correioweb.com.br^
-||ad.jamba.pt^
 ||ad.terra.com.mx^
 ||ad.terra.com^
-||adfueling.com^
 ||adnetwork.com.br^
-||ads.adpv.com^
-||ads.celldorado.com^
-||ads.dgabcsolutions.com.br^
 ||ads.elpais.com.uy^
 ||ads.gamavirtual.com^
 ||ads.gazetaesportiva.net^
@@ -38863,7 +38813,6 @@ vkcdnservice.appspot.com^
 ||ads.periodistadigital.com^
 ||ads.prisacom.com^
 ||adserver.clix.pt^
-||adsmwt.com^
 ||adsroute.com^
 ||affilired.com^
 ||afilio.com.br^
@@ -38883,10 +38832,8 @@ vkcdnservice.appspot.com^
 ||coolmobile.es^
 ||de17a.com^
 ||detectca.easysol.net^
-||direcionando.baixedetudo.net^
 ||diximedia.es^
 ||epartner.es^
-||fgcash.com.br^
 ||foneclick.com.br^
 ||hotwords.com.br^
 ||hotwords.com.mx^
@@ -38897,20 +38844,14 @@ vkcdnservice.appspot.com^
 ||linkeasy.org^
 ||logs.eresmas.com^
 ||lomadee.com^
-||maik.ff-bt.net^
 ||maispremium.com.br^
-||manuaisadultos.com.br^
 ||metaffiliation.com^
-||metododinheiro.pt^
 ||miarroba.info^
 ||micodigo.com^
 ||mipagerank.com^
-||muyviajero.com^
 ||navdmp.com^
 ||netfilia.com^
-||new-down.com^
 ||nuevaq.net^
-||offers.motime.com.br^
 ||opromo.com^
 ||pelicula20.com^
 ||planetup.com^
@@ -38925,11 +38866,7 @@ vkcdnservice.appspot.com^
 ||seomaster.com.br^
 ||softclick.com.br^
 ||solution911.com^
-||spublicidad.net^
-||swi-adserver.com^
 ||templates.buscape.com^
-||tracking.fsjmp.com^
-||xclk-integracion.com^
 ||yestorrents.org^
 ||zebestof.com^
 !
@@ -41585,7 +41522,6 @@ vkcdnservice.appspot.com^
 ||media.ad-lps.net^
 ||ad.moo-mam-tai.com^
 ||noonsaleov.com^
-||freebaitar.com^
 ||bestovamk.com^
 ||givesthtosb.com^
 ||hydrangeao.com^
@@ -41618,7 +41554,6 @@ vkcdnservice.appspot.com^
 ||corectcustom.com^
 ||moro-douga.link^
 ||saltwortokra.com^
-||satsumadurian.com^
 ||gusion.space^
 ||ad-clcount.com^
 ||js.kabutocho-dsp.net^
@@ -41675,10 +41610,8 @@ vkcdnservice.appspot.com^
 ||ad.xdomain.ne.jp^
 ||af-next.com^
 ||pr-agent.jp^
-||ad-paradise.com^
 ||js.passaro-de-fogo.biz^
 ||trading-ad.net^
-||ads.ressp.net^
 ||a.overlay.top^
 ||zastag.com^
 ||adcent.jp^
@@ -41687,7 +41620,6 @@ vkcdnservice.appspot.com^
 ||devo.jp^
 ||ad.ddo.jp^
 ||js.winc-ad.com^
-||affil.jp^
 ||reemo-ad.jp^
 ||cdn.alistcloud.com^
 ||ams900.goo.ne.jp^
@@ -41795,7 +41727,6 @@ vkcdnservice.appspot.com^
 ||ad-optima.com^
 ||addeluxe.jp^
 ||adfurikun.jp^
-||apserver.net^
 ||clickmedias.info^
 ||doubleclick.ne.jp^
 ||fout.jp^
@@ -41809,7 +41740,6 @@ vkcdnservice.appspot.com^
 ||mediba.jp^
 ||mopo.jp^
 ||myiads.com^
-||november-lax.com^
 ||redirectvoluum.com^
 ||speead.jp^
 ||textad.net^
@@ -41844,7 +41774,6 @@ vkcdnservice.appspot.com^
 ||itgear.jp^
 ||link-trade.net^
 ||mcnt.jp^
-||pvranking.com^
 ||recommender.jp^
 ||rentracks.jp^
 *ad.durasite.net^
@@ -41893,7 +41822,6 @@ vkcdnservice.appspot.com^
 !
 ||ad.woman.mynavi.jp^
 ||shop.vapelog.jp^
-||o-nad.com^
 ||s-ad.rmp.rakuten.co.jp^
 ||ad.jp.ap.valuecommerce.com^
 ||ad.jp.ap.g.valuecommerce.com^
@@ -48677,6 +48605,7 @@ vkcdnservice.appspot.com^
 ||17123.net^
 ||1821z.website^
 ||1bctkn.xyz^
+||1cecn.icu^
 ||1cjzfyb.com^
 ||1cpkcnm.com^
 ||1dcbzuv.com^
@@ -48754,6 +48683,7 @@ vkcdnservice.appspot.com^
 ||9g659.xyz^
 ||9i8i.com^
 ||9j9zo.cyou^
+||9s64g.icu^
 ||9t51o.icu^
 ||a4bj6.xyz^
 ||a99hz.space^
@@ -48768,6 +48698,7 @@ vkcdnservice.appspot.com^
 ||acemof.top^
 ||acsegt86.shop^
 ||actrqdr.cn^
+||adasdz.cn^
 ||adtx2.cn^
 ||aerbgpn.xyz^
 ||aflsj.com^
@@ -48954,6 +48885,7 @@ vkcdnservice.appspot.com^
 ||cpkxahje.xyz^
 ||cpmlwhra.xyz^
 ||cprdmnlo.xyz^
+||cpwlctfk.xyz^
 ||cpyjyhny.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -48968,6 +48900,8 @@ vkcdnservice.appspot.com^
 ||cxapio.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
+||czresus.cn^
+||d10wv.fun^
 ||dafdfd.cn^
 ||danun.cn^
 ||daslethv.com^
@@ -49293,6 +49227,7 @@ vkcdnservice.appspot.com^
 ||iujlwn.icu^
 ||iumboa.xyz^
 ||iuvssgh.cn^
+||iwwmaq.xyz^
 ||jackdd.xyz^
 ||jane1.top^
 ||jane2.top^
@@ -49373,6 +49308,7 @@ vkcdnservice.appspot.com^
 ||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
+||kkkaii.cn^
 ||kkmsa.top^
 ||kkosiso.com^
 ||kksjoa.com^
@@ -49432,6 +49368,7 @@ vkcdnservice.appspot.com^
 ||lblwhh.xyz^
 ||lcid.top^
 ||lckjqtx.xyz^
+||ldjnbn.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
 ||leizylb.icu^
@@ -49653,6 +49590,7 @@ vkcdnservice.appspot.com^
 ||oryhic.xyz^
 ||otbeksf.cn^
 ||otxlhpm.xyz^
+||ovbgeum.cn^
 ||ovfvkfc.xyz^
 ||ovnrmvg.cn^
 ||ovykq.online^
@@ -49683,6 +49621,7 @@ vkcdnservice.appspot.com^
 ||pknrnj.xyz^
 ||plnrkgc.xyz^
 ||plotafb.com^
+||pmnct63.shop^
 ||pobrpr.xyz^
 ||poiwer.com^
 ||ppenid.xyz^
@@ -49841,6 +49780,7 @@ vkcdnservice.appspot.com^
 ||sunshijc.com^
 ||suzoqz.icu^
 ||svhdbmp.cn^
+||sxtnpzd.xyz^
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
@@ -50099,6 +50039,7 @@ vkcdnservice.appspot.com^
 ||wyoaij.icu^
 ||wyohm.xyz^
 ||wzzlnld.xyz^
+||x08jd.top^
 ||x1fyw.icu^
 ||x2y22.fun^
 ||xafuzcxr.xyz^
@@ -50149,6 +50090,7 @@ vkcdnservice.appspot.com^
 ||xphcrjth.xyz^
 ||xpkxahje.xyz^
 ||xprdmnlo.xyz^
+||xpwlctfk.xyz^
 ||xpyerxzn.xyz^
 ||xpyjyhny.xyz^
 ||xq2024.com^
@@ -50215,6 +50157,7 @@ vkcdnservice.appspot.com^
 ||ypffkbpq.xyz^
 ||ypkxahje.xyz^
 ||yprdmnlo.xyz^
+||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
@@ -50246,6 +50189,7 @@ vkcdnservice.appspot.com^
 ||zfp32.buzz^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
+||zghsep.icu^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zigyspv.icu^
@@ -50275,22 +50219,11 @@ vkcdnservice.appspot.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||ldjnbn.xyz^
-||kkkaii.cn^
-||ypwlctfk.xyz^
-||d10wv.fun^
-||sxtnpzd.xyz^
-||iwwmaq.xyz^
-||zghsep.icu^
-||x08jd.top^
-||9s64g.icu^
-||1cecn.icu^
-||ovbgeum.cn^
-||cpwlctfk.xyz^
-||pmnct63.shop^
-||czresus.cn^
-||xpwlctfk.xyz^
-||adasdz.cn^
+||dxsjcz.cn^
+||yhsdwjes.xyz^
+||tnllxd.xyz^
+||epxfjcb.xyz^
+||dpe5t.space^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
