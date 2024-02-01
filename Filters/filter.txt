@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-01-31T18:07:01.804Z
+! Last modified: 2024-02-01T00:34:32.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -15192,6 +15192,7 @@ vkcdnservice.appspot.com^
 ||hghm4u7b61.com^
 ||hgijycxp.com^
 ||hgirsxsgetv.com^
+||hgjxjis.com^
 ||hgkuafsvkrn.xyz^
 ||hgpmbfkxmrw.xyz^
 ||hgqpbscai.com^
@@ -17948,6 +17949,7 @@ vkcdnservice.appspot.com^
 ||kioeasodamid.com^
 ||kipapjhs.com^
 ||kipeir.com^
+||kipweootro.com^
 ||kiretafly.com^
 ||kirkifyapache.website^
 ||kirkmanhirple.com^
@@ -19091,6 +19093,7 @@ vkcdnservice.appspot.com^
 ||lockperseverancebertram.com^
 ||locksstruck.com^
 ||locomotiveconvenientriddle.com^
+||locomotivetroutliquidate.com^
 ||locoscrayons.cfd^
 ||loculusgerara.digital^
 ||locusflourishgarlic.com^
@@ -26926,6 +26929,7 @@ vkcdnservice.appspot.com^
 ||rpeoehkaferf.com^
 ||rpllrsbmhahj.com^
 ||rpmwhoop.com^
+||rprapjc.com^
 ||rprinc6etodn9kunjiv.com^
 ||rpsoybm.com^
 ||rptdbyvychrfap.com^
@@ -29045,6 +29049,7 @@ vkcdnservice.appspot.com^
 ||stigat.com^
 ||stigmaicomfy.com^
 ||stigmuuua.xyz^
+||stijzytavb.com^
 ||stiksaud.com^
 ||stilaed.com^
 ||stilaikr.com^
@@ -30435,6 +30440,7 @@ vkcdnservice.appspot.com^
 ||tnpads.xyz^
 ||tnsmufijcnulqtl.com^
 ||tnudztz.com^
+||tnwlpbxyto.com^
 ||toabaise.net^
 ||toabuck.xyz^
 ||toaduroo.xyz^
@@ -33180,6 +33186,7 @@ vkcdnservice.appspot.com^
 ||whisperpostage.com^
 ||whisteeb.xyz^
 ||whistlingbeau.com^
+||whistlingmoderate.com^
 ||whitenoisenews.com^
 ||whitgodship.com^
 ||whittenchorded.com^
@@ -40708,6 +40715,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||rcmjs.rambler.ru^
 ||sharemefiles.ru^
 ||userdata.ati.su^
 ||r.z3.fm^
@@ -49963,6 +49971,17 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||3ndra.icu^
+||ylgvlvbc.xyz^
+||drzgtli.com^
+||yzfrapd.xyz^
+||isksss.top^
+||kkjshsj.com^
+||rlllxn.xyz^
+||glruh.site^
+||zvtnj.icu^
+||iqveat.icu^
+||wdcigo.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
