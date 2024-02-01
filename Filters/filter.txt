@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-01T00:34:32.620Z
+! Last modified: 2024-02-01T06:09:32.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36168,36 +36168,19 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
-||1117977646.rsc.cdn77.org^
 ||1173384488.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
-||1199279496.rsc.cdn77.org^
-||1202647672.rsc.cdn77.org^
-||1205020224.rsc.cdn77.org^
-||1304807583.rsc.cdn77.org^
-||1377920294.rsc.cdn77.org^
-||1413879490.rsc.cdn77.org^
-||1419560424.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
 ||1580345775.rsc.cdn77.org^
 ||1647871863.rsc.cdn77.org^
-||1661795914.rsc.cdn77.org^
-||1662864709.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1680292335.rsc.cdn77.org^
-||1692923857.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
-||1818027024.rsc.cdn77.org^
-||1843942256.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
-||1915832424.rsc.cdn77.org^
-||1919954591.rsc.cdn77.org^
 ||1921777336.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
 ||1969321160.rsc.cdn77.org^
-||1973440310.rsc.cdn77.org^
-||1987292064.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -36351,7 +36334,6 @@ vkcdnservice.appspot.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||yield-op-idsync.live.streamtheworld.com^
-||yieldmanager.edgesuite.net^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
 ||ad.xiaomi.com^
@@ -42365,8 +42347,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-26 08:12:34 CET
-# entries:        1074
+# last updated:   2024-02-01 07:06:35 CET
+# entries:        1065
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -42487,7 +42469,6 @@ vkcdnservice.appspot.com^
 ||bulletproof-analytics.com^
 ||buzzador.com^
 ||c.eacla.com^
-||campersverige.com.se^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
@@ -42547,7 +42528,6 @@ vkcdnservice.appspot.com^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
 ||cl-eu4.k5a.io^
-||cmp.network-n.com^
 ||cncpt.dk^
 ||cncptx.com^
 ||cncpt-central.com^
@@ -42638,6 +42618,7 @@ vkcdnservice.appspot.com^
 ||gwen.insertcoin.se^
 ||hapyak.com^
 ||heroaffiliates.com^
+||hits-i.iubenda.com^
 ||hsadspixel.net^
 ||h.online-metrix.net^
 ||iba.feedblitz.com^
@@ -42792,6 +42773,7 @@ vkcdnservice.appspot.com^
 ||route.carambo.la^
 ||royapp.com^
 ||rpofsweden.com^
+||rpofsweden.se^
 ||rumcdn.geoedge.be^
 ||rum-http-intake.logs.datadoghq.eu^
 ||s.ntv.io^
@@ -42820,7 +42802,6 @@ vkcdnservice.appspot.com^
 ||sentry.outbid.io^
 ||seoab.io^
 ||seonify.com^
-||serenitycandles.com.se^
 ||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
@@ -43041,6 +43022,7 @@ vkcdnservice.appspot.com^
 ||trckr.nordiskemedier.dk^
 ||trckr1.nordiskemedier.dk^
 ||trugaze.io^
+||turbolion.io^
 ||twin-iq.kickfire.com^
 ||ubembed.com^
 ||umami.nordiskehandel.cloud^
@@ -43493,8 +43475,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Jan 2024 22:44 UTC+7
-! Version: 2401232244
+! Last modified: 01 Feb 2024 11:03 UTC+7
+! Version: 2402011103
 ! Blocked: 861 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44321,9 +44303,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Jan 2024 22:45 UTC+7
-! Version: 2401232245
-! Blocked: 4,072 rules
+! Last modified: 01 Feb 2024 11:03 UTC+7
+! Version: 2402011103
+! Blocked: 4,082 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44434,6 +44416,7 @@ vkcdnservice.appspot.com^
 ||aets88.com^
 ||aets99.com^
 ||agrib-vn.com^
+||agribank.dangkyungtuyen.com^
 ||agribank.info^
 ||agribanking.com.vn^
 ||agribanks.link^
@@ -44466,6 +44449,7 @@ vkcdnservice.appspot.com^
 ||almofmultiple.cfd^
 ||alovay24h.com^
 ||ama-zmart.top^
+||amajwzon456.top^
 ||amazon.amazonptj.com^
 ||amazonbig.asia^
 ||amazonsg.shop^
@@ -44541,6 +44525,7 @@ vkcdnservice.appspot.com^
 ||baosaoviet24h.net^
 ||baotienphong.net^
 ||baotrixanhvn.com^
+||baoviet-vn.cc^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
@@ -44715,6 +44700,7 @@ vkcdnservice.appspot.com^
 ||crestfidubank.com^
 ||cryptominexchange.com^
 ||cryptooexchange.xyz^
+||cskh-ca-nhan-vpbank.com^
 ||cskh-dienmay-xanh.com^
 ||cskh-dienmayxanhvn.com^
 ||cskh-the-vpbank.com^
@@ -44782,6 +44768,7 @@ vkcdnservice.appspot.com^
 ||dich-vu-the-ez-vpbank.com^
 ||dich-vu-the-vdiamond-vpbank.com^
 ||dich-vu-the-vvip-vpb.com^
+||dich-vu-update-vpbank.com^
 ||dichvu-chuyentien24h.000webhostapp.com^
 ||dichvu-dien-mayxanh.com^
 ||dichvuchuyentien-ind.weebly.com^
@@ -44890,6 +44877,7 @@ vkcdnservice.appspot.com^
 ||escortlarbul.com^
 ||eserbank.com^
 ||essbritanidim.club^
+||etkf44.com^
 ||eulo11.com^
 ||eulo99.com^
 ||evay.info^
@@ -45446,6 +45434,7 @@ vkcdnservice.appspot.com^
 ||lazada-sale.gq^
 ||lazada-task.cc^
 ||lazada.bet^
+||lazada.gg^
 ||lazada.website^
 ||lazada1.cc^
 ||lazada1.com^
@@ -45869,6 +45858,7 @@ vkcdnservice.appspot.com^
 ||myshopee7.vip^
 ||mysp.ac^
 ||nalhajarm.cfd^
+||nang-cap-hang-vvip-vib.com^
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
@@ -46179,6 +46169,7 @@ vkcdnservice.appspot.com^
 ||oughtme.cfd^
 ||oundandk.cfd^
 ||oylg7.com^
+||p63899vn.com^
 ||pagelazada.com^
 ||panyruld.cfd^
 ||paylienquan.club^
@@ -47907,6 +47898,7 @@ vkcdnservice.appspot.com^
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
+||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
 ||vip8591.net^
@@ -49982,6 +49974,9 @@ vkcdnservice.appspot.com^
 ||zvtnj.icu^
 ||iqveat.icu^
 ||wdcigo.xyz^
+||dwtkuzo.cn^
+||qvrfddm.cn^
+||clgvlvbc.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
