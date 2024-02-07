@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-07T06:09:28.784Z
+! Last modified: 2024-02-07T12:12:01.087Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36094,6 +36094,7 @@ vkcdnservice.appspot.com^
 ||gripdownload.co^
 ||groovinads.com^
 ||growadvertising.com^
+||grv.media^
 ||grvmedia.com^
 ||guitaralliance.com^
 ||gumgum.com^
@@ -50557,6 +50558,9 @@ vkcdnservice.appspot.com^
 ||xvilxdv.cn^
 ||atwqyor.cn^
 ||clkdbbvy.xyz^
+||gmxysb.icu^
+||glittersh.com^
+||xlkdbbvy.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
