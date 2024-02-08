@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-07T18:08:47.237Z
+! Last modified: 2024-02-08T00:32:18.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9465,6 +9465,7 @@ vkcdnservice.appspot.com^
 ||dauptoawhi.com^
 ||dausoofo.net^
 ||dautegoa.xyz^
+||davctinijon.com^
 ||davjdaauvlp.com^
 ||daweneath.com^
 ||dawirax.com^
@@ -17727,6 +17728,7 @@ vkcdnservice.appspot.com^
 ||jsfeedadsget.com^
 ||jsfrfeuubna.com^
 ||jsftfmegwcyhsed.com^
+||jsftzha.com^
 ||jsfuz.com^
 ||jsjocrwmcg.com^
 ||jsmentry.com^
@@ -29717,6 +29719,7 @@ vkcdnservice.appspot.com^
 ||suctionspelts.com^
 ||sudorwauve.com^
 ||sudsguidon.com^
+||sudvclh.com^
 ||suescollum.com^
 ||sufeismmitered.digital^
 ||suffertreasureapproval.com^
@@ -36794,6 +36797,7 @@ vkcdnservice.appspot.com^
 ||get.thisisvegas.com^
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
+||googleads.github.io^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
