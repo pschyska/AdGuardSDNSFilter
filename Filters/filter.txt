@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-08T06:10:08.597Z
+! Last modified: 2024-02-08T12:12:20.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||feetdonsub.live^
+||whimsicalcoat.com^
+||cylindrical-form.com^
+||evoutouk.com^
+||boptegre.com^
+||nisdnwiug.com^
 ||bqeuffmdobmpoe.xyz^
 ||njsbccyenjyq.com^
 ||vowpairmax.live^
@@ -1356,7 +1362,6 @@
 !
 ! https://github.com/AdguardTeam/AdGuardHome/issues/1046
 ||samsungtvads.com^
-||adconsent.samsungrs.com^
 
 !
 ! Source name: AdGuard Base filter ad servers first-party
@@ -50588,6 +50593,10 @@ vkcdnservice.appspot.com^
 ||bcttodv.cn^
 ||cdhfvrug.xyz^
 ||bbtta91.shop^
+||pzpivx.xyz^
+||komvkup.cn^
+||xdhfvrug.xyz^
+||zacveh.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
