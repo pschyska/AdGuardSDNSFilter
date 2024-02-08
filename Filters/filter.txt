@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-08T00:32:18.191Z
+! Last modified: 2024-02-08T06:10:08.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29358,6 +29358,7 @@ vkcdnservice.appspot.com^
 ||startd0wnload22x.com^
 ||startlemanipulativedamaging.com^
 ||startpagea.com^
+||startperfectsolutions.com^
 ||starvardsee.xyz^
 ||starvationdefence.com^
 ||starvegingerwaist.com^
@@ -50575,6 +50576,18 @@ vkcdnservice.appspot.com^
 ||zzlong14.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||ydhfvrug.xyz^
+||dswcrlf.cn^
+||ofdnkro.xyz^
+||q6gub.website^
+||vwmjkl.icu^
+||kjeqga.xyz^
+||fdhnsr56.shop^
+||wecfgy36.shop^
+||xdzjbn.xyz^
+||bcttodv.cn^
+||cdhfvrug.xyz^
+||bbtta91.shop^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
