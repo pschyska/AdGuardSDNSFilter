@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-10T00:31:34.536Z
+! Last modified: 2024-02-10T06:08:16.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10186,6 +10186,7 @@ vkcdnservice.appspot.com^
 ||disgraceannihilate.com^
 ||disgracefulforeword.com^
 ||disguised-dad.com^
+||disgustassembledarctic.com^
 ||disgustinghindsight.com^
 ||disgustingscuffleaching.com^
 ||disheartensunstroketeen.com^
@@ -50800,6 +50801,10 @@ vkcdnservice.appspot.com^
 ||qhapoq.xyz^
 ||mphxyxk.xyz^
 ||vhgunzr.cn^
+||wckkl.online^
+||nxledn.xyz^
+||dqlhuf.icu^
+||cdazjxso.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
