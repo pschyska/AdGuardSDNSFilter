@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-13T12:12:14.694Z
+! Last modified: 2024-02-13T18:09:30.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -12947,7 +12947,6 @@ vkcdnservice.appspot.com^
 ||freeevpn.info^
 ||freefromads.com^
 ||freefromads.pro^
-||freeply.cards^
 ||freeskreen.com^
 ||freesoftwarelive.com^
 ||freespsprugs.com^
@@ -49181,6 +49180,7 @@ vkcdnservice.appspot.com^
 ||adtonus.com^
 ||adtx2.cn^
 ||aerbgpn.xyz^
+||aeucyo.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
 ||ahernssa.com^
@@ -49313,6 +49313,7 @@ vkcdnservice.appspot.com^
 ||bqxexj.xyz^
 ||brookssa.com^
 ||brorzpj.cn^
+||brtzgnd.xyz^
 ||bsvkfwth.xyz^
 ||btfjjwt.xyz^
 ||bthypgm.cn^
@@ -49375,6 +49376,7 @@ vkcdnservice.appspot.com^
 ||cldxphtg.xyz^
 ||clgvlvbc.xyz^
 ||clkdbbvy.xyz^
+||clplrhum.xyz^
 ||clrjnhxi.xyz^
 ||clypzbzs.xyz^
 ||cmdcdacq.xyz^
@@ -49563,6 +49565,7 @@ vkcdnservice.appspot.com^
 ||fsgiosi.com^
 ||ftdbtko.xyz^
 ||ftzzbx.xyz^
+||fufrnl.xyz^
 ||fuvbbjl.xyz^
 ||fv77e.icu^
 ||fwffa.cn^
@@ -49776,6 +49779,7 @@ vkcdnservice.appspot.com^
 ||iujlwn.icu^
 ||iumboa.xyz^
 ||iuvssgh.cn^
+||iwatojc.cn^
 ||iwwmaq.xyz^
 ||jackdd.xyz^
 ||jane1.top^
@@ -50143,6 +50147,7 @@ vkcdnservice.appspot.com^
 ||ogmjhve.cn^
 ||ogouawc.cn^
 ||ogxstqna.xyz^
+||ogyoopo.cn^
 ||ohdvafp.xyz^
 ||ohopao.xyz^
 ||okpcyp.icu^
@@ -50199,6 +50204,7 @@ vkcdnservice.appspot.com^
 ||pmnct63.shop^
 ||pobrpr.xyz^
 ||poiwer.com^
+||pozrwj.icu^
 ||ppenid.xyz^
 ||pptclb.xyz^
 ||ppvpmrt.xyz^
@@ -50219,6 +50225,7 @@ vkcdnservice.appspot.com^
 ||pzpivx.xyz^
 ||pztjlr.xyz^
 ||pzwjonv.icu^
+||q1gel.icu^
 ||q4v3c.site^
 ||q6gub.website^
 ||qauksl.icu^
@@ -50441,6 +50448,7 @@ vkcdnservice.appspot.com^
 ||tszoxhtk.xyz^
 ||ttgjwxp.icu^
 ||ttnwxhjv.xyz^
+||ttrruq749.shop^
 ||ttwwzqdx.xyz^
 ||tunovl.xyz^
 ||tuoizbtl.xyz^
@@ -50540,6 +50548,7 @@ vkcdnservice.appspot.com^
 ||vainews.cn^
 ||valerieavisnba.com^
 ||valerieurania.com^
+||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vcbppb.xyz^
 ||vcjczwnc.xyz^
@@ -50696,6 +50705,7 @@ vkcdnservice.appspot.com^
 ||xlgvlvbc.xyz^
 ||xlkdbbvy.xyz^
 ||xlnvvbk.xyz^
+||xlplrhum.xyz^
 ||xlrjnhxi.xyz^
 ||xltmjevd.xyz^
 ||xlwrdnrw.xyz^
@@ -50787,6 +50797,7 @@ vkcdnservice.appspot.com^
 ||yldxphtg.xyz^
 ||ylgvlvbc.xyz^
 ||ylkdbbvy.xyz^
+||ylplrhum.xyz^
 ||ylrjnhxi.xyz^
 ||ylwrdnrw.xyz^
 ||ylypzbzs.xyz^
@@ -50817,6 +50828,7 @@ vkcdnservice.appspot.com^
 ||yxcrcc.xyz^
 ||yxptcrss.xyz^
 ||yxrxsov.xyz^
+||yyodimq.cn^
 ||yyyaih.icu^
 ||yzfrapd.xyz^
 ||yzmcok.xyz^
@@ -50875,18 +50887,6 @@ vkcdnservice.appspot.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||vbzfjh.xyz^
-||q1gel.icu^
-||brtzgnd.xyz^
-||aeucyo.xyz^
-||ylplrhum.xyz^
-||pozrwj.icu^
-||ogyoopo.cn^
-||fufrnl.xyz^
-||clplrhum.xyz^
-||iwatojc.cn^
-||yyodimq.cn^
-||xlplrhum.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
