@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-15T12:12:14.333Z
+! Last modified: 2024-02-15T18:09:01.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||externalfavlink.com^
+||arwobaton.com^
+||gaming001.site^
+||fountaincheek.com^
+||eanwhitepinafor.com^
 ||rubestdealfinder.com^
 ||wenoolgo.icu^
 ||slownansuch.info^
@@ -2022,6 +2027,7 @@ vkcdnservice.appspot.com^
 ||aarghwoning.digital^
 ||aarswtcnoz.com^
 ||aaseovhxkkggtxj.com^
+||aawdlvr.com^
 ||aaxads.com^
 ||aayeuxotc.com^
 ||ab1n.net^
@@ -10514,7 +10520,6 @@ vkcdnservice.appspot.com^
 ||eanlingtumfie.com^
 ||eanrzzvvmjkl.top^
 ||eanrzzvvmjqm.top^
-||eanwhitepinafor.com^
 ||earact.com^
 ||eardepth-prisists.com^
 ||eargentssep.one^
@@ -11715,6 +11720,7 @@ vkcdnservice.appspot.com^
 ||exhno.com^
 ||exi8ef83z9.com^
 ||exinepenname.top^
+||existenceassociationvoice.com^
 ||existencethrough.com^
 ||existingcraziness.com^
 ||exists-mazard.icu^
@@ -16541,6 +16547,7 @@ vkcdnservice.appspot.com^
 ||invast.site^
 ||inventdebosh.com^
 ||inventorypikepockets.com^
+||investcoma.com^
 ||investmentstar.org^
 ||investorequalityfrog.com^
 ||investortirelimetree.com^
@@ -20922,6 +20929,7 @@ vkcdnservice.appspot.com^
 ||musclesadmonishment.com^
 ||muscleserrandrotund.com^
 ||musclesprefacelie.com^
+||musclyskeely.top^
 ||museumimpenetrablerepose.com^
 ||musicalbilateral.com^
 ||musicalglutton.com^
@@ -22289,6 +22297,7 @@ vkcdnservice.appspot.com^
 ||oclpegogoccxlw.com^
 ||ocmhood.com^
 ||ocmtag.com^
+||ocoaksib.com^
 ||ocogmhqo.com^
 ||oconner.link^
 ||ocrppeqevqihdi.com^
@@ -22463,6 +22472,7 @@ vkcdnservice.appspot.com^
 ||ohvcuqjqmjcfiys.com^
 ||ohwhdspj.com^
 ||oiarske.com^
+||oiavdib.com^
 ||oijorfkfwtdswv.xyz^
 ||oillesssris.guru^
 ||oilskinvulvar.digital^
@@ -22597,6 +22607,7 @@ vkcdnservice.appspot.com^
 ||omkitww.com^
 ||omkxadadsh.com^
 ||ommatearittock.digital^
+||ommopxpfuofm.com^
 ||omnatuor.com^
 ||omni-ads.com^
 ||omnidokingon.com^
@@ -23988,6 +23999,7 @@ vkcdnservice.appspot.com^
 ||pftamvhajdqhps.xyz^
 ||pfuettchk.com^
 ||pfulhwxjeoi.com^
+||pfyscjwxjcqdsqc.com^
 ||pgbmjuhwiej.xyz^
 ||pgdmon.com^
 ||pgdyfaphfgouq.com^
@@ -27904,6 +27916,7 @@ vkcdnservice.appspot.com^
 ||sdmfyqkghzedvx.com^
 ||sdprsvbnj.xyz^
 ||sdwbmqqluxiu.com^
+||sdxtxvq.com^
 ||sdyxesmfevby.com^
 ||seaboblit.com^
 ||seafoodclickwaited.com^
@@ -33895,6 +33908,7 @@ vkcdnservice.appspot.com^
 ||whupsoza.xyz^
 ||whuptaiz.net^
 ||whuptouky.com^
+||whustemu.com^
 ||whutchey.com^
 ||whuweehy.xyz^
 ||whychymithy.com^
@@ -35419,6 +35433,7 @@ vkcdnservice.appspot.com^
 ||zmikrctxf.com^
 ||zmjagawa.com^
 ||znaptag.com^
+||zncsdysorwms.com^
 ||znqip.net^
 ||zoachoar.net^
 ||zoachops.com^
@@ -36884,6 +36899,7 @@ vkcdnservice.appspot.com^
 ||1647871863.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1680292335.rsc.cdn77.org^
+||1687097253.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1874562524.rsc.cdn77.org^
@@ -37052,6 +37068,7 @@ vkcdnservice.appspot.com^
 ||widgets.oddschecker.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
+||winonexd.b-cdn.net^
 ||yield-op-idsync.live.streamtheworld.com^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
@@ -43046,8 +43063,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-14 06:43:34 CET
-# entries:        1066
+# last updated:   2024-02-15 13:58:40 CET
+# entries:        1074
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -43115,6 +43132,7 @@ vkcdnservice.appspot.com^
 ||analytics.sunet.se^
 ||analytics.svt.se^
 ||analytics.undeco.se^
+||analytics.vackertvader.se^
 ||analytics-sdk.yle.fi^
 ||analytics-smhise.smhi.se^
 ||analytics.ci-360.se^
@@ -43126,6 +43144,7 @@ vkcdnservice.appspot.com^
 ||api.deep.bi^
 ||api.fouanalytics.com^
 ||api.getlevelten.com^
+||api.lab.eu.amplitude.com^
 ||api.retargetly.com^
 ||api.segment.io^
 ||api3847.d41.co^
@@ -43220,6 +43239,7 @@ vkcdnservice.appspot.com^
 ||cdn.vip-hd-movies.xyz^
 ||cdn.zx-adnet.com^
 ||cintnetworks.com^
+||cis.schibsted.com^
 ||cision.com^
 ||cl.k5a.io^
 ||classic.avantlink.com^
@@ -43296,6 +43316,7 @@ vkcdnservice.appspot.com^
 ||fapp.pw^
 ||feed.aservice.tools^
 ||fila.com.se^
+||flag.lab.eu.amplitude.com^
 ||flx1.com^
 ||footjoygolfskorrea.com.se^
 ||fraagesport.com^
@@ -43322,6 +43343,7 @@ vkcdnservice.appspot.com^
 ||h.online-metrix.net^
 ||iba.feedblitz.com^
 ||iconosquare.com^
+||id.crwdcntrl.net^
 ||images-ads.aland.com^
 ||img.ascontentcloud.com^
 ||img06.en25.com^
@@ -43474,6 +43496,7 @@ vkcdnservice.appspot.com^
 ||rpofsweden.se^
 ||rumcdn.geoedge.be^
 ||rum-http-intake.logs.datadoghq.eu^
+||rum-reporter-prod.exp.bn.nr^
 ||s.ntv.io^
 ||s10.histats.com^
 ||sak.userreport.com^
@@ -49016,26 +49039,26 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||caomeixz7.xyz^
-||cdmnlxtu.xyz^
-||ngnxyub.cn^
-||tyodot.icu^
-||lvdedf.xyz^
-||spsfupq.cn^
-||yliffnsc.xyz^
-||agmed.cyou^
-||ycqbgm.xyz^
-||xszw0.icu^
-||ztxjutz.xyz^
 ||88lm05.com^
-||dsbqvj.xyz^
+||agmed.cyou^
+||caomeixz7.xyz^
 ||ccsshn137.shop^
-||cwssfg632.shop^
-||szpnz.cn^
+||cdmnlxtu.xyz^
 ||cliffnsc.xyz^
+||cwssfg632.shop^
+||dsbqvj.xyz^
+||lvdedf.xyz^
+||ngnxyub.cn^
+||spsfupq.cn^
+||szpnz.cn^
+||tyodot.icu^
 ||xcypgd.icu^
-||xliffnsc.xyz^
 ||xdmnlxtu.xyz^
+||xliffnsc.xyz^
+||xszw0.icu^
+||ycqbgm.xyz^
+||yliffnsc.xyz^
+||ztxjutz.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
