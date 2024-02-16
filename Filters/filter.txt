@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-15T18:09:01.080Z
+! Last modified: 2024-02-16T00:32:05.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7324,6 +7324,7 @@ vkcdnservice.appspot.com^
 ||childrenweavestun.com^
 ||chileslatrede.com^
 ||chiliadv.com^
+||chilicached.com^
 ||chilionturcism.website^
 ||chimamanndgaocozmi.com^
 ||chimblyconyger.com^
@@ -26071,6 +26072,7 @@ vkcdnservice.appspot.com^
 ||qzdmvwewzxzzze.com^
 ||qzkjkiexmsyv.com^
 ||qzqmrlqnnzwab.top^
+||qzsgudj.com^
 ||qzyllgqficyd.com^
 ||qzynbzjrkarma.top^
 ||r-tb.com^
@@ -27583,6 +27585,7 @@ vkcdnservice.appspot.com^
 ||safebrowsdv.com^
 ||safeclatter.com^
 ||safeconspiracy.com^
+||safeglimmerlongitude.com^
 ||safeguardconform.com^
 ||safeguardoperating.com^
 ||safelinkconverter.com^
@@ -32210,6 +32213,7 @@ vkcdnservice.appspot.com^
 ||untiedecide.com^
 ||untifa.com^
 ||untimburra.com^
+||untineanunder.com^
 ||untrendenam.com^
 ||untrk.xyz^
 ||untrol.com^
@@ -33073,6 +33077,7 @@ vkcdnservice.appspot.com^
 ||vlfpznssnvbdt.com^
 ||vlitag.com^
 ||vlkkwxncamnq.com^
+||vllsour.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
 ||vltwoizzckpp.com^
@@ -36610,6 +36615,7 @@ vkcdnservice.appspot.com^
 ||rollercoin.com^
 ||rotaban.ru^
 ||rtbhouse.com^
+||sabavision.com^
 ||salvador24.com^
 ||sap-traffic.com^
 ||sape.ru^
@@ -49059,6 +49065,14 @@ vkcdnservice.appspot.com^
 ||ycqbgm.xyz^
 ||yliffnsc.xyz^
 ||ztxjutz.xyz^
+||js131.cn^
+||ydfhidrk.xyz^
+||kbomku.xyz^
+||lfffzv.xyz^
+||uctutu3789.xyz^
+||gvbta.icu^
+||qlbbowx.xyz^
+||yyddkm526.shop^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -54632,7 +54646,6 @@ analytics-*.aasaam.com
 ||ads.safarme.ir^
 # ^ Used by kojaro.com
 
-||sabavision.com^
 ||sabaidea.cloud^
 
 # >> T <<
