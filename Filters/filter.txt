@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-17T12:10:50.839Z
+! Last modified: 2024-02-17T18:08:08.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2280,6 +2280,7 @@ vkcdnservice.appspot.com^
 ||achpokevvh.com^
 ||achuphaube.com^
 ||achurt.com^
+||achycompassionate.com^
 ||achyrepeatitchy.com^
 ||acinicmislaid.com^
 ||acjkuejxcqfp.com^
@@ -2298,6 +2299,7 @@ vkcdnservice.appspot.com^
 ||acofrnsr44es3954b.com^
 ||acoolreknit.com^
 ||acoossz.top^
+||acorneroft.org^
 ||acostaom.com^
 ||acpakrjzyamb.com^
 ||acquaintanceexemptspinach.com^
@@ -6263,6 +6265,7 @@ vkcdnservice.appspot.com^
 ||brighteroption.com^
 ||brighthunter.best^
 ||brightonclick.com^
+||brightscarletclo.com^
 ||brightshare.com^
 ||brikinhpaxk.com^
 ||brilliant-raise.pro^
@@ -8690,6 +8693,7 @@ vkcdnservice.appspot.com^
 ||cumbersomeastonishedsolemn.com^
 ||cumbersomebonus.com^
 ||cumbersomesteedominous.com^
+||cumjroatzga.com^
 ||cumult.com^
 ||cunasdonat.com^
 ||cunazarp.website^
@@ -10697,6 +10701,7 @@ vkcdnservice.appspot.com^
 ||ed028aa9c4.com^
 ||ed11f01827.com^
 ||ed82f015f8.com^
+||eda153603c.com^
 ||edaciousedaciousindexesbrief.com^
 ||edalloverwiththinl.info^
 ||edassiumw.xyz^
@@ -15738,7 +15743,6 @@ vkcdnservice.appspot.com^
 ||hvdmwhnawvhbejv.com^
 ||hvikgqco.com^
 ||hvkwmvpxvjo.xyz
-||hvkwmvpxvjo.xyz^
 ||hvmsmoiejaqb.com^
 ||hvmuqhywjpym.com^
 ||hvooyieoei.com^
@@ -15751,6 +15755,7 @@ vkcdnservice.appspot.com^
 ||hwfnlmmqn.com^
 ||hwicliktt.com^
 ||hwmlmcbwpbkwas.com^
+||hwosl.cloud^
 ||hwpnocpctu.com^
 ||hwpyfcxahv.com^
 ||hwqybdkniptwm.com^
@@ -16265,6 +16270,7 @@ vkcdnservice.appspot.com^
 ||inbdorenda.com^
 ||inboldoreer.com^
 ||inbornsodcharms.com^
+||inbowedkittled.top^
 ||inbudewr.com^
 ||incarnatepicturesque.com^
 ||incaskmeldrop.com^
@@ -16609,7 +16615,6 @@ vkcdnservice.appspot.com^
 ||inuapixndextq.xyz^
 ||inuedidgmapla.com^
 ||inumbreonr.com
-||inumbreonr.com^
 ||inupnae.com^
 ||inurneddoggish.com^
 ||invadedwormmillionaire.com^
@@ -16695,6 +16700,7 @@ vkcdnservice.appspot.com^
 ||ipsowrite.com^
 ||ipsvptuxn.com^
 ||iptautup.com^
+||ipzolkgn.com^
 ||iqcjuetaudtj.com^
 ||iqfmvj.com^
 ||iqhvhdryglkmw.com^
@@ -17712,6 +17718,7 @@ vkcdnservice.appspot.com^
 ||jyjhjopmq.com^
 ||jyjmpatmgk.com^
 ||jynp9m209p.com^
+||jyozavoyyykby.top^
 ||jypugepha.pro^
 ||jyqekzewvyojy.top^
 ||jyrfbtmbuqeaeo.com^
@@ -18843,6 +18850,7 @@ vkcdnservice.appspot.com^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
 ||lgmvmfywd.com^
+||lgqffscxfqv.com^
 ||lgqqhbnvfywo.com^
 ||lgqwdzexjo.com^
 ||lgse.com^
@@ -19829,7 +19837,6 @@ vkcdnservice.appspot.com^
 ||mannerconflict.com^
 ||mannwn.com^
 ||manoirshrine.com^
-||manoirshrine.com^||lhamjcpnpqb.xyz^
 ||manpowersets.com^
 ||mansernema.com^
 ||mansfieldeffects.com^
@@ -22656,7 +22663,6 @@ vkcdnservice.appspot.com^
 ||ollsukztoo.com^
 ||olmsoneenh.info^
 ||olnjitvizo.com
-||olnjitvizo.com^
 ||olnoklmuxo.com^
 ||ololenopoteretol.info^
 ||olomonautcatho.info^
@@ -24115,6 +24121,7 @@ vkcdnservice.appspot.com^
 ||pgiudyuixnxh.com^
 ||pgiyadmvk.com^
 ||pgjlctmswgnwf.com^
+||pglcyeawb.com^
 ||pgmcdn.com^
 ||pgmediaserve.com^
 ||pgmfuffwfl.com^
@@ -24782,7 +24789,6 @@ vkcdnservice.appspot.com^
 ||popunderstar.com^
 ||popunderz.com^
 ||popupblocker-download.com
-||popupblocker-download.com^
 ||popupchat-live.com^
 ||popupgoldblocker.net^
 ||popuptraffic.com^
@@ -24946,6 +24952,7 @@ vkcdnservice.appspot.com^
 ||prayersnationsunglasses.com^
 ||prayersobsoletededuce.com^
 ||prayfortnight.com^
+||prbpqlpqko.com^
 ||prdmjzogryvhhz.com^
 ||prdredir.com^
 ||prdyilhhwqh.com^
@@ -26153,6 +26160,7 @@ vkcdnservice.appspot.com^
 ||qwvvoaykyrbj.top^
 ||qwyonzatjoq.com^
 ||qwyoxrmhep.com^
+||qwzfsjdyecefdn.com^
 ||qxdownload.com^
 ||qxeemdpaerfjer.xyz^
 ||qxgbgixnzcoen.com^
@@ -31210,7 +31218,6 @@ vkcdnservice.appspot.com^
 ||toninjaska.com^
 ||tonqvqwtvksh.com^
 ||tonsilyearling.com^
-||tontent.powzers.lol^
 ||tontrinevengre.com^
 ||toogeepaun.com^
 ||toojaipi.net^
@@ -33410,6 +33417,7 @@ vkcdnservice.appspot.com^
 ||vudaiksaidy.com^
 ||vudoutch.com^
 ||vuftouks.com^
+||vufzuld.com^
 ||vugnubier.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -34762,6 +34770,7 @@ vkcdnservice.appspot.com^
 ||xjakcitm.com^
 ||xjfbhxp.com^
 ||xjktawqrcaw.com^
+||xjoyvqpuwzut.com^
 ||xjrwxfdphc.com^
 ||xjsx.lol^
 ||xkbgqducppuan.xyz^
@@ -35512,6 +35521,7 @@ vkcdnservice.appspot.com^
 ||zglxqljvfa.com^
 ||zgslicbleg.com^
 ||zgsqnyb.com^
+||zgtkxwqgebintr.com^
 ||zgxxvdlxc.com^
 ||zhaner.xyz^
 ||zhedvge.com^
@@ -49219,18 +49229,25 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||88lm05.com^
 ||agmed.cyou^
+||bdxpdz.xyz^
+||bjswhpy.cn^
 ||bmnbyn.icu^
 ||caomeixz7.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
+||cdftizu.xyz^
 ||cdmnlxtu.xyz^
 ||cliffnsc.xyz^
+||cvbjctqs.xyz^
 ||cwssfg632.shop^
 ||dsbqvj.xyz^
+||fwcnex.icu^
 ||gicjtss.cn^
 ||gvbta.icu^
+||hmrwkcx.cn^
 ||js131.cn^
 ||kbomku.xyz^
+||l5kt1.icu^
 ||lfffzv.xyz^
 ||lvdedf.xyz^
 ||ngnxyub.cn^
@@ -49239,29 +49256,22 @@ vkcdnservice.appspot.com^
 ||spsfupq.cn^
 ||szpnz.cn^
 ||szptp.cn^
+||tchdxl.xyz^
 ||tyodot.icu^
 ||uctutu3789.xyz^
+||wnmaoc.xyz^
 ||xcypgd.icu^
 ||xdfhidrk.xyz^
 ||xdmnlxtu.xyz^
 ||xliffnsc.xyz^
 ||xszw0.icu^
+||xvbjctqs.xyz^
 ||ycqbgm.xyz^
 ||ydfhidrk.xyz^
 ||yliffnsc.xyz^
+||yvbjctqs.xyz^
 ||yyddkm526.shop^
 ||ztxjutz.xyz^
-||hmrwkcx.cn^
-||yvbjctqs.xyz^
-||tchdxl.xyz^
-||l5kt1.icu^
-||wnmaoc.xyz^
-||cdftizu.xyz^
-||bdxpdz.xyz^
-||bjswhpy.cn^
-||fwcnex.icu^
-||cvbjctqs.xyz^
-||xvbjctqs.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
