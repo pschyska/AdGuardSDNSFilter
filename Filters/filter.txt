@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-17T00:32:07.694Z
+! Last modified: 2024-02-17T06:08:38.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -25520,6 +25520,7 @@ vkcdnservice.appspot.com^
 ||pu1.biz^
 ||pu3.biz^
 ||pu5hk1n2020.com^
+||pub.network^
 ||pubacca5mc.com^
 ||pubaka5.com^
 ||pubceremony.com^
@@ -49256,6 +49257,10 @@ vkcdnservice.appspot.com^
 ||l5kt1.icu^
 ||wnmaoc.xyz^
 ||cdftizu.xyz^
+||bdxpdz.xyz^
+||bjswhpy.cn^
+||fwcnex.icu^
+||cvbjctqs.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
