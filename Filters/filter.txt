@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-18T06:09:08.217Z
+! Last modified: 2024-02-18T12:11:03.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37065,6 +37065,25 @@ vkcdnservice.appspot.com^
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+! TrustPid/Utiq
+||utiq-aws.net^
+||utiq.24auto.de^
+||utiq.24hamburg.de^
+||utiq.24rhein.de^
+||utiq.buzzfeed.de^
+||utiq.come-on.de^
+||utiq.einfach-tasty.de^
+||utiq.fnp.de^
+||utiq.fr.de^
+||utiq.hna.de^
+||utiq.ingame.de^
+||utiq.kreiszeitung.de^
+||utiq.merkur.de^
+||utiq.mopo.de^
+||utiq.op-online.de^
+||utiq.soester-anzeiger.de^
+||utiq.tz.de^
+||utiq.wa.de^
 
 !
 ! Source name: EasyList ad servers third-party
@@ -49296,6 +49315,7 @@ vkcdnservice.appspot.com^
 ||uu22662.com^
 ||benpsbp.com^
 ||tu2024020388.com^
+||xdybwjpa.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
