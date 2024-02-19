@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-19T06:10:19.798Z
+! Last modified: 2024-02-19T12:12:48.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -30447,7 +30447,6 @@ vkcdnservice.appspot.com^
 ||taxmenredug.top^
 ||taxodiu2m2dis7tichum.com^
 ||taxpillsqueal.com^
-||tayloryourbestlife.com^
 ||tazagdv.com^
 ||tberjonk.com^
 ||tbgmckdemnv.com^
@@ -37288,6 +37287,7 @@ vkcdnservice.appspot.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||winonexd.b-cdn.net^
+||wixlabs-adsense-v3.uc.r.appspot.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||zv.7vid.net^
 ||ad.intl.xiaomi.com^
@@ -42180,6 +42180,8 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||ad1.girls-affiliate.com^
+||manga.boy.jp^
 ||af.atsoho.com^
 ||flux-cdn.com^
 ||js.mediams.mb.softbank.jp^
@@ -49356,6 +49358,7 @@ vkcdnservice.appspot.com^
 ||nkbkor.icu^
 ||szbhb.cn^
 ||cvudqzoa.xyz^
+||xvudqzoa.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
