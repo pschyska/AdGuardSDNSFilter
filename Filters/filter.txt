@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-20T06:09:36.966Z
+! Last modified: 2024-02-20T12:12:09.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||kerryfluence.com^
 ||fxhngjdubf.xyz^
 ||ptoockex.xyz^
 ||imagoluchuan.com^
@@ -8475,6 +8476,7 @@ vkcdnservice.appspot.com^
 ||cqrvwq.com^
 ||cqwajn.com^
 ||cr-brands.net^
+||cr.adsappier.com^
 ||cr08.biz^
 ||crabdefend.com^
 ||craccaanybody.com^
@@ -39634,6 +39636,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||1wiipr.xyz^
 ||bcdjcjjhgfiejgfjhah.world^
 ||proppellerads.ru^
 ||usesentry.com^
@@ -49405,6 +49408,12 @@ vkcdnservice.appspot.com^
 ||tahznx.xyz^
 ||rfnvqpo.xyz^
 ||ydrvkdni.xyz^
+||cdrvkdni.xyz^
+||nyt5j.cyou^
+||szpwh.cn^
+||ruqwgb.icu^
+||p04qzl.cn^
+||xdrvkdni.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
