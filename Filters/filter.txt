@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-21T00:32:23.941Z
+! Last modified: 2024-02-21T06:09:37.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -44515,9 +44515,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Feb 2024 11:07 UTC+7
-! Version: 2402201107
-! Blocked: 863 rules
+! Last modified: 21 Feb 2024 11:07 UTC+7
+! Version: 2402211107
+! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44533,6 +44533,7 @@ vkcdnservice.appspot.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||adnetwork.vn^
+||adop.asia^
 ||adp.vnecdn.net^
 ||ads-admin.hubs.vn^
 ||ads-platform.zalo.me^
@@ -45022,6 +45023,7 @@ vkcdnservice.appspot.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
 ||btrack.homedy.com^
+||bubblyzucchini.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
@@ -45093,6 +45095,7 @@ vkcdnservice.appspot.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
 ||log.baocaobang.vn^
@@ -45334,6 +45337,7 @@ vkcdnservice.appspot.com^
 ||widget.kyna.vn^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
+||za.agiay.vn^
 ||za.baomoi.com^
 ||zigzag.vn^
 ||ztrck.me^
@@ -45344,9 +45348,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 19 Feb 2024 10:57 UTC+7
-! Version: 2402191057
-! Blocked: 4,097 rules
+! Last modified: 21 Feb 2024 11:08 UTC+7
+! Version: 2402211108
+! Blocked: 4,098 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -45826,6 +45830,7 @@ vkcdnservice.appspot.com^
 ||dichvucong.tgovn.cc^
 ||dichvucong.vgovn.net^
 ||dichvucong.xgovn.net^
+||dichvucong.zvgov.com^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -49469,6 +49474,9 @@ vkcdnservice.appspot.com^
 ||veaiyl.icu^
 ||dxrnksm.xyz^
 ||heapz.cyou^
+||p0v2ni.cn^
+||ddielv.cn^
+||cvnxetmq.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
