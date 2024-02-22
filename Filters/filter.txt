@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-21T18:08:40.630Z
+! Last modified: 2024-02-22T00:32:29.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22283,6 +22283,7 @@ vkcdnservice.appspot.com^
 ||o911o.com^
 ||oacaighy.com^
 ||oacfxrqghamyaq.com^
+||oachailo.net^
 ||oackoubs.com^
 ||oadaheba.net^
 ||oadrojoa.net^
@@ -27993,6 +27994,7 @@ vkcdnservice.appspot.com^
 ||scadstech.com^
 ||scaffoldoppresshaphazard.com^
 ||scaffoldsense.com^
+||scalenerequin.com^
 ||scalesfilamentmow.com^
 ||scaleshustleprice.com^
 ||scalesmothforget.com^
@@ -49484,6 +49486,12 @@ vkcdnservice.appspot.com^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
 ||ztxjutz.xyz^
+||misjgy.xyz^
+||wkywrc.cn^
+||rarcff.xyz^
+||phvfevk.xyz^
+||rydyvv.xyz^
+||zopuqv.icu^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
