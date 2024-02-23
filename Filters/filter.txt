@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-23T06:09:57.137Z
+! Last modified: 2024-02-23T12:12:29.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||agazejagless.com^
+||forestallbladdermajestic.com^
 ||ganehangmen.com^
 ||ipurseeh.xyz^
 ||reonews.pl^
@@ -49742,6 +49744,10 @@ vkcdnservice.appspot.com^
 ||soffersk.com^
 ||51hir.cyou^
 ||vxfdepn.cn^
+||bzzxyyh.xyz^
+||chayassa.com^
+||zagyjnn.cn^
+||cvgrszkg.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
