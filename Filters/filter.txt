@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-24T06:08:38.496Z
+! Last modified: 2024-02-24T12:10:50.189Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37213,6 +37213,7 @@ vkcdnservice.appspot.com^
 ||smartadtags.com^
 ||smartadv.ru^
 ||smartclip.net^
+||smartico.one^
 ||smarttargetting.co.uk^
 ||smarttargetting.net^
 ||smartyads.com^
@@ -43606,7 +43607,6 @@ vkcdnservice.appspot.com^
 ||server4ads.com^
 ||servote.de^
 ||sexgoesmobile.com^
-||smartico.one^
 ||solads.media^
 ||spaceeditors.com^
 ||sparkads.ws^
@@ -43672,8 +43672,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-16 08:49:21 CET
-# entries:        1075
+# last updated:   2024-02-24 12:03:10 CET
+# entries:        1076
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
