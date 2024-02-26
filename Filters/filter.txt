@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-26T12:12:25.349Z
+! Last modified: 2024-02-26T18:08:39.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -37603,6 +37603,7 @@ vkcdnservice.appspot.com^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
 ||cdn.ads.tapzin.com^
+||cdn.b2.ai^
 ||cdn22904910.ahacdn.me^
 ||chandrabinduad.com^
 ||chicoryapp.com^
@@ -42272,6 +42273,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||hemenindir.to^
 ||pixad.com.tr^
 ||srvd2204.com^
 ||cryptosmoke.care^
@@ -49586,6 +49588,7 @@ vkcdnservice.appspot.com^
 ||hhffks967.shop^
 ||hhffnu135.shop^
 ||hmrwkcx.cn^
+||hozatr.xyz^
 ||jgmywh.icu^
 ||jqpejp.xyz^
 ||js131.cn^
@@ -49613,7 +49616,11 @@ vkcdnservice.appspot.com^
 ||phvfevk.xyz^
 ||pjzxdl.xyz^
 ||przbzr.xyz^
+||qbhzghb.xyz^
 ||qlbbowx.xyz^
+||qqkkpos.com^
+||qrkhwe.xyz^
+||qrttfmo.cn^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rfnvqpo.xyz^
@@ -49626,6 +49633,7 @@ vkcdnservice.appspot.com^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||szbhb.cn^
+||szmnd.cn^
 ||szmnf.cn^
 ||szpnz.cn^
 ||szptp.cn^
@@ -49639,6 +49647,7 @@ vkcdnservice.appspot.com^
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
+||vhvwlb.xyz^
 ||vxfdepn.cn^
 ||wbvfj.xyz^
 ||wkywrc.cn^
@@ -49649,6 +49658,7 @@ vkcdnservice.appspot.com^
 ||xdmnlxtu.xyz^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
+||xklofoz.cn^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xszw0.icu^
@@ -49670,14 +49680,6 @@ vkcdnservice.appspot.com^
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
-||qrttfmo.cn^
-||qbhzghb.xyz^
-||hozatr.xyz^
-||qrkhwe.xyz^
-||vhvwlb.xyz^
-||szmnd.cn^
-||qqkkpos.com^
-||xklofoz.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
