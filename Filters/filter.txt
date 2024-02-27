@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-27T06:09:11.057Z
+! Last modified: 2024-02-27T12:11:49.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -40015,6 +40015,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||qkyspzfxnc.ru^
 ||monetizer.guru^
 ||1wiipr.xyz^
 ||bcdjcjjhgfiejgfjhah.world^
@@ -43492,8 +43493,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-24 12:03:10 CET
-# entries:        1076
+# last updated:   2024-02-27 12:19:29 CET
+# entries:        1078
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -43743,6 +43744,7 @@ vkcdnservice.appspot.com^
 ||ezodn.com^
 ||f.convertkit.com^
 ||fapp.pw^
+||faro-collector-prod-eu-west-0.grafana.net^
 ||feed.aservice.tools^
 ||fila.com.se^
 ||flag.lab.eu.amplitude.com^
@@ -43966,6 +43968,7 @@ vkcdnservice.appspot.com^
 ||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
+||sp-eu.dev.polarbyte.com^
 ||ssl.webserviceaward.com^
 ||stat.modette.se^
 ||stat.nyheter24.se^
@@ -49647,6 +49650,11 @@ vkcdnservice.appspot.com^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
 ||3bxe2.cyou^
+||rzfdbsn.cn^
+||hgthpj.xyz^
+||usltmus.cn^
+||tgccct.icu^
+||svncowt.cn^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
