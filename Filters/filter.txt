@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-26T18:08:39.446Z
+! Last modified: 2024-02-27T00:32:11.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -16096,6 +16096,7 @@ vkcdnservice.appspot.com^
 ||iecjqkiawvifx.com^
 ||ieicbkjmmqkcmgq.com^
 ||ieiukkwfqhwuvwy.com^
+||ielmzzm.com^
 ||iemufbuvehrjo.xyz^
 ||iendoo.com^
 ||ieoyptnech.com^
@@ -31728,6 +31729,7 @@ vkcdnservice.appspot.com^
 ||toyosbullpen.com^
 ||toysrestrictcue.com^
 ||tozoruaon.com^
+||tozqvor.com^
 ||tozuoi.xyz^
 ||tp1jcgl644jk.com^
 ||tpbsxcsa.com^
@@ -39242,7 +39244,6 @@ vkcdnservice.appspot.com^
 ||mob*.novanewsapp.com^
 ||adrouter-charter-vod.cadenttech.tv^
 ||ad-*.amazonaws.com^
-||tapulsads.ru^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
 ||adfork.co.kr^
@@ -39915,7 +39916,6 @@ vkcdnservice.appspot.com^
 ||ads.enrt.eu^
 ||19bk5lo5q2.com^
 ||gyh1lh20owj.ru^
-||25haich4342.ru^
 ||bserver.gp-guia.net^
 ||widgets.informars.com^
 ||ymonetize.com^
@@ -39937,7 +39937,6 @@ vkcdnservice.appspot.com^
 ||ad.correioweb.com.br^
 ||ad.terra.com.mx^
 ||ad.terra.com^
-||adnetwork.com.br^
 ||ads.elpais.com.uy^
 ||ads.gamavirtual.com^
 ||ads.gazetaesportiva.net^
@@ -39966,7 +39965,6 @@ vkcdnservice.appspot.com^
 ||coolmobile.es^
 ||de17a.com^
 ||detectca.easysol.net^
-||diximedia.es^
 ||epartner.es^
 ||foneclick.com.br^
 ||hotwords.com.br^
@@ -40043,7 +40041,6 @@ vkcdnservice.appspot.com^
 ||infostuet.com^
 ||s.cummerata.link^
 ||cchbdata.net^
-||s.ccsyncuuid.net^
 ||fnasmpygwa.com^
 ||o1qry0qq83.com^
 ||fft.delovoemesto.ru^
@@ -40303,7 +40300,6 @@ vkcdnservice.appspot.com^
 ||1qi.info^
 ||q0mn5t187u.ru^
 ||uwdvcn.com^
-||spads.me^
 ||bogrex.com^
 ||cozibaneco.com^
 ||azfitn.com^
@@ -40758,7 +40754,6 @@ vkcdnservice.appspot.com^
 ||1bestgoods.com^
 ||1sputnik.ru^
 ||1traf.ru^
-||1txt.ru^
 ||lapatiya.info^
 ||24new.ru^
 ||2under.ru^
@@ -40990,7 +40985,6 @@ vkcdnservice.appspot.com^
 ||capliman.com^
 ||cartponi.tk^
 ||cbbvi.com^
-||cdn-my4.ru^
 ||cdn.amzuu.com^
 ||cdn.steambets.net^
 ||cdn7.space^
@@ -41372,7 +41366,6 @@ vkcdnservice.appspot.com^
 ||maxforta.com^
 ||maxtrust.ru^
 ||mazuma.ru^
-||mbzl-pro.xyz^
 ||mctqu.com^
 ||mdeih.com^
 ||mdvkn.com^
@@ -41748,7 +41741,6 @@ vkcdnservice.appspot.com^
 ||svk-native.ru^
 ||sysfiles.net^
 ||t.proext.com^
-||t.pusk.ru^
 ||talkfusion.com
 ||talysu.info^
 ||targetan.com^
@@ -41926,7 +41918,6 @@ vkcdnservice.appspot.com^
 ||voob.ru^
 ||voronezh136.ru^
 ||vpath.net^
-||vpsite.ru^
 ||vqfqo.us^
 ||vsdcdn.com^
 ||vsesumki.com^
@@ -42179,7 +42170,6 @@ vkcdnservice.appspot.com^
 ||sc.livetvcdn.net^
 ||server.zombie-tv.org^
 ||showbiz.mail.ru^
-||star.manystars.ru^
 ||t.xtubetv.net^
 ||tan.pridnestrovie.com^
 ||tizer.rupornophoto.com^
@@ -42286,7 +42276,6 @@ vkcdnservice.appspot.com^
 ||adsby.io^
 ||ads724.com^
 ||policycounsel.org^
-||pingpepa.xyz^
 ||d8c5y8fq3znwi.cloudfront.net^
 ||medyanative.com^
 ||61ads.net^
@@ -42311,7 +42300,6 @@ vkcdnservice.appspot.com^
 ||ad*.tmgrup.com.tr^
 ||ad.donanimhaber.com^
 ||ad.eglenced.com^
-||ad.reklam.xyz^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
 ||adbreak.cubecdn.net^
@@ -42337,7 +42325,6 @@ vkcdnservice.appspot.com^
 ||ads.dogusdigital.com^
 ||ads.web.tr^
 ||advancenative.com^
-||advertag.in^
 ||advoly.com^
 ||adzbaba.com^
 ||affiliateserver.hangikredi.com^
@@ -42346,7 +42333,6 @@ vkcdnservice.appspot.com^
 ||app.gelirartisi.com^
 ||ariyayin.com^
 ||artemisaffiliates.com^
-||asdqweq.com^
 ||aspartos.com^
 ||bahisciler.co^
 ||basvformu*.xyz^
@@ -42362,7 +42348,6 @@ vkcdnservice.appspot.com^
 ||bwtsrv.com^
 ||cdn.klasseo.com^
 ||cdn.smartclick.io^
-||chaicdn.tk^
 ||clickmerkez.com^
 ||content.acc-hd.de^
 ||d1d8vn0fpluuz7.cloudfront.net^
@@ -42410,7 +42395,6 @@ vkcdnservice.appspot.com^
 ||permato.com^
 ||piaads.com^
 ||pmelon.com^
-||promoviral.com^
 ||r20.club^
 ||ref.gitadres.com^
 ||rek.yemlee.com^
@@ -42419,7 +42403,6 @@ vkcdnservice.appspot.com^
 ||reklamaction.com^
 ||reklamagaci.com^
 ||reklamatik.com^
-||reklamcdn.com^
 ||reklamnative.com^
 ||reklamstore.com^
 ||reklamstore.cubecdn.net^
@@ -42511,7 +42494,6 @@ vkcdnservice.appspot.com^
 ||reklam.star.com.tr^
 ||reklam.yonlendir.com^
 ||reklam1.akhisar.bel.tr^
-||sam.setimedia.com^
 ||savoy.cubecdn.net^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
 ||ttauri.livescience.com^
@@ -42536,14 +42518,6 @@ vkcdnservice.appspot.com^
 ||1f2e7.v.fwmrm.net^
 ||7b9de.v.fwmrm.net^
 ||ads.dugwood.com^
-||desadu.com^
-||xydestygre.com^
-||ukslphcgs.com^
-||rozivpxtl.com^
-||habrox.xyz^
-||mystighty.info^
-||i4tvy8vk9f74.com^
-||mineralisasse.site^
 
 !
 ! Source name: AdGuard French filter ad servers
@@ -42558,7 +42532,6 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
-||kz.cateredjapish.com^
 ||adserver.icimedias.ca^
 !
 ! Source name: AdGuard Japanese filter ad servers
@@ -42603,7 +42576,6 @@ vkcdnservice.appspot.com^
 ||hydrangeao.com^
 ||snapdragonox.com^
 ||smart-c.jp^
-||yeetsalear.com^
 ||jpshopes.com^
 ||ads.mediams.mb.softbank.jp^
 ||safemy-ios.com^
@@ -42621,7 +42593,6 @@ vkcdnservice.appspot.com^
 ||afflaze.com^
 ||adstuber.com^
 ||ad.orange-park.jp^
-||ad-site55.net^
 ||d-064.com^
 ||public.adgger.jp^
 ||pompass.net^
@@ -42668,7 +42639,6 @@ vkcdnservice.appspot.com^
 ||addlv.smt.docomo.ne.jp^
 ||trigs-sockets.com^
 ||af.tosho-trading.co.jp^
-||ad-web-ad.com^
 ||d1yt8zt4633tzi.cloudfront.net^
 ||affiliate.konibet.com^
 ||hananokai.tv^
@@ -42682,7 +42652,6 @@ vkcdnservice.appspot.com^
 ||new-adtest.pages.dev^
 ||adsozai.com^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
-||ad.activetk.cf^
 ||ad.xdomain.ne.jp^
 ||af-next.com^
 ||pr-agent.jp^
@@ -42746,7 +42715,6 @@ vkcdnservice.appspot.com^
 ||spreadlink.net^
 ||woomy.me^
 ||seedapp-creative.s3.amazonaws.com^
-||cro.fi-tsunagu.com^
 ||admane.jp^
 ||smaad.net^
 ||app.monetrack.com^
@@ -42947,7 +42915,6 @@ vkcdnservice.appspot.com^
 ||nur.gratis^
 ||ikjnbvf.de^
 ||emmi-findet.de^
-||sra.moresophy.net^
 ||widgets.tracdelight.io^
 ||trbo.com^
 ||adquality.ch^
@@ -43110,7 +43077,6 @@ vkcdnservice.appspot.com^
 ||power.adhacker.online^
 ||a.tyncar.com^
 ||og.zyzjpx.cn^
-||kolur.top^
 ||x.dmouy.cn^
 ||haoxxwang.com^
 ||a32a.com.cn^
@@ -49675,6 +49641,12 @@ vkcdnservice.appspot.com^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||ctlrarz.xyz^
+||ijvla.cn^
+||cqisam.xyz^
+||ndthdte125.shop^
+||ndthdtr586.shop^
+||3bxe2.cyou^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
