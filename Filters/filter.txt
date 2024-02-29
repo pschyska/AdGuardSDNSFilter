@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-29T06:09:56.754Z
+! Last modified: 2024-02-29T12:12:52.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||gvwdwrtzrs.com^
 ||guangzhuiyuan.com^
 ||agamaevascla.top^
 ||paasvalhall.top^
@@ -16111,6 +16112,7 @@ vkcdnservice.appspot.com^
 ||iddjpop.com^
 ||iddpop.com^
 ||ideahealkeeper.com^
+||idealintruder.com^
 ||idealmedia.io^
 ||idelpiyuagjxtk.xyz^
 ||idelv.net^
@@ -49773,6 +49775,13 @@ vkcdnservice.appspot.com^
 ||xsfajf.xyz^
 ||fefgvh.xyz^
 ||tduenkq839.shop^
+||execuri.com^
+||88lm06.com^
+||szmnl.cn^
+||sdjkbcjksbdsvv.com^
+||mlhtr.cn^
+||shanvezhu.com^
+||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -55119,6 +55128,7 @@ vkcdnservice.appspot.com^
 ||zsjxwj.com^
 ||zuowen.hydcd.com^
 ||zx.docin.com^
+||d2un76zvb5mgzx.cloudfront.net^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
