@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-01T06:09:55.460Z
+! Last modified: 2024-03-01T12:12:19.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -43635,8 +43635,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-27 12:19:29 CET
-# entries:        1078
+# last updated:   2024-03-01 07:41:23 CET
+# entries:        1074
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -43711,7 +43711,6 @@ vkcdnservice.appspot.com^
 ||angry-golick-2a96e5.netlify.app^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
-||anonymousdemographics.com^
 ||api.adfenix.com^
 ||api.deep.bi^
 ||api.fouanalytics.com^
@@ -43761,7 +43760,6 @@ vkcdnservice.appspot.com^
 ||cargodisplayads.com^
 ||carneoam.com^
 ||casinotoplists.com^
-||caviera-sverige.shop^
 ||cdn.adfenix.com^
 ||cdn.adswizz.com^
 ||cdn.adt356.com^
@@ -43784,7 +43782,6 @@ vkcdnservice.appspot.com^
 ||cdn.jst.ai^
 ||cdn.matomo.cloud^
 ||cdn.myadmessenger.com^
-||cdn.oribi.io^
 ||cdn.permutive.com^
 ||cdn.popt.in^
 ||cdn.pushalert.co^
@@ -43885,7 +43882,6 @@ vkcdnservice.appspot.com^
 ||external.reseguiden.se^
 ||ezodn.com^
 ||f.convertkit.com^
-||fapp.pw^
 ||faro-collector-prod-eu-west-0.grafana.net^
 ||feed.aservice.tools^
 ||fila.com.se^
@@ -44772,8 +44768,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Feb 2024 14:34 UTC+7
-! Version: 2402261434
+! Last modified: 01 Mar 2024 16:07 UTC+7
+! Version: 2403011607
 ! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -45605,8 +45601,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 26 Feb 2024 14:34 UTC+7
-! Version: 2402261434
+! Last modified: 01 Mar 2024 16:08 UTC+7
+! Version: 2403011608
 ! Blocked: 4,105 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49831,6 +49827,7 @@ vkcdnservice.appspot.com^
 ||ahyyqq.xyz^
 ||fxjnfn.xyz^
 ||szmnk.cn^
+||crjeymh.cn^
 ||zhaweifeng.com^
 ||zopuqv.icu^
 ||zsjpi.cn^
