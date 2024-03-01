@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-29T18:09:43.108Z
+! Last modified: 2024-03-01T00:36:43.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3142,6 +3142,7 @@ vkcdnservice.appspot.com^
 ||agisdayra.com^
 ||agitated-potential.pro^
 ||agitationdispense.com^
+||agl001.bid^
 ||agle21xe2anfddirite.com^
 ||aglocobanners.com^
 ||agloogly.com^
@@ -3461,6 +3462,7 @@ vkcdnservice.appspot.com^
 ||allhugenewz.com^
 ||allhypefeed.com^
 ||allicinarenig.com^
+||allloveydovey.fun^
 ||allmt.com^
 ||allnesskepped.com^
 ||allobarpepped.uno^
@@ -4781,6 +4783,7 @@ vkcdnservice.appspot.com^
 ||axwnmenruo.com^
 ||axwortbabysit.com^
 ||axwortbunko.com^
+||axwpawahnwux.com^
 ||axxcqwxdcijxl.xyz^
 ||axzxkeawbo.com^
 ||ay.delivery^
@@ -7654,6 +7657,7 @@ vkcdnservice.appspot.com^
 ||ckeyutgnwtsojbc.xyz^
 ||ckfkigayvdb.com^
 ||ckgsrzu.com^
+||ckiepxrgriwvbv.xyz^
 ||ckjetuohm.com^
 ||ckkpjtkqjqdnyom.xyz^
 ||ckofrnk.com^
@@ -9019,6 +9023,7 @@ vkcdnservice.appspot.com^
 ||dailychronicles2.xyz^
 ||dailyenoplan.website^
 ||dailyvids.space^
+||daimfkgotytcqld.com^
 ||daimioswhimper.com^
 ||daipsaut.com^
 ||dairebougee.com^
@@ -13795,6 +13800,7 @@ vkcdnservice.appspot.com^
 ||gettjohytn.com^
 ||gettraffnews.com^
 ||getupwoleai.com^
+||getvideoz.click^
 ||getxml.org^
 ||getyourbitco.in^
 ||getyoursoft.ru^
@@ -14161,6 +14167,7 @@ vkcdnservice.appspot.com^
 ||gluttonybrand.com^
 ||gluttonybuzzingtroubled.com^
 ||gluwhoas.com^
+||gluxouvauque.com^
 ||glvhvesvnp.com^
 ||glwcxdq.com^
 ||glxrubskce.com^
@@ -14477,6 +14484,7 @@ vkcdnservice.appspot.com^
 ||grasshopperprudencecondiment.com^
 ||grasutie.net^
 ||grataeraghu.digital^
+||gratchit.com^
 ||gratertiedbubble.com^
 ||gratificationdesperate.com^
 ||gratifiedmatrix.com^
@@ -15420,6 +15428,7 @@ vkcdnservice.appspot.com^
 ||hillyhaeres.website^
 ||hiloss.com^
 ||hilove.life^
+||hiltingcid.com^
 ||himediads.com^
 ||himediadx.com^
 ||himekingrow.com^
@@ -17971,6 +17980,7 @@ vkcdnservice.appspot.com^
 ||jyrfbtmbuqeaeo.com^
 ||jytbxzil.com^
 ||jyuirxswk.com^
+||jywczbx.com^
 ||jzbvpyvhus.com^
 ||jzbvwqezlwrzy.top^
 ||jzbvwqezlwyaz.top^
@@ -18975,6 +18985,7 @@ vkcdnservice.appspot.com^
 ||lebpeqroqqvtf.com^
 ||lebsigry.com^
 ||lecapush.net^
+||lecdhuq.com^
 ||lecythleche.website^
 ||ledaoutrush.com^
 ||ledgesprimely.com^
@@ -19712,6 +19723,7 @@ vkcdnservice.appspot.com^
 ||lteyrcwpoh.xyz^
 ||ltingcoempa.info^
 ||ltmlsehfqikh.xyz^
+||ltmywtp.com^
 ||ltnyzlrqggx.com^
 ||ltohnghngrfeg.xyz^
 ||ltyabkihjsecl.xyz^
@@ -20075,6 +20087,7 @@ vkcdnservice.appspot.com^
 ||mameyesmulemen.digital^
 ||mamluksburion.com^
 ||mammalbuy.com^
+||mammaldealbustle.com^
 ||mammalsidewaysthankful.com^
 ||mammeysterrae.com^
 ||mammocksambos.com^
@@ -25897,6 +25910,7 @@ vkcdnservice.appspot.com^
 ||ptvfranfbdaq.xyz^
 ||ptwmemd.com^
 ||ptwmjmp.com^
+||ptyalinbrattie.com^
 ||ptyomtzjpdlcf.com^
 ||pu1.biz^
 ||pu3.biz^
@@ -26265,6 +26279,7 @@ vkcdnservice.appspot.com^
 ||qe0ckm024b.com^
 ||qedeczzdt.com^
 ||qehwgbwjmjvq.xyz^
+||qeildfuznofnlq.com^
 ||qekbmjyzwewvj.top^
 ||qekgygdkyewbzv.com^
 ||qel-qel-fie.com^
@@ -34808,6 +34823,7 @@ vkcdnservice.appspot.com^
 ||wnkibwzr.com^
 ||wnp.com^
 ||wnrusisedprivatedq.info^
+||wnt-s0me-push.net^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
 ||wnt-some-push.net^
@@ -35909,6 +35925,7 @@ vkcdnservice.appspot.com^
 ||z6naousb.com^
 ||z7yru.com^
 ||zabanit.xyz^
+||zachunsears.com^
 ||zacleporis.com^
 ||zadauque.net^
 ||zaemi.xyz^
@@ -49807,6 +49824,11 @@ vkcdnservice.appspot.com^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
+||xhfxtqt.xyz^
+||zojyob.icu^
+||bmret.cn^
+||dkjwbv.xyz^
+||ahyyqq.xyz^
 ||zhaweifeng.com^
 ||zopuqv.icu^
 ||zsjpi.cn^
