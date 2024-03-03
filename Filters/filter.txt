@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-03T12:11:48.468Z
+! Last modified: 2024-03-03T18:08:04.917Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -49699,11 +49699,13 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||0940088.com^
 ||0j775d.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||3bxe2.cyou^
 ||51hir.cyou^
+||7vviw.cyou^
 ||88lm05.com^
 ||88lm06.com^
 ||8t9he.cyou^
@@ -49714,6 +49716,7 @@ vkcdnservice.appspot.com^
 ||ahyyqq.xyz^
 ||anjdwmq.xyz^
 ||aourgk.xyz^
+||arnhhwo.xyz^
 ||arqvm.cn^
 ||awuvcq.xyz^
 ||b37r5.cyou^
@@ -49738,6 +49741,8 @@ vkcdnservice.appspot.com^
 ||chayassa.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
+||cnvmhzt.cn^
+||costarg.com^
 ||cqisam.xyz^
 ||crjeymh.cn^
 ||ctlrarz.xyz^
@@ -49748,6 +49753,7 @@ vkcdnservice.appspot.com^
 ||cwssfg632.shop^
 ||dawdlealmonry.com^
 ||ddielv.cn^
+||difmnd.xyz^
 ||dkjwbv.xyz^
 ||dsbqvj.xyz^
 ||dxrnksm.xyz^
@@ -49769,9 +49775,11 @@ vkcdnservice.appspot.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
+||gsuxyg.xyz^
 ||gvbta.icu^
 ||halct.cn^
 ||hbjolp.xyz^
+||hciwyv.icu^
 ||heapz.cyou^
 ||hexcvb.xyz^
 ||hgthpj.xyz^
@@ -49780,6 +49788,7 @@ vkcdnservice.appspot.com^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
 ||ijvla.cn^
+||imevzbn.cn^
 ||ivbgpax.cn^
 ||jgmywh.icu^
 ||jioed.cyou^
@@ -49787,9 +49796,11 @@ vkcdnservice.appspot.com^
 ||js131.cn^
 ||jzjpntr.xyz^
 ||kbomku.xyz^
+||kfdrc.cyou^
 ||kksjsa.top^
 ||ktoioo.xyz^
 ||l5kt1.icu^
+||lenvvb.xyz^
 ||lfffzv.xyz^
 ||lulxzl.xyz^
 ||luofk.xyz^
@@ -49797,6 +49808,7 @@ vkcdnservice.appspot.com^
 ||mdhv3.icu^
 ||misjgy.xyz^
 ||mlhtr.cn^
+||mthhhuq.cn^
 ||mtwmuy.xyz^
 ||nddld.cn^
 ||ndthdte125.shop^
@@ -49828,6 +49840,7 @@ vkcdnservice.appspot.com^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rfnvqpo.xyz^
+||riscil.com^
 ||rjhbjv.xyz^
 ||rktddv.xyz^
 ||rnkzhsi.cn^
@@ -49838,6 +49851,7 @@ vkcdnservice.appspot.com^
 ||shanvezhu.com^
 ||shuocyw.cn^
 ||sjaaquj.cn^
+||smallfo.com^
 ||soffersk.com^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
@@ -49902,18 +49916,6 @@ vkcdnservice.appspot.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||mthhhuq.cn^
-||gsuxyg.xyz^
-||arnhhwo.xyz^
-||7vviw.cyou^
-||lenvvb.xyz^
-||hciwyv.icu^
-||0940088.com^
-||imevzbn.cn^
-||difmnd.xyz^
-||smallfo.com^
-||costarg.com^
-||riscil.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
