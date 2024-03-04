@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-04T00:33:16.266Z
+! Last modified: 2024-03-04T06:55:05.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6747,6 +6747,7 @@ vkcdnservice.appspot.com^
 ||bzamusfalofn.com^
 ||bzsiyxkvehty.com^
 ||bzuyxqrmndod.com^
+||bzwo2lmwioxa.com^
 ||bzxcygmykxymcj.com^
 ||bzzmlqkljkrw.top^
 ||bzzmlqkljyer.top^
@@ -8492,6 +8493,7 @@ vkcdnservice.appspot.com^
 ||counsellinggrimlyengineer.com^
 ||counsellingrouge.com^
 ||counsellorunderwaterstriped.com^
+||countdownwildestmargarine.com^
 ||counteractpull.com^
 ||counterfeitbear.com^
 ||countertrck.com^
@@ -9246,6 +9248,7 @@ vkcdnservice.appspot.com^
 ||dcsv33.com^
 ||dcuonsugikrma.com^
 ||dcybyvmtwgnp.com^
+||dd0122893e.com^
 ||dd9l0474.de^
 ||ddagyoyucaqay.com^
 ||dddashasledopyt.com^
@@ -10432,6 +10435,7 @@ vkcdnservice.appspot.com^
 ||drwornspinster.com^
 ||dryerslegatos.com^
 ||dryinfestinsight.com^
+||dryingaefauld.com^
 ||drylotsimbil.website^
 ||drystervernile.life^
 ||ds3.biz^
@@ -12555,6 +12559,7 @@ vkcdnservice.appspot.com^
 ||fgxfnkiojgs.com^
 ||fh259by01r25.com^
 ||fhahujwafaf.com^
+||fhajhezinl.com^
 ||fhdwtku.com^
 ||fhepiqajsdap.com^
 ||fhgh9sd.com^
@@ -13869,6 +13874,7 @@ vkcdnservice.appspot.com^
 ||gfuaveumtb.xyz^
 ||gfunwoakvgwo.com^
 ||gfxkxbai.com^
+||gfzbdtwtlw.com^
 ||ggeaqltgasbcysu.com^
 ||ggedandoscarr.xyz^
 ||ggetsurv4youu.com^
@@ -23321,6 +23327,7 @@ vkcdnservice.appspot.com^
 ||op01.biz^
 ||op02.biz^
 ||opaleyeacarol.com^
+||opalmetely.com^
 ||opatacarnal.top^
 ||opcharizardon.com^
 ||opchikoritar.com^
@@ -32453,6 +32460,7 @@ vkcdnservice.appspot.com^
 ||twtdkzg.com^
 ||twvybupqup.xyz^
 ||twwp3.top^
+||twwxjqsk.com^
 ||txcmjo.com^
 ||txhrnluuyt.com^
 ||txouliypi.com^
@@ -33077,6 +33085,7 @@ vkcdnservice.appspot.com^
 ||urgedhearted.com^
 ||urgedsuitcase.com^
 ||urgefranchise.com^
+||urgentprotections.com^
 ||urgingcolleen.uno^
 ||urimnugocfr.com^
 ||urimtats.com^
@@ -36226,6 +36235,7 @@ vkcdnservice.appspot.com^
 ||zkxggrwzswhpgn.com^
 ||zlacraft.com^
 ||zlbvewof.com^
+||zlebdfhnampju.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkc.com^
@@ -49943,6 +49953,8 @@ vkcdnservice.appspot.com^
 ||wwjtdjj.cn^
 ||tlfvj.cyou^
 ||seslco.xyz^
+||szmnm.cn^
+||xudarl.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -54533,6 +54545,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||js.entm.top^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
