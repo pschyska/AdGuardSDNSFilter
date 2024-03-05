@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-04T18:09:20.664Z
+! Last modified: 2024-03-05T00:32:06.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9789,6 +9789,7 @@ vkcdnservice.appspot.com^
 ||digitalmediapp.com^
 ||dignifiedclipbum.com^
 ||dignityhourmulticultural.com^
+||dignityunattractivefungus.com^
 ||digqvvtb.com^
 ||diguver.com^
 ||digyniahuffle.com^
@@ -29066,6 +29067,7 @@ vkcdnservice.appspot.com^
 ||sharieta.com^
 ||sharkbiz.lol^
 ||sharkflowing.com^
+||sharonwhiledemocratic.com^
 ||sharpofferlinks.com^
 ||sharpphysicallyupcoming.com^
 ||shartems.com^
@@ -35514,6 +35516,7 @@ vkcdnservice.appspot.com^
 ||xdmicjkveqlgllp.com^
 ||xdohrleybrd.com^
 ||xduvqslud.com^
+||xdvorqmcxpyvy.com^
 ||xdvsijtlhr.com^
 ||xdycqcoefditwj.com^
 ||xebadu.com^
@@ -50155,6 +50158,15 @@ vkcdnservice.appspot.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
+||mondigo.cn^
+||eqqwgw.xyz^
+||pwhtip.icu^
+||blrupz.xyz^
+||ybrrvck.xyz^
+||rlw86.cyou^
+||jgblvt.xyz^
+||tjfbh.icu^
+||5z0d3.cyou^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
