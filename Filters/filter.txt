@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-06T18:09:42.477Z
+! Last modified: 2024-03-07T00:26:40.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,25 @@
 !
 !
 !
+||d3c.life^
+||toqaxrsbv.com^
+||achejoos.com^
+||whatnotbenjoin.top^
+||papizedromon.life^
+||vigsole.com^
+||snlpclc.com^
+||theremployeesi.info^
+||xtijeyyeqwjegz.com^
+||ttrcegmkccshey.com^
+||kxjanwkatrixltf.xyz^
+||naiglipu.xyz^
+||vrvthmwyvbedy.com^
+||xfvkxbouozw.com^
+||idwystdnvb.com^
+||honeycombabstinence.com^
+||skhqmobc.com^
+||nqgkuanetr.com^
+||altarrousebrows.com^
 ||bj2550.com^
 ||nastokit.com^
 ||jfssblglhreubu.com^
@@ -2278,7 +2297,6 @@ vkcdnservice.appspot.com^
 ||achaipheegly.com^
 ||achcdn.com^
 ||achecaskmeditate.com^
-||achejoos.com^
 ||achelessintegralsigh.com^
 ||acheworry.com^
 ||achievablecpmrevenue.com^
@@ -21541,7 +21559,6 @@ vkcdnservice.appspot.com^
 ||nagwrotedetain.com^
 ||naicoapt.com^
 ||naifason.xyz^
-||naiglipu.xyz^
 ||naigristoa.com^
 ||naipatouz.com^
 ||naipsouz.net^
@@ -49939,6 +49956,13 @@ vkcdnservice.appspot.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
+||jflwhf.xyz^
+||xklrsj.icu^
+||0uyt5b.cn^
+||blzbjpg.xyz^
+||hrnkdr.xyz^
+||cbcvou.xyz^
+||ha723.icu^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
