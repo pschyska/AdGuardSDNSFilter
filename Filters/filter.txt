@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-07T06:10:11.383Z
+! Last modified: 2024-03-07T12:12:32.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||cqeomumqwx.com^
 ||d3c.life^
 ||toqaxrsbv.com^
 ||achejoos.com^
@@ -39424,6 +39425,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||cdn-ads.tmap.co.kr^
 ||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
 ||adsassets-ipv6.waze.com^
@@ -43103,6 +43105,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||comparison.financeads.net^
 ||lehrer-finden.de^
 ||lokalwerben.t-online.de^
 ||quartermedia-ad-service.net^
@@ -49963,6 +49966,9 @@ vkcdnservice.appspot.com^
 ||hrnkdr.xyz^
 ||cbcvou.xyz^
 ||ha723.icu^
+||wbubgob.cn^
+||rouqiuqq.cn^
+||zhihucloud.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
