@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-12T00:32:19.303Z
+! Last modified: 2024-03-12T06:09:39.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -44075,8 +44075,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-03-03 12:10:52 CET
-# entries:        1077
+# last updated:   2024-03-12 04:49:38 CET
+# entries:        1085
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -44129,19 +44129,27 @@ vkcdnservice.appspot.com^
 ||alkemi.com.se^
 ||ambassador.referralhero.com^
 ||amd.sellingsimplified.net^
+||analytics.allas.se^
 ||analytics.apotekhjartat.se^
 ||analytics.ciseway.se^
 ||analytics.codigo.se^
+||analytics.elle.se^
+||analytics.femina.se^
 ||analytics.gen.shield.monitoringservice.co^
+||analytics.hant.se^
 ||analytics.hpscloud.se^
 ||analytics.icagruppen.se^
 ||analytics.ica.se^
 ||analytics.kaltura.com^
 ||analytics.kb.se^
+||analytics.mabra.com^
 ||analytics.mailmunch.co^
+||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
+||analytics.residencemagazine.se^
 ||analytics.smhi.se^
 ||analytics.sunet.se^
+||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.undeco.se^
 ||analytics.vackertvader.se^
@@ -50396,6 +50404,9 @@ vkcdnservice.appspot.com^
 ||rcyzsh.icu^
 ||snifdlab.top^
 ||oppnfev.xyz^
+||0tq6ub.cn^
+||njhvalu.cn^
+||osisk.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
