@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-13T12:13:01.473Z
+! Last modified: 2024-03-13T18:08:50.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||raneeptaid.net^
 ||al-adtech.com^
 ||owfrbdikoorgn.xyz^
 ||qfyavpwmraqibv.com^
@@ -17282,6 +17283,7 @@ vkcdnservice.appspot.com^
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||itwkuouldhuke.info^
+||itwoheflewround.info^
 ||ityonatallco.info^
 ||itzekromom.com^
 ||iuc1.online^
@@ -21430,6 +21432,7 @@ vkcdnservice.appspot.com^
 ||mphhqaw.com^
 ||mpk01.com^
 ||mplayeranyd.info^
+||mploymehnthejuias.info^
 ||mpmant.com^
 ||mpnrs.com^
 ||mppqellliovkuqi.com^
@@ -28585,6 +28588,7 @@ vkcdnservice.appspot.com^
 ||sandelf.com^
 ||sandflyligules.com^
 ||sandhiswiggish.top^
+||sandmakingsilver.info^
 ||sandtheircle.com^
 ||sandyconference.com^
 ||sanfordcessor.space^
@@ -33117,6 +33121,7 @@ vkcdnservice.appspot.com^
 ||uncoverherbal.com^
 ||uncree.com^
 ||uncrobator.com^
+||uncroptbhutia.com^
 ||uncrownarmenic.com^
 ||uncslucanid.space^
 ||unctic.com^
@@ -36153,6 +36158,7 @@ vkcdnservice.appspot.com^
 ||yjuxkncvy.com^
 ||yjvuthpuwrdmdt.xyz^
 ||ykdwyf.com^
+||ykgkxcount.com^
 ||ykmvnhue.com^
 ||ykqalsm.com^
 ||ykraeij.com^
@@ -38497,6 +38503,7 @@ vkcdnservice.appspot.com^
 ||d1tttug1538qv1.cloudfront.net^
 ||d1twn22x8kvw17.cloudfront.net^
 ||d1u1byonn4po0b.cloudfront.net^
+||d1u5ibtsigyagv.cloudfront.net^
 ||d1uae3ok0byyqw.cloudfront.net^
 ||d1ue5xz1lnqk0d.cloudfront.net^
 ||d1ugiptma3cglb.cloudfront.net^
@@ -50098,6 +50105,7 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0r3tyg.cn^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
@@ -50117,6 +50125,7 @@ vkcdnservice.appspot.com^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
+||ahtfzhs.xyz^
 ||ahyyqq.xyz^
 ||anjdwmq.xyz^
 ||aourgk.xyz^
@@ -50136,6 +50145,8 @@ vkcdnservice.appspot.com^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||brixel.cn^
+||btyhnbmn289.shop^
+||btyhnraw653.shop^
 ||bugzmn.icu^
 ||buvdkt.icu^
 ||bvtvlp.xyz^
@@ -50184,8 +50195,10 @@ vkcdnservice.appspot.com^
 ||efmtsw.xyz^
 ||egywbps748.shop^
 ||egywbpu286.shop^
+||eiqsky.xyz^
 ||ejdhmed.xyz^
 ||endolift.cn^
+||enifdlaw.top^
 ||eqqwgw.xyz^
 ||execuri.com^
 ||fefgvh.xyz^
@@ -50290,6 +50303,7 @@ vkcdnservice.appspot.com^
 ||phvfevk.xyz^
 ||pidzlp.xyz^
 ||pjzxdl.xyz^
+||pnxtnp.xyz^
 ||przbzr.xyz^
 ||pwhtip.icu^
 ||qbhzghb.xyz^
@@ -50366,11 +50380,13 @@ vkcdnservice.appspot.com^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
+||vmnlkr.icu^
 ||vszzzj.xyz^
 ||vxfdepn.cn^
 ||wbubgob.cn^
 ||wbvfj.xyz^
 ||wisealty.com^
+||wjwod.cyou^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wopvmmy.cn^
@@ -50400,6 +50416,7 @@ vkcdnservice.appspot.com^
 ||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
+||ydwkrbg.cn^
 ||ydybwjpa.xyz^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
@@ -50413,16 +50430,6 @@ vkcdnservice.appspot.com^
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
-||0r3tyg.cn^
-||ahtfzhs.xyz^
-||pnxtnp.xyz^
-||vmnlkr.icu^
-||enifdlaw.top^
-||eiqsky.xyz^
-||btyhnbmn289.shop^
-||btyhnraw653.shop^
-||wjwod.cyou^
-||ydwkrbg.cn^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
