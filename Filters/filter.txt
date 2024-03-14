@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-14T12:13:38.270Z
+! Last modified: 2024-03-14T18:08:52.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11244,6 +11244,7 @@ vkcdnservice.appspot.com^
 ||egrvkoqigygqk.com^
 ||egxxlvyguirt.com^
 ||egyifdjrbrwyj.com^
+||egykofo.com^
 ||egynvnnlhywq.com^
 ||egyptchwas.com^
 ||egyptianintegration.com^
@@ -13354,6 +13355,7 @@ vkcdnservice.appspot.com^
 ||fqybolmt.com^
 ||fqygyfvmz.com^
 ||fqyxbvuefdlt.com^
+||fqzibqtjwfzp.com^
 ||fragmenteasygoingmass.com^
 ||fragmentexpertisegoods.com^
 ||fragrancepneumoniatinker.com^
@@ -16364,6 +16366,7 @@ vkcdnservice.appspot.com^
 ||ibjdmthqkz.com^
 ||ibonmfvcwb.xyz^
 ||ibortvgbkvpmes.com^
+||ibptutlgoloqy.com^
 ||ibpxnkwstvqcon.com^
 ||ibqjduiipukerj.com^
 ||ibrapush.com^
@@ -18263,6 +18266,7 @@ vkcdnservice.appspot.com^
 ||jweqtiikcx.com^
 ||jwfobgoeobehy.com^
 ||jwjxjuvrnkv.com^
+||jwlfduco.com^
 ||jwnmnnnzrebqa.top^
 ||jwnmnnnzreeyw.top^
 ||jwqtuyjqxvsxy.com^
@@ -24775,6 +24779,7 @@ vkcdnservice.appspot.com^
 ||peppinaegina.com^
 ||peppy2lon1g1stalk.com^
 ||pepserump.life^
+||pepyyzqqgciv.com^
 ||peracy.com^
 ||perceivedagrarian.com^
 ||perceivedundesirable.com^
@@ -25098,6 +25103,7 @@ vkcdnservice.appspot.com^
 ||pickupnationalityinexhaustible.com^
 ||pickuppestsyndrome.com^
 ||pickupracist.com^
+||pickvideolink.com^
 ||picnicnorthernincompetent.com^
 ||picolinfloe.com^
 ||pics-city.space^
@@ -30933,6 +30939,7 @@ vkcdnservice.appspot.com^
 ||stylewhiskerscreepy.com^
 ||stylliyote.com^
 ||styrianauf.com^
+||stzhnfcxx.com^
 ||sualgvoi.com^
 ||sub.empressleak.biz^
 ||sub.xxx-porn-tube.com^
@@ -34586,6 +34593,7 @@ vkcdnservice.appspot.com^
 ||vqglaz.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqrqnylppo.com^
 ||vqtyargb.com^
 ||vqzbzuhhxhcf.com^
 ||vrasxjrsl.com^
@@ -35460,6 +35468,7 @@ vkcdnservice.appspot.com^
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedworkerplaid.com^
+||witnessjacket.com^
 ||witnessremovalsoccer.com^
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
@@ -36578,6 +36587,7 @@ vkcdnservice.appspot.com^
 ||ysemblyjusting.info^
 ||ysesials.net^
 ||ysnxszyrxdzp.com^
+||yspecjbjmcub.com^
 ||ytbzqtrog.com^
 ||yterxv.com^
 ||ytfotjfrttgyal.com^
