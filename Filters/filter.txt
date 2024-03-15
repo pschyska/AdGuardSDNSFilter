@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-14T18:08:52.649Z
+! Last modified: 2024-03-15T00:32:29.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3180,6 +3180,7 @@ vkcdnservice.appspot.com^
 ||agiorybjn.com^
 ||agisdayra.com^
 ||agl001.bid^
+||agl002.online^
 ||agle21xe2anfddirite.com^
 ||aglocobanners.com^
 ||agloogly.com^
@@ -6655,8 +6656,6 @@ vkcdnservice.appspot.com^
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bunintruder.com^
-||bunkr.si^
-||bunkrr.su^
 ||bunnymediaserver.com^
 ||bunth.net^
 ||buoyant-force.pro^
@@ -9078,6 +9077,7 @@ vkcdnservice.appspot.com^
 ||cysumhqvrjvrs.xyz^
 ||cythat.com^
 ||cytock.com^
+||cyvjmnu.com^
 ||cyyhkeknmbe.com^
 ||cyyjhkhgt.com^
 ||czarhonoraryrunning.com^
@@ -11257,6 +11257,7 @@ vkcdnservice.appspot.com^
 ||ehgavvcqj.xyz^
 ||ehliswxnrx.com^
 ||ehoqtjfazgxzee.com^
+||ehpcqqxlde.com^
 ||ehpnkugmfatoyhg.com^
 ||ehpvvxyp.com^
 ||ehpxmsqghx.xyz^
@@ -11343,6 +11344,7 @@ vkcdnservice.appspot.com^
 ||electranowel.com^
 ||electric-contest.pro^
 ||electricalbicyclelistnonfiction.com^
+||electricalsedate.com^
 ||electricalyellincreasing.com^
 ||electrodirect.click^
 ||electronicconsensus.com^
@@ -14664,6 +14666,7 @@ vkcdnservice.appspot.com^
 ||gpsecureads.com^
 ||gpwpaqnxpwhqufz.sbs^
 ||gpylmwtjiy.com^
+||gpynepb.com^
 ||gqaecrxbj.com^
 ||gqcmqihonrx.com^
 ||gqdvbkmnkox.com^
@@ -14737,6 +14740,7 @@ vkcdnservice.appspot.com^
 ||graphnitriot.com^
 ||grapiercaproyl.com^
 ||grappamacram.com^
+||grapsaidsee.net^
 ||grapseex.com^
 ||grapselu.com^
 ||grartoag.xyz^
@@ -18135,6 +18139,7 @@ vkcdnservice.appspot.com^
 ||jtgdssrlha.com^
 ||jtiqpdqofdlwam.com^
 ||jtjtqar.com^
+||jtolkiamnax.com^
 ||jtpgjihhix.com^
 ||jttowoxlomde.com^
 ||jtwlvpux.com^
@@ -28244,6 +28249,7 @@ vkcdnservice.appspot.com^
 ||rog4.com^
 ||rogbhbxvqe.com^
 ||rogueschedule.com^
+||rohvyftxssn.com^
 ||roiapp.net^
 ||roikingdom.com^
 ||roilsnadirink.com^
@@ -38402,6 +38408,7 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1162248229.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1212588358.rsc.cdn77.org^
 ||1300460716.rsc.cdn77.org^
@@ -50720,6 +50727,12 @@ vkcdnservice.appspot.com^
 ||wnifdlae.top^
 ||pxzrlf.xyz^
 ||wefihob.cn^
+||ctmrso.xyz^
+||0op8kh.cn^
+||qnifdlay.top^
+||damiul.icu^
+||xhbshv.xyz^
+||djxpnuo.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
