@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-17T06:08:31.910Z
+! Last modified: 2024-03-17T12:11:46.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -236,7 +236,6 @@
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
 ||zusepe.xyz^
-||cdn.applixir.com^
 ||selfishmourninhabitants.com^
 ||monsy.com^
 ||fireworkadservices1.com^
@@ -37470,6 +37469,7 @@ vkcdnservice.appspot.com^
 ||apexcdn.com^
 ||aphookkensidah.pro^
 ||apmebf.com^
+||applixir.com^
 ||appnext.com^
 ||apprupt.com^
 ||apptap.com^
@@ -50781,6 +50781,9 @@ vkcdnservice.appspot.com^
 ||pa4ye.cyou^
 ||lulgef.icu^
 ||fhtfnb.xyz^
+||drummers.cn^
+||zailgrae.com^
+||uljoifw.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
