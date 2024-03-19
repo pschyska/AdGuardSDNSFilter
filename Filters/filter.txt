@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-19T00:32:35.456Z
+! Last modified: 2024-03-19T06:09:33.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -6753,6 +6753,7 @@ vkcdnservice.appspot.com^
 ||bwgmymp.com^
 ||bwmvzwkbqlmrz.top^
 ||bwnmwhblsf.com^
+||bwpirrwsh.com^
 ||bwpuoba.com^
 ||bwunebnqdu.com^
 ||bwvqjqmlkezjk.top^
@@ -13866,6 +13867,7 @@ vkcdnservice.appspot.com^
 ||garricketiam.website^
 ||garrisonparttimemount.com^
 ||garthitalici.top^
+||garumkachin.com^
 ||gasasphrad.com^
 ||gaseous-power.com^
 ||gasolinerent.com^
@@ -15042,6 +15044,7 @@ vkcdnservice.appspot.com^
 ||gussame.com^
 ||gussbkpr.website^
 ||gussimsosurvey.space^
+||gustdertrum.com^
 ||gustilyoblate.uno^
 ||gutchauzaugh.com^
 ||gutobtdagruw.com^
@@ -17737,6 +17740,7 @@ vkcdnservice.appspot.com^
 ||jeltoocm.xyz^
 ||jemdexat.xyz^
 ||jemonews.com^
+||jenkincraved.com^
 ||jennyunfit.com^
 ||jennyvisits.com^
 ||jenonaw.com^
@@ -19941,6 +19945,7 @@ vkcdnservice.appspot.com^
 ||loolowhy.com^
 ||looluchu.com^
 ||loomlarynx.com^
+||loomplyer.com^
 ||loomspreadingnamely.com^
 ||loopanews.com^
 ||loopme.me^
@@ -23949,6 +23954,7 @@ vkcdnservice.appspot.com^
 ||ossealatvia.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
+||ossifygenial.com^
 ||osskanger.com^
 ||osskugvirs.com^
 ||ossmightyenar.net^
@@ -33499,6 +33505,7 @@ vkcdnservice.appspot.com^
 ||unforgivablegrowl.com^
 ||unfymctyuuuynis.com^
 ||ungillhenbane.com^
+||ungirthranee.com^
 ||ungloomnisnas.com^
 ||ungothoritator.com^
 ||ungoutylensmen.website^
@@ -35670,6 +35677,7 @@ vkcdnservice.appspot.com^
 ||woogoust.com^
 ||woolasib.net^
 ||woolenabled.com^
+||woolensulking.com^
 ||woolsawaq.com^
 ||woopeekip.com^
 ||woopteem.net^
@@ -36241,6 +36249,7 @@ vkcdnservice.appspot.com^
 ||xueserverhost.com^
 ||xuffojr.com^
 ||xuircnbbidmu.com^
+||xukevxdf.com^
 ||xukpresesmr.info^
 ||xuninrfwruoyqb.xyz^
 ||xuosvih.com^
@@ -37084,6 +37093,7 @@ vkcdnservice.appspot.com^
 ||zukore.com^
 ||zukxd6fkxqn.com^
 ||zulindeerosion.top^
+||zuluizeskater.com^
 ||zumfzaamdxaw.com^
 ||zumid.xyz^
 ||zumolery.xyz^
