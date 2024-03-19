@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-18T18:08:56.671Z
+! Last modified: 2024-03-19T00:32:35.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4088,6 +4088,7 @@ vkcdnservice.appspot.com^
 ||aqjyckttv.com^
 ||aqkbyevrklvnw.top^
 ||aqkkoalfpz.com^
+||aqppwatriodz.com^
 ||aqqlwcuqtskbz.com^
 ||aqroxlquvshe.com^
 ||aquentlytujim.com^
@@ -5387,6 +5388,7 @@ vkcdnservice.appspot.com^
 ||beitandfalloni.com^
 ||beiven.pw^
 ||bejesustrolly.guru^
+||bejirachir.com^
 ||bejolteonor.com^
 ||beklefkiom.com^
 ||beklinkor.com^
@@ -8851,6 +8853,7 @@ vkcdnservice.appspot.com^
 ||crudedelicacyjune.com^
 ||crudelouisa.com^
 ||cruel-national.pro^
+||cruiserx.net^
 ||cruisetitleclosed.com^
 ||crumbledatabasesmeasure.com^
 ||crumblerefunddiana.com^
@@ -12363,6 +12366,7 @@ vkcdnservice.appspot.com^
 ||faifojee.xyz^
 ||faigna.com^
 ||faihiwhe.com^
+||failingaroused.com^
 ||failingrainful.website^
 ||failuremaistry.com^
 ||failureyardjoking.com^
@@ -13737,6 +13741,7 @@ vkcdnservice.appspot.com^
 ||g5rillh2awn8.com^
 ||g91games.com^
 ||ga-ads.com^
+||gabsailr.com^
 ||gacoufti.com^
 ||gadbytyhmybnir.com^
 ||gadgetnews.one^
@@ -23474,6 +23479,7 @@ vkcdnservice.appspot.com^
 ||olongercrak.xyz^
 ||olpfeere.com^
 ||olpxupvisl.com^
+||olqkudodsrix.com
 ||olrbbwxkm.top^
 ||oltcneutwheoioo.xyz^
 ||oltptelifmal.com^
@@ -27006,6 +27012,7 @@ vkcdnservice.appspot.com^
 ||qualificationsomehow.com^
 ||qualifiedhead.pro^
 ||qualifycleaveinduced.com^
+||qualitiesstopsallegiance.com^
 ||qualitiesyoung.com^
 ||qualitydestructionhouse.com^
 ||qualitysquashwin.com^
@@ -35232,6 +35239,7 @@ vkcdnservice.appspot.com^
 ||whazugho.com^
 ||whechypheshu.com^
 ||whedupache.pro^
+||wheebsadree.com^
 ||wheedran.com^
 ||wheeksir.net^
 ||wheel-of-fortune-prod.com^
@@ -36791,6 +36799,7 @@ vkcdnservice.appspot.com^
 ||zcsbgzasy.com^
 ||zcsnjbjlwn.com^
 ||zcswet.com^
+||zcvtqdyvnhnjp.com^
 ||zdajdudqfq.com^
 ||zdhq.xyz^
 ||zdjljvsi.com^
@@ -38467,6 +38476,8 @@ vkcdnservice.appspot.com^
 ||1360334243.rsc.cdn77.org^
 ||1427208974.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1489104297.rsc.cdn77.org^
+||1612118426.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1737365450.rsc.cdn77.org^
@@ -50829,6 +50840,12 @@ vkcdnservice.appspot.com^
 ||nljrvdh.xyz^
 ||savionl.com^
 ||dorper.cn^
+||gcumgu.xyz^
+||vaekkfv.cn^
+||nvjqtz.xyz^
+||lsfevr.xyz^
+||bnifdlav.top^
+||edjjpgf.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
