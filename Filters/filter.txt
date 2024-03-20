@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-20T12:12:22.319Z
+! Last modified: 2024-03-20T18:08:54.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -50488,6 +50488,7 @@ vkcdnservice.appspot.com^
 ||0j775d.cn^
 ||0op8kh.cn^
 ||0oqt9i.cn^
+||0q5joc.cn^
 ||0r3tyg.cn^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
@@ -50506,6 +50507,7 @@ vkcdnservice.appspot.com^
 ||88lm06.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
+||999bb222ww.com^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
@@ -50577,6 +50579,7 @@ vkcdnservice.appspot.com^
 ||difmnd.xyz^
 ||djxpnuo.xyz^
 ||dkjwbv.xyz^
+||dndmygr.cn^
 ||dorper.cn^
 ||dqhxmbx.cn^
 ||drummers.cn^
@@ -50680,6 +50683,7 @@ vkcdnservice.appspot.com^
 ||mdhv3.icu^
 ||misjgy.xyz^
 ||mlhtr.cn^
+||mnifdlax.top^
 ||mondigo.cn^
 ||mrtxtrq.xyz^
 ||mtddqjk.cn^
@@ -50737,6 +50741,7 @@ vkcdnservice.appspot.com^
 ||qqkkpos.com^
 ||qrkhwe.xyz^
 ||qrttfmo.cn^
+||qvnbjjd.xyz^
 ||qw9cu.cyou^
 ||qzalsk.xyz^
 ||rarcff.xyz^
@@ -50756,6 +50761,7 @@ vkcdnservice.appspot.com^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
 ||savionl.com^
+||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
 ||seslco.xyz^
 ||shanvezhu.com^
@@ -50767,6 +50773,7 @@ vkcdnservice.appspot.com^
 ||smallfo.com^
 ||snifdlab.top^
 ||soffersk.com^
+||sosakk.xyz^
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||svncowt.cn^
@@ -50805,6 +50812,7 @@ vkcdnservice.appspot.com^
 ||ulwfys.xyz^
 ||unifdlat.top^
 ||uqwbcm.xyz^
+||urqwzbu.cn^
 ||usltmus.cn^
 ||uu22662.com^
 ||uuvzmba.cn^
@@ -50814,6 +50822,7 @@ vkcdnservice.appspot.com^
 ||vaekkfv.cn^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
+||vflorp.xyz^
 ||vhvwlb.xyz^
 ||vmnlkr.icu^
 ||vszzzj.xyz^
@@ -50834,6 +50843,7 @@ vkcdnservice.appspot.com^
 ||xdmnlxtu.xyz^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
+||xedpzh.xyz^
 ||xhbshv.xyz^
 ||xhfxtqt.xyz^
 ||xklofoz.cn^
@@ -50871,14 +50881,6 @@ vkcdnservice.appspot.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||sosakk.xyz^
-||mnifdlax.top^
-||urqwzbu.cn^
-||vflorp.xyz^
-||sdfsad562.xyz^
-||xedpzh.xyz^
-||qvnbjjd.xyz^
-||dndmygr.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
