@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-20T18:08:54.392Z
+! Last modified: 2024-03-21T00:34:00.692Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7965,6 +7965,7 @@ vkcdnservice.appspot.com^
 ||clockwiseleaderfilament.com^
 ||clodsplit.com^
 ||clodyields.com^
+||clognukes.com^
 ||clogstrollcastle.com^
 ||cloisonprecool.uno^
 ||cloisteroutdooragitate.com^
@@ -21032,6 +21033,7 @@ vkcdnservice.appspot.com^
 ||mhboxleky.com^
 ||mhdiaok.com^
 ||mhdprkwje.com^
+||mheniwwacl.com^
 ||mhgshawy.guru^
 ||mhkvktz.com^
 ||mhqjiaxpenfw.com^
@@ -22930,6 +22932,7 @@ vkcdnservice.appspot.com^
 ||nunnifybalize.website^
 ||nupdhyzetb.com^
 ||nuphizarrafw.com^
+||nupjzylhequ.com^
 ||nuqwe.com^
 ||nuraghireels.com^
 ||nurewsawan.org^
@@ -29937,6 +29940,7 @@ vkcdnservice.appspot.com^
 ||sleptornament.com^
 ||slfsmf.com^
 ||slfznewdii.com^
+||slggskljoczt.com^
 ||slickerunderdo.com^
 ||slickgrapes.com^
 ||slidbecauseemerald.com^
@@ -31238,6 +31242,7 @@ vkcdnservice.appspot.com^
 ||susgrqsxo.com^
 ||suspectedadvisor.com^
 ||suspensionreconnectpig.com^
+||suspicionsmutter.com^
 ||suspicionsrespectivelycobbler.com^
 ||suspicionssmartstumbled.com^
 ||suspirenicolo.guru^
@@ -32431,6 +32436,7 @@ vkcdnservice.appspot.com^
 ||toothacheformer.com^
 ||toothbrushconceitedsemi.com^
 ||toothbrushlimbperformance.com^
+||toothcauldron.com^
 ||toothoverdone.com^
 ||toothpasteginnysorrow.com^
 ||toothstrike.com^
@@ -33917,6 +33923,7 @@ vkcdnservice.appspot.com^
 ||uwmlmhcjmjvuqy.xyz^
 ||uwoaptee.com^
 ||uwrzjgtnur.com^
+||uwzxukualwdkx.com^
 ||uxicgxqq.com^
 ||uxpascal.com^
 ||uxwnqppdma.com^
@@ -38485,6 +38492,7 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1139477033.rsc.cdn77.org^
 ||1162248229.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1212588358.rsc.cdn77.org^
@@ -38499,6 +38507,7 @@ vkcdnservice.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||1737365450.rsc.cdn77.org^
 ||1838211237.rsc.cdn77.org^
+||1906920927.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
 ||a-delivery.rmbl.ws^
@@ -50881,6 +50890,12 @@ vkcdnservice.appspot.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||eaqlos.xyz^
+||jqbddp.xyz^
+||uxzvjoj.cn^
+||cfrtdmb.xyz^
+||vcnpnf.xyz^
+||ctyusif.top^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
