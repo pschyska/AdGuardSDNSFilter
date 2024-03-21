@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-21T06:09:30.100Z
+! Last modified: 2024-03-21T12:12:03.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||rbqlbolklrvmk.top^
 ||ajvkakodvgpe.com^
 ||rtbuqtue.com^
 ||roamapheejub.com^
@@ -8508,6 +8509,7 @@ vkcdnservice.appspot.com^
 ||coolingstiffenlegend.com^
 ||cooljony.com^
 ||coollyadmissibleclack.com^
+||cooloffer.cfd^
 ||coolpornvids.com^
 ||coolserving.com^
 ||coolstreamsearch.com^
@@ -13626,6 +13628,7 @@ vkcdnservice.appspot.com^
 ||funcats.info^
 ||functionfreaklacerate.com^
 ||functionsprecision.com^
+||fundatingquest.fun^
 ||fundingexceptingarraignment.com^
 ||fundsbe.com^
 ||fungianjaggier.digital^
@@ -43240,6 +43243,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||alty.fun^
 ||hemenindir.to^
 ||pixad.com.tr^
 ||srvd2204.com^
