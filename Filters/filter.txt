@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-22T06:09:19.071Z
+! Last modified: 2024-03-22T12:13:19.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -774,6 +774,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2psma0az3acui.cloudfront.net^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
@@ -38497,6 +38498,7 @@ vkcdnservice.appspot.com^
 ||googleadsserving.cn^
 ||googlevads-cn.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
+||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -43562,6 +43564,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||bibincom.com^
 ||smart-below.com^
 ||ad1.girls-affiliate.com^
 ||manga.boy.jp^
@@ -50954,6 +50957,10 @@ vkcdnservice.appspot.com^
 ||actitat.com^
 ||dmpqjn.xyz^
 ||qzozsa.xyz^
+||oxvlxwz.xyz^
+||wingsurf.cn^
+||dataryon.com^
+||zfzys.top^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
