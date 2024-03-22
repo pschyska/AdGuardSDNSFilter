@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-21T18:09:14.006Z
+! Last modified: 2024-03-22T00:32:25.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -13967,6 +13967,7 @@ vkcdnservice.appspot.com^
 ||geasefloria.com^
 ||geazjxqwbr.com^
 ||gebadu.com^
+||geckad.com^
 ||geckibou.com^
 ||gecl.xyz^
 ||geddshippy.com^
@@ -37932,6 +37933,7 @@ vkcdnservice.appspot.com^
 ||hotelscombined.com.au^
 ||hprofits.com^
 ||httpool.com^
+||hypelab.com^
 ||hyros.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
@@ -44471,7 +44473,6 @@ vkcdnservice.appspot.com^
 ||tracknet.twyn.com^
 ||trafficfabrik.com^
 ||traffictrack.de^
-||transmatico.com^
 ||trmads.eu^
 ||trmget.eu^
 ||trmwidget.eu^
@@ -50947,6 +50948,13 @@ vkcdnservice.appspot.com^
 ||dngbjyc.cn^
 ||qhemphox.com^
 ||f7fe0.cyou^
+||vpzohx.xyz^
+||0k7wod.cn^
+||htyusiu.top^
+||golilog.com^
+||actitat.com^
+||dmpqjn.xyz^
+||qzozsa.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
