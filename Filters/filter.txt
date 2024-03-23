@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-22T18:09:15.415Z
+! Last modified: 2024-03-23T00:31:52.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10657,6 +10657,7 @@ vkcdnservice.appspot.com^
 ||dsstrk.com^
 ||dsultra.com^
 ||dswqtkpk.com^
+||dsxwcas.com^
 ||dsygubntxgvxo.com^
 ||dt4ever.com^
 ||dt51.net^
@@ -24308,6 +24309,7 @@ vkcdnservice.appspot.com^
 ||owrddzml.com^
 ||owrkwilxbw.com^
 ||owtvhrydewc.com^
+||owwafgaqdapg.com^
 ||owwczycust.com^
 ||owwogmlidz.com^
 ||owxanjxlxtfbjw.com^
@@ -40319,7 +40321,6 @@ vkcdnservice.appspot.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
 ||tnc16-*.byteoversea.com^
-||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -50984,6 +50985,14 @@ vkcdnservice.appspot.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||0lmv9e.cn^
+||ityusio.top^
+||xizanzhi.com^
+||hitchun.com^
+||lwrohd.xyz^
+||clmkwi.xyz^
+||fpvdrzx.xyz^
+||hbxzlf.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
