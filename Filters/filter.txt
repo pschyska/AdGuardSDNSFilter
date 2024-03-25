@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-25T12:12:19.366Z
+! Last modified: 2024-03-25T18:09:36.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -51017,6 +51017,7 @@ vkcdnservice.appspot.com^
 ||agmed.cyou^
 ||ahtfzhs.xyz^
 ||ahyyqq.xyz^
+||ajijcy.xyz^
 ||anjdwmq.xyz^
 ||aourgk.xyz^
 ||ariqye.xyz^
@@ -51096,9 +51097,11 @@ vkcdnservice.appspot.com^
 ||dryden.cn^
 ||dsbqvj.xyz^
 ||dsjkbcjsjkbvs.com^
+||dvotlhs.cn^
 ||dxrnksm.xyz^
 ||dyegif.icu^
 ||dytkgl.icu^
+||dzdnffs.xyz^
 ||dzfzak.cn^
 ||dzuht.cn^
 ||eaqlos.xyz^
@@ -51130,6 +51133,7 @@ vkcdnservice.appspot.com^
 ||fvpboxu.xyz^
 ||fwcnex.icu^
 ||fxjnfn.xyz^
+||fztyrv.xyz^
 ||gcumgu.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
@@ -51153,6 +51157,7 @@ vkcdnservice.appspot.com^
 ||hgthpj.xyz^
 ||hhffks967.shop^
 ||hhffnu135.shop^
+||higyoe.cn^
 ||hitchun.com^
 ||hjshal.com^
 ||hkbumv.icu^
@@ -51189,6 +51194,7 @@ vkcdnservice.appspot.com^
 ||kssolo.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
+||ktyusid.top^
 ||l5kt1.icu^
 ||lafirx.xyz^
 ||lardmoni.com^
@@ -51338,6 +51344,7 @@ vkcdnservice.appspot.com^
 ||tmjetb.xyz^
 ||tnifdlai.top^
 ||tnvnnn.xyz^
+||tqvnzj.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
 ||tyodot.icu^
@@ -51417,13 +51424,6 @@ vkcdnservice.appspot.com^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
-||tqvnzj.xyz^
-||ktyusid.top^
-||ajijcy.xyz^
-||higyoe.cn^
-||dzdnffs.xyz^
-||fztyrv.xyz^
-||dvotlhs.cn^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
