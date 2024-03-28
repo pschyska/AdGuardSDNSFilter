@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-03-27T18:09:46.468Z
+! Last modified: 2024-03-28T00:32:39.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -743,6 +743,7 @@
 ||amazon-adsystem.com^
 !+ NOT_OPTIMIZED
 ||vipads.live^
+/^139\.45\.19[5-7]\.\d{1,3}/
 !
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/142
 ||stripe.rs-1028-a.com^
@@ -51897,6 +51898,13 @@ vkcdnservice.appspot.com^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
+||sgcwoe.xyz^
+||khzyojb.cn^
+||jubnpx.xyz^
+||pkyjuc.cn^
+||wtyusie.top^
+||difhil.icu^
+||stlpnom.xyz^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
