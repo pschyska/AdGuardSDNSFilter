@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-03T12:12:40.131Z
+! Last modified: 2024-04-03T18:09:10.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10281,6 +10281,7 @@ vkcdnservice.appspot.com^
 ||dilip-xko.com^
 ||dilrouthoab.com^
 ||dilruwha.net^
+||dilutegulpedshirt.com^
 ||diluterwearers.com^
 ||dilutionavailstoker.com^
 ||dimcarnie.com^
@@ -14849,6 +14850,7 @@ vkcdnservice.appspot.com^
 ||glaickoxaksy.com^
 ||glaidsurteeg.com^
 ||glaijauk.xyz^
+||glaikrolsoa.com^
 ||glaingoo.xyz^
 ||glainsee.com^
 ||glaivoun.net^
@@ -14926,6 +14928,7 @@ vkcdnservice.appspot.com^
 ||glivupegn.com^
 ||glixaing.com^
 ||glizauvo.net^
+||gljxuxjz.com^
 ||glleadflxvn.com^
 ||gllgqjxog.com^
 ||glo-glo-oom.com^
@@ -24289,6 +24292,7 @@ vkcdnservice.appspot.com^
 ||okdigital.me^
 ||okehsominous.com^
 ||okfgsbtmcnh.com^
+||okiafogless.top^
 ||okienamare.com^
 ||okjxihboesueh.com^
 ||oklahi.com^
@@ -25556,6 +25560,7 @@ vkcdnservice.appspot.com^
 ||pblcpush.com^
 ||pblinq.com^
 ||pblmppbnu.com^
+||pbmt.cloud^
 ||pbnjzwjsy.com^
 ||pboddnqjobuf.com^
 ||pbqokjxln.com^
@@ -37005,6 +37010,7 @@ vkcdnservice.appspot.com^
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
+||worldlyyouth.com^
 ||worldofviralnews.com^
 ||worldpraisedcloud.com^
 ||worldsportlife.com^
@@ -38467,6 +38473,7 @@ vkcdnservice.appspot.com^
 ||zypy2h6rgfux.com^
 ||zyqweovbaaz.com^
 ||zyuzdmxel.com^
+||zzaqqwecd.lat^
 ||zzbmanavblkaw.top^
 ||zzhyebbt.com^
 ||zzjwblqbwlrnj.top^
@@ -51958,6 +51965,7 @@ vkcdnservice.appspot.com^
 ||ddielv.cn^
 ||delhirs.com^
 ||destinyssa.com^
+||dianassb.com^
 ||diccsbhij.com^
 ||difhil.icu^
 ||difmnd.xyz^
@@ -52012,6 +52020,7 @@ vkcdnservice.appspot.com^
 ||fmssoj.icu^
 ||fpjjjh.xyz^
 ||fpvdrzx.xyz^
+||fqbjzj.xyz^
 ||frtnqps358.shop^
 ||frtnqpw837.shop^
 ||fvpboxu.xyz^
@@ -52075,6 +52084,7 @@ vkcdnservice.appspot.com^
 ||jgblvt.xyz^
 ||jgmywh.icu^
 ||jioed.cyou^
+||jnalzla.top^
 ||jnifdlaa.top^
 ||jozbun.icu^
 ||jqbddp.xyz^
@@ -52098,6 +52108,7 @@ vkcdnservice.appspot.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
+||kwqnki.xyz^
 ||l5kt1.icu^
 ||lafirx.xyz^
 ||lardmoni.com^
@@ -52109,6 +52120,7 @@ vkcdnservice.appspot.com^
 ||lfffzv.xyz^
 ||lfhdryz.xyz^
 ||lgtpdt.xyz^
+||liebaovip.com^
 ||lkpxzt.xyz^
 ||llksja.com^
 ||lmxiqf.icu^
@@ -52134,6 +52146,7 @@ vkcdnservice.appspot.com^
 ||mthhhuq.cn^
 ||mtwmuy.xyz^
 ||mxeq.cn^
+||nawpyd.icu^
 ||nddld.cn^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
@@ -52211,6 +52224,7 @@ vkcdnservice.appspot.com^
 ||qzozsa.xyz^
 ||rarcff.xyz^
 ||rarmkce.cn^
+||rawmtft.cn^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rfnvqpo.xyz^
@@ -52253,6 +52267,7 @@ vkcdnservice.appspot.com^
 ||svncowt.cn^
 ||swsegi.xyz^
 ||szbhb.cn^
+||szmhk.cn^
 ||szmnd.cn^
 ||szmnf.cn^
 ||szmnk.cn^
@@ -52376,18 +52391,11 @@ vkcdnservice.appspot.com^
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
+||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||jnalzla.top^
-||kwqnki.xyz^
-||rawmtft.cn^
-||nawpyd.icu^
-||fqbjzj.xyz^
-||zhnnaxe.xyz^
-||liebaovip.com^
-||szmhk.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -58591,8 +58599,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/174620
-@@||api.personaclick.com^|
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1668
+! Blocked by CNAME nr-data.net
+@@||infra-api.newrelic.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1631
 ! Blocked by CNAME nc0.co
 @@||tms.capitalone.com^|
