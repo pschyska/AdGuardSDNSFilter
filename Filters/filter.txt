@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-17T06:12:10.823Z
+! Last modified: 2024-04-17T12:13:05.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||globalwoldsinc.com^
 ||ciqahsejb.com^
 ||qomffnmxgwcon.com^
 ||jxhbpcdzcg.com^
@@ -6196,6 +6197,7 @@ vkcdnservice.appspot.com^
 ||blatwalm.com^
 ||blaze-media.com^
 ||blazesomeplacespecification.com^
+||blazonstowel.com^
 ||blbazybajjevv.top^
 ||blbazybajvzvw.top^
 ||blbesnuff.digital^
@@ -31263,6 +31265,7 @@ vkcdnservice.appspot.com^
 ||sentimentalclient.pro^
 ||sentimenthypocrisy.com^
 ||sentimentsvarious.com^
+||sentinelp.com^
 ||seo-overview.com^
 ||separashparyro.info^
 ||separatecolonist.com^
@@ -41245,6 +41248,7 @@ vkcdnservice.appspot.com^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
+||iili.io^
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.manga1001.win^
@@ -47165,8 +47169,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-01 11:44:27 CEST
-# entries:        1078
+# last updated:   2024-04-17 09:17:32 CEST
+# entries:        1079
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47541,6 +47545,7 @@ vkcdnservice.appspot.com^
 ||norstatsurveys.com^
 ||npario-inc.net^
 ||ntrfr.expekt.se^
+||ntrfr.pixel.bet^
 ||nucleusanalytics.io^
 ||offer-go.com^
 ||omni-ad-blocket.herokuapp.com^
