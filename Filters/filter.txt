@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-17T12:13:05.316Z
+! Last modified: 2024-04-17T18:09:25.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,24 @@
 !
 !
 !
+||guvwolr.com^
+||rbltedbpjshxb.com^
+||cirsoaksat.net^
+||foreignerdarted.com^
+||binaryrecentrecentcut.com^
+||positioner.info^
+||ncukankingwith.info^
+||whizzerlollard.top^
+||dehortaval.top^
+||scyecacked.top^
+||vlcjpeailboxbw.com^
+||qeraogxzvplqvq.com^
+||rvwtwtidj.xyz^
+||openmindedaching.com^
+||attemptingstray.com^
+||ftslrfl.com^
+||xzvdfjp.com^
+||ignals.com^
 ||globalwoldsinc.com^
 ||ciqahsejb.com^
 ||qomffnmxgwcon.com^
@@ -839,6 +857,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2jsvulelid3e4.cloudfront.net^
 ||d3k2wzdv9kuerp.cloudfront.net^
 ||d263ut03kf37wj.cloudfront.net^
 ||d29lduyskr59p4.cloudfront.net^
@@ -9724,6 +9743,7 @@ vkcdnservice.appspot.com^
 ||d8b805b9a9.com^
 ||d90be87e47.com^
 ||d95d5c2239.com^
+||d9fb2cc166.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
 ||da066d9560.com^
@@ -14476,6 +14496,7 @@ vkcdnservice.appspot.com^
 ||fsobjvtkew.com^
 ||fsotrmshy.com^
 ||fsrtqexvtshh.com^
+||fsseeewzz.lol^
 ||fsseeewzz.quest^
 ||fstsrv1.com^
 ||fstsrv2.com^
@@ -22122,6 +22143,7 @@ vkcdnservice.appspot.com^
 ||mbtennu.com^
 ||mbtgcagioorcw.com^
 ||mbuncha.com^
+||mbundabarony.top^
 ||mbvfawgcsnukb.com^
 ||mbvlmx.com^
 ||mbvlmz.com^
@@ -30219,6 +30241,7 @@ vkcdnservice.appspot.com^
 ||rodroord.net^
 ||rodunwelcome.com^
 ||roduster.com^
+||rodwoodporched.com^
 ||roebuckwagged.com^
 ||roelikewimpler.com^
 ||roemoss.com^
@@ -32588,6 +32611,7 @@ vkcdnservice.appspot.com^
 ||sponsormob.com^
 ||sponsorpay.com^
 ||spontaneousleave.com^
+||spontonelatery.com^
 ||spooksschedar.com^
 ||spooksuspicions.com^
 ||spookybirch.com^
@@ -34543,6 +34567,7 @@ vkcdnservice.appspot.com^
 ||tjuhdrm.com^
 ||tjxfkmlhubh.com^
 ||tkaqlvqjnn.com^
+||tkauru.xyz^
 ||tkbo.com^
 ||tkhwslqsmjwingf.com^
 ||tkickhhylnvm.com^
@@ -41172,6 +41197,7 @@ vkcdnservice.appspot.com^
 ||ad.tpmn.co.kr^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
+||ad01.tmgrup.com.tr^
 ||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
