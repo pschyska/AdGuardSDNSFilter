@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-18T06:09:57.280Z
+! Last modified: 2024-04-18T12:12:38.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||lkhfkjp.com^
 ||aickeebsi.com^
 ||hstbbmtyptovqmw.com^
 ||vmimbrygee.com^
@@ -49185,9 +49186,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 17 Apr 2024 10:24 UTC+7
-! Version: 2404171024
-! Blocked: 4,184 rules
+! Last modified: 18 Apr 2024 16:44 UTC+7
+! Version: 2404181644
+! Blocked: 4,186 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49497,6 +49498,7 @@ vkcdnservice.appspot.com^
 ||cgovn.cc^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachhang-thang4.com.vn^
 ||chanle79.me^
 ||chanlemmo.com^
 ||chanlemomo.cc^
@@ -53981,6 +53983,7 @@ vkcdnservice.appspot.com^
 ||vkdgdt.xyz^
 ||rbfxoex.xyz^
 ||gcomwx.icu^
+||szftg.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
