@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-18T12:12:38.717Z
+! Last modified: 2024-04-18T18:09:16.514Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||haoelo.com^
+||get.stoplocker.com^
+||antoiew.com^
+||acedirect.net^
+||r-q-e.com^
+||adx1js.s3.amazonaws.com^
 ||lkhfkjp.com^
 ||aickeebsi.com^
 ||hstbbmtyptovqmw.com^
@@ -10888,6 +10894,7 @@ vkcdnservice.appspot.com^
 ||djldrhxb.com^
 ||djmaza.in^
 ||djmwwdrznntss.com^
+||djmwxpsijxxo.xyz^
 ||djphnuhkbjf.com^
 ||djqacscl.com^
 ||djqitgfjfu.com^
@@ -14105,6 +14112,7 @@ vkcdnservice.appspot.com^
 ||foodme.info^
 ||foodowingweapon.com^
 ||foogpdywvrswrxl.com^
+||foojeshoops.xyz^
 ||foojimie.net^
 ||foolerybonded.com^
 ||foolish-devil.pro^
@@ -17073,6 +17081,7 @@ vkcdnservice.appspot.com^
 ||hoodoosdonsky.com^
 ||hoodypledget.top^
 ||hoofexcessively.com^
+||hoofsduke.com^
 ||hoogajee.net^
 ||hooglidi.net^
 ||hoojique.xyz^
@@ -24412,6 +24421,7 @@ vkcdnservice.appspot.com^
 ||nskwqto.com^
 ||nslokxweviwqbg.com^
 ||nsmartad.com^
+||nsmpydfe.net^
 ||nsoimtgmnnbvi.com^
 ||nspmotion.com^
 ||nspot.co^
@@ -48350,8 +48360,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Apr 2024 11:35 UTC+7
-! Version: 2404161135
+! Last modified: 18 Apr 2024 22:21 UTC+7
+! Version: 2404182221
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49186,9 +49196,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 18 Apr 2024 16:44 UTC+7
-! Version: 2404181644
-! Blocked: 4,186 rules
+! Last modified: 18 Apr 2024 22:21 UTC+7
+! Version: 2404182221
+! Blocked: 4,188 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49813,6 +49823,7 @@ vkcdnservice.appspot.com^
 ||face-book.co^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
+||facebook4288062.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
@@ -50110,6 +50121,7 @@ vkcdnservice.appspot.com^
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
+||hdzonline.pro^
 ||heirreplacem.cfd^
 ||helandsca.cfd^
 ||herihed.cfd^
@@ -53984,6 +53996,8 @@ vkcdnservice.appspot.com^
 ||rbfxoex.xyz^
 ||gcomwx.icu^
 ||szftg.cn^
+||bdpretc.cn^
+||vipgogo123.site^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
