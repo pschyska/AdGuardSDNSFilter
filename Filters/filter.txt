@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-19T06:10:42.701Z
+! Last modified: 2024-04-19T12:12:54.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42931,6 +42931,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||splash-ad.classting.com^
+||ad-files.classting.com^
 ||v16-ad.byteoversea.com^
 ||vs-api.voodoo-tech.io^
 ||psvpromo.psvgamestudio.com^
@@ -47237,8 +47239,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-17 09:17:32 CEST
-# entries:        1079
+# last updated:   2024-04-19 09:05:47 CEST
+# entries:        1081
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47762,6 +47764,7 @@ vkcdnservice.appspot.com^
 ||t.contentinsights.com^
 ||t.elasticsuite.io^
 ||t.fml.rip^
+||t.gatorleads.co.uk^
 ||t.myvisitors.se^
 ||t.raptorsmartadvisor.com^
 ||t0.extreme-dm.com^
@@ -48378,8 +48381,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Apr 2024 22:21 UTC+7
-! Version: 2404182221
+! Last modified: 19 Apr 2024 16:17 UTC+7
+! Version: 2404191617
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49214,8 +49217,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 18 Apr 2024 22:21 UTC+7
-! Version: 2404182221
+! Last modified: 19 Apr 2024 14:48 UTC+7
+! Version: 2404191448
 ! Blocked: 4,188 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
