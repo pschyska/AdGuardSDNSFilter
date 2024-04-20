@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-20T06:08:40.433Z
+! Last modified: 2024-04-20T12:12:00.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -39947,6 +39947,7 @@ vkcdnservice.appspot.com^
 ! Third-party
 ||123date.me^
 ||152media.com^
+||1xl.adopstar.uk^
 ||2beon.co.kr^
 ||2htg.com^
 ||2leep.com^
@@ -40042,6 +40043,7 @@ vkcdnservice.appspot.com^
 ||adhigh.net^
 ||adhitzads.com^
 ||adhostingsolutions.com^
+||adhouse.pro^
 ||adhunt.net^
 ||adicate.com^
 ||adikteev.com^
@@ -41210,6 +41212,7 @@ vkcdnservice.appspot.com^
 ||googlevads-cn.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
+||48a16802.site^
 ||4a0e.xyz^
 ||4e55.xyz^
 ||4e68.xyz^
@@ -41385,6 +41388,7 @@ vkcdnservice.appspot.com^
 ||media.netrefer.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
+||neural.myth.dev^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
@@ -46102,7 +46106,6 @@ vkcdnservice.appspot.com^
 ||adeko.mobi^
 ||adfor.io^
 ||adhouse.cubecdn.net^
-||adhouse.pro^
 ||adimage.media^
 ||adl.mynetreklam.com^
 ||adnamo.net^
@@ -46331,6 +46334,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||appdraft.link^
 ||ad.adpon-affi.net^
 ||lmadps.jp^
 ||bibincom.com^
@@ -54089,6 +54093,7 @@ vkcdnservice.appspot.com^
 ||pdnhcks.xyz^
 ||88lm10.com^
 ||88lm11.com^
+||szfmr.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
