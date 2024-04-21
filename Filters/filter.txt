@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-21T00:36:47.859Z
+! Last modified: 2024-04-21T06:10:41.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41417,6 +41417,7 @@ vkcdnservice.appspot.com^
 ||proto2ad.durasite.net^
 ||pubfeed.linkby.com^
 ||public.porn.fr^
+||pushtoast-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^
 ||random-affiliate.atimaze.com^
 ||rotabanner.kulichki.net^
