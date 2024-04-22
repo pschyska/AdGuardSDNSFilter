@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-22T00:35:20.590Z
+! Last modified: 2024-04-22T06:10:26.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||rbweljjemzkza.top^
 ||nocyjsmirnfwcb.com^
 ||oothupeelobs.com^
 ||ntreeom.com^
@@ -49470,9 +49471,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Apr 2024 22:19 UTC+7
-! Version: 2404202219
-! Blocked: 4,188 rules
+! Last modified: 22 Apr 2024 09:57 UTC+7
+! Version: 2404220957
+! Blocked: 4,202 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49782,6 +49783,7 @@ vkcdnservice.appspot.com^
 ||cgovn.cc^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chanle79.me^
 ||chanlemmo.com^
@@ -50117,6 +50119,7 @@ vkcdnservice.appspot.com^
 ||fcccredit.com^
 ||fccomvn.com^
 ||fd2.hmexchangecentre.com^
+||fdsd11.com^
 ||fdsd22.com^
 ||fe-shop.cc^
 ||fe.lwcvn.com^
@@ -50581,6 +50584,7 @@ vkcdnservice.appspot.com^
 ||kfdg55.com^
 ||kh-cn-uutien-3fv-vib.com^
 ||khach-hang-ca-nhan-vip5.com^
+||khachhangvib-canhan.com^
 ||khangdz215.tk^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khcn-tindung-vp.com^
@@ -50841,6 +50845,7 @@ vkcdnservice.appspot.com^
 ||mavietnam.xyz^
 ||mayanpuzzle.com^
 ||mayxanhsg.com^
+||mayxanhsupport.com^
 ||mayyadc.cfd^
 ||mbankingvn.com^
 ||mbbank-vn.com^
@@ -51288,6 +51293,7 @@ vkcdnservice.appspot.com^
 ||nganhanganbinh.com^
 ||nganhangbidv.com^
 ||nganhangsaigon.org^
+||nganhangsaison.org^
 ||nganhangsaokevnn.com^
 ||nganhangshopeevn.com^
 ||nganhangsk.online^
@@ -51353,6 +51359,7 @@ vkcdnservice.appspot.com^
 ||nhantiensieutoc.com^
 ||nhantienvipay.com^
 ||nhantienvivnpay.com^
+||nhanvientiki.info^
 ||nhanvimomo2021.weebly.com^
 ||nhapcode-lienquan-garena.net^
 ||nhapvang.pro^
@@ -52137,6 +52144,7 @@ vkcdnservice.appspot.com^
 ||sindtex.shop^
 ||sinhvienvietnam2022.weebly.com^
 ||skhf11.com^
+||skhf66.com^
 ||smilitygorb.club^
 ||smrtbbdv.com^
 ||smrtbbidv.com^
@@ -52157,6 +52165,7 @@ vkcdnservice.appspot.com^
 ||sopper68.com^
 ||sos-icloud.com^
 ||sp315693vn.com^
+||sp77888.com^
 ||sp8668vn.com^
 ||spark123.shop^
 ||spmail86.com^
@@ -52324,6 +52333,7 @@ vkcdnservice.appspot.com^
 ||tb55988.com^
 ||tc-clicks.com^
 ||tc-viet.click^
+||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
@@ -52696,6 +52706,7 @@ vkcdnservice.appspot.com^
 ||tuyendungnhanhonline.xyz^
 ||tuyendungshopee.com^
 ||tuyendungstmlazada.com^
+||tuyendungtiki2024.vn^
 ||tuyensinhgionghatvietnhi01.weebly.com^
 ||tw-shopee.store^
 ||tw-shopee.xyz^
@@ -52956,6 +52967,7 @@ vkcdnservice.appspot.com^
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
+||vibbca-nhan.com^
 ||vibcskh.com^
 ||vibvay.com^
 ||vibvayvn.com^
@@ -53271,6 +53283,7 @@ vkcdnservice.appspot.com^
 ||vn66733shop.com^
 ||vn667755s.com^
 ||vn66954shp.com^
+||vn68822s.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn78223p.com^
@@ -53282,6 +53295,7 @@ vkcdnservice.appspot.com^
 ||vn88khuyenmai.space^
 ||vn88khuyenmai.store^
 ||vnah567.com^
+||vnambzuon36sc.vip^
 ||vnbitcoin.cc^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
@@ -54308,6 +54322,7 @@ vkcdnservice.appspot.com^
 ||meqanhm.icu^
 ||rnpkxgfp.xyz^
 ||tyuwkbi.top^
+||toutanymm.asia^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
