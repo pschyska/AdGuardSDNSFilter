@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-23T06:11:58.539Z
+! Last modified: 2024-04-23T12:14:09.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41301,6 +41301,7 @@ vkcdnservice.appspot.com^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
+||f6176563.site^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
@@ -43876,6 +43877,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||zszhfffyd.ru^
 ||tracker.pushmeback.com^
 ||isrv07.com^
 ||cdn-t.vb24131crasosnemesis.com^
@@ -47383,8 +47385,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-19 09:05:47 CEST
-# entries:        1081
+# last updated:   2024-04-23 08:41:38 CEST
+# entries:        1082
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47536,6 +47538,7 @@ vkcdnservice.appspot.com^
 ||cdn.gravitec.net^
 ||cdn.hubvisor.io^
 ||cdn.jst.ai^
+||cdn.logsnag.com^
 ||cdn.matomo.cloud^
 ||cdn.myadmessenger.com^
 ||cdn.permutive.com^
@@ -49362,9 +49365,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 22 Apr 2024 15:50 UTC+7
-! Version: 2404221550
-! Blocked: 4,202 rules
+! Last modified: 23 Apr 2024 14:24 UTC+7
+! Version: 2404231424
+! Blocked: 4,204 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49590,6 +49593,7 @@ vkcdnservice.appspot.com^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baosaoviet24h.net^
+||baothanhnien.top^
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
@@ -49991,6 +49995,7 @@ vkcdnservice.appspot.com^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook4288062.blogspot.com^
+||facebook62747.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
 ||facebookvni.com^
@@ -54224,6 +54229,7 @@ vkcdnservice.appspot.com^
 ||xvpcjl.xyz^
 ||uyuwkbt.top^
 ||lftpvh.xyz^
+||superjj.online^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
