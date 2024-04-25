@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-25T06:10:06.952Z
+! Last modified: 2024-04-25T12:11:24.959Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41352,6 +41352,7 @@ vkcdnservice.appspot.com^
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
+||bcbe.site^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -43124,6 +43125,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.line-scdn.net^
 ||splash-ad.classting.com^
 ||ad-files.classting.com^
 ||v16-ad.byteoversea.com^
@@ -54306,6 +54308,7 @@ vkcdnservice.appspot.com^
 ||romiyee.icu^
 ||uywoynr.cn^
 ||vyrpoe.cn^
+||caomaotongji.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -58287,6 +58290,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||js.shunqi.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
