@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-25T18:09:05.580Z
+! Last modified: 2024-04-26T00:34:08.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -7149,6 +7149,7 @@ vkcdnservice.appspot.com^
 ||bureauelderlydivine.com^
 ||bureauxcope.casa^
 ||burgea.com^
+||burghkharwa.com^
 ||burglaryeffectuallyderange.com^
 ||burglaryrunner.com^
 ||burgomeg.com^
@@ -28002,6 +28003,7 @@ vkcdnservice.appspot.com^
 ||probationpresented.com^
 ||probationtoll.com^
 ||probersnobles.com^
+||probessanggau.com^
 ||probestrike.com^
 ||probitystuck.com^
 ||probtn.com^
@@ -54339,6 +54341,14 @@ vkcdnservice.appspot.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
+||fmvzzh.xyz^
+||cweriof.top^
+||ymcnsq.xyz^
+||retinaesprent.com^
+||samoryinaner.com^
+||kaosts.com^
+||khcsvdc.icu^
+||knpkxgfp.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
