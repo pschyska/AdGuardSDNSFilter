@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-26T12:13:09.204Z
+! Last modified: 2024-04-26T18:09:00.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||ewpubiimput.com^
+||nuptoomaugou.net^
+||bsbrcdna.com^
+||crazy-baboon.com^
 ||idyllicjazz.com^
 ||orclrul.com^
 ||vmkdfdjsnujy.xyz^
@@ -8770,6 +8774,7 @@ vkcdnservice.appspot.com^
 ||colorfulspecialinsurance.com^
 ||colorinmeasure.com^
 ||colorschemeas.com^
+||colossalanswer.com^
 ||colourevening.com^
 ||colourinitiative.com^
 ||coloursstandard.com^
@@ -17617,6 +17622,7 @@ vkcdnservice.appspot.com^
 ||hzogncbobfb.com^
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
+||hzzgnwdsha.com^
 ||i-afk.com^
 ||i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz^
 ||i0xz2.top^
@@ -34780,6 +34786,7 @@ vkcdnservice.appspot.com^
 ||tjaard11.xyz^
 ||tjavravj.com^
 ||tjclskcamptg.com^
+||tjegljkugvrr.com^
 ||tjgpeswdkrym.com^
 ||tjibxzqxtl.com^
 ||tjnkrrygmgp.com^
@@ -35490,6 +35497,7 @@ vkcdnservice.appspot.com^
 ||tthathehadstop.info^
 ||ttidstfuqhj.xyz^
 ||ttkhtwqi.com^
+||ttlmqhbbkd.com^
 ||ttney.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
@@ -37826,6 +37834,7 @@ vkcdnservice.appspot.com^
 ||weeprobbery.com^
 ||weestuch.com^
 ||weethery.com^
+||weewhunoamo.xyz^
 ||weewowshrinky.com^
 ||wefoonsaidoo.com^
 ||weftsgeogeny.com^
@@ -38609,6 +38618,7 @@ vkcdnservice.appspot.com^
 ||wsmobltyhs.com^
 ||wsokomw.com^
 ||wspsbhvnjk.com^
+||wstyruafypihv.xyz^
 ||wt20trk.com^
 ||wt2noay3fgjn.com^
 ||wtcmjppejjb.com^
@@ -38642,6 +38652,7 @@ vkcdnservice.appspot.com^
 ||wuqconn.com^
 ||wurqaz.com^
 ||wussucko.com^
+||wutcifjtapa.com^
 ||wutseelo.xyz^
 ||wutsumazxq.com^
 ||wuujae.com^
@@ -39829,6 +39840,7 @@ vkcdnservice.appspot.com^
 ||zoologyhuntingblanket.com^
 ||zoopaweb.com^
 ||zoopsame.com^
+||zoozishooh.com^
 ||zorango.com^
 ||zouard.com^
 ||zouemtjzuae.com^
@@ -43970,6 +43982,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||ssrv7.com^
 ||zszhfffyd.ru^
 ||tracker.pushmeback.com^
 ||isrv07.com^
@@ -54355,6 +54368,7 @@ vkcdnservice.appspot.com^
 ||rnzmynh.cn^
 ||ixstng.cn^
 ||ewjhic.cn^
+||polyfill.io^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
