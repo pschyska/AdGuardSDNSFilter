@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-26T18:09:00.877Z
+! Last modified: 2024-04-27T00:33:49.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||lwhyihajamafu.com^
+||utygdjcs.xyz^
 ||ewpubiimput.com^
 ||nuptoomaugou.net^
 ||bsbrcdna.com^
@@ -39209,6 +39211,7 @@ vkcdnservice.appspot.com^
 ||yearnwillowconsumption.com^
 ||yedbehindforh.info^
 ||yefzjingxudwib.com^
+||yeggscuvette.com^
 ||yeioreo.net^
 ||yellow-resultsbidder.com^
 ||yellow-resultsbidder.org^
@@ -39822,6 +39825,7 @@ vkcdnservice.appspot.com^
 ||zobsaims.com^
 ||zodiacranbehalf.com^
 ||zoeaegyral.com^
+||zoeaethenar.com^
 ||zofitsou.com^
 ||zog.link^
 ||zogoluggers.com^
@@ -53744,6 +53748,7 @@ vkcdnservice.appspot.com^
 ||cvgrszkg.xyz^
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
+||cweriof.top^
 ||cwssfg632.shop^
 ||cxlvlbx.xyz^
 ||cyuwkbf.top^
@@ -53809,6 +53814,7 @@ vkcdnservice.appspot.com^
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
 ||etyusiw.top^
+||ewjhic.cn^
 ||ewxufqs.cn^
 ||execuri.com^
 ||f7fe0.cyou^
@@ -53822,6 +53828,7 @@ vkcdnservice.appspot.com^
 ||fidelius.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
+||fmvzzh.xyz^
 ||fpjjjh.xyz^
 ||fptbdr.xyz^
 ||fpvdrzx.xyz^
@@ -53907,6 +53914,7 @@ vkcdnservice.appspot.com^
 ||iummqg.xyz^
 ||ivbgpax.cn^
 ||ivnrrkx.cn^
+||ixstng.cn^
 ||iykig.cn^
 ||iyuwkbo.top^
 ||izalflh.cn^
@@ -53937,16 +53945,19 @@ vkcdnservice.appspot.com^
 ||jypvzd.xyz^
 ||jyuwkba.top^
 ||jzjpntr.xyz^
+||kaosts.com^
 ||kbomku.xyz^
 ||kdeh.cn^
 ||kfdrc.cyou^
 ||kfpnqug.cn^
 ||kgdyoh.icu^
 ||kgqcse.xyz^
+||khcsvdc.icu^
 ||khzyojb.cn^
 ||kksjsa.top^
 ||knalzld.top^
 ||knifdlad.top^
+||knpkxgfp.xyz^
 ||koqjok.xyz^
 ||kpmose.xyz^
 ||kssolo.com^
@@ -54075,6 +54086,7 @@ vkcdnservice.appspot.com^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
 ||polepole.cn^
+||polyfill.io^
 ||pp1hl.xyz^
 ||pressit.cn^
 ||prhfziq.xyz^
@@ -54122,6 +54134,7 @@ vkcdnservice.appspot.com^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
 ||rdiono.cn^
+||retinaesprent.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
@@ -54134,6 +54147,7 @@ vkcdnservice.appspot.com^
 ||rndcdb.xyz^
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
+||rnzmynh.cn^
 ||rofmjd.xyz^
 ||romiyee.icu^
 ||rouqiuqq.cn^
@@ -54145,6 +54159,7 @@ vkcdnservice.appspot.com^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
 ||sacvmb.icu^
+||samoryinaner.com^
 ||savionl.com^
 ||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
@@ -54341,6 +54356,7 @@ vkcdnservice.appspot.com^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
+||ymcnsq.xyz^
 ||yqlxkzs.cn^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
@@ -54357,18 +54373,11 @@ vkcdnservice.appspot.com^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||fmvzzh.xyz^
-||cweriof.top^
-||ymcnsq.xyz^
-||retinaesprent.com^
-||samoryinaner.com^
-||kaosts.com^
-||khcsvdc.icu^
-||knpkxgfp.xyz^
-||rnzmynh.cn^
-||ixstng.cn^
-||ewjhic.cn^
-||polyfill.io^
+||kyaywy.xyz^
+||vbutycp.cn^
+||nwxaxx.xyz^
+||hweriou.top^
+||dfsgppz.icu^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
