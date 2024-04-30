@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-04-30T06:10:09.734Z
+! Last modified: 2024-04-30T12:12:20.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||dwvxmfscptajtll.com^
+||shoopsee.net^
+||pxyympkyvqc.com^
+||securenetguardian.top^
+||cybershieldfortress.buzz^
 ||doostozoa.net^
 ||psomtenga.net^
 ||juhlkuu.com^
@@ -31584,6 +31589,7 @@ vkcdnservice.appspot.com^
 ||servetean.site^
 ||servetraff.com^
 ||servg1.net^
+||servh.net^
 ||servicegetbook.net^
 ||servicesrc.org^
 ||servicetechtracker.com^
@@ -43456,7 +43462,7 @@ vkcdnservice.appspot.com^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
 ||adxcorp.kr^
-||api-*.bidmachine.io^
+||api*.bidmachine.io^
 ||adsmobila.com^
 ||tw-api.vpon.com^
 ||ts166.net^
@@ -46287,7 +46293,6 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-||sobreatsesuyp.com^
 ||kriptoparahaber.care^
 ||alty.fun^
 ||hemenindir.to^
@@ -46970,6 +46975,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ad.886112.xyz^
 ||1x5jlh.xyz^
 ||98765.pw^
 ||cdn.holmesmind.com^
