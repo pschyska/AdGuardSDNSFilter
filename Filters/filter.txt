@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-01T00:37:04.872Z
+! Last modified: 2024-05-01T06:11:05.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47559,8 +47559,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-04-25 07:50:51 CEST
-# entries:        1083
+# last updated:   2024-05-01 05:40:47 CEST
+# entries:        1076
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47990,7 +47990,6 @@ vkcdnservice.appspot.com^
 ||revrelations.com^
 ||richmediastudio.com^
 ||richmetrics.com^
-||rockportskorsverige.com^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
@@ -48031,7 +48030,6 @@ vkcdnservice.appspot.com^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
 ||sibautomation.com^
-||skattamindre.se^
 ||sleeknote.com^
 ||smtvn.112.2o7.net^
 ||source.advisible.com^
@@ -48192,7 +48190,6 @@ vkcdnservice.appspot.com^
 ||tracking.ht.se^
 ||tracking.illvet.se^
 ||tracking.inboxads.com^
-||tracking.jnytt.se^
 ||tracking.jp.se^
 ||tracking.kalmarposten.se^
 ||tracking.klt.nu^
@@ -48290,7 +48287,6 @@ vkcdnservice.appspot.com^
 ||www.guesssverige.com.se^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
-||www.runningshoessverige.com^
 ||www.stadiumstage.com^
 ||www.statcounter.com^
 ||www.tamgrt.com^
@@ -48299,7 +48295,6 @@ vkcdnservice.appspot.com^
 ||www.vizzit.se^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
-||www.gym-sharksweden.com^
 ||x.bidswitch.net^
 ||yieldbird.com^
 
