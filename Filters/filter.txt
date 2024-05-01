@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-01T06:11:05.901Z
+! Last modified: 2024-05-01T12:13:01.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41469,6 +41469,7 @@ vkcdnservice.appspot.com^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
+||ec44.site^
 ||f6176563.site^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
@@ -43929,6 +43930,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||oilierelixir.com^
 ||adzonestatic.com^
 ||adzep.com.br^
 ||nobeta.com.br^
@@ -54506,6 +54508,9 @@ vkcdnservice.appspot.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
+||kovvild.com^
+||fkhxlz.xyz^
+||ghabnq.xyz^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
