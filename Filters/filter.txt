@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-02T12:13:38.334Z
+! Last modified: 2024-05-02T18:09:20.059Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||me7x.site^
 ||wrqtcoxjw.com^
 ||atlxpstsf.com^
 ||lxnkuie.com^
@@ -43963,6 +43964,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||lyappreciat.info^
 ||adzonestatic.com^
 ||adzep.com.br^
 ||nobeta.com.br^
@@ -54551,6 +54553,7 @@ vkcdnservice.appspot.com^
 ||jsxwfb.xyz^
 ||eweriow.top^
 ||udxhzqg.cn^
+||pqzjki.cn^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
