@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-03T06:10:13.542Z
+! Last modified: 2024-05-03T12:12:44.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||iedprivatedqu.com^
+||stownrusis.com^
+||ebaticalfel.com^
 ||me7x.site^
 ||wrqtcoxjw.com^
 ||atlxpstsf.com^
@@ -48750,8 +48753,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Apr 2024 23:22 UTC+7
-! Version: 2404302322
+! Last modified: 03 May 2024 15:33 UTC+7
+! Version: 2405031533
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49586,8 +49589,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 30 Apr 2024 23:22 UTC+7
-! Version: 2404302322
+! Last modified: 03 May 2024 15:35 UTC+7
+! Version: 2405031535
 ! Blocked: 4,233 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -54572,6 +54575,9 @@ vkcdnservice.appspot.com^
 ||rczudr.xyz^
 ||tquspo.com^
 ||wwerioe.top^
+||qescaen.com^
+||rxfygd.cn^
+||ringingneo.com^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
