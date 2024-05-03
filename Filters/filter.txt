@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-03T12:12:44.990Z
+! Last modified: 2024-05-03T18:09:14.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41493,6 +41493,7 @@ vkcdnservice.appspot.com^
 ||googleadsserving.cn^
 ||googlevads-cn.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
+||02777e.site^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
@@ -43979,6 +43980,7 @@ vkcdnservice.appspot.com^
 ! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ! ||addevweb.com^$third-party
 !
+||ncwabgl.com^
 ||lyappreciat.info^
 ||adzonestatic.com^
 ||adzep.com.br^
@@ -53962,6 +53964,7 @@ vkcdnservice.appspot.com^
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
 ||etyusiw.top^
+||eweriow.top^
 ||ewjhic.cn^
 ||ewxufqs.cn^
 ||execuri.com^
@@ -53975,6 +53978,7 @@ vkcdnservice.appspot.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
 ||fkhxlz.xyz^
+||fluxy.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
 ||fmvzzh.xyz^
@@ -53990,6 +53994,7 @@ vkcdnservice.appspot.com^
 ||fxgkktj.icu^
 ||fxjnfn.xyz^
 ||fztyrv.xyz^
+||gamdus.xyz^
 ||gblxtlo.xyz^
 ||gccnntq.cn^
 ||gcomwx.icu^
@@ -54092,6 +54097,7 @@ vkcdnservice.appspot.com^
 ||jqbddp.xyz^
 ||jqpejp.xyz^
 ||js131.cn^
+||jsxwfb.xyz^
 ||jtyusia.top^
 ||jtzdld.xyz^
 ||jubnpx.xyz^
@@ -54215,6 +54221,7 @@ vkcdnservice.appspot.com^
 ||onagsc.xyz^
 ||onalzlk.top^
 ||onifdlak.top^
+||onosyej.icu^
 ||oojjsa.com^
 ||oppnfev.xyz^
 ||oqnkur.icu^
@@ -54250,6 +54257,7 @@ vkcdnservice.appspot.com^
 ||polepole.cn^
 ||polyfill.io^
 ||pp1hl.xyz^
+||pqzjki.cn^
 ||pressit.cn^
 ||prhfziq.xyz^
 ||przbzr.xyz^
@@ -54267,6 +54275,7 @@ vkcdnservice.appspot.com^
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qdtzbbh.xyz^
+||qescaen.com^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qhemphox.com^
@@ -54297,12 +54306,14 @@ vkcdnservice.appspot.com^
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
+||rczudr.xyz^
 ||rdiono.cn^
 ||regwiuv.cn^
 ||retinaesprent.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
+||ringingneo.com^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rkgbqn.icu^
@@ -54318,6 +54329,7 @@ vkcdnservice.appspot.com^
 ||rouqiuqq.cn^
 ||rpnufv.xyz^
 ||ruqwgb.icu^
+||rxfygd.cn^
 ||rydyvv.xyz^
 ||ryhkft.xyz^
 ||ryrmvd.xyz^
@@ -54400,6 +54412,7 @@ vkcdnservice.appspot.com^
 ||tnvnnn.xyz^
 ||toutanymm.asia^
 ||tptgvh.xyz^
+||tquspo.com^
 ||tqvnzj.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
@@ -54410,6 +54423,7 @@ vkcdnservice.appspot.com^
 ||tyzfoej.cn^
 ||uctutu3789.xyz^
 ||udkpcc.xyz^
+||udxhzqg.cn^
 ||udykkl.cn^
 ||ugtbit.icu^
 ||uigxgg.xyz^
@@ -54422,7 +54436,9 @@ vkcdnservice.appspot.com^
 ||unalzlt.top^
 ||unifdlat.top^
 ||uohvxrvd.xyz^
+||uoosqk.xyz^
 ||uosxdmk.cn^
+||upailek.cn^
 ||upytsgo.cn^
 ||uqrcuxp.cn^
 ||uqwbcm.xyz^
@@ -54461,6 +54477,7 @@ vkcdnservice.appspot.com^
 ||vqbzpv.xyz^
 ||vszzzj.xyz^
 ||vuvnix.icu^
+||vuyibsm.icu^
 ||vwyycnq.cn^
 ||vxfdepn.cn^
 ||vyrpoe.cn^
@@ -54484,6 +54501,7 @@ vkcdnservice.appspot.com^
 ||wtyusie.top^
 ||wubizigeng.com^
 ||wvwqywz.cn^
+||wwerioe.top^
 ||wwjtdjj.cn^
 ||wxfdmri.xyz^
 ||wxymag.xyz^
@@ -54562,22 +54580,6 @@ vkcdnservice.appspot.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
-||upailek.cn^
-||vuyibsm.icu^
-||uoosqk.xyz^
-||jsxwfb.xyz^
-||eweriow.top^
-||udxhzqg.cn^
-||pqzjki.cn^
-||fluxy.cn^
-||onosyej.icu^
-||gamdus.xyz^
-||rczudr.xyz^
-||tquspo.com^
-||wwerioe.top^
-||qescaen.com^
-||rxfygd.cn^
-||ringingneo.com^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
