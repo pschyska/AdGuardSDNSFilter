@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-04T00:33:38.628Z
+! Last modified: 2024-05-04T06:08:59.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -26255,6 +26255,7 @@ vkcdnservice.appspot.com^
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikoaza.net^
@@ -40645,6 +40646,7 @@ vkcdnservice.appspot.com^
 ||bestdeals.ws^
 ||bestforexpartners.com^
 ||besthitsnow.com^
+||bestodds.com^
 ||bestofferdirect.com^
 ||bestonlinecoupons.com^
 ||bet3000partners.com^
@@ -41337,7 +41339,6 @@ vkcdnservice.appspot.com^
 ||starlayer.com^
 ||starti.pl^
 ||statsperformdev.com^
-||stay22.com^
 ||stocker.bonnint.net^
 ||stratos.blue^
 ||streamdefence.com^
@@ -54585,6 +54586,8 @@ vkcdnservice.appspot.com^
 ||azkrya.xyz^
 ||rmbvzh.xyz^
 ||eyuwkbw.top^
+||qwerioy.top^
+||mercor.cn^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
