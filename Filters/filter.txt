@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-05T12:12:03.735Z
+! Last modified: 2024-05-05T18:08:40.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1925,6 +1925,7 @@ vkcdnservice.appspot.com^
 ||50745a9d63.com^
 ||521bec59f1.com^
 ||5236b66b81.com^
+||52dvzo62i.com^
 ||52ee3dc5fe.com^
 ||530bc37e10.com^
 ||532xcxypmpnp.com^
@@ -2455,6 +2456,7 @@ vkcdnservice.appspot.com^
 ||abridgeoverwhelmfireball.com^
 ||abridgesynchronizepleat.com^
 ||abruptcompliments.com^
+||abruptlydummy.com^
 ||abruptlyretortedbat.com^
 ||abruptnesscarrier.com^
 ||abruptradishnotwithstanding.com^
@@ -8437,6 +8439,7 @@ vkcdnservice.appspot.com^
 ||clarityactressmourning.com^
 ||clarityray.com^
 ||clashencouragingwooden.com^
+||claspdressmakerburka.com^
 ||claspedammu.com^
 ||claspeddeceiveposter.com^
 ||claspedtwelve.com^
@@ -9789,6 +9792,7 @@ vkcdnservice.appspot.com^
 ||cuyynol.com^
 ||cuzsgqr.com^
 ||cvastico.com^
+||cvcvotjyasdtil.com^
 ||cvixthukvgac.com^
 ||cvjfmrrgyrqnsnw.xyz^
 ||cvkilmfhorl.com^
@@ -9928,6 +9932,7 @@ vkcdnservice.appspot.com^
 ||dabblercissies.com^
 ||dabbyfather.com^
 ||dabletoverdid.space^
+||daboovip.xyz^
 ||daccroi.com^
 ||dacmaiss.com^
 ||dacmursaiz.xyz^
@@ -11107,6 +11112,7 @@ vkcdnservice.appspot.com^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
 ||dmiredindeed.com^
+||dmiredindeed.info^
 ||dmlkzmg.com^
 ||dmm-video.online^
 ||dmmgjsymlrfp.com^
@@ -11287,6 +11293,7 @@ vkcdnservice.appspot.com^
 ||dosagebreakfast.com^
 ||dosagedrearypursuit.com^
 ||dosamurottom.com^
+||doscarredwi.org^
 ||doseadraa.com^
 ||dosiswether.com^
 ||dositsil.net^
@@ -14996,6 +15003,7 @@ vkcdnservice.appspot.com^
 ||gamondcaingin.guru^
 ||gamonemule.top^
 ||gamvbfdrybtkug.com^
+||gandmotivat.info^
 ||gandmotivatin.info^
 ||gandrad.org^
 ||gangedapneal.digital^
@@ -15791,6 +15799,7 @@ vkcdnservice.appspot.com^
 ||golochmenacer.com^
 ||goloshyacal.space^
 ||golpnkgkndw.com^
+||golsaiksi.net^
 ||gomain.pro^
 ||gomain2.pro^
 ||gomastabrat.com^
@@ -15900,6 +15909,7 @@ vkcdnservice.appspot.com^
 ||gpylmwtjiy.com^
 ||gpynepb.com^
 ||gqaecrxbj.com^
+||gqagmovxyk.com^
 ||gqalqi656.com^
 ||gqcmqihonrx.com^
 ||gqdvbkmnkox.com^
@@ -16654,6 +16664,7 @@ vkcdnservice.appspot.com^
 ||hbkpcwdxite.com^
 ||hbloveinfo.com^
 ||hbmode.com^
+||hborq.com^
 ||hbozuumx.com^
 ||hbpcjmegtll.com^
 ||hbrphusgbhpjpi.com^
@@ -17844,6 +17855,7 @@ vkcdnservice.appspot.com^
 ||ifplumhggkz.com^
 ||ifqirmnkrlv.com^
 ||ifrjnpv.com^
+||ifsjqcqja.xyz^
 ||ifsnickshriek.click^
 ||ifsnickshriek.com^
 ||ifsussdehkgr.com^
@@ -18799,6 +18811,7 @@ vkcdnservice.appspot.com^
 ||italicssifting.top^
 ||italicunsolar.top^
 ||italyfeedingclimax.com^
+||itavtfut.com^
 ||itblisseyer.com^
 ||itcameruptr.com^
 ||itchinglikely.com^
@@ -18873,6 +18886,7 @@ vkcdnservice.appspot.com^
 ||ivfvfosaes.xyz^
 ||ivhbtikwpr.com^
 ||ivjkdyrjjgxhch.com^
+||ivmmkvzic.com^
 ||ivorcs.com^
 ||ivoryvestigeminus.com^
 ||ivstracker.net^
@@ -18928,6 +18942,7 @@ vkcdnservice.appspot.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
 ||iymbywma.com^
+||iyolnstplmxae.com^
 ||iyqaosd.com^
 ||iyvxqckadbplaa.com^
 ||iyyuvkd.com^
@@ -19168,6 +19183,7 @@ vkcdnservice.appspot.com^
 ||jennyvisits.com^
 ||jenonaw.com^
 ||jenwyrjbvvlrl.top^
+||jeoawamjbbelw.top^
 ||jeoawamjbblkq.top^
 ||jeoawamjbrvkb.top^
 ||jeopardizeflirting.com^
@@ -23253,6 +23269,7 @@ vkcdnservice.appspot.com^
 ||mosquitosubjectsimportantly.com^
 ||mosrtaek.net^
 ||mossgaietyhumiliation.com^
+||mossimitosis.com^
 ||mosswhinepanther.com^
 ||mostauthor.com^
 ||mostdeport.com^
@@ -29787,6 +29804,7 @@ vkcdnservice.appspot.com^
 ||refnippod.com^
 ||refoortowatch.com^
 ||refpa.top^
+||refpa4293501.top^
 ||refpabuyoj.top^
 ||refpaikgai.top^
 ||refpaiozdg.top^
@@ -29794,6 +29812,7 @@ vkcdnservice.appspot.com^
 ||refpamjeql.top^
 ||refpanglbvyd.top^
 ||refpasrasw.world^
+||refpaxfbvjlw.top^
 ||refraingene.com^
 ||refraintupaiid.com^
 ||refreshinghike.com^
@@ -30729,6 +30748,7 @@ vkcdnservice.appspot.com^
 ||rreauksofthecom.xyz^
 ||rrentlysearchi.info^
 ||rrhscsdlwufu.xyz^
+||rriodxsmyjk.com^
 ||rrjnjnioxfbqaj.com^
 ||rrmlejvyqebk.top^
 ||rrobbybvvbybj.top^
@@ -32041,6 +32061,7 @@ vkcdnservice.appspot.com^
 ||shusacem.net^
 ||shutdownpious.com^
 ||shutesaroph.com^
+||shuthootch.com^
 ||shuttersurveyednaive.com^
 ||shuttleprivileged.com^
 ||shutunga.com^
@@ -32702,6 +32723,7 @@ vkcdnservice.appspot.com^
 ||sonumal.com^
 ||soocaips.com^
 ||soodihee.net^
+||soodupsep.xyz^
 ||soogandrooped.cam^
 ||soonpersuasiveagony.com^
 ||soonstrongestquoted.com^
@@ -36112,6 +36134,7 @@ vkcdnservice.appspot.com^
 ||umentrandings.xyz^
 ||umexalim.com^
 ||umfsyvnufa.com^
+||umhlnkbj.xyz^
 ||umiackscursors.com^
 ||ummihaqhu.xyz^
 ||umnstoodthe.com^
@@ -36920,6 +36943,7 @@ vkcdnservice.appspot.com^
 ||vdoubt.com^
 ||ve6k5.top^
 ||vebadu.com^
+||vebv8me7q.com^
 ||vecohgmpl.info^
 ||vectisamerica.com^
 ||vectisruntier.top^
@@ -37507,6 +37531,7 @@ vkcdnservice.appspot.com^
 ||vqglaz.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqonjcnsl.com^
 ||vqrqnylppo.com^
 ||vrasxjrsl.com^
 ||vrbmhngqjh.com^
@@ -41619,6 +41644,7 @@ vkcdnservice.appspot.com^
 ||1492697327.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1543481067.rsc.cdn77.org^
+||1548164934.rsc.cdn77.org^
 ||1564285319.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
@@ -42066,6 +42092,7 @@ vkcdnservice.appspot.com^
 ||d219kvfj8xp5vh.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
 ||d21m5j4ptsok5u.cloudfront.net^
+||d21rpkgy8pahcu.cloudfront.net^
 ||d21rudljp9n1rr.cloudfront.net^
 ||d223xrf0cqrzzz.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
@@ -48801,8 +48828,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 04 May 2024 23:31 UTC+7
-! Version: 2405042331
+! Last modified: 05 May 2024 22:02 UTC+7
+! Version: 2405052202
 ! Blocked: 870 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49637,8 +49664,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 04 May 2024 23:32 UTC+7
-! Version: 2405042332
+! Last modified: 05 May 2024 22:03 UTC+7
+! Version: 2405052203
 ! Blocked: 4,265 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
