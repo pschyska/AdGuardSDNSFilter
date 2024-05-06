@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-06T00:35:20.017Z
+! Last modified: 2024-05-06T06:11:21.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -6115,6 +6115,7 @@ vkcdnservice.appspot.com^
 ||bhnhejwj.com^
 ||bhnjwmega.com^
 ||bhnmkauncgr.com^
+||bhozjskhzfdkh.com^
 ||bhqfnuq.com^
 ||bhuoeykefbnfgc.com^
 ||bhupsrkrwnggcl.com^
@@ -6253,6 +6254,7 @@ vkcdnservice.appspot.com^
 ||bissonbunging.com^
 ||bissonprevoid.website^
 ||bistigaleod.life^
+||biswcmtgrnk.com^
 ||bit-ad.com^
 ||bitbeat7.com^
 ||bitcoin-news.vip^
@@ -7978,6 +7980,7 @@ vkcdnservice.appspot.com^
 ||cgbaybqywso.com^
 ||cgeckmydirect.biz^
 ||cghfqbwdkuemcn.com^
+||cgsjaulupnd.com^
 ||cguospfen.com^
 ||cgupialoensa.com^
 ||cgyhsyvm.xyz^
@@ -24313,6 +24316,7 @@ vkcdnservice.appspot.com^
 ||ninetyninesec.com^
 ||ninetypastime.com^
 ||ninetyreguli.com^
+||ningdblukzqp.com^
 ||ninkorant.online^
 ||ninnycoastal.com^
 ||ninoglostoay.com^
@@ -26484,6 +26488,7 @@ vkcdnservice.appspot.com^
 ||parlorsuperhero.com^
 ||parlouractivityattacked.com^
 ||parlourinvulnerablerighteous.com^
+||paronymtethery.com^
 ||parrecleftne.xyz^
 ||parrotlamista.top^
 ||parrotstrim.com^
@@ -27404,6 +27409,7 @@ vkcdnservice.appspot.com^
 ||playboywere.com^
 ||playdraught.com^
 ||playeranyd.org^
+||playeranydwo.info^
 ||playerseo.club^
 ||playerstrivefascinated.com^
 ||playertraffic.com^
@@ -28942,6 +28948,7 @@ vkcdnservice.appspot.com^
 ||qbrrrlawwrvbv.top^
 ||qbsvafnpgfwpca.com^
 ||qcbfiytngupv.com^
+||qceedrcwar.com^
 ||qceyyxauc.xyz^
 ||qcfkvespkj.com^
 ||qchfbnjagbdst.com^
@@ -31285,6 +31292,7 @@ vkcdnservice.appspot.com^
 ||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
+||saweathercock.info^
 ||sawfishdiapsid.com^
 ||sawfluenttwine.com^
 ||sawmonwhomble.com^
@@ -34206,6 +34214,7 @@ vkcdnservice.appspot.com^
 ||tanivanprevented.com^
 ||tankiuz.xyz^
 ||tanksfright.com^
+||tantisnits.top^
 ||taonforhavinga.info^
 ||taovgsy.com^
 ||taoyinbiacid.com^
@@ -35206,6 +35215,7 @@ vkcdnservice.appspot.com^
 ||toquetbircher.com^
 ||torajaimbrium.top^
 ||torattatachan.com^
+||torcheszocalo.top^
 ||torchtrifling.com^
 ||torioluor.com^
 ||toromclick.com^
@@ -35316,6 +35326,7 @@ vkcdnservice.appspot.com^
 ||tpvrqkr.com^
 ||tpwtjya.com^
 ||tpydhykibbz.com^
+||tpyfixoqbo.com^
 ||tpyxplkcap.top^
 ||tpzzdrxnp.com^
 ||tqgrrfssodfo.com^
@@ -37709,6 +37720,7 @@ vkcdnservice.appspot.com^
 ||vzoarcomvorz.com^
 ||vztlivv.com^
 ||vzufzah.com^
+||vzzramqlfb.com^
 ||w00f.net^
 ||w3exit.com^
 ||w3needman3w.com^
@@ -38235,6 +38247,7 @@ vkcdnservice.appspot.com^
 ||wheweeze.net^
 ||whiboubs.com^
 ||whiceega.com^
+||whickazoxy.top^
 ||whickgiunta.com^
 ||whifflehumeral.guru^
 ||whileinferioryourself.com^
@@ -53923,6 +53936,8 @@ vkcdnservice.appspot.com^
 ||hgfutf.xyz^
 ||yxgqgq.xyz^
 ||sxoejoc.icu^
+||verstug.cn^
+||uweriot.top^
 ||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
