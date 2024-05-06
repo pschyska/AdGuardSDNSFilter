@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-06T06:11:21.237Z
+! Last modified: 2024-05-06T12:13:29.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||advertsource.co.uk^
 ||iedprivatedqu.com^
 ||stownrusis.com^
 ||ebaticalfel.com^
@@ -41651,6 +41652,7 @@ vkcdnservice.appspot.com^
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
+||b9f25b.site^
 ||bcbe.site^
 ||ca3d.site^
 ||d84bc26d.site^
@@ -53937,6 +53939,7 @@ vkcdnservice.appspot.com^
 ||yxgqgq.xyz^
 ||sxoejoc.icu^
 ||verstug.cn^
+||muntfd62.shop^
 ||uweriot.top^
 ||0322cfmtl.cc^
 ||0940088.com^
