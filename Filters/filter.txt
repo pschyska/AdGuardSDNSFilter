@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-07T06:10:54.054Z
+! Last modified: 2024-05-07T12:13:13.653Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,11 @@
 !
 !
 !
+||pjagilteei.com^
+||tjtmjjigtdoah.com^
+||odssyvfqrlwwj.com^
+||houboajaithu.net^
+||nderpurganismpr.info^
 ||hborq.com^
 ||oszlnxwqlc.com^
 ||fkodq.com^
@@ -33069,7 +33074,6 @@ vkcdnservice.appspot.com^
 ||spotbeepgreenhouse.com^
 ||spotdimesulky.com^
 ||spotlessabridge.com^
-||spotlightstores.com^
 ||spotofspawn.com^
 ||spotrails.com^
 ||spotscenered.info^
@@ -40724,6 +40728,7 @@ vkcdnservice.appspot.com^
 ||ahvclick.com^
 ||aim4media.com^
 ||ainsyndication.com^
+||airfind.com^
 ||akavita.com^
 ||aklamator.com^
 ||alienhub.xyz^
@@ -41668,6 +41673,7 @@ vkcdnservice.appspot.com^
 ||3a2e.site^
 ||48a16802.site^
 ||4a0e.xyz^
+||4aae8f.site^
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
@@ -41801,6 +41807,7 @@ vkcdnservice.appspot.com^
 ||alarmsportsnetwork.com^
 ||allsportsflix.
 ||alt63.chimeratool.com^
+||analytics.analytics-egain.com^
 ||api.140proof.com^
 ||api.bitp.it^
 ||api.localadswidget.com^
@@ -44283,6 +44290,9 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||tzbirdcod.com^
+||audiotouch.info^
+||videotouch88.info^
 ||ippunet.site^
 ||ssrv7.com^
 ||zszhfffyd.ru^
@@ -46551,6 +46561,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||yonderdim.com^
 ||gr.hdream.cfd^
 ||kriptoparahaber.care^
 ||alty.fun^
