@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-09T06:10:30.128Z
+! Last modified: 2024-05-09T12:13:09.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -6795,6 +6795,7 @@ vkcdnservice.appspot.com^
 ||bouptosaive.com^
 ||bouqaiewfksqz.com^
 ||bourbonlunches.com^
+||bourrepardale.com^
 ||boustahe.com^
 ||bouwehee.xyz^
 ||bovategunrack.cfd^
@@ -30498,6 +30499,7 @@ vkcdnservice.appspot.com^
 ||ringashewasfl.info^
 ||ringermuggish.com^
 ||ringexpressbeach.com^
+||ringingneo.com^
 ||ringsempty.com^
 ||ringtonepartner.com^
 ||rinserbefore.com^
@@ -41725,6 +41727,7 @@ vkcdnservice.appspot.com^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||ec44.site^
 ||f090.site^
+||f2f8.xyz^
 ||f6176563.site^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
@@ -54536,7 +54539,6 @@ vkcdnservice.appspot.com^
 ||pmtrkp.icu^
 ||pnxtnp.xyz^
 ||polepole.cn^
-||polyfill.io^
 ||pp1hl.xyz^
 ||pqzjki.cn^
 ||pressit.cn^
@@ -54596,7 +54598,6 @@ vkcdnservice.appspot.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
-||ringingneo.com^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rkgbqn.icu^
