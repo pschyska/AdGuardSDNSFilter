@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-10T12:12:59.451Z
+! Last modified: 2024-05-10T18:09:41.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||buyvisblog.com^
 ||fnlojkpbe.com^
 ||rxvej.com^
 ||gdecording.info^
@@ -47,8 +48,6 @@
 ||fkodq.com^
 ||advertsource.co.uk^
 ||iedprivatedqu.com^
-||stownrusis.com^
-||ebaticalfel.com^
 ||me7x.site^
 ||wrqtcoxjw.com^
 ||atlxpstsf.com^
@@ -1888,6 +1887,7 @@ vkcdnservice.appspot.com^
 ||42jdbcb.de^
 ||435a63dad5.com^
 ||43bb528775.com^
+||43sjmq3hg.com^
 ||43t53c9e.de^
 ||44288fa514.com^
 ||445c1f5df9.com^
@@ -8252,6 +8252,7 @@ vkcdnservice.appspot.com^
 ||chirppronounceaccompany.com^
 ||chissaibsgirls.com^
 ||chitbillety.website^
+||chitchooms.net^
 ||chitika.net^
 ||chitsnooked.com^
 ||chl7rysobc3ol6xla.com^
@@ -8553,6 +8554,7 @@ vkcdnservice.appspot.com^
 ||clerkrevokesmiling.com^
 ||clerrrep.com^
 ||cleverjump.org^
+||clevernesscolloquial.com^
 ||clevernesswood.com^
 ||clevernt.com^
 ||cleverwebserver.com^
@@ -29993,6 +29995,7 @@ vkcdnservice.appspot.com^
 ||reignprofessionally.com^
 ||reindaks.com^
 ||reinstandpointdumbest.com^
+||reissue2871.xyz^
 ||reitbokgona.com^
 ||reivereme.com^
 ||rejco2.store^
@@ -31799,6 +31802,7 @@ vkcdnservice.appspot.com^
 ||serveforthwithtill.com^
 ||servehub.info^
 ||servenobid.com^
+||server4ads.com^
 ||serverbid.com^
 ||servereplacementcycle.com^
 ||serverfritterdisability.com^
@@ -36853,6 +36857,7 @@ vkcdnservice.appspot.com^
 ||uwadpksbkzp.com^
 ||uwavoptig.com^
 ||uwayemfogibbgh.xyz^
+||uweqsrwoey.com^
 ||uwfcqtdb.xyz^
 ||uwgmguwpzkeudh.com^
 ||uwjhzeb.com^
@@ -47798,7 +47803,6 @@ vkcdnservice.appspot.com^
 ||ringier-advertising.ch^
 ||securecnd.com^
 ||seitenaufruf.com^
-||server4ads.com^
 ||servote.de^
 ||sexgoesmobile.com^
 ||solads.media^
@@ -48899,7 +48903,6 @@ vkcdnservice.appspot.com^
 ||bcajjtbzmdrl.com^
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
-||chitchooms.net^
 ||chqspuonctkgz.com^
 ||craydark.pw^
 ||d0p21g2fep.com^
@@ -54924,6 +54927,7 @@ vkcdnservice.appspot.com^
 ||yssryr.cn^
 ||88lm15.com^
 ||iaosua.com^
+||djxzk.top^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
