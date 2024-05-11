@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-11T06:09:11.052Z
+! Last modified: 2024-05-11T12:12:19.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -31149,6 +31149,7 @@ vkcdnservice.appspot.com^
 ||sabredbegulf.top^
 ||sabrinacaulked.com^
 ||sackbarngroups.com^
+||sackerskips.com^
 ||sacquebenzine.com^
 ||sacredperpetratorbasketball.com^
 ||sacrificeaffliction.com^
@@ -37285,6 +37286,7 @@ vkcdnservice.appspot.com^
 ||videoaccess.xyz^
 ||videobaba.xyz^
 ||videocampaign.co^
+||videocdnshop.com^
 ||videosprofitnetwork.com^
 ||videosworks.com^
 ||videovard.sx^
@@ -38591,6 +38593,7 @@ vkcdnservice.appspot.com^
 ||withholdstandstill.com^
 ||withinresentful.com^
 ||withinsdraco.com^
+||withnimskither.com^
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedcompany.com^
@@ -41747,6 +41750,7 @@ vkcdnservice.appspot.com^
 ||b9f25b.site^
 ||bcbe.site^
 ||ca3d.site^
+||ca9246.xyz^
 ||d84bc26d.site^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -54936,6 +54940,7 @@ vkcdnservice.appspot.com^
 ||igidskio.top^
 ||adlhxwb.xyz^
 ||6b856ee58e.com^
+||zrdga.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
