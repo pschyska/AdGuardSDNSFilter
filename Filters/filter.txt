@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-14T12:13:59.531Z
+! Last modified: 2024-05-14T18:09:48.373Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -23187,6 +23187,9 @@ vkcdnservice.appspot.com^
 ||mobifoth.com^
 ||mobile5shop.com^
 ||mobiledevel.com^
+||mobileoffers-7-j-download.com^
+||mobileoffers-dld-download.com^
+||mobileoffers-downloadapp-a.com^
 ||mobileoffers-ep-download.com^
 ||mobilepreviouswicked.com^
 ||mobiletracking.ru^
@@ -23331,6 +23334,7 @@ vkcdnservice.appspot.com^
 ||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
+||moonjscdn.info^
 ||moonoafy.net^
 ||moonovernegril.com^
 ||moonrocketaffiliates.com^
