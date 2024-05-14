@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-13T18:08:37.184Z
+! Last modified: 2024-05-14T00:35:01.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4997,6 +4997,7 @@ vkcdnservice.appspot.com^
 ||auditorydetainriddle.com^
 ||audmrk.com^
 ||audrault.xyz^
+||auesk.cfd^
 ||aufeeque.com^
 ||auficxqpyfgcd.xyz^
 ||auforau.com^
@@ -9162,6 +9163,7 @@ vkcdnservice.appspot.com^
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||conscienciaecompletude.com^
 ||consciousnessmost.com^
 ||consciousslice.com^
 ||consecutionwrigglesinge.com^
@@ -11525,6 +11527,7 @@ vkcdnservice.appspot.com^
 ||drctcldfffwr.com^
 ||dreadbreakupsomeone.com^
 ||dreadfullyclarifynails.com^
+||dreadfulprofitable.com^
 ||dreadluckdecidedly.com^
 ||dreadshavingmammal.com^
 ||dreambooknews.com^
@@ -16144,6 +16147,7 @@ vkcdnservice.appspot.com^
 ||greenplasticdua.com^
 ||greensfallingperceive.com^
 ||greeter.me^
+||greeterracked.com^
 ||greetpanda.org^
 ||greewaih.xyz^
 ||greewepi.net^
@@ -16883,6 +16887,7 @@ vkcdnservice.appspot.com^
 ||helpfulrectifychiefly.com^
 ||helpingnauseous.com^
 ||helplessdanpavilion.com^
+||helseeftie.net^
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
 ||hemhiveoccasion.com^
@@ -19476,6 +19481,7 @@ vkcdnservice.appspot.com^
 ||jmpmedia.club^
 ||jmqrogtmvfo.com^
 ||jmrnews.pro^
+||jmt7mbwce.com^
 ||jmtbmqchgpw.xyz^
 ||jmtbyiohpgugcsk.com^
 ||jmvscgd.com^
@@ -19631,6 +19637,7 @@ vkcdnservice.appspot.com^
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jquturir.com^
 ||jqwsldso.com^
 ||jrbbavbmwmleb.top^
 ||jrbbavbmwqwjl.top^
@@ -19640,6 +19647,7 @@ vkcdnservice.appspot.com^
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
 ||jrilkvjehrjlri.com^
+||jriravntivf.com^
 ||jrkbnvkrvamky.top^
 ||jrkkcssob.com^
 ||jrkkmpeqtlsawgf.com^
@@ -21285,6 +21293,7 @@ vkcdnservice.appspot.com^
 ||liningemigrant.com^
 ||liningreduction.com^
 ||link2thesafeplayer.click^
+||linkadvdirect.com^
 ||linkbuddies.com^
 ||linkchangesnow.com^
 ||linkedassassin.com^
@@ -22040,6 +22049,7 @@ vkcdnservice.appspot.com^
 ||m4clicks.com^
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
+||m9w6ldeg4.xyz^
 ||ma2gs3wne3gfej70osium.com^
 ||ma3ion.com^
 ||maaivkgdulv.com^
@@ -22287,6 +22297,7 @@ vkcdnservice.appspot.com^
 ||mapakrogngi.com^
 ||mapamnni.com^
 ||mapbovdpdy.com^
+||maper.info^
 ||maquiags.com^
 ||maraewid.com^
 ||marantaarmures.guru^
@@ -24623,6 +24634,7 @@ vkcdnservice.appspot.com^
 ||nothingpetwring.com^
 ||nothycantyo.com^
 ||noticebroughtcloud.com^
+||noticedbibi.com^
 ||notifcationpushnow.com^
 ||notifer.co.in^
 ||notification-list.com^
@@ -24745,6 +24757,7 @@ vkcdnservice.appspot.com^
 ||nrnma.com^
 ||nrqppdgnhaagjq.com^
 ||nrrdxyauavkdrc.com^
+||nrs6ffl9w.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nryanocytqc.com^
@@ -27955,6 +27968,7 @@ vkcdnservice.appspot.com^
 ||poxcgxylozny.com^
 ||poxykhakis.com^
 ||poxypicine.com^
+||poxyrevise.com^
 ||poyqmngbxwsvnav.xyz^
 ||poyusww.com^
 ||pp2ppsch1hount1hf.com^
@@ -30668,6 +30682,7 @@ vkcdnservice.appspot.com^
 ||robflea.com^
 ||robindefensivedancing.com^
 ||robotadserver.com^
+||roboticourali.com^
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
@@ -32456,6 +32471,7 @@ vkcdnservice.appspot.com^
 ||skjwebmr.com^
 ||sklsnpqr.com^
 ||sknkwpvrkz.com^
+||skohssc.cfd^
 ||skolvortex.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
@@ -38308,6 +38324,7 @@ vkcdnservice.appspot.com^
 ||whauglorga.com^
 ||whaulaul.net^
 ||whaulids.com^
+||whaunsockou.xyz^
 ||whaurgoopou.com^
 ||whautsis.com^
 ||whaxanso.net^
@@ -38433,6 +38450,7 @@ vkcdnservice.appspot.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
 ||whotrundledthe.com^
@@ -39349,6 +39367,7 @@ vkcdnservice.appspot.com^
 ||xruolsogwsi.com^
 ||xsjc4smhbyjf.com^
 ||xskctff.com^
+||xsknvlmjvrdqo.com^
 ||xsqfyvsc.com^
 ||xsrs.com^
 ||xstreamsoftwar3x.com^
@@ -39824,6 +39843,7 @@ vkcdnservice.appspot.com^
 ||ytimm.com^
 ||ytlhsmwu.com^
 ||ytndjaefvan.xyz^
+||ytnkdhmtdubhk.com^
 ||ytoworkwi.org^
 ||ytqnzvqfsr.com^
 ||ytsa.net^
@@ -44383,6 +44403,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||v.strosin.biz^
 ||tzbirdcod.com^
 ||audiotouch.info^
 ||videotouch88.info^
@@ -54992,6 +55013,13 @@ vkcdnservice.appspot.com^
 ||upyzqf.cn^
 ||mdiygc.xyz^
 ||dyccdk.xyz^
+||jyuskb.cn^
+||ypgjkk.xyz^
+||onmstgh.icu^
+||nvvqrv.xyz^
+||dfryzh.xyz^
+||sgidskib.top^
+||pxtjfmv.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
