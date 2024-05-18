@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-18T00:35:03.973Z
+! Last modified: 2024-05-18T06:09:39.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -54189,6 +54189,7 @@ vkcdnservice.appspot.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
+||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
@@ -55147,10 +55148,13 @@ vkcdnservice.appspot.com^
 ||ljdofz.xyz^
 ||zozwnv.xyz^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||xytcboyz.icu^
 ||cqpph.cn^
 ||hphvd.cn^
 ||bpxbzps.xyz^
+||dsa22.com^
+||mianyaojsj.com^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
