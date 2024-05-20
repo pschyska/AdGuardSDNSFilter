@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-20T06:10:51.710Z
+! Last modified: 2024-05-20T12:15:47.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -41884,6 +41884,7 @@ vkcdnservice.appspot.com^
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||d84bc26d.site^
+||d8b0a5.xyz^
 ||d980ed.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -44498,6 +44499,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bestssrv.com^
 ||v.strosin.biz^
 ||tzbirdcod.com^
 ||audiotouch.info^
@@ -47454,6 +47456,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||tagtoo.co^
 ||ad.886112.xyz^
 ||1x5jlh.xyz^
 ||98765.pw^
@@ -49156,8 +49159,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 May 2024 22:32 UTC+7
-! Version: 2405192232
+! Last modified: 20 May 2024 16:20 UTC+7
+! Version: 2405201620
 ! Blocked: 882 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -50004,9 +50007,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 May 2024 10:05 UTC+7
-! Version: 2405201005
-! Blocked: 4,282 rules
+! Last modified: 20 May 2024 16:22 UTC+7
+! Version: 2405201622
+! Blocked: 4,294 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -50243,6 +50246,7 @@ vkcdnservice.appspot.com^
 ||barbecueappledos.pw^
 ||bb9998.com^
 ||bbankpower.com^
+||bbc6666.com^
 ||bcmoney.xyz^
 ||bemcll.me^
 ||beoneviet.com^
@@ -50322,6 +50326,7 @@ vkcdnservice.appspot.com^
 ||cf222.art^
 ||cgovn.cc^
 ||chamsockhachang.com^
+||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
@@ -50602,6 +50607,7 @@ vkcdnservice.appspot.com^
 ||ebanking.ttoh4.com^
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
+||ebayasean.com^
 ||ebayget.cc^
 ||ebayshopnet.com^
 ||ebeuboay.cc^
@@ -51144,6 +51150,7 @@ vkcdnservice.appspot.com^
 ||keygenwin.com^
 ||kfdg22.com^
 ||kfdg55.com^
+||kh-cn-mrd-f5-tpbank.com^
 ||kh-cn-uutien-3fv-vib.com^
 ||khach-hang-ca-nhan-vip5.com^
 ||khachhangvib-canhan.com^
@@ -51210,6 +51217,7 @@ vkcdnservice.appspot.com^
 ||la7168.com^
 ||la9435.com^
 ||labanga.de^
+||labtpb.online^
 ||ladsblue.com^
 ||ladyvietnam.online^
 ||laisuatkiemtiencao.com^
@@ -51405,7 +51413,6 @@ vkcdnservice.appspot.com^
 ||macysbyi.com^
 ||magazineshopeeonline.com^
 ||magicslimnhatban.com^
-||mail.labtpb.online^
 ||maivang.vip^
 ||maivang.xyz^
 ||mallshopvn.vip^
@@ -51476,6 +51483,7 @@ vkcdnservice.appspot.com^
 ||mhshopee.com^
 ||micronsofte-online.com^
 ||mildwave.com^
+||miles-card-vpbank.com^
 ||miner-linkperfectmoney.com^
 ||minhchinhmega.com^
 ||minhngocc789.com^
@@ -53264,6 +53272,7 @@ vkcdnservice.appspot.com^
 ||trungso.vip^
 ||trungtam-baohanhdienmayxanh.com^
 ||trungtam-cskh-vipham.com^
+||trungtam-dienmayxanh.com^
 ||trungtamdienmayxanh.net^
 ||trungtamgarena.com^
 ||trungtammayxanh.com^
@@ -53812,6 +53821,7 @@ vkcdnservice.appspot.com^
 ||vn-ebank.xyz^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
+||vn-ebayn.vip^
 ||vn-email.shop^
 ||vn-express.net^
 ||vn-findmy.com^
@@ -53912,6 +53922,7 @@ vkcdnservice.appspot.com^
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
+||vnsendo.info^
 ||vnsendo.shop^
 ||vnsendo.vip^
 ||vnshop.today^
@@ -55185,6 +55196,8 @@ vkcdnservice.appspot.com^
 ||ogidskik.top^
 ||yhimpnr.icu^
 ||tdhnxf.xyz^
+||axa123.com^
+||lozmtk.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
