@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-21T00:35:35.844Z
+! Last modified: 2024-05-21T06:11:52.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||pubtrky.com^
+||mpqgoircwb.com^
 ||moawgsfidoqm.com^
 ||mkenativji.com^
 ||lwjje.com^
@@ -28802,7 +28804,6 @@ vkcdnservice.appspot.com^
 ||pubovore.com^
 ||pubpowerplatform.io^
 ||pubtm.com^
-||pubtrky.com^
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
@@ -41883,6 +41884,7 @@ vkcdnservice.appspot.com^
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
+||5fd6bc.xyz^
 ||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
@@ -55575,6 +55577,7 @@ vkcdnservice.appspot.com^
 ||jy147a.com^
 ||rayajmp.icu^
 ||ca2686564a.com^
+||dpedrt.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
