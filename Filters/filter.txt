@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-23T06:11:43.358Z
+! Last modified: 2024-05-23T12:13:46.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -7832,6 +7832,7 @@ vkcdnservice.appspot.com^
 ||camplacecash.com^
 ||camprime.com^
 ||camptrck.com^
+||cams.gratis^
 ||camschat.net^
 ||camshq.info^
 ||camsitecash.com^
@@ -11179,6 +11180,7 @@ vkcdnservice.appspot.com^
 ||dirhamsleered.com^
 ||dirtinessboiled.com^
 ||dirtrecurrentinapptitudeinapptitude.com^
+||dirty.games^
 ||dirtyasmr.com^
 ||dirtysuspension.com^
 ||disable-adverts.com^
@@ -13712,6 +13714,7 @@ vkcdnservice.appspot.com^
 ||fademployedtransactions.com^
 ||fadf617f13.com^
 ||fadfussequipment.com^
+||fadingsulphur.com^
 ||fadraiph.xyz^
 ||fadrovoo.xyz^
 ||fadsims.com^
@@ -32689,6 +32692,7 @@ vkcdnservice.appspot.com^
 ||sjkzeivw.com^
 ||sjmbwxnqz.com^
 ||sjolcdkqwiybh.xyz^
+||sjsabb.com^
 ||sjtactic.com^
 ||sjtbhdeakgsgr.com^
 ||sjteyeztnf.com^
@@ -33650,6 +33654,7 @@ vkcdnservice.appspot.com^
 ||statisticresearch.com^
 ||statisticscensordilate.com^
 ||statisticseither.com^
+||statorkumyk.com^
 ||statossy.com^
 ||stats-best.site^
 ||statsforads.com^
@@ -54742,6 +54747,7 @@ vkcdnservice.appspot.com^
 ! Source name: EasyList China ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 !
+||iwanshang*.asia^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
@@ -55751,6 +55757,7 @@ vkcdnservice.appspot.com^
 ||isylieo.top^
 ||mweriox.top^
 ||iwanshang8.asia^
+||udheansv.com^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
