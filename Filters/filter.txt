@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-24T06:10:17.168Z
+! Last modified: 2024-05-24T12:13:43.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||startfinishthis.com^
 ||outheelrelict.com^
 ||2475april2024.com^
 ||synchroscript.deliveryengine.adswizz.com^
@@ -42087,6 +42088,7 @@ vkcdnservice.appspot.com^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
 ||b9f25b.site^
+||bc98ad.xyz^
 ||bcbe.site^
 ||ca3d.site^
 ||ca9246.xyz^
@@ -42270,6 +42272,7 @@ vkcdnservice.appspot.com^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hotwire-widget.dailywire.com^
+||inbound-step.heavenmedia.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.manga1001.win^
@@ -44700,6 +44703,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||lzbgeg.com^
 ||bestssrv.com^
 ||v.strosin.biz^
 ||tzbirdcod.com^
@@ -54758,6 +54762,7 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||wqzmed.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -55767,6 +55772,7 @@ vkcdnservice.appspot.com^
 ||jsyliea.top^
 ||usmgoxe.cn^
 ||369bgrec.top^
+||l7u3kf.cn^
 ||zhengzhou12.top^
 ||fklgndklbngg.com^
 ||zhihucloud.xyz^
