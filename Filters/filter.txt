@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-24T18:10:19.924Z
+! Last modified: 2024-05-25T00:34:22.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4126,6 +4126,7 @@ vkcdnservice.appspot.com^
 ||allnesskepped.com^
 ||allocatelacking.com^
 ||allodiafeveret.life^
+||allodsubussu.com^
 ||alloha.tv^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
@@ -19393,6 +19394,7 @@ vkcdnservice.appspot.com^
 ||jajrlsaiboswdab.xyz^
 ||jakescribble.com^
 ||jakeycorkage.digital^
+||jalapamaro.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jalwhftxnl.com^
@@ -36398,6 +36400,7 @@ vkcdnservice.appspot.com^
 ||uabpuwz.com^
 ||uads.cc^
 ||uads.digital^
+||uads.guru^
 ||uads.info^
 ||uads.pw^
 ||uads.space^
@@ -36993,6 +36996,7 @@ vkcdnservice.appspot.com^
 ||upsidecopiedcraft.com^
 ||upsidesheminee.com^
 ||upskittyan.com^
+||upspewsafener.com^
 ||upspinarakor.com^
 ||upstagecarvers.cfd^
 ||upstandhurls.website^
@@ -54770,6 +54774,10 @@ vkcdnservice.appspot.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||wqzmed.cn^
+||jxqdl.cn^
+||ieapak.xyz^
+||piksrie.icu^
+||rbrmhz.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
