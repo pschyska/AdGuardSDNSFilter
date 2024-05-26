@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-26T06:09:48.691Z
+! Last modified: 2024-05-26T12:12:25.772Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,20 @@
 !
 !
 !
+||gaptooju.net^
+||ptoakooph.net^
+||yhmhbnzz.com^
+||smctmxdeoz.com^
+||mentxviewsinterf.info^
+||dedfearinglestp.info^
+||bjmilicshimxym.com^
+||cotatholt.net^
+||xragnfrjhiqep.xyz^
+||rkifguxul.com^
+||oocsutvtggeuu.com^
+||ejnrvilfilnz.com^
+||yzerabwdkpaee.com^
+||thuthoock.net^
 ||opeanresultancete.info^
 ||getrunkhomuto.info^
 ||tesousefulhead.info^
@@ -1276,6 +1290,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
 ||d31uxzurj3z4fa.cloudfront.net^
 ||dre81lzpy0s7q.cloudfront.net^
@@ -42124,6 +42139,7 @@ vkcdnservice.appspot.com^
 ||8acc5c.site^
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^
 ||977878.xyz^
+||97b448.xyz^
 ||a49ebd.xyz^
 ||a67d12.xyz^
 ||b211.xyz^
@@ -42138,6 +42154,7 @@ vkcdnservice.appspot.com^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
 ||d980ed.xyz^
+||dd2270.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||ec44.site^
@@ -54823,6 +54840,7 @@ vkcdnservice.appspot.com^
 ||ssylieb.top^
 ||gw2cddpt2hao.asia^
 ||onxeacj.cn^
+||3601880.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
