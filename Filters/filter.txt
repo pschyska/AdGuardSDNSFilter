@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-27T18:10:16.295Z
+! Last modified: 2024-05-28T00:35:42.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40490,6 +40490,7 @@ vkcdnservice.appspot.com^
 ||zincdatawipe.com^
 ||zincypalmy.top^
 ||zinipx.xyz^
+||zinovu.com^
 ||zinrora.pw^
 ||zipakrar.com^
 ||zipheeda.xyz^
@@ -42182,6 +42183,7 @@ vkcdnservice.appspot.com^
 ||f2f8.xyz^
 ||f6176563.site^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
+||fbfec2.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -54871,6 +54873,10 @@ vkcdnservice.appspot.com^
 ||nlvwdlnhfnnw.com^
 ||auisaoa.top^
 ||bing001.shop^
+||uskecsx.icu^
+||zhangqifeng12.top^
+||wsyliee.top^
+||abucki.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62082,8 +62088,6 @@ analytics-*.aasaam.com
 @@||catchup.thisisdax.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1239
 @@||px.a8.net^|
-! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1221
-@@||app-cdn.minepi.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1181
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1344
 @@||cdn.duurzaam.greenchoice.nl^|
