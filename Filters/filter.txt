@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-29T12:14:04.043Z
+! Last modified: 2024-05-29T18:09:46.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -54879,6 +54879,8 @@ vkcdnservice.appspot.com^
 ||aeaw.cn^
 ||mqaoweu.icu^
 ||mninoq.xyz^
+||hpzktd.xyz^
+||mybgrea97.shop^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62024,6 +62026,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1692
+@@||cloud.roistat.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
