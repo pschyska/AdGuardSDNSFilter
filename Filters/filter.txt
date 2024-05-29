@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-29T06:11:04.952Z
+! Last modified: 2024-05-29T12:14:04.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16529,6 +16529,7 @@ vkcdnservice.appspot.com^
 ||gripehealth.com^
 ||grippertureen.space^
 ||gripping-bread.com^
+||gripspigyard.com^
 ||grirault.net^
 ||gristleupanaya.com^
 ||gritaware.com^
@@ -20404,6 +20405,7 @@ vkcdnservice.appspot.com^
 ||kentorjose.com^
 ||kepersaonwho.org^
 ||keppendragoon.top^
+||keptoojals.xyz^
 ||keraclya.com^
 ||keramiceoan.com^
 ||kergaukr.com^
@@ -26258,6 +26260,7 @@ vkcdnservice.appspot.com^
 ||orldwhoisquiteh.info^
 ||orlotalers.com^
 ||orlowedonhisdhilt.info^
+||ormolusapiary.com^
 ||ormolustuke.top^
 ||ornismolal.top^
 ||oroodsee.xyz^
@@ -27044,6 +27047,7 @@ vkcdnservice.appspot.com^
 ||paurozel.net^
 ||paushoow.net^
 ||paussidsipage.com^
+||pausteegohoa.net^
 ||pauwhajo.xyz^
 ||pavfazbwiap.com^
 ||paviestrewel.top^
@@ -30897,6 +30901,7 @@ vkcdnservice.appspot.com^
 ||rimeseized.com^
 ||rimfranklyscaffold.com^
 ||riminghoggoofy.com^
+||rimoseantdom.com^
 ||rimwigckagz.com^
 ||rinceaskedase.com^
 ||rincipledecli.info^
@@ -32917,6 +32922,7 @@ vkcdnservice.appspot.com^
 ||slobgrandmadryer.com^
 ||sloeri.com^
 ||slopeac.com^
+||slopingunrein.com^
 ||sloppyegotistical.com^
 ||sloto.live^
 ||slotspreadingbrandy.com^
@@ -42177,6 +42183,7 @@ vkcdnservice.appspot.com^
 ||b211.xyz^
 ||b59c.xyz^
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
+||b903c2.xyz^
 ||b9f25b.site^
 ||bc98ad.xyz^
 ||bcbe.site^
@@ -43351,6 +43358,7 @@ vkcdnservice.appspot.com^
 ||adcell.de^
 ||adextrem.com^
 ||ads-adv.top^
+||adsarcade.com^
 ||adsession.com^
 ||adsgangsta.com^
 ||adshnk.com^
@@ -44446,7 +44454,6 @@ vkcdnservice.appspot.com^
 ||adtrack.king.com^
 ||adv.mxmcdn.net^
 ||advertising.com^
-||adwods.com^
 ||adz.mobi^
 ||adzmobi.com^
 ||api.fusepowered.com^
@@ -44556,7 +44563,6 @@ vkcdnservice.appspot.com^
 ||mobile333.com^
 ||mobilecore.com^
 ||mobiledl.adboe.com^
-||mobon.com^
 ||mofox.com^
 ||mtburn.jp^
 ||mtrcss.com^
@@ -47098,21 +47104,17 @@ vkcdnservice.appspot.com^
 ||ad*.bilgin.pro^
 ||ad*.tmgrup.com.tr^
 ||ad.donanimhaber.com^
-||ad.eglenced.com^
 ||ad.reyazilim.com^
 ||ad.setrowid.com^
 ||adbreak.cubecdn.net^
 ||adbreak.net^
-||adcater.com^
 ||add.f5haber.com^
 ||adeko.mobi^
 ||adfor.io^
 ||adhouse.cubecdn.net^
-||adimage.media^
 ||adl.mynetreklam.com^
 ||adnamo.net^
 ||adnatro.com^
-||adnexio.com^
 ||adnsafe.net^
 ||adon.io^
 ||adpozitif.com^
@@ -47122,8 +47124,6 @@ vkcdnservice.appspot.com^
 ||adrttt.com^
 ||ads.dogusdigital.com^
 ||ads.web.tr^
-||advancenative.com^
-||advoly.com^
 ||adzbaba.com^
 ||affiliateserver.hangikredi.com^
 ||afyonturkreklam.com^
@@ -47132,15 +47132,11 @@ vkcdnservice.appspot.com^
 ||ariyayin.com^
 ||artemisaffiliates.com^
 ||aspartos.com^
-||bahisciler.co^
 ||basvformu*.xyz^
 ||bcvc.mobi^
-||betburdaaffiliates.com^
 ||betendads.com^
 ||betkanyon100.com^
 ||betwinnerpromo.com^
-||bilink.xyz^
-||binaryad.com^
 ||bo.facesbet.com^
 ||bwcdn.xyz^
 ||bwtsrv.com^
@@ -47151,11 +47147,8 @@ vkcdnservice.appspot.com^
 ||d1d8vn0fpluuz7.cloudfront.net^
 ||dogus-ads-cdn.dygdigital.com^
 ||dolarkurum.com^
-||downads.com^
 ||engageya.com^
 ||files.pbgiris.com^
-||finema-net.cdn.ampproject.org^
-||finema.net^
 ||fvbaffiliate.com^
 ||genelajans.com^
 ||gmgreklam.com^
@@ -47179,7 +47172,6 @@ vkcdnservice.appspot.com^
 ||minireklam.com^
 ||mkazanc.com^
 ||mobilpop.com^
-||mobilup.com^
 ||mp.subservis.com^
 ||n69adserv.com^
 ||nativendo.com^
@@ -47189,7 +47181,6 @@ vkcdnservice.appspot.com^
 ||partner.superbahisaffiliates*.com^
 ||partners.betbooaffiliates.com^
 ||partnerx.bethub.io^
-||performancenative.com^
 ||permato.com^
 ||piaads.com^
 ||pmelon.com^
@@ -47204,9 +47195,7 @@ vkcdnservice.appspot.com^
 ||reklamnative.com^
 ||reklamstore.com^
 ||reklamstore.cubecdn.net^
-||reklamtrk.com^
 ||reviveservers.com^
-||revotas.com^
 ||savoy.storage.cubecdn.net^
 ||segmentify.com^
 ||seldos.com.tr^
@@ -47214,21 +47203,15 @@ vkcdnservice.appspot.com^
 ||smrtbnr.com^
 ||smrtbnr.info^
 ||static-ads.akamaized.net^
-||sw1block.com^
 ||tagon.co^
-||tarpitbar.com^
 ||theadx.com^
 ||trackocean.com^
-||uzmanreklam.com^
 ||vegabet.net^
 ||virgul.com^
 ||vitrinler3.com^
-||whatsappsohbetim.net^
 ||winaffiliates.com^
 ||wonoddgiris.com^
-||xmtrk.com^
 ||yedimedia.net^
-||yfzbn.com^
 ||youtubesave.org^
 ||youtubex.top^
 
@@ -47644,7 +47627,8 @@ vkcdnservice.appspot.com^
 ||adf.shinobi.jp^
 ||adingo.jp.eimg.jp^
 ||adntokyo.gunosy.com^
-||affiliate.rakuten.co.jp^
+||static.affiliate.rakuten.co.jp^
+||xml.affiliate.rakuten.co.jp^
 ||aimg.fc2.com^
 ||bar*.shinobi.jp^
 ||hb.afl.rakuten.co.jp^
@@ -49734,7 +49718,6 @@ vkcdnservice.appspot.com^
 ||phudrour.net^
 ||pvwtkxcpsrcsd.com^
 ||q1xyxm89.com^
-||realwap.net^
 ||replase.gq^
 ||replase.ml^
 ||ridingintractable.com^
