@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-29T00:38:36.707Z
+! Last modified: 2024-05-29T06:11:04.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -61441,7 +61441,6 @@ analytics-*.aasaam.com
 ||networkad.nate.com^
 ||cyad1.nate.com^
 ||adimg.nate.com^
-||api-ao-list.adison.co^
 ||ad-api.enuri.info^
 ||ad.newspim.com^
 ||ad.imp.joins.com^
@@ -61485,6 +61484,7 @@ analytics-*.aasaam.com
 ||awd.spochak.com^
 !
 ! DOMAIN-REFRESHER: END
+
 !
 ! Source name: Additional rules
 ! Source: Filters/rules.txt
