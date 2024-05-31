@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-05-31T06:11:15.120Z
+! Last modified: 2024-05-31T12:13:53.200Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||cdn.mcnn.pl^
 ||grushoungy.com^
 ||tubqwqvsfusjqq.com^
 ||rndskittytor.com^
@@ -27389,6 +27390,7 @@ vkcdnservice.appspot.com^
 ||perseverehang.com^
 ||persevereindirect.com^
 ||perseverevoice.com^
+||persicrejolt.com^
 ||persistarcticthese.com^
 ||persistbrittle.com^
 ||persona3.tech^
@@ -29707,6 +29709,7 @@ vkcdnservice.appspot.com^
 ||queergatewayeasier.com^
 ||queersodadults.com^
 ||queersynonymlunatic.com^
+||queerygenets.com^
 ||queiajowan.com^
 ||quellaplentyresolute.com^
 ||quellbustle.com^
@@ -42201,6 +42204,7 @@ vkcdnservice.appspot.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||02777e.site^
 ||05751c.site^
+||072551.xyz^
 ||07e197.site^
 ||1116c5.xyz^
 ||11c7a3.xyz^
@@ -46924,6 +46928,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||r1.ati.su^
 ||rcmjs.rambler.ru^
 ||sharemefiles.ru^
 ||userdata.ati.su^
