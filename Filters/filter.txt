@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-01T00:38:26.747Z
+! Last modified: 2024-06-01T06:09:50.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -48750,8 +48750,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-30 08:10:30 CEST
-# entries:        1076
+# last updated:   2024-06-01 06:19:43 CEST
+# entries:        1068
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -48761,7 +48761,6 @@ vkcdnservice.appspot.com^
 ||a.zxcvads.com^
 ||ab.fastighetsvarlden.se^
 ||accesslnk.com^
-||adcell.io^
 ||addrevenue.io^
 ||addy.expressen.se^
 ||adeprimo.se^
@@ -48988,7 +48987,6 @@ vkcdnservice.appspot.com^
 ||driftt.com^
 ||dspk.kindredplc.com^
 ||ds-aksb-a.akamaihd.net^
-||dynamic-83d822c6-3868940931.stat.truthlyanalytics.com^
 ||e.viously.com^
 ||eas.mediekompaniet.com^
 ||easyresearch.se^
@@ -49074,13 +49072,11 @@ vkcdnservice.appspot.com^
 ||live.demand.supply^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
-||loewe.com.se^
 ||log.cookieyes.com^
 ||log.medietall.no^
 ||logs.spilgames.com^
 ||log-api.newrelic.com^
 ||longchampstockholm.com.se^
-||low1sneakerssverige.com^
 ||lwadm.com^
 ||m.extellio.com^
 ||m1.analytics.sitevision-cloud.se^
@@ -49107,7 +49103,6 @@ vkcdnservice.appspot.com^
 ||metrics.brightcove.com^
 ||mgdk-cdn.relevant-digital.com^
 ||micro.rubiconproject.com^
-||mindreskatt.se^
 ||missaffiliate.com^
 ||mmetrix.mobi^
 ||mraffiliate.com^
@@ -49234,7 +49229,6 @@ vkcdnservice.appspot.com^
 ||static.getclicky.com^
 ||static.hotjar.com^
 ||static.matchads.net^
-||static.stat.truthlyanalytics.com^
 ||static.step.dk^
 ||static.ws.apsis.one^
 ||static.zotabox.com^
@@ -55011,6 +55005,8 @@ vkcdnservice.appspot.com^
 ||vutjnt.xyz^
 ||mgmuye.xyz^
 ||zqgixxp.icu^
+||dssdfsf.cn^
+||cpgou.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
