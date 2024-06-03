@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-03T12:14:41.084Z
+! Last modified: 2024-06-03T18:10:52.294Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -20150,6 +20150,7 @@ vkcdnservice.appspot.com^
 ||kmmtxfwntcnyd.com^
 ||kmnkiuqfo.com^
 ||kmodukuleqasfo.info^
+||kmrilock.com^
 ||kmyaklgcik.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
@@ -32544,6 +32545,7 @@ vkcdnservice.appspot.com^
 ||soundingthunder.com^
 ||soupevents.com^
 ||soupteep.xyz^
+||soupteewhish.com^
 ||souptightswarfare.com^
 ||souraivo.xyz^
 ||sourcebloodless.com^
@@ -41253,6 +41255,7 @@ vkcdnservice.appspot.com^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
+||156fd4.xyz^
 ||1a1fb6.xyz^
 ||20519a.xyz^
 ||22dd31.xyz^
@@ -60355,7 +60358,6 @@ analytics-*.aasaam.com
 ||soodland.com^
 
 # https://github.com/Webamoozcom/warning-list/discussions/86
-||minepi.com^
 
 # https://github.com/Webamoozcom/warning-list/discussions/87
 ||irancoinmine.com^
