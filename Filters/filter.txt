@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-05T06:11:27.292Z
+! Last modified: 2024-06-05T12:14:13.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -867,7 +867,6 @@
 ||muzotur.info^
 ||360adshost.com^
 ||clickonometrics.pl^
-||converti.se^
 ||widget.convertiser.com^
 ||adsenseguard.com^
 ||cashpartners.eu^
@@ -41330,6 +41329,7 @@ vkcdnservice.appspot.com^
 ||b9f25b.site^
 ||bc98ad.xyz^
 ||bcbe.site^
+||bd5a57.xyz^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
@@ -54040,6 +54040,8 @@ vkcdnservice.appspot.com^
 ||hfjsliu.top^
 ||libhzf.xyz^
 ||zthxobgk.icu^
+||vfphbh.xyz^
+||dljzcl.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -61257,6 +61259,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1702
+@@||track.webgains.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1681
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
