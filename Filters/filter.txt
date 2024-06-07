@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-07T00:37:10.703Z
+! Last modified: 2024-06-07T06:12:01.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -49794,8 +49794,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Jun 2024 23:16 UTC+7
-! Version: 2406012316
+! Last modified: 07 Jun 2024 10:23 UTC+7
+! Version: 2406071023
 ! Blocked: 4,314 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
