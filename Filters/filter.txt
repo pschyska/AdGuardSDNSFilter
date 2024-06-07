@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-07T12:15:53.953Z
+! Last modified: 2024-06-07T18:11:35.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -8360,6 +8360,7 @@ vkcdnservice.appspot.com^
 ||chettikmacrli.com^
 ||chevetoelike.com^
 ||chevyrailly.top^
+||cheweemtaig.com^
 ||chewersobolary.com^
 ||chewremittanceprovidence.com^
 ||chewsrompedhemp.com^
@@ -33653,6 +33654,7 @@ vkcdnservice.appspot.com^
 ||svnutntmq.com^
 ||svrkdkopdsdj.com^
 ||svtlgjmqyzmwz.com^
+||svwhhiiyihcwh.com^
 ||svyksa.info^
 ||sw2block.com^
 ||swaggydestroy.com^
@@ -37997,6 +37999,7 @@ vkcdnservice.appspot.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
@@ -39363,6 +39366,7 @@ vkcdnservice.appspot.com^
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
 ||yr9n47004g.com^
+||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
@@ -41295,6 +41299,7 @@ vkcdnservice.appspot.com^
 ||05751c.site^
 ||072551.xyz^
 ||07e197.site^
+||0ae00c7c.xyz^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
@@ -54039,6 +54044,7 @@ vkcdnservice.appspot.com^
 ||hntkgpd.cn^
 ||itjgwn.xyz^
 ||anbkzt.xyz^
+||uaiosio.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
