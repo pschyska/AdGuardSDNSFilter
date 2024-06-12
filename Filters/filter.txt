@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-12T06:11:25.140Z
+! Last modified: 2024-06-12T12:14:27.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -49072,8 +49072,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 10 Jun 2024 23:39 UTC+7
-! Version: 2406102339
+! Last modified: 12 Jun 2024 16:42 UTC+7
+! Version: 2406121642
 ! Blocked: 885 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49923,8 +49923,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Jun 2024 23:35 UTC+7
-! Version: 2406102335
+! Last modified: 12 Jun 2024 16:43 UTC+7
+! Version: 2406121643
 ! Blocked: 4,327 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -54193,6 +54193,8 @@ vkcdnservice.appspot.com^
 ||gfdfgfgr.cn^
 ||gjhjjhgc.cn^
 ||xuldtcip.icu^
+||jqfql.top^
+||blrpbt.xyz^
 ||ligfdjnfd.cn^
 ||ozykeor.icu^
 ||yxkbgg.xyz^
