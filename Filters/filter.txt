@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-14T00:36:25.936Z
+! Last modified: 2024-06-14T06:11:46.915Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9853,6 +9853,7 @@ vkcdnservice.appspot.com^
 ||crumblerefunddiana.com^
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
+||crummerexisted.com^
 ||crummygoddess.com^
 ||crumplylenient.com^
 ||crunchylashins.com^
@@ -15487,6 +15488,7 @@ vkcdnservice.appspot.com^
 ||gillynn.com^
 ||gilrauci.net^
 ||gimavpojtqa.com^
+||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimohhfzvmpdt.com^
 ||gimwcpketr.com^
