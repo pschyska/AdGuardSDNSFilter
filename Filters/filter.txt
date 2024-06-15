@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-15T06:09:54.987Z
+! Last modified: 2024-06-15T12:13:35.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -54229,6 +54229,7 @@ vkcdnservice.appspot.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -54243,7 +54244,6 @@ vkcdnservice.appspot.com^
 ||tjuspyk.icu^
 ||zkrdzn.xyz^
 ||zmbmoxij.icu^
-||d1zoi2q7y0e4d.cloudfront.net^
 ||xx3691b.com^
 ||1028images.com^
 ||537images1.com^
@@ -54279,6 +54279,8 @@ vkcdnservice.appspot.com^
 ||bbqoa.top^
 ||fogolakda.top^
 ||szdpk.cn^
+||9216tp1.com^
+||xianliao.voto^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
@@ -59075,6 +59077,7 @@ vkcdnservice.appspot.com^
 ||ads-6686.top^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alimama.alicdn.com^
+||d1zoi2q7y0e4d.cloudfront.net^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||atanx.alicdn.com^
 ||baiducom.bj.bcebos.com^
