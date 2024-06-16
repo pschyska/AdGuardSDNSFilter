@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-16T00:40:11.936Z
+! Last modified: 2024-06-16T06:10:48.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -50019,9 +50019,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Jun 2024 21:17 UTC+7
-! Version: 2406152117
-! Blocked: 4,328 rules
+! Last modified: 16 Jun 2024 09:35 UTC+7
+! Version: 2406160935
+! Blocked: 4,332 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52804,6 +52804,7 @@ vkcdnservice.appspot.com^
 ||spsinhlychinhhang.com^
 ||sputrey567rik.cfd^
 ||squashtalk.com^
+||sso-garena.vn^
 ||sso-hotro-taikhoan.com^
 ||ssvnshop.com^
 ||standardresourcebank.com^
@@ -52829,6 +52830,7 @@ vkcdnservice.appspot.com^
 ||sukien-latquaff.com^
 ||sukien-lienminh.com^
 ||sukien-lienminhtocchien.site^
+||sukien-lienquanmobile.com^
 ||sukien-lmht.com^
 ||sukien-lq-garena.com^
 ||sukien-nhanqua-garena.com^
@@ -54272,6 +54274,7 @@ vkcdnservice.appspot.com^
 ||adzo.cn^
 ||aeyyck.xyz^
 ||poxdpj.xyz^
+||fujnrh.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
@@ -59492,6 +59495,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||ds.ruanwengfa.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
