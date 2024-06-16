@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-15T18:10:22.467Z
+! Last modified: 2024-06-16T00:40:11.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,27 @@
 !
 !
 !
+||sbxgipbks.com^
+||zoovagoo.com^
+||ivtqo.com^
+||mzwdiyfp.com^
+||happeningflutter.com^
+||tarvardsusyseinpou.info^
+||knowledconsideunden.info^
+||unwontcajun.top^
+||edibleinvite.com^
+||itchhandwritingimpetuous.com^
+||highrevenuenetwork.com^
+||hottielunn.com^
+||wworqxftyexcmb.xyz^
+||txxtgnpqi.com^
+||obdzhnzqeg.com^
+||floorednightclubquoted.com^
+||xzfsymopzyls.com^
+||wzhivixqjke.com^
+||qxmsmlkjwqz.com^
+||oralsproxied.com^
+||mormonindianajones.com^
 ||paiglumousty.net^
 ||xmjnohwneqe.com^
 ||groapeeque.com^
@@ -54247,6 +54268,10 @@ vkcdnservice.appspot.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||dvgjx.cn^
+||ytqeavc.icu^
+||adzo.cn^
+||aeyyck.xyz^
+||poxdpj.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
