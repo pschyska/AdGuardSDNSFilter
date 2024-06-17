@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-16T18:09:24.596Z
+! Last modified: 2024-06-17T00:38:25.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,17 @@
 !
 !
 !
+||xsfcqjtkkjdp.com^
+||nxymehwu.com^
+||mjxlfwvirjmt.com^
+||ndaymidydlesswale.info^
+||ceschemicalcovenings.info^
+||mythicsallies.com^
+||qahssrxvelqeqy.xyz^
+||upwxneakm.com^
+||ykbwiiafufwke.com^
+||tamperdepreciate.com^
+||ballisticforgotten.com^
 ||sbxgipbks.com^
 ||zoovagoo.com^
 ||ivtqo.com^
@@ -54275,6 +54286,11 @@ vkcdnservice.appspot.com^
 ||aeyyck.xyz^
 ||poxdpj.xyz^
 ||fujnrh.xyz^
+||etjui.cn^
+||mqwmgs.xyz^
+||plzblz.xyz^
+||rrkouuz.icu^
+||cdoshbf.top^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
