@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-20T06:11:23.644Z
+! Last modified: 2024-06-20T12:14:20.838Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||kms-full.com^
+||kmspico.ws^
+||kmspico.io^
 ||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^
@@ -46780,6 +46783,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||appropriate-bag.pro^
 ||adleap.jp^
 ||ad.unique1static.jp^
 ||appdraft.link^
@@ -47100,6 +47104,8 @@ vkcdnservice.appspot.com^
 !
 !+ NOT_OPTIMIZED
 ||bance.jp^
+!
+! for Safari ('||' covers one sub-domain only)
 ||maillovelove.net^
 
 !
@@ -54434,6 +54440,7 @@ vkcdnservice.appspot.com^
 ||fpfbbn.xyz^
 ||engwsq.xyz^
 ||jdrlfn.xyz^
+||doujs01.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
