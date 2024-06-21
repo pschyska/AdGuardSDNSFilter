@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-21T06:11:47.830Z
+! Last modified: 2024-06-21T12:13:53.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,19 @@
 !
 !
 !
+||fjbubsdhpcticbu.com^
+||tucsulfjseyan.com^
+||rqmakkmq.com^
+||hwgxmvhphcbqcis.com^
+||shepsubsitha.com^
+||gprsiugqgwqt.com^
+||adfulplatform.com^
+||vsftsyriv.com^
+||nxhnaibu.com^
+||leenaitheez.com^
+||thoohizoogli.xyz^
+||pthrecjtu.com^
+||raglanyakking.com^
 ||wrrlidnlerx.com^
 ||rmtckjzct.com^
 ||ilaterdeallyighab.info^
@@ -31941,7 +31954,6 @@ vkcdnservice.appspot.com^
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
-||shepsubsitha.com^
 ||sherryfaithfulhiring.com^
 ||sheschemetraitor.com^
 ||shesseet.com^
@@ -54447,6 +54459,7 @@ vkcdnservice.appspot.com^
 ||kdoshbd.top^
 ||wbaj.cn^
 ||bfhueh.top^
+||szdzn.cn^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^
