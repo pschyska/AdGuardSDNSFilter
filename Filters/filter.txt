@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-21T18:11:15.323Z
+! Last modified: 2024-06-22T00:36:08.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11416,6 +11416,7 @@ vkcdnservice.appspot.com^
 ||dmrdnujvzo.com^
 ||dmrtx.com^
 ||dmsktmld.com^
+||dmuqumodgwm.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
 ||dmxswwrregww.com^
@@ -14398,6 +14399,7 @@ vkcdnservice.appspot.com^
 ||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fluemantappall.guru^
+||fluencydepressing.com^
 ||fluencyinhabited.com^
 ||fluencythingy.com^
 ||fluentlydeadlineski.com^
@@ -23173,6 +23175,7 @@ vkcdnservice.appspot.com^
 ||moaningbeautifulnobles.com^
 ||moaningtread.com^
 ||moanomoa.xyz^
+||moapaglee.net^
 ||moapevuwtv.com^
 ||moapuwhe.com^
 ||moartraffic.com^
@@ -30818,6 +30821,7 @@ vkcdnservice.appspot.com^
 ||rqnvci.com^
 ||rqtrk.eu^
 ||rqwel.com^
+||rqwyrdwlaygwxkw.com^
 ||rreauksofthecom.xyz^
 ||rrentlysearchi.info^
 ||rrhscsdlwufu.xyz^
@@ -54484,6 +54488,12 @@ vkcdnservice.appspot.com^
 ||bfhueh.top^
 ||szdzn.cn^
 ||vppzjv.xyz^
+||scru.cn^
+||njjavt.xyz^
+||cycvyo.xyz^
+||sdoshbb.top^
+||ismuwcm.icu^
+||yzihdppw.xyz^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^
