@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-24T12:14:47.994Z
+! Last modified: 2024-06-24T18:10:49.265Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1114,7 +1114,6 @@
 ||kmsofficial.org^
 ||Kmspico-official.org^
 ||Yasir252.com^
-||karanpc.com^
 ||getintopc.today^
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
