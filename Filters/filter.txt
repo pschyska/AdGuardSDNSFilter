@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-24T06:11:39.979Z
+! Last modified: 2024-06-24T12:14:47.994Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4704,6 +4704,7 @@ vkcdnservice.appspot.com^
 ||aphemicstull.com^
 ||aphidsapprend.top^
 ||aphidsclee.com^
+||api168168.com^
 ||apiculirackman.top^
 ||apidata.info^
 ||apiecelee.com^
@@ -6049,6 +6050,7 @@ vkcdnservice.appspot.com^
 ||bcuiaw.com^
 ||bcxcxixcwprccn.com^
 ||bczzwakqyae.com^
+||bd51static.com^
 ||bdbffuwrxmsekjp.com^
 ||bdbovbmfu.xyz^
 ||bddc935c97.com^
@@ -24670,6 +24672,7 @@ vkcdnservice.appspot.com^
 ||noureewo.com^
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
+||nouveau-digital.com^
 ||nouveaulain.com^
 ||nouvhidtxryveg.com^
 ||novadune.com^
@@ -54542,6 +54545,11 @@ vkcdnservice.appspot.com^
 ||663008888.com^
 ||uutytp.com^
 ||w0057.com^
+||doujs03.xyz^
+||6pznpz.com^
+||baijs02.xyz^
+||baijs03.xyz^
+||google-js-01.xyz^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
