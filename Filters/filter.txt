@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-23T18:09:43.038Z
+! Last modified: 2024-06-24T00:38:27.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -54532,6 +54532,15 @@ vkcdnservice.appspot.com^
 ||edoshbw.top^
 ||blciqbk.icu^
 ||ycgfdf.cn^
+||birtw.cn^
+||fmjjvb.xyz^
+||awyuge.xyz^
+||ddnzpr.xyz^
+||uessnah.icu^
+||wdoshbe.top^
+||663008888.com^
+||uutytp.com^
+||w0057.com^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
@@ -61163,12 +61172,7 @@ analytics-*.aasaam.com
 
 # https://github.com/Blockunity/Warning-List/discussions/44
 ||tradergpt.ai^
-||wibodir.com^
-||eh-ra-z-se-na.org^
-||ebl-hot.com^
-||iranuschsahm.sbs^
-||seownae.space^
-||maeshhtr.com^
+||meashstis.ir^
 
 !
 ! Source name: List-KR filter ad servers
