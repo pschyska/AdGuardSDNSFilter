@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-28T12:14:18.502Z
+! Last modified: 2024-06-28T18:10:13.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47644,6 +47644,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||kjdsfjisdfjr23.azurewebsites.net^
 ||content2.nrc.nl^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
