@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-28T00:37:04.685Z
+! Last modified: 2024-06-28T06:11:35.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -8108,6 +8108,7 @@ vkcdnservice.appspot.com^
 ||caviarconcealed.com^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -27676,6 +27677,7 @@ vkcdnservice.appspot.com^
 ||pocrd.cc^
 ||pocrowpush.com^
 ||podefr.net^
+||podgilyfattens.com^
 ||podlersabir.com^
 ||podosupsurge.com^
 ||podsolnu9hi10.com^
@@ -31317,6 +31319,7 @@ vkcdnservice.appspot.com^
 ||sandtheircle.com^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sangeiunzen.com^
 ||sanggilregard.com^
@@ -35324,6 +35327,7 @@ vkcdnservice.appspot.com^
 ||torattatachan.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torioluor.com^
 ||toromclick.com^
 ||tororango.com^
@@ -38383,6 +38387,7 @@ vkcdnservice.appspot.com^
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehugestories.com^
 ||wholehugewords.com^
