@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-28T18:10:13.993Z
+! Last modified: 2024-06-29T00:36:13.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -8907,7 +8907,6 @@ vkcdnservice.appspot.com^
 ||clickgate.biz^
 ||clickgate08.biz^
 ||clickintext.com^
-||clickiocdn.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -20029,6 +20028,7 @@ vkcdnservice.appspot.com^
 ||jyozavoyyykby.top^
 ||jyqekzewvyojy.top^
 ||jyrfbtmbuqeaeo.com^
+||jysocexrxbodh.com^
 ||jytbxzil.com^
 ||jyuirxswk.com^
 ||jywczbx.com^
@@ -26798,6 +26798,7 @@ vkcdnservice.appspot.com^
 ||pccasia.xyz^
 ||pcdgninekvch.com^
 ||pcfchubby.top^
+||pcglvhrln.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
 ||pcirurrkeazm.com^
@@ -54647,6 +54648,13 @@ vkcdnservice.appspot.com^
 ||555ppp777ppp.com^
 ||666ppp222ppp.com^
 ||sxlmggx12.com^
+||adhvz.cn^
+||qeedaa.xyz^
+||ldoshbl.top^
+||kfycmiu.icu^
+||xrmfjzqo.xyz^
+||bbxyxt.xyz^
+||5gxs.org^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^
