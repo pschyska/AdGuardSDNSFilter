@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-06-29T06:10:16.054Z
+! Last modified: 2024-06-29T12:14:06.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9681,6 +9681,7 @@ vkcdnservice.appspot.com^
 ||crdefault.link^
 ||crdefault1.com^
 ||crdfifmrm.com^
+||creaghtain.com^
 ||creamssicsite.com^
 ||creaperu.com^
 ||createsgummous.com^
@@ -16386,6 +16387,7 @@ vkcdnservice.appspot.com^
 ||harnessabreastpilotage.com^
 ||haronfitanheck.com^
 ||harpinhaster.top^
+||harpinoperose.com^
 ||harrenmedianetwork.com^
 ||harretrips.digital^
 ||harrydough.com^
@@ -34832,6 +34834,7 @@ vkcdnservice.appspot.com^
 ||ttnrd.com^
 ||ttoc8ok.com^
 ||ttsbtdgdo.com^
+||ttwmed.com^
 ||ttzmedia.com^
 ||tubbeckfresher.life^
 ||tubberlo.com^
@@ -40646,6 +40649,7 @@ vkcdnservice.appspot.com^
 ||5fd6bc.xyz^
 ||605efe.xyz^
 ||634369.xyz^
+||6471e7f7.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
 ||691f42ad.xyz^
