@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-01T00:42:22.891Z
+! Last modified: 2024-07-01T06:12:46.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47202,8 +47202,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-24 06:58:33 CEST
-# entries:        1074
+# last updated:   2024-07-01 05:42:40 CEST
+# entries:        1071
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47514,7 +47514,6 @@ vkcdnservice.appspot.com^
 ||jtp.expressen.se^
 ||keenstockholm.com.se^
 ||ksdarprt.reseguiden.se^
-||kyrkoskatten.se^
 ||l.sharethis.com^
 ||lanapengar.expressen.se^
 ||lararforbundet.analytics.ozzi.io^
@@ -47733,7 +47732,6 @@ vkcdnservice.appspot.com^
 ||tags.bkrtx.com^
 ||tags.crwdcntrl.net^
 ||tags.refinery89.com^
-||tapet.bonniernews.se^
 ||telemetric.dk^
 ||telemetry.bambuser.io^
 ||tm.tradetracker.net^
@@ -49200,8 +49198,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 30 Jun 2024 17:02 UTC+7
-! Version: 2406301702
+! Last modified: 01 Jul 2024 10:32 UTC+7
+! Version: 2407011032
 ! Blocked: 4,435 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -49476,7 +49474,7 @@ vkcdnservice.appspot.com^
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
-||binhchoncuocthivetranhsinhvien2024.wee^
+||binhchoncuocthivetranhsinhvien2024.weebly.com^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
@@ -53581,6 +53579,9 @@ vkcdnservice.appspot.com^
 ||htrurb.xyz^
 ||qkikkg.xyz^
 ||vatzxd.xyz^
+||cdipsumf.top^
+||twamjb.cn^
+||hdipsumu.top^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^
