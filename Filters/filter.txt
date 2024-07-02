@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-02T00:37:07.227Z
+! Last modified: 2024-07-02T06:12:33.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47205,8 +47205,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-01 05:42:40 CEST
-# entries:        1071
+# last updated:   2024-07-02 06:39:35 CEST
+# entries:        1073
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47479,6 +47479,7 @@ vkcdnservice.appspot.com^
 ||get.s-onetag.com^
 ||girohjalm.com.se^
 ||gtm.allabolag.se^
+||gtm.ekonomifakta.se^
 ||gtm.findroommate.dk^
 ||gtm.proff.se^
 ||gtm.stampenmedia.se^
@@ -47558,6 +47559,7 @@ vkcdnservice.appspot.com^
 ||meltwater.com^
 ||metapic.se^
 ||metrics.brightcove.com^
+||metrics-fe-na1.hubspot.com^
 ||mgdk-cdn.relevant-digital.com^
 ||micro.rubiconproject.com^
 ||missaffiliate.com^
@@ -53551,6 +53553,7 @@ vkcdnservice.appspot.com^
 ||ajoqu.cn^
 ||hdtvnr.xyz^
 ||cjgymo.xyz^
+||hzrnbl.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
