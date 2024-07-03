@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-03T06:12:36.491Z
+! Last modified: 2024-07-03T12:14:55.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2374,6 +2374,7 @@ vkcdnservice.appspot.com^
 ||5eef1ed9ac.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
+||5f93004b68.com^
 ||5fet4fni.de^
 ||5h3oyhv838.com^
 ||5i68sbhin.com^
@@ -4544,6 +4545,7 @@ vkcdnservice.appspot.com^
 ||antjgr.com^
 ||antlerlode.com^
 ||antlerpickedassumed.com^
+||antlikebor.com^
 ||antonysurface.com^
 ||antonywingraceless.com^
 ||antpeelpiston.com^
@@ -4926,6 +4928,7 @@ vkcdnservice.appspot.com^
 ||aruyevdqsnd.xyz^
 ||arvbjqavenjba.top^
 ||arvigorothan.com^
+||arvyxowwcay.com^
 ||arwartortleer.com^
 ||arwhismura.com^
 ||aryabzerznlvn.top^
@@ -5486,6 +5489,7 @@ vkcdnservice.appspot.com^
 ||awugxvrmsdalpx.com^
 ||awutohkhu.com^
 ||awvqfalackho.com^
+||awvracajcsu.com^
 ||awvvhicirfti.com^
 ||awytythbxujkz.com^
 ||awzvpbg.com^
@@ -8854,6 +8858,7 @@ vkcdnservice.appspot.com^
 ||cn-rtb.com^
 ||cn846.com^
 ||cnahoscfk.xyz^
+||cnbxqqemvuubaf.com^
 ||cndcfvmc.com^
 ||cndeccsqtmjyh.com^
 ||cnfccdxhggrz.com^
@@ -9773,6 +9778,7 @@ vkcdnservice.appspot.com^
 ||crvxhuxcel.com^
 ||crxekxjpiktykjb.com^
 ||crxmaotidrf.xyz^
+||crxxfgswiq.com^
 ||cryingforanythi.com^
 ||cryjun.com^
 ||cryonickru.com^
@@ -12622,6 +12628,7 @@ vkcdnservice.appspot.com^
 ||entitledbalcony.com^
 ||entitledpleattwinkle.com^
 ||entjgcr.com^
+||entlyhavebeden.com^
 ||entlypleasantt.info^
 ||entrailsintentionsbrace.com^
 ||entreatkeyrequired.com^
@@ -13495,6 +13502,7 @@ vkcdnservice.appspot.com^
 ||fauwhoocoa.com^
 ||favaqo.xyz^
 ||favorable-sample.com^
+||favorershalwar.top^
 ||favorite-option.pro^
 ||favoritenought.com^
 ||favoritetonic.com^
@@ -13786,6 +13794,7 @@ vkcdnservice.appspot.com^
 ||fightsedatetyre.com^
 ||figuan.com^
 ||fihsgqbif.com^
+||fiigtxpejme.com^
 ||fiinann.com^
 ||fiinnancesur.com^
 ||fiiqmjyrznkhbv.com^
@@ -15078,6 +15087,7 @@ vkcdnservice.appspot.com^
 ||geometryworstaugust.com^
 ||geompzr.com^
 ||geonicbashara.com^
+||geordiejinglet.com^
 ||geotrkclknow.com^
 ||geraflows.com^
 ||geratedbawled.com^
@@ -15657,6 +15667,7 @@ vkcdnservice.appspot.com^
 ||goldm9.com^
 ||golfchapah.space^
 ||golfmidwife.top^
+||gollarpulsus.com^
 ||golochmenacer.com^
 ||goloshyacal.space^
 ||golpnkgkndw.com^
@@ -17255,6 +17266,7 @@ vkcdnservice.appspot.com^
 ||hqpgfxt.com^
 ||hqqqqwcdxvjbd.com^
 ||hqscene.com^
+||hqsexpro.com^
 ||hqsimfxiwyb.com^
 ||hqtwyhampwu.xyz^
 ||hqwa.xyz^
@@ -19208,6 +19220,7 @@ vkcdnservice.appspot.com^
 ||josieunethical.com^
 ||jotqmmf.com^
 ||jotskuffieh.website^
+||jotterswirrah.com^
 ||jouaboe.com^
 ||joudotee.com^
 ||joukaglie.com^
@@ -20404,6 +20417,7 @@ vkcdnservice.appspot.com^
 ||laustiboo.com^
 ||lauthana.net^
 ||lavando2scas1hh1.com^
+||lavangataled.com^
 ||lavatorydownybasket.com^
 ||lavatoryhitschoolmaster.com^
 ||lavenderhierarchy.com^
@@ -21479,6 +21493,7 @@ vkcdnservice.appspot.com^
 ||lylydevelope.com^
 ||lynotquitesou.info^
 ||lyoak.com^
+||lyonthrill.com^
 ||lyricalattorneyexplorer.com^
 ||lyricaldefy.com^
 ||lyricsgrand.com^
@@ -23163,6 +23178,7 @@ vkcdnservice.appspot.com^
 ||myperfect2give.com^
 ||mypopads.com^
 ||myraqcajwkeyqd.com^
+||myrtolbanzai.com^
 ||myselfkneelsmoulder.com^
 ||mysleepds.com^
 ||mysticaldespiseelongated.com^
@@ -25780,6 +25796,7 @@ vkcdnservice.appspot.com^
 ||papmeatidigbo.com^
 ||pappeajalapa.digital^
 ||papposeclingy.com^
+||pappyalfaje.com^
 ||paqcpeotbx.com^
 ||parableconverted.com^
 ||parachuteeffectedotter.com^
@@ -27152,6 +27169,7 @@ vkcdnservice.appspot.com^
 ||pouchadjoinmama.com^
 ||pouchaffection.com^
 ||pouchclockwise.com^
+||poudrinnamaste.com^
 ||poufaini.com^
 ||poufsgausses.top^
 ||poumouja.xyz^
@@ -27943,6 +27961,7 @@ vkcdnservice.appspot.com^
 ||puhtml.com^
 ||puitaexb.com^
 ||pujuco.uno^
+||pukumongols.com^
 ||pulayanyet.com^
 ||puldhukelpmet.com^
 ||pulkroching.top^
@@ -28764,6 +28783,7 @@ vkcdnservice.appspot.com^
 ||rar-vpn.com^
 ||rareghoa.net^
 ||rarestkhatin.top^
+||rasalasgobangs.top^
 ||rascalbygone.com^
 ||rashbarnabas.com^
 ||rashlyblowfly.com^
@@ -29916,6 +29936,7 @@ vkcdnservice.appspot.com^
 ||rookretired.com^
 ||rooksreused.website^
 ||roolgage.com^
+||roomersgluts.com^
 ||roommateskinner.com^
 ||roompowerfulprophet.com^
 ||roomrentpast.com^
@@ -30726,6 +30747,7 @@ vkcdnservice.appspot.com^
 ||sdfsdvc.com^
 ||sdg.desihamster.pro^
 ||sdhfbvd.com^
+||sdhiltewasvery.info^
 ||sdhltncfqbu.com^
 ||sdjqhxmg.com^
 ||sdkfjxjertertry.com^
@@ -30939,6 +30961,7 @@ vkcdnservice.appspot.com^
 ||serialembezzlementlouisa.com^
 ||serialwarning.com^
 ||serifgorry.top^
+||serinuswelling.com^
 ||seriouslygesture.com^
 ||seriy2sviter11o9.com^
 ||sermonbakery.com^
@@ -32473,6 +32496,7 @@ vkcdnservice.appspot.com^
 ||staturecolonialismtransition.com^
 ||staubsuthil.com^
 ||staukponier.com^
+||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
 ||staunidrooji.com^
@@ -33121,6 +33145,7 @@ vkcdnservice.appspot.com^
 ||swaggydestroy.com^
 ||swagtraffcom.com^
 ||swailsbondman.com^
+||swalessidi.com^
 ||swallowaccidentdrip.com^
 ||swallowhairdressercollect.com^
 ||swallowpunctual.com^
@@ -33131,6 +33156,7 @@ vkcdnservice.appspot.com^
 ||swansinksnow.com^
 ||swarfsfitters.com^
 ||swarmpush.com^
+||swarthsfulk.com^
 ||swarthyamong.com^
 ||swarthymacula.com^
 ||swatad.com^
@@ -33308,6 +33334,7 @@ vkcdnservice.appspot.com^
 ||tablesgrace.com^
 ||tableshooliganbait.com^
 ||tabletbragcreak.com^
+||tabletsregrind.com^
 ||tabloidbadger.com^
 ||tabloidquantitycosts.com^
 ||tabloidsuggest.com^
@@ -35065,6 +35092,7 @@ vkcdnservice.appspot.com^
 ||tyingentered.com^
 ||tylcpcikj.com^
 ||tylfgkf.com^
+||tylocintriones.com^
 ||tylosischewer.com^
 ||tynessubpart.com^
 ||tyningtufa.top^
@@ -35366,6 +35394,7 @@ vkcdnservice.appspot.com^
 ||uncastnork.com^
 ||uncertainimprovementsspelling.com^
 ||unciat.com^
+||unclealcine.com^
 ||uncleffaan.com^
 ||unclehem.com^
 ||unclesnewspaper.com^
@@ -35531,6 +35560,7 @@ vkcdnservice.appspot.com^
 ||unqrppiyb.com^
 ||unrealversionholder.com^
 ||unreasonabletwenties.com^
+||unrebelasterin.com^
 ||unregisteredgrasppistol.com^
 ||unreshiramor.com^
 ||unresolveddrama.com^
@@ -35806,6 +35836,7 @@ vkcdnservice.appspot.com^
 ||ustomoun.xyz^
 ||usuads.com^
 ||usuallyaltered.com^
+||usuaryyappish.com^
 ||usurerspoind.life^
 ||usurertramped.guru^
 ||usurperbose.top^
@@ -37414,6 +37445,7 @@ vkcdnservice.appspot.com^
 ||wideeyed-painting.com^
 ||wideeyedlady.pro^
 ||widelt.com^
+||widenerasbolan.com^
 ||widerdaydream.com^
 ||widespreadgabblewear.com^
 ||widezealconstant.com^
@@ -39184,6 +39216,7 @@ vkcdnservice.appspot.com^
 ||zumid.xyz^
 ||zumorhshij.com^
 ||zumrieth.com^
+||zunicai.com^
 ||zunnynd.com^
 ||zunsavurdo.com^
 ||zunsoach.com^
@@ -45627,6 +45660,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||revotas.com^
 ||cdn.cdnhipter.xyz^
 ||kingads2.org^
 ||ad-service.shop^
@@ -53584,6 +53618,10 @@ vkcdnservice.appspot.com^
 ||jbkqemk.icu^
 ||jdipsuma.top^
 ||fzllis.cn^
+||feofamdak.top^
+||askdlajfbv.top^
+||dajiahao17.top^
+||afqodjc.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -61103,6 +61141,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1720
+! Blocked by CNAME data.adobedc.net
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1717
 @@||sax.sina.com.cn^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1709
