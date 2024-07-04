@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-04T12:14:32.437Z
+! Last modified: 2024-07-04T18:10:41.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2026,6 +2026,7 @@ vkcdnservice.appspot.com^
 ||1xroom.com^
 ||2020mustang.com^
 ||2022welcome.com^
+||2024jphatomenesys36.top^
 ||2066401308.com^
 ||206ads.com^
 ||20dollars2surf.com^
@@ -4615,6 +4616,7 @@ vkcdnservice.appspot.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apbieqqb.xyz^
+||apcatcltoph.com^
 ||apcpaxwfej.com^
 ||apctrgkmtjku.com^
 ||apeidol.com^
@@ -8534,6 +8536,7 @@ vkcdnservice.appspot.com^
 ||cimeterbren.top^
 ||cimm.top^
 ||cimoghuk.net^
+||cincherdatable.com^
 ||cinemagarbagegrain.com^
 ||cinemahelicopterwall.com^
 ||cineolesloth.com^
@@ -8991,6 +8994,7 @@ vkcdnservice.appspot.com^
 ||cold-priest.com^
 ||coldflownews.com^
 ||coldhardcash.com^
+||coldnessswarthyclinic.com^
 ||coldvain.com^
 ||colemalist.top^
 ||colenhackbut.com^
@@ -16079,6 +16083,7 @@ vkcdnservice.appspot.com^
 ||grussreenter.com^
 ||gruvirxita.com^
 ||gruwalom.xyz^
+||gruwrebutnar.com^
 ||grwp3.com^
 ||grxiqsqota.xyz^
 ||grygrothapi.pro^
@@ -18304,6 +18309,7 @@ vkcdnservice.appspot.com^
 ||instrumenttactics.com^
 ||insultingnoisysubjects.com^
 ||insultoccupyamazed.com^
+||insultresignation.com^
 ||insumber.com^
 ||insurewaltz.com^
 ||inswebt.com^
@@ -23640,6 +23646,7 @@ vkcdnservice.appspot.com^
 ||newthuads.com^
 ||newtits.name^
 ||newvideoapp.pro^
+||newwinner.life^
 ||newzilla.name^
 ||newzmaker.me^
 ||nexaapptwp.top^
@@ -40906,6 +40913,7 @@ vkcdnservice.appspot.com^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
 ||ads-yallo-production.imgix.net^
 ||ads.betfair.com^
+||ads.kelkoo.com^
 ||ads.linkedin.com^
 ||ads.sportradar.com^
 ||ads.travelaudience.com^
@@ -47306,7 +47314,6 @@ vkcdnservice.appspot.com^
 ||ads.expekt.se^
 ||ads.fotosidan.se^
 ||ads.holid.io^
-||ads.kelkoo.com^
 ||ads.leovegas.com^
 ||ads.mainloop.net^
 ||ads.motorvarlden.se^
@@ -48022,6 +48029,7 @@ vkcdnservice.appspot.com^
 !
 ||addendo.network^
 ||adplay.it^
+||affiliation.software^
 ||brznetwork.com^
 ||delosnetwork.it^
 ||eadv.it^
@@ -48050,7 +48058,6 @@ vkcdnservice.appspot.com^
 ||advit.it^
 ||advplace.com^
 ||affiliago.it^
-||affiliation.software^
 ||affiliationpartner.it^
 ||affiliazioni.me^
 ||affiliazioniweb.com^
