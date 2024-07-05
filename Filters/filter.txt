@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-05T12:13:59.453Z
+! Last modified: 2024-07-05T18:10:41.594Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+serve.yourporngod.com^
+serve.everydayporn.co^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -1376,6 +1378,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
@@ -53668,6 +53671,8 @@ vkcdnservice.appspot.com^
 ||ortlisk.top^
 ||dmnxkj.cn^
 ||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
+||fgwuw.com^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
