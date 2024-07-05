@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-05T00:37:06.293Z
+! Last modified: 2024-07-05T06:12:26.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42158,7 +42158,6 @@ vkcdnservice.appspot.com^
 ||masterwanker.com^
 ||matrimoniale3x.ro^
 ||matrix-cash.com^
-||maxcash.com^
 ||maxiadv.com^
 ||mc-nudes.com^
 ||mcprofits.com^
@@ -53665,6 +53664,8 @@ vkcdnservice.appspot.com^
 ||baijs06.xyz^
 ||doujs06.xyz^
 ||urtlist.top^
+||ortlisk.top^
+||dmnxkj.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
