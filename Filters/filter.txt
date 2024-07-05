@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-05T06:12:26.196Z
+! Last modified: 2024-07-05T12:13:59.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40809,6 +40809,7 @@ vkcdnservice.appspot.com^
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
+||fe30a5b4.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -53666,6 +53667,7 @@ vkcdnservice.appspot.com^
 ||urtlist.top^
 ||ortlisk.top^
 ||dmnxkj.cn^
+||gw2cddpt2hao.cloud^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
