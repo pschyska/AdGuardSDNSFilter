@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-07T12:13:11.571Z
+! Last modified: 2024-07-07T18:09:59.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40792,6 +40792,7 @@ vkcdnservice.appspot.com^
 ||a49ebd.xyz^
 ||a67d12.xyz^
 ||a8b68645.xyz^
+||acf705ad.xyz^
 ||b0eb63.xyz^
 ||b211.xyz^
 ||b2bf222e.xyz^
@@ -48457,9 +48458,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Jul 2024 23:15 UTC+7
-! Version: 2407062315
-! Blocked: 895 rules
+! Last modified: 07 Jul 2024 23:35 UTC+7
+! Version: 2407072335
+! Blocked: 910 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -48930,7 +48931,9 @@ vkcdnservice.appspot.com^
 ||alexajstrack.com^
 ||an.dongphim.net^
 ||an.xemvtv.net^
+||analytic.angiang.gov.vn^
 ||analytic.baodantoc.vn^
+||analytic.proxyme.link^
 ||analytic.thuanbui.me^
 ||analytic.vnanet.vn^
 ||analytics.admon.com.vn^
@@ -48941,6 +48944,7 @@ vkcdnservice.appspot.com^
 ||analytics.bkav.com.vn^
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
+||analytics.evn.com.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.gotama.link^
 ||analytics.hapo.vn^
@@ -48956,12 +48960,14 @@ vkcdnservice.appspot.com^
 ||analytics.teko.vn^
 ||analytics.tiki.vn^
 ||analytics.tintuc.vn^
+||analytics.ungdungtructuyen.vn^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
 ||analytics.yts.vn^
+||analytics.zatomac.vn^
 ||analytics.zim.vn^
 ||api-logdev.sohatv.vn^
 ||api.boclinkads.com^
@@ -49014,6 +49020,7 @@ vkcdnservice.appspot.com^
 ||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
+||delivery.doisongphapluat.com.vn^
 ||demopage.me^
 ||deqik.com^
 ||digi.vinut.com.vn^
@@ -49021,6 +49028,7 @@ vkcdnservice.appspot.com^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||elink.nhanlucnganhluat.vn^
 ||ema.hostvn.net^
+||event-tracking.hellohealthgroup.com^
 ||event.filum.ai^
 ||event.headlines.pw^
 ||f-emc.ngsp.gov.vn^
@@ -49127,10 +49135,11 @@ vkcdnservice.appspot.com^
 ||logv3.metric.vn^
 ||lottery.headlines.pw^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||ma.tgdd.vn^
 ||marketing.hub-js.com^
 ||marketing.itgeek.vn^
+||matomo.bantheme.xyz^
 ||matomo.quan.hoabinh.vn^
-||matomo.vietlottsms.vn^
 ||mautic-learn.teky.edu.vn^
 ||mautic.200lab.io^
 ||mautic.teky.edu.vn^
@@ -49151,6 +49160,7 @@ vkcdnservice.appspot.com^
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
 ||ox1.vietstock.vn^
+||pixel.innocom.vn^
 ||plausible.vucar.vn^
 ||production-tracking.riviu.co^
 ||proof.sudo.vn^
@@ -49186,6 +49196,7 @@ vkcdnservice.appspot.com^
 ||s6.textlink.vn^
 ||sda.tamdiem247.com^
 ||sentry.mediacdn.vn^
+||seo.cloud.edu.vn^
 ||server.zmedia.vn^
 ||serving-ad.tv24.vn^
 ||sharks.vn^
@@ -49216,6 +49227,7 @@ vkcdnservice.appspot.com^
 ||stockbook-ads.firebaseapp.com^
 ||stockbook-ads.firebaseio.com^
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
+||subot.hellobacsi.com^
 ||support.tenten.vn^
 ||sv-api-event.headlines.pw^
 ||sv-api-lottery.headlines.pw^
@@ -49248,6 +49260,7 @@ vkcdnservice.appspot.com^
 ||track.lemonnovel.com^
 ||track.pnj.com.vn^
 ||track.popsww.com^
+||track.saigon.pro^
 ||track.sendo.vn^
 ||track.vio.edu.vn^
 ||track.winigroup.vn^
@@ -49271,6 +49284,7 @@ vkcdnservice.appspot.com^
 ||tracking.phunuadong.vn^
 ||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
+||tracking.tuyenquang.gov.vn^
 ||tracking.tvet-vietnam.org^
 ||tracking.vegaid.vn^
 ||tracking.vht.com.vn^
@@ -49278,6 +49292,7 @@ vkcdnservice.appspot.com^
 ||tracking.viez.vn^
 ||trackingapi.foody.vn^
 ||trackity.tiki.vn^
+||traffic.nvcms.net^
 ||traffic.vietnhan.co^
 ||trenddigital.vn^
 ||trk.123c.vn^
@@ -49297,6 +49312,7 @@ vkcdnservice.appspot.com^
 ||vlxx.host^
 ||vnadssb.com^
 ||web-analytic.ghtk.vn^
+||web-analytics.mona.host^
 ||webchat.caresoft.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
@@ -49318,9 +49334,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 06 Jul 2024 23:17 UTC+7
-! Version: 2407062317
-! Blocked: 4,457 rules
+! Last modified: 07 Jul 2024 23:29 UTC+7
+! Version: 2407072329
+! Blocked: 4,458 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52360,6 +52376,7 @@ vkcdnservice.appspot.com^
 ||tdkt01.com^
 ||tdkt06.com^
 ||tdtc.shop^
+||techcombank.hicam.net^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
 ||techcombank.vn-ol.top^
