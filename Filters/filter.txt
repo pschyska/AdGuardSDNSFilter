@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-09T00:37:38.429Z
+! Last modified: 2024-07-09T06:11:47.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||hbwrapper.com^
 ||femqrjwnk.xyz^
 ||routowoashie.xyz^
 serve.yourporngod.com^
@@ -53725,6 +53726,9 @@ vkcdnservice.appspot.com^
 ||qpigoa.xyz^
 ||vihqpr.xyz^
 ||goodvibe1.com^
+||vftvbx.xyz^
+||baijs07.xyz^
+||hfptbb.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
