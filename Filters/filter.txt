@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-11T06:11:41.451Z
+! Last modified: 2024-07-11T12:14:53.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42720,6 +42720,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.iwhop.cn^
 ||s-odx.oleads.com^
 ||mediation.unity3d.com^
 ||cdn-ad.wtzw.com^
@@ -46479,6 +46480,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||cengqinglin.cn^
 ||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
 ||ttad125.com^
@@ -59272,6 +59274,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||hl.dyq.cn^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
