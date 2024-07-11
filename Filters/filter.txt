@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-10T18:11:27.349Z
+! Last modified: 2024-07-11T00:38:16.379Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10801,6 +10801,7 @@ vkcdnservice.appspot.com^
 ||dgtklmbypacjq.com^
 ||dgttkthhgjm.com^
 ||dguhjlbefeuf.com^
+||dgxmvglp.com^
 ||dh956.com^
 ||dhadbeensoattr.info^
 ||dhfkavse.com^
@@ -14938,7 +14939,6 @@ vkcdnservice.appspot.com^
 ||gamingadlt.com^
 ||gamingonline.top^
 ||gammabendlet.website^
-||gammae.com^
 ||gammamkt.com^
 ||gammaplatform.com^
 ||gammradiation.space^
@@ -20176,6 +20176,7 @@ vkcdnservice.appspot.com^
 ||kstjqjuaw.xyz^
 ||kstvhknmhfppbf.com^
 ||ksurpiwdayc.com^
+||ksvrvtehpmfbylm.com^
 ||ksvtdifdlqyrv.com^
 ||kswiwxupqa.com^
 ||ksykbucea.com^
@@ -20322,6 +20323,7 @@ vkcdnservice.appspot.com^
 ||labporno.com^
 ||labsappland.com^
 ||labsoacu.com^
+||laccaiccrusta.com^
 ||lacecoming.com^
 ||lacecompressarena.com^
 ||laceratehard.com^
@@ -33919,6 +33921,7 @@ vkcdnservice.appspot.com^
 ||theeksen.com^
 ||theelrou.net^
 ||theenfu.com^
+||theetholri.xyz^
 ||theextensionexpert.com^
 ||thefacux.com^
 ||thefastpush.com^
@@ -34301,6 +34304,7 @@ vkcdnservice.appspot.com^
 ||tiwhaiph.net^
 ||tiwouboa.com^
 ||tixir.xyz^
+||tiypa.com^
 ||tizadumbed.com^
 ||tjavravj.com^
 ||tjgpeswdkrym.com^
@@ -36395,6 +36399,7 @@ vkcdnservice.appspot.com^
 ||vheoggjiqaz.com^
 ||vhihvqsuarpp.com^
 ||vhneajupavrb.com^
+||vhrtgvzcmrfoo.com^
 ||vhvmiinx.com^
 ||vi-serve.com^
 ||viabagona.com^
@@ -36770,6 +36775,7 @@ vkcdnservice.appspot.com^
 ||votinginvolvingeyesight.com^
 ||vouchafagle.com^
 ||vouchanalysistonight.com^
+||voufasoadoot.net^
 ||vougaipte.net^
 ||vougreph.net^
 ||vounesto.com^
@@ -37164,6 +37170,7 @@ vkcdnservice.appspot.com^
 ||wcmcs.net^
 ||wcnhhqqueu.com^
 ||wcnndaazbwmane.com^
+||wcpltnaoivwob.xyz^
 ||wcqtgwsxur.xyz^
 ||wct.link^
 ||wcuolmojkzir.com^
@@ -40874,6 +40881,7 @@ vkcdnservice.appspot.com^
 ||bcbe.site^
 ||bd5a57.xyz^
 ||c31133f7.xyz^
+||c76d1a1b.live^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
@@ -53806,11 +53814,21 @@ vkcdnservice.appspot.com^
 ||cbgrqi.xyz^
 ||mtwuxss.icu^
 ||vsjrnh.xyz^
+||yerhfnytky.top^
+||gjjskhdnm.top^
+||dajiahao8.top^
+||oakmn.top^
 ||sgru.cn^
 ||irtliso.top^
 ||hrrjff.xyz^
 ||atbif.cn^
 ||jrtlisa.top^
+||qdipsumy.top^
+||fmmirep.icu^
+||scanfang.com^
+||onefuq.xyz^
+||dclpjx.xyz^
+||tdpujn.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
