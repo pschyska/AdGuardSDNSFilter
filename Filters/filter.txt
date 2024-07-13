@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-12T18:10:22.571Z
+! Last modified: 2024-07-13T00:38:06.394Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11888,6 +11888,7 @@ vkcdnservice.appspot.com^
 ||dxfovuqib.com^
 ||dxhbdttlvchrgsh.com^
 ||dxmjyxksvc.com^
+||dxotbknruf.com
 ||dxryshpgyeu.com^
 ||dxtsqgnwn.com^
 ||dxuuvxweynac.com^
@@ -25191,6 +25192,7 @@ vkcdnservice.appspot.com^
 ||oplo.org^
 ||oplpectation.xyz^
 ||opmuudn.com^
+||opmxizgcacc.com^
 ||oponixa.com^
 ||opositeasysemblyjus.info^
 ||opoxv.com^
@@ -25215,6 +25217,7 @@ vkcdnservice.appspot.com^
 ||opsookiz.net^
 ||opsoomet.net^
 ||opsoudaw.xyz^
+||opsozouphy.com^
 ||optad360.io^
 ||optad360.net^
 ||optaivuy.net^
@@ -25517,6 +25520,7 @@ vkcdnservice.appspot.com^
 ||outfortbogwort.guru^
 ||outfoxnapalms.com^
 ||outglowkeysets.guru^
+||outgratingknack.com^
 ||outheelrelict.com^
 ||outhulem.net^
 ||outkisslahuli.com^
@@ -53858,6 +53862,12 @@ vkcdnservice.appspot.com^
 ||fpninv.xyz^
 ||srtlisb.top^
 ||bilibilitool.site^
+||rdsgick.icu^
+||odipsumk.top^
+||uyaeco.xyz^
+||zoltrl.xyz^
+||lwprdv.xyz^
+||pungar85.shop^
 ||tupian9999.com^
 ||xxxx88xxxx.com^
 ||xxxx96xxxx.com^
