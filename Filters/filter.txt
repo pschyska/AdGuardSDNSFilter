@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-13T18:09:21.198Z
+! Last modified: 2024-07-14T00:41:47.165Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -35,6 +35,7 @@
 ||routowoashie.xyz^
 serve.yourporngod.com^
 serve.everydayporn.co^
+serve.bussyhunter.com^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -40872,6 +40873,7 @@ vkcdnservice.appspot.com^
 ||1350c3.xyz^
 ||156fd4.xyz^
 ||1a1fb6.xyz^
+||1c52e1e2.live^
 ||1dd6e9ba.xyz^
 ||1f6a725b.xyz^
 ||20519a.xyz^
@@ -53854,6 +53856,11 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||gkypgw.xyz^
+||lyislol.top^
+||tgrpzl.xyz^
+||kwiqcoh.icu^
+||lajevt.xyz^
 ||57573zubo36833.com^
 ||imgoss2255.top^
 ||tupian88888.com^
