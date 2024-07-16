@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-16T12:14:50.303Z
+! Last modified: 2024-07-16T18:10:38.554Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||austere-familiar.com^
 ||syndicatedsearch.goog^
 ||duxlveokumpmd.com^
 ||stoogouy.net^
@@ -40894,6 +40895,7 @@ vkcdnservice.appspot.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||00701059.xyz^
 ||02777e.site^
+||03180d2d.live^
 ||0395d1.xyz^
 ||05751c.site^
 ||072551.xyz^
@@ -40907,6 +40909,7 @@ vkcdnservice.appspot.com^
 ||11c7a3.xyz^
 ||1350c3.xyz^
 ||156fd4.xyz^
+||164de830.live^
 ||1a1fb6.xyz^
 ||1c52e1e2.live^
 ||1dd6e9ba.xyz^
@@ -40918,7 +40921,7 @@ vkcdnservice.appspot.com^
 ||28d591da.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
-||2d8bc293.xyz
+||2d8bc293.xyz^
 ||3a2e.site^
 ||3a55f02d.xyz^
 ||3ffa255f.xyz^
@@ -43638,6 +43641,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||srvd2204.com^
 ||miradres.com^
 ||ufouxbwn.com^
 ||eehhabacgieacfjeaacg.world^
@@ -45920,7 +45924,6 @@ vkcdnservice.appspot.com^
 ||alty.fun^
 ||hemenindir.to^
 ||pixad.com.tr^
-||srvd2204.com^
 ||cryptosmoke.care^
 ||intermediaworks.com^
 ||finvest.care^
