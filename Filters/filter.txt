@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-17T00:38:36.101Z
+! Last modified: 2024-07-17T06:11:53.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40509,6 +40509,7 @@ vkcdnservice.appspot.com^
 ||networld.hk^
 ||neudesicmediagroup.com^
 ||newdosug.eu^
+||newormedia.com^
 ||newsadsppush.com^
 ||newsarmor.com^
 ||newsnet.in.ua^
