@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-17T18:11:10.524Z
+! Last modified: 2024-07-18T00:37:35.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4121,6 +4121,7 @@ vkcdnservice.appspot.com^
 ||alfasense.com^
 ||alfatraffic.com^
 ||alfelixstownrusis.info^
+||alfionecasave.com^
 ||alfonsino.top^
 ||alfpair.com^
 ||alfredpoleshipwreck.com^
@@ -11841,6 +11842,7 @@ vkcdnservice.appspot.com^
 ||dummieseardrum.com^
 ||dumpaudible.com^
 ||dumpconfinementloaf.com^
+||dumpilydieted.click^
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
 ||dunderaffiliates.com^
@@ -27019,6 +27021,7 @@ vkcdnservice.appspot.com^
 ||plotlibyodler.top^
 ||ploughbrushed.com^
 ||ploygunline.com^
+||ployingcurship.com^
 ||plpuybpodusgb.xyz^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
@@ -33427,6 +33430,7 @@ vkcdnservice.appspot.com^
 ||swiftlylatterdilate.com^
 ||swigdomable.com^
 ||swigethinyl.top^
+||swiggermahwa.com^
 ||swiggrazer.life^
 ||swimmerallege.com^
 ||swimmerperfectly.com^
@@ -38698,6 +38702,7 @@ vkcdnservice.appspot.com^
 ||yaefddu.com^
 ||yaeigtmhvsibf.com^
 ||yafabu.uno^
+||yaffedtwindle.com^
 ||yafmqibivbuu.com^
 ||yaggergiher.top^
 ||yahuu.org^
@@ -41215,6 +41220,7 @@ vkcdnservice.appspot.com^
 ||api.localadswidget.com^
 ||apps.media-lab.ai^
 ||assets.sheetmusicplus.com^
+||audioad.zenomedia.com^
 ||award.sitekeuring.net^
 ||banners.livepartners.com^
 ||bc.coupons.com^
@@ -53996,6 +54002,10 @@ vkcdnservice.appspot.com^
 ||vxdrfr.xyz^
 ||mkscy6.cn^
 ||mikka.app^
+||ieymhkx.icu^
+||bdipsumv.top^
+||juznlx.xyz^
+||molpmh.xyz^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^
