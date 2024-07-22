@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-22T12:15:16.252Z
+! Last modified: 2024-07-22T18:10:50.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||maya15.site^
 ||ljr3.site^
 ||lcarlbvwr.com^
 ||thuckautiru.com^
@@ -3925,6 +3926,7 @@ vkcdnservice.appspot.com^
 ||ahaxoenizuaon.com^
 ||ahbdsply.com^
 ||ahcdsply.com^
+||ahdvpuovkaz.com^
 ||aheadreflectczar.com^
 ||aheaptorsos.life^
 ||aheave.com^
@@ -5830,6 +5832,7 @@ vkcdnservice.appspot.com^
 ||bamahseines.com^
 ||bambarmedia.com^
 ||banalrestart.com^
+||banawgaht.com^
 ||banawyhjc.com^
 ||banbuyserve.com^
 ||banclip.com^
@@ -10092,6 +10095,7 @@ vkcdnservice.appspot.com^
 ||cyih0e43aty7.com^
 ||cyijr.com^
 ||cyilxkpkf.com^
+||cykcxgsvg.com^
 ||cylindermonastery.com^
 ||cylindrical-form.com^
 ||cylnkee.com^
@@ -11681,6 +11685,7 @@ vkcdnservice.appspot.com^
 ||drewfoolery.com^
 ||dreyeli.info^
 ||drfaultlessplays.com^
+||drgcnsnohnf.com^
 ||dribbleads.com^
 ||dribletbogled.com^
 ||dribturbot.com^
@@ -13427,6 +13432,7 @@ vkcdnservice.appspot.com^
 ||f4823894ba.com^
 ||f48d1c06e4.com^
 ||f4961f1b2e.com^
+||f59408d48d.com^
 ||f5v1x3kgv5.com^
 ||f773a03dcb.com^
 ||f794d2f9d9.com^
@@ -23086,6 +23092,7 @@ vkcdnservice.appspot.com^
 ||mpay69.com^
 ||mpbohwtqqnw.com^
 ||mpbpuctr.com^
+||mpcbjnku.com^
 ||mpcrvcbwdouo.com^
 ||mpfofpynoououe.xyz^
 ||mpfqphqf.com^
@@ -28585,6 +28592,7 @@ vkcdnservice.appspot.com^
 ||qivolcgcemi.com^
 ||qizjkwx9klim.com^
 ||qjdlivr.com^
+||qjmlmaffrqj.com^
 ||qjpotvwljgw.xyz^
 ||qjrhacxxk.xyz^
 ||qjsknpxwlesvou.com^
@@ -39588,6 +39596,7 @@ vkcdnservice.appspot.com^
 ||zxwhkosabux.com^
 ||zxxgoikbqyiu.com^
 ||zy16eoat1w.com^
+||zyaaobgwnhts.com^
 ||zybbiez.com^
 ||zybrdr.com^
 ||zycaphede.com^
@@ -41007,6 +41016,7 @@ vkcdnservice.appspot.com^
 ||072551.xyz^
 ||076f66b2.live^
 ||07e197.site^
+||08f8f073.xyz^
 ||09bd5a69.xyz^
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
@@ -41172,6 +41182,7 @@ vkcdnservice.appspot.com^
 ||1093958623.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1138873808.rsc.cdn77.org^
 ||1139724980.rsc.cdn77.org^
 ||1147112108.rsc.cdn77.org^
 ||1156219164.rsc.cdn77.org^
@@ -41206,14 +41217,17 @@ vkcdnservice.appspot.com^
 ||1543481067.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1564285319.rsc.cdn77.org^
+||1574705750.rsc.cdn77.org^
 ||1593553817.rsc.cdn77.org^
 ||1630422306.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1723614251.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1756119262.rsc.cdn77.org
 ||1759123620.rsc.cdn77.org^
 ||1770542895.rsc.cdn77.org^
 ||1810793056.rsc.cdn77.org^
+||1834071374.rsc.cdn77.org^
 ||1896709103.rsc.cdn77.org^
 ||1933201447.rsc.cdn77.org^
 ||1946365241.rsc.cdn77.org^
@@ -54067,6 +54081,9 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||grondrens.com^
+||oyretuk.top^
+||dv4ku.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
