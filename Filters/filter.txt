@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-23T00:38:26.629Z
+! Last modified: 2024-07-23T06:12:00.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47662,8 +47662,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-16 09:53:46 CEST
-# entries:        1080
+# last updated:   2024-07-23 05:34:04 CEST
+# entries:        1081
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -48225,6 +48225,7 @@ vkcdnservice.appspot.com^
 ||tracking.blt.se^
 ||tracking.bonnier.news^
 ||tracking.borlangetidning.se^
+||tracking.borssnack.di.se^
 ||tracking.bt.se^
 ||tracking.byggindustrin.se^
 ||tracking.dagensmedia.se^
@@ -54093,6 +54094,11 @@ vkcdnservice.appspot.com^
 ||yfasjfk.icu^
 ||hetlwsu.top^
 ||1p3yg.icu^
+||sowwoy.xyz^
+||hfjmvr.xyz^
+||xehodv.xyz^
+||lyretul.top^
+||oiu09.cn^
 ||grondrens.com^
 ||oyretuk.top^
 ||dv4ku.icu^
