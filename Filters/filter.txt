@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-25T06:12:05.693Z
+! Last modified: 2024-07-25T12:14:57.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1732,6 +1732,13 @@ serve.bussyhunter.com^
 !
 ||bsxmuny.wp.pl^
 ||fusion.sydsvenskan.se^
+!---------------------------------------------------------------------
+!------------------------------ Thai ---------------------------------
+!---------------------------------------------------------------------
+! NOTE: Thai
+!
+! https://github.com/AdguardTeam/AdguardFilters/issues/184497
+||9king888.cc^
 ||imp.mgronline.com^
 ||odds.vebo.xyz^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/162256
@@ -54237,6 +54244,7 @@ vkcdnservice.appspot.com^
 ||8q88n.icu^
 ||shbzegs.cn^
 ||myretux.top^
+||shbzqgs.cn^
 ||jetlwsa.top^
 ||er1h4.icu^
 ||enuksg.xyz^
@@ -54247,6 +54255,7 @@ vkcdnservice.appspot.com^
 ||doujs01.shop^
 ||bewr1.com^
 ||heatherssb.com^
+||drjs123.com^
 ||xs6po.icu^
 ||yje912.cn^
 ||byretuv.top^
