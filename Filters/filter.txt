@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-26T00:37:51.722Z
+! Last modified: 2024-07-26T06:12:18.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -12,6 +12,7 @@
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
 !
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
+||crewedbangup.com^
 ||prwfwayui.com^
 ||pteegostie.com^
 ||frutwafiwah.com^
@@ -54272,6 +54273,7 @@ vkcdnservice.appspot.com^
 ||ketlwsd.top^
 ||dy10000.net^
 ||hbbynt.xyz^
+||cwerilxf.top^
 ||kwgqaqf.icu^
 ||uicdns.xyz^
 ||qzsvwo.xyz^
