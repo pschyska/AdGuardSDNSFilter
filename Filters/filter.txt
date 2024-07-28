@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-28T00:42:03.579Z
+! Last modified: 2024-07-28T06:10:38.135Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -46692,7 +46692,6 @@ vkcdnservice.appspot.com^
 ||sokmil-ad.com^
 ||ads-connect.com^
 ||affiliate.sonicsense.jp^
-||daotag.com^
 ||ads.museum.or.jp^
 ||cdn.lodeo.io^
 ||seogreat.net^
@@ -47885,8 +47884,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-23 05:34:04 CEST
-# entries:        1081
+# last updated:   2024-07-28 05:54:26 CEST
+# entries:        1083
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -47938,6 +47937,7 @@ vkcdnservice.appspot.com^
 ||alkemi.com.se^
 ||ambassador.referralhero.com^
 ||amd.sellingsimplified.net^
+||analys.landskrona.se^
 ||analytics.allas.se^
 ||analytics.apotekhjartat.se^
 ||analytics.arvika.se^
@@ -47957,6 +47957,7 @@ vkcdnservice.appspot.com^
 ||analytics.motherhood.se^
 ||analytics.nikkasystems.com^
 ||analytics.residencemagazine.se^
+||analytics.sitewit.com^
 ||analytics.smhi.se^
 ||analytics.sunet.se^
 ||analytics.svenskdam.se^
