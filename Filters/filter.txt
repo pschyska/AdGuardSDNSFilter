@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-29T00:39:54.249Z
+! Last modified: 2024-07-29T06:12:08.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -31031,6 +31031,7 @@ vkcdnservice.appspot.com^
 ||sb4you1.com^
 ||sb89347.com^
 ||sbfsdvc.com^
+||sbhight.com^
 ||sbonjqsxicqfo.xyz^
 ||sbqptosht.com^
 ||sbrakepads.com^
@@ -41608,6 +41609,7 @@ vkcdnservice.appspot.com^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
+||mktg.evvnt.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
 ||neural.myth.dev^
@@ -54348,6 +54350,8 @@ vkcdnservice.appspot.com^
 ||uiatkc.xyz^
 ||izwmfmu.icu^
 ||wetlwse.top^
+||zylizz.xyz^
+||nnvjbb.xyz^
 ||eetlwsw.top^
 ||5mltq.icu^
 ||shbzdkj.cn^
