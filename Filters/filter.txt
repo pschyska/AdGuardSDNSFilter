@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-07-31T06:10:21.609Z
+! Last modified: 2024-07-31T12:15:23.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||kaxjtkvgo.com^
+||whouvoart.com^
 ||hksnu.com^
 ||cndynza.click^
 ||thauckeesse.net^
@@ -22602,6 +22604,7 @@ vkcdnservice.appspot.com^
 ||mewgzllnsp.com^
 ||mewlstomolo.top^
 ||mexicantransmission.com^
+||mexoacmaidu.com^
 ||meyopuae.com^
 ||meyximegrgypnv.com^
 ||mf233y3dg6n.shop^
@@ -47034,6 +47037,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||uetlwst.top^
 ||qetlwsy.top^
 ||cengqinglin.cn^
 ||sprewcereous.com^
@@ -49108,9 +49112,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Jul 2024 22:12 UTC+7
-! Version: 2407212212
-! Blocked: 911 rules
+! Last modified: 31 Jul 2024 14:24 UTC+7
+! Version: 2407311424
+! Blocked: 912 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49574,6 +49578,7 @@ vkcdnservice.appspot.com^
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||aff.atp.vn^
+||aff2.linksht.online^
 ||affiliate.chiaki.vn^
 ||ailamtrieuphu.com^
 ||aj2393.online^
@@ -49985,9 +49990,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 21 Jul 2024 22:13 UTC+7
-! Version: 2407212213
-! Blocked: 4,506 rules
+! Last modified: 31 Jul 2024 14:25 UTC+7
+! Version: 2407311425
+! Blocked: 4,507 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -53338,6 +53343,7 @@ vkcdnservice.appspot.com^
 ||tracuugiaodichvi.com^
 ||tracuugplx.vn^
 ||tracuuthenap247.com^
+||tracuutthvt.com^
 ||traderviet88.com^
 ||traffic-c.com^
 ||trang-chu-vn.com^
@@ -54404,6 +54410,7 @@ vkcdnservice.appspot.com^
 ||tetlwsi.top^
 ||swerilxb.top^
 ||shbznkj.cn^
+||shbzkkj.cn^
 ||balili2024.top^
 ||w0079.com^
 ||w0082.com^
