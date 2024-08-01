@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-01T00:42:33.071Z
+! Last modified: 2024-08-01T06:11:58.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1427,6 +1427,7 @@ serve.bussyhunter.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.kisstvshow.es^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
@@ -47991,8 +47992,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-28 05:54:26 CEST
-# entries:        1083
+# last updated:   2024-08-01 07:32:49 CEST
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -48140,7 +48141,6 @@ vkcdnservice.appspot.com^
 ||cdn.advisible.com^
 ||cdn.amplitude.com^
 ||cdn.appsmav.com^
-||cdn.biddercore.io^
 ||cdn.blueconic.net^
 ||cdn.brandmetrics.com^
 ||cdn.convertbox.com^
@@ -48285,7 +48285,6 @@ vkcdnservice.appspot.com^
 ||img.ascontentcloud.com^
 ||img06.en25.com^
 ||insight.nikkasystems.com^
-||instant.page^
 ||interactions.sesamy.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
@@ -48396,7 +48395,6 @@ vkcdnservice.appspot.com^
 ||plausible.webfokus.no^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
-||popitunder.com^
 ||portalhc.com^
 ||pp.lp4.io^
 ||prd-collector-platform.ex.co^
@@ -48452,7 +48450,6 @@ vkcdnservice.appspot.com^
 ||secure.reaktion.se^
 ||secure.statcounter.com^
 ||seenthis.se^
-||selectofmychoices.com^
 ||sentry.outbid.io^
 ||seo.compado.com^
 ||seoab.io^
