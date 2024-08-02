@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-02T06:12:40.868Z
+! Last modified: 2024-08-02T12:14:40.233Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||gleempithep.com^
 ||newmownbuttes.com^
 ||awrnkojhomxvqi.com^
 ||uvaugnutseeh.com^
@@ -1431,6 +1432,7 @@ serve.bussyhunter.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||reklama.shinden.eu^
 ||ad.kisstvshow.es^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
