@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-05T12:15:48.913Z
+! Last modified: 2024-08-05T18:11:51.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||jeoawamjbbzjy.top^
 ||gleempithep.com^
 ||newmownbuttes.com^
 ||awrnkojhomxvqi.com^
@@ -1137,6 +1138,7 @@ serve.bussyhunter.com^
 ||Kmspico-official.org^
 ||getintopc.today^
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
+/^23\.109\.170\.(18[7-9]|19[0-2])$/
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
@@ -2142,6 +2144,7 @@ vkcdnservice.appspot.com^
 ||258a912d15.com^
 ||259luxu.xyz^
 ||25obpfr.de^
+||2619374464.com^
 ||2639iqjkl.de^
 ||26485.top^
 ||2685da0b4d.com^
@@ -5646,6 +5649,7 @@ vkcdnservice.appspot.com^
 ||axallarded.top^
 ||axductile.com^
 ||axeldivision.com^
+||axepallorstraits.com^
 ||axhpkbvibdn.com^
 ||axill.com^
 ||axillovely.com^
@@ -10540,6 +10544,7 @@ vkcdnservice.appspot.com^
 ||ddrsemxv.com^
 ||ddtvskish.com^
 ||ddylxccl.xyz^
+||dead-put.com^
 ||deadly-variety.pro^
 ||deadlyrelationship.com^
 ||deadmentionsunday.com^
@@ -16701,6 +16706,7 @@ vkcdnservice.appspot.com^
 ||happeningflutter.com^
 ||happeningurinepomposity.com^
 ||happy-davinci-53144f.netlify.com^
+||happydate.today^
 ||happymuttere.org^
 ||happypavilion.com^
 ||haptenspopean.com^
@@ -19198,13 +19204,17 @@ vkcdnservice.appspot.com^
 ||jaupozup.xyz^
 ||jaurouth.xyz^
 ||java8.xyz^
+||javabsence11.fun^
 ||javacid.fun^
 ||javascriptcdnlive.com^
 ||javdawn.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javjean.fun^
+||javlicense11.fun^
+||javmanager11.fun^
 ||javmust.fun^
+||javpremium11.fun^
 ||javtype.fun^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
@@ -19643,6 +19653,7 @@ vkcdnservice.appspot.com^
 ||jpgtrk.com^
 ||jpilttrvnv.com^
 ||jpmldwvjqd.xyz^
+||jpooavwizlvf.com^
 ||jpsthqhvxynfdx.com^
 ||jpzvrsuwdavpjw.com^
 ||jqafetxoermhue.com^
@@ -19653,6 +19664,7 @@ vkcdnservice.appspot.com^
 ||jqlqmeveax.com^
 ||jqluhrwlfwsgdd.com^
 ||jqlumzbdtet.com^
+||jqmebwvmbrvz.top^
 ||jqmebwvmbzrz.top^
 ||jqmebwvmbzwy.top^
 ||jqmsnhyhrd.com^
@@ -21140,6 +21152,7 @@ vkcdnservice.appspot.com^
 ||lickinggetting.com^
 ||lickingimprovementpropulsion.com^
 ||licmiwot.com^
+||lidburger.com^
 ||liddenlywilli.org^
 ||lidsaich.net^
 ||lieforepawsado.com^
@@ -21923,6 +21936,7 @@ vkcdnservice.appspot.com^
 ||lysim-lre.com^
 ||lysjpqhhzve.com^
 ||lyssapebble.com^
+||lyticaframeofm.com^
 ||lywasnothycanty.info^
 ||lyzenoti.pro^
 ||lzjl.com^
@@ -25562,6 +25576,7 @@ vkcdnservice.appspot.com^
 ||oppressiveconnoisseur.com^
 ||oppressiveoversightnight.com^
 ||oppxzerrufhe.com^
+||opreseynatcreativei.com^
 ||oprill.com^
 ||opsaupsa.com^
 ||opshuckleor.com^
@@ -26633,6 +26648,7 @@ vkcdnservice.appspot.com^
 ||peevishchasingstir.com^
 ||peevishchosen.com^
 ||peevishforceless.com^
+||pefeyyuguqsg.com^
 ||pegablackjal.com^
 ||pegasuson.com^
 ||peggyhypoid.com^
@@ -27180,6 +27196,7 @@ vkcdnservice.appspot.com^
 ||pjoqkmks.com^
 ||pjqchcfwtw.com^
 ||pjslwort.com^
+||pjsos.xyz^
 ||pjvartonsbewand.info^
 ||pjvunkjgh.com^
 ||pjwshrlhyjyhqu.xyz^
@@ -29125,6 +29142,7 @@ vkcdnservice.appspot.com^
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
 ||qwtag.com^
+||qwuaqrxfuohb.com^
 ||qwvqbeqwbrabj.top^
 ||qwvvoaykybbo.top^
 ||qwvvoaykyrbj.top^
@@ -36552,6 +36570,7 @@ vkcdnservice.appspot.com^
 ||uvlqgtgqdfl.com^
 ||uvoovoachee.com^
 ||uvrdhasvzal.com^
+||uvrecussing.shop^
 ||uvtuiks.com^
 ||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
@@ -38323,6 +38342,7 @@ vkcdnservice.appspot.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
 ||wmcdpt.com^
+||wmdlgzwr.com^
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
 ||wmeqobozarqyj.top^
@@ -38648,6 +38668,7 @@ vkcdnservice.appspot.com^
 ||wumpakuw.net^
 ||wumteecoodsu.com^
 ||wumufama.com^
+||wunishamjch.com^
 ||wunteetoco.com^
 ||wuqconn.com^
 ||wurqaz.com^
@@ -41426,6 +41447,7 @@ vkcdnservice.appspot.com^
 ||3a2e.site^
 ||3a55f02d.xyz^
 ||3ffa255f.xyz^
+||4126fe80.xyz^
 ||420db600.xyz^
 ||45496fee.xyz^
 ||466c4d0f.xyz^
@@ -54509,6 +54531,8 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||w0054.com^
+||xlmdtiyqbkygtfkh.com^
 ||uvyuqzx.cn^
 ||letlwsl.top^
 ||twerilxi.top^
