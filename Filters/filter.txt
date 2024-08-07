@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-07T00:39:10.162Z
+! Last modified: 2024-08-07T06:12:08.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||xbuycgcae.com^
 ||whefookak.net^
 ||maxvaluead.com^
 ||reacheffecti.work^
@@ -41784,7 +41785,6 @@ vkcdnservice.appspot.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
-||e11956.x.akamaiedge.net^
 ||epnt.ebay.com^
 ||escape.insites.eu^
 ||etrader.kalahari.com^
