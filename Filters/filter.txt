@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-08T12:15:01.674Z
+! Last modified: 2024-08-08T18:12:01.230Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||smart1adserver.com^
+||polisnetwork.io^
 ||ktikpuruxasq.com^
 ||tpfgcdelscgfatf.com^
 ||oaltusoamp.com^
@@ -5206,6 +5208,7 @@ vkcdnservice.appspot.com^
 ||assobredrouked.com^
 ||associationstoopedacid.com^
 ||associationwish.com^
+||assodbobfad.com^
 ||assoilrehboc.top^
 ||assortmentberry.com^
 ||assortmentcriminal.com^
@@ -10580,6 +10583,7 @@ vkcdnservice.appspot.com^
 ||dearfiring.com^
 ||dearlyseedsad.com^
 ||dearlystoop.com^
+||deasandcomemunic.com^
 ||deatchshipsmotor.com^
 ||deathssm.com^
 ||debatableslippers.com^
@@ -54605,6 +54609,7 @@ vkcdnservice.appspot.com^
 ||hhausq.top^
 ||baijs05.shop^
 ||doujs05.shop^
+||mwerilxx.top^
 ||fdyacma.icu^
 ||wiixqm.xyz^
 ||xfqynrp.cn^
