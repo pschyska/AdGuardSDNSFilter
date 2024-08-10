@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-10T12:14:06.047Z
+! Last modified: 2024-08-10T18:09:37.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -36721,6 +36721,7 @@ vkcdnservice.appspot.com^
 ||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccineconvictedseafood.com^
+||vacpukna.com^
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vadokfkulzr.com^
@@ -41617,6 +41618,7 @@ vkcdnservice.appspot.com^
 ||b0f2f18e.xyz^
 ||b211.xyz^
 ||b2bf222e.xyz^
+||b395bfcd.xyz^
 ||b51475b8.xyz^
 ||b59c.xyz^
 ||b70456bf.xyz^
@@ -50239,8 +50241,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Aug 2024 16:33 UTC+7
-! Version: 2408101633
+! Last modified: 10 Aug 2024 19:33 UTC+7
+! Version: 2408101933
 ! Blocked: 4,527 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
