@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-14T18:10:54.788Z
+! Last modified: 2024-08-15T00:37:27.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -44270,7 +44270,6 @@ vkcdnservice.appspot.com^
 ||ad.abema.io^
 ||ad-hatena.com^
 ||advert.punyu.com^
-||gum.dlbooks.to^
 
 !
 ! Source name: AdGuard German filter ad servers
@@ -51717,6 +51716,10 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||wnstug.xyz^
+||shbzhkj.cn^
+||jrjtibez.icu^
+||bowoprf.icu^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
