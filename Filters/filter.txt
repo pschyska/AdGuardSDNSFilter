@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-15T06:11:52.723Z
+! Last modified: 2024-08-15T12:15:50.470Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||wpwserawnuwq.com^
+||zbysshlpgvl.com^
 ||ravm.tv^
 ||hjjpsotb.com^
 ||zoustara.net^
@@ -13455,6 +13457,7 @@ vkcdnservice.appspot.com^
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotsanrantan.com^
 ||flounderhomemade.com^
@@ -15549,6 +15552,7 @@ vkcdnservice.appspot.com^
 ||halftimestarring.com^
 ||halfwayscratchcoupon.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallucinatecompute.com^
 ||hallucinatediploma.com^
 ||hallucinatepromise.com^
@@ -24471,6 +24475,7 @@ vkcdnservice.appspot.com^
 ||panisicelectre.top^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -28187,6 +28192,7 @@ vkcdnservice.appspot.com^
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -29968,6 +29974,7 @@ vkcdnservice.appspot.com^
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -51721,6 +51728,8 @@ vkcdnservice.appspot.com^
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -56342,7 +56351,6 @@ vkcdnservice.appspot.com^
 ||cdnjs.z-face.cn^
 ||cee1.iteye.com^
 ||chong-wu.net^
-||chunyuqiufeng.com^
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^
