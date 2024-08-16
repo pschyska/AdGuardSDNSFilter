@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-15T18:11:51.229Z
+! Last modified: 2024-08-16T00:38:36.367Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9321,6 +9321,7 @@ vkcdnservice.appspot.com^
 ||craharice.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crampcrossroadbaptize.com^
 ||crampincompetent.com^
 ||cranebecomingwindfall.com^
@@ -14070,6 +14071,7 @@ vkcdnservice.appspot.com^
 ||fuskoqvoaprjr.com^
 ||fusoidactuate.com^
 ||fussy-highway.pro^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -16775,6 +16777,7 @@ vkcdnservice.appspot.com^
 ||idswinpole.casa^
 ||idthecharityc.info^
 ||idydlesswale.info^
+||idyllteapots.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||iebsmqevw.com^
@@ -27370,6 +27373,7 @@ vkcdnservice.appspot.com^
 ||rashlyblowfly.com^
 ||raspberryamusingbroker.com^
 ||raspedexsculp.com^
+||rasurescaribou.com^
 ||ratcovertlicence.com^
 ||ratebilaterdea.com^
 ||ratesatrociousplans.com^
@@ -36853,6 +36857,7 @@ vkcdnservice.appspot.com^
 ||zaihxti.com^
 ||zaikasoatie.xyz^
 ||zailoanoy.com^
+||zaipousu.net^
 ||zaistaug.net^
 ||zajukrib.net^
 ||zaltaumi.net^
@@ -44272,7 +44277,6 @@ vkcdnservice.appspot.com^
 ||mbadv.nan.co.jp^
 ||creative.live.tktube.com^
 ||ads.world-fusigi.net^
-||ad.inter-edu.com^
 ||ad.eloan.co.jp^
 ||ad.abema.io^
 ||ad-hatena.com^
