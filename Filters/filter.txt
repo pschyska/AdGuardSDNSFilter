@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-16T12:15:46.973Z
+! Last modified: 2024-08-16T18:11:26.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||jifflebreasts.com^
 ||wpwserawnuwq.com^
 ||zbysshlpgvl.com^
 ||ravm.tv^
@@ -51767,6 +51768,8 @@ vkcdnservice.appspot.com^
 ||npbtnl.xyz^
 ||ljzcawea.icu^
 ||lumnxiel.top^
+||baijs07.shop^
+||dasdujaosjdioad.com^
 ||wnstug.xyz^
 ||shbzhkj.cn^
 ||jrjtibez.icu^
