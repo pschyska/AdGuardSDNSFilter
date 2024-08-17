@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-17T00:37:37.920Z
+! Last modified: 2024-08-17T06:10:57.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -45309,8 +45309,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-15 05:41:01 CEST
-# entries:        1079
+# last updated:   2024-08-17 05:52:55 CEST
+# entries:        1082
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -45476,6 +45476,7 @@ vkcdnservice.appspot.com^
 ||cdn.pushalert.co^
 ||cdn.reaktion.se^
 ||cdn.routy.app^
+||cdn.rudderlabs.com^
 ||cdn.shareaholic.net^
 ||cdn.speedcurve.com^
 ||cdn.sprida.se^
@@ -45636,6 +45637,7 @@ vkcdnservice.appspot.com^
 ||levaochbo.compricer.se^
 ||libring.com^
 ||live.demand.supply^
+||loadbalancer.visitor-analytics.io^
 ||loader.wisepops.com^
 ||loadr.exelator.com^
 ||log.cookieyes.com^
@@ -45791,6 +45793,7 @@ vkcdnservice.appspot.com^
 ||stat.nyheter24.se^
 ||stat.torgen.se^
 ||stat03.stat.cliche.se^
+||statcounter.va-endpoint.com^
 ||static.chartbeat.com^
 ||static.getclicky.com^
 ||static.hotjar.com^
@@ -51770,6 +51773,8 @@ vkcdnservice.appspot.com^
 ||nbfsvreu.icu^
 ||vwvatp.xyz^
 ||shbzgkj.cn^
+||bumnxiev.top^
+||tui07.shop^
 ||nmtcxz.xyz^
 ||doujs07.shop^
 ||izqeyo.xyz^
