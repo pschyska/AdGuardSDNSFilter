@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-18T12:15:40.067Z
+! Last modified: 2024-08-18T18:09:54.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2995,6 +2995,7 @@ vkcdnservice.appspot.com^
 ||accusedstone.com^
 ||accusemonacan.com^
 ||accuserannouncementadulthood.com^
+||accuserutility.com^
 ||accustomedinaccessible.com^
 ||acdcdn.com^
 ||acdcmarimo.com^
@@ -5373,6 +5374,8 @@ vkcdnservice.appspot.com^
 ||avrom.xyz^
 ||avrqaijwdqk.xyz^
 ||avrqikbubjin.com^
+||avrrhodabbk.com^
+||avsink3431.fun^
 ||avthelkp.net^
 ||avtvcuofgz.com^
 ||avucugkccpavsxv.xyz^
@@ -5380,6 +5383,7 @@ vkcdnservice.appspot.com^
 ||avuthoumse.com^
 ||avvelwamqkbjb.top^
 ||avvelwamqkzzw.top^
+||avview3431.fun^
 ||avvxcexk.com^
 ||avwgzujkit.com^
 ||avwhipazsdco.com^
@@ -7752,6 +7756,7 @@ vkcdnservice.appspot.com^
 ||caxist.com^
 ||cayrtgavy.xyz^
 ||cayusesalaite.top^
+||cb61190372.com^
 ||cb675f778b.com^
 ||cb7f35d82c.com^
 ||cba-fed-igh.com^
@@ -9133,6 +9138,7 @@ vkcdnservice.appspot.com^
 ||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
+||coosifyshibar.shop^
 ||coosync.com^
 ||cootlogix.com^
 ||coovouch.com^
@@ -9882,6 +9888,7 @@ vkcdnservice.appspot.com^
 ||dating2you.org^
 ||dating4you.org^
 ||datingcentral.top^
+||datingiive.net^
 ||datingkoen.site^
 ||datingpush.space^
 ||datingsphere.top^
@@ -10458,6 +10465,7 @@ vkcdnservice.appspot.com^
 ||diffidentniecesflourish.com^
 ||diffusedpassionquaking.com^
 ||difice-milton.com^
+||difyferukentasp.com^
 ||digadser.com^
 ||digestionethicalcognomen.com^
 ||digestionheartlesslid.com^
@@ -16928,6 +16936,7 @@ vkcdnservice.appspot.com^
 ||ilhaqqkt.com^
 ||iliahiaracana.top^
 ||iliketomakingpics.com^
+||ilkindweandthe.info^
 ||illallwoe.com^
 ||illegaleaglewhistling.com^
 ||illegallyshoulder.com^
@@ -20068,6 +20077,7 @@ vkcdnservice.appspot.com^
 ||localedgemedia.com^
 ||locallycompare.com^
 ||locallyhastefowl.com^
+||localslutsnearme.com^
 ||localsnaughty.com^
 ||locandalorries.com^
 ||locatchi.xyz^
@@ -26958,6 +26968,7 @@ vkcdnservice.appspot.com^
 ||qhwyoat.com^
 ||qhxukowjgl.com^
 ||qianaecrus.top^
+||qiaoxz.xyz^
 ||qibkkioqqw.com^
 ||qickazzmoaxv.com^
 ||qifxwiruhrr.com^
@@ -27682,6 +27693,7 @@ vkcdnservice.appspot.com^
 ||redrotou.net^
 ||reducediscord.com^
 ||reducinglousynauseous.com^
+||redvil.co.in^
 ||redwingmagazine.com^
 ||reechegraih.com^
 ||reedbritingsynt.info^
@@ -32095,6 +32107,7 @@ vkcdnservice.appspot.com^
 ||thawheek.com^
 ||thawpublicationplunged.com^
 ||thayed.com^
+||thduyzmbtrb.com^
 ||theactualnewz.com^
 ||theactualstories.com^
 ||theadgateway.com^
@@ -33351,6 +33364,7 @@ vkcdnservice.appspot.com^
 ||tzgcwfvrf.com^
 ||tzgygfy.com^
 ||tzngtmzpvysh.com^
+||tzpysvqblhn.com^
 ||tzrlfzwyicvj.com^
 ||tzuhumrwypw.com^
 ||tzvojcc.com^
@@ -33479,6 +33493,7 @@ vkcdnservice.appspot.com^
 ||uidhealth.com^
 ||uidhome.com^
 ||uidsync.net^
+||uilfmzzzu.com^
 ||uilzwzx.com^
 ||uimserv.net^
 ||uingroundhe.com^
@@ -34281,6 +34296,7 @@ vkcdnservice.appspot.com^
 ||vdmiruryll.xyz^
 ||vdopia.com^
 ||vdoubt.com^
+||vdzna.com^
 ||ve6k5.top^
 ||vebadu.com^
 ||vebv8me7q.com^
@@ -35250,6 +35266,7 @@ vkcdnservice.appspot.com^
 ||wegotmedia.com^
 ||wehaveinourd.org^
 ||weighertutania.com^
+||weinas.co.in^
 ||weird-lab.pro^
 ||wel-wel-fie.com^
 ||welcomeargument.com^
@@ -51802,6 +51819,8 @@ vkcdnservice.appspot.com^
 ||fywaaox.icu^
 ||mumnxiex.top^
 ||shbzhgs.cn^
+||btvbnrwo.icu^
+||uusjaq.top^
 ||nmtcxz.xyz^
 ||doujs07.shop^
 ||izqeyo.xyz^
