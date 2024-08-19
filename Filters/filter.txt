@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-19T12:15:35.875Z
+! Last modified: 2024-08-19T18:11:04.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5371,8 +5371,10 @@ vkcdnservice.appspot.com^
 ||avkktuywj.xyz^
 ||avkyu1tesnwy.com^
 ||avloan3431.fun^
+||avmonk3431.fun^
 ||avnmjtqu.com^
 ||avobeucxscwj.com^
+||avorgy3431.fun^
 ||avouchamazeddownload.com^
 ||avowalsannop.com^
 ||avowappear.com^
@@ -14916,6 +14918,7 @@ vkcdnservice.appspot.com^
 ||gnkgvjxunmwc.com^
 ||gnkljnfbd.com^
 ||gnksplbu.com^
+||gnqsvrafjtoa.com^
 ||gnqtageoyy.com^
 ||gnssivagwelwspe.xyz^
 ||gntsrybdc.com^
@@ -15297,6 +15300,7 @@ vkcdnservice.appspot.com^
 ||gripping-bread.com^
 ||gripspigyard.com^
 ||grirault.net^
+||grislyrooing.click^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grixaghe.xyz^
@@ -18081,6 +18085,7 @@ vkcdnservice.appspot.com^
 ||jeannezenith.com^
 ||jeannvalmvwza.top^
 ||jeanspurrcleopatra.com^
+||jebhnmggi.xyz^
 ||jechusou.com^
 ||jeckear.com^
 ||jecoglegru.com^
@@ -24416,6 +24421,7 @@ vkcdnservice.appspot.com^
 ||oyoperseduca.com^
 ||oypjpbthhxhyuvq.com^
 ||oypucuqsuwabnxy.com^
+||oysterbywordwishful.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
 ||oytoworkwithcatuk.com^
@@ -24789,6 +24795,7 @@ vkcdnservice.appspot.com^
 ||payslipselderly.com^
 ||paysqueak.com^
 ||pazashevy.com^
+||pazials.xyz^
 ||pazzfun.com^
 ||pbacijttzozq.com^
 ||pbamjgga.com^
@@ -26917,6 +26924,7 @@ vkcdnservice.appspot.com^
 ||pzoynkxexnx.com^
 ||pzqfmhy.com^
 ||pzwdtz.com^
+||pzwigrnuimeh.com^
 ||q1-tdsge.com^
 ||q1mediahydraplatform.com^
 ||q2i8kd5n.de^
@@ -30135,6 +30143,7 @@ vkcdnservice.appspot.com^
 ||skytraf.xyz^
 ||slabreasonablyportions.com^
 ||slabshookwasted.com^
+||slacdn.com^
 ||slahpxqb6wto.com^
 ||slamscreechmilestone.com^
 ||slamvolcano.com^
@@ -32568,6 +32577,7 @@ vkcdnservice.appspot.com^
 ||tkaqlvqjnn.com^
 ||tkauru.xyz^
 ||tkbo.com^
+||tkeatlra.com^
 ||tkhwslqsmjwingf.com^
 ||tkidcigitrte.com^
 ||tkifahjutoj.com^
@@ -34767,6 +34777,7 @@ vkcdnservice.appspot.com^
 ||vjijvefrr.com^
 ||vjsohgd.com^
 ||vjtskjg.com^
+||vjugz.com^
 ||vjzlgtnaov.com^
 ||vkarrc.com^
 ||vkeagmfz.com^
@@ -36100,6 +36111,7 @@ vkcdnservice.appspot.com^
 ||wtfgep.xyz^
 ||wtg-ads.com^
 ||wthbjrj.com^
+||wtjsnlwmx.com^
 ||wtkfxoqolprv.com^
 ||wtmhwnv.com^
 ||wtrep.xyz^
@@ -37297,6 +37309,7 @@ vkcdnservice.appspot.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
 ||zprelandings.com^
+||zprofuqkssny.com^
 ||zpvsuniqkhj.com^
 ||zqdprrzjpcf.com^
 ||zqfbsrldaeawna.com^
@@ -38835,6 +38848,7 @@ vkcdnservice.appspot.com^
 ||1dd6e9ba.xyz^
 ||1f6a725b.xyz^
 ||20519a.xyz^
+||21274758.xyz^
 ||224cc86d.xyz^
 ||22dd31.xyz^
 ||24052107.live^
@@ -41547,6 +41561,8 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||pjkyxrd15e.ru^
+||umyeon.com^
 ||advscdn.com^
 ||socdem-enrich.getshop.tv^
 ||newton1.ru^
@@ -43650,7 +43666,6 @@ vkcdnservice.appspot.com^
 ||flowers.moex.com^
 ||delikatsov.com^
 ||relap.mail.ru^
-||api.ucheba.ru^
 ||banners.tapclap.com^
 ||compare.meteoservice.ru^
 ||ad.megapeer.ru^
@@ -45970,7 +45985,6 @@ vkcdnservice.appspot.com^
 ||tagging-service.fotbollskanalen.se^
 ||tagging-service.tv4play.se^
 ||tagging-service.tv4.se^
-||tags.bkrtx.com^
 ||tags.crwdcntrl.net^
 ||tags.refinery89.com^
 ||telemetric.dk^
