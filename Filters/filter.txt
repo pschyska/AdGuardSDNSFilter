@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-20T06:11:58.149Z
+! Last modified: 2024-08-20T12:16:04.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -43870,7 +43870,6 @@ vkcdnservice.appspot.com^
 ||61ads.net^
 ||apptospace.com^
 ://sportframe*.co^
-||aybereklam.com^
 ||publisher-network.com^
 ||dzypro.xyz^
 ://sportframe*.org^
@@ -51922,6 +51921,8 @@ vkcdnservice.appspot.com^
 ||hewrutu.top^
 ||jyjrbz.xyz^
 ||kjxhd.cn^
+||doujs08.shop^
+||baijs08.shop^
 ||uloscw.xyz^
 ||gahejiao.com^
 ||nbfsvreu.icu^
