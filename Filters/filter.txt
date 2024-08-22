@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-22T06:11:52.140Z
+! Last modified: 2024-08-22T12:15:22.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||flyads1.com^
+||fasgazazxvi.com^
 ||meableabede.click^
 ||valuatesharki.com^
 ||earshambitty.com^
@@ -38853,6 +38855,7 @@ vkcdnservice.appspot.com^
 ||googlevads-cn.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||00701059.xyz^
+||01045395.xyz^
 ||02777e.site^
 ||03180d2d.live^
 ||0395d1.xyz^
@@ -51947,6 +51950,7 @@ vkcdnservice.appspot.com^
 ||reacdf311.cn^
 ||jewruta.top^
 ||uerbgnkas.com^
+||uftcfo.xyz^
 ||55726zubo56686.com^
 ||sauyv.top^
 ||imgoss820.top^
