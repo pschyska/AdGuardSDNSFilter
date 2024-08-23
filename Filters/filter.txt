@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-23T06:11:56.526Z
+! Last modified: 2024-08-23T12:15:19.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10567,6 +10567,7 @@ vkcdnservice.appspot.com^
 ||dinnercreekawkward.com^
 ||dinomicrummies.com^
 ||dinseegny.com^
+||diosminlissome.com^
 ||dioxidtoluyls.com^
 ||diplic.com^
 ||diplnk.com^
@@ -11326,6 +11327,7 @@ vkcdnservice.appspot.com^
 ||duellosheliced.com^
 ||duesirresponsible.com^
 ||duetads.com^
+||dufflesmorinel.com^
 ||dufjgdjeyo.com^
 ||dufrom.com^
 ||duftoagn.com^
@@ -11854,6 +11856,7 @@ vkcdnservice.appspot.com^
 ||ehqdzqi.com^
 ||ehrydnmdoe.com^
 ||eicbgbnbvjf.com^
+||eidoscruster.com^
 ||eiewwepb.com^
 ||eighteenderived.com^
 ||eighteenprofit.com^
@@ -13141,6 +13144,7 @@ vkcdnservice.appspot.com^
 ||femsurgo.com^
 ||fenacheaverage.com^
 ||fencerecollect.com^
+||fencersdatcha.com^
 ||fenddiscourse.com^
 ||feneverybodypsychological.com^
 ||fenixm.com^
@@ -14838,6 +14842,7 @@ vkcdnservice.appspot.com^
 ||gloogeed.xyz^
 ||gloognoogrix.com^
 ||gloogruk.com^
+||gloohozedoa.xyz^
 ||gloolrey.com^
 ||glooltoora.net^
 ||gloomfabricgravy.com^
@@ -15595,6 +15600,7 @@ vkcdnservice.appspot.com^
 ||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
+||habutaeirisate.com^
 ||habutaeunroost.com^
 ||hadajvqpha.com^
 ||hadfrizzprofitable.com^
@@ -28117,6 +28123,7 @@ vkcdnservice.appspot.com^
 ||resignedcamelplumbing.com^
 ||resignedsauna.com^
 ||resinherjecling.com^
+||resinkaristos.com^
 ||resionsfrester.com^
 ||resistanceouter.com^
 ||resistcorrectly.com^
@@ -35723,6 +35730,7 @@ vkcdnservice.appspot.com^
 ||wilfridjargonby.com^
 ||wilfulknives.com^
 ||wilfulsatisfaction.com^
+||wililylaus.com^
 ||williamfaxarts.com^
 ||williamporterlilac.com^
 ||williednb.com^
@@ -37141,6 +37149,7 @@ vkcdnservice.appspot.com^
 ||zebjlmmejbybz.top^
 ||zebjlmmejbzlb.top^
 ||zebrinanoteman.top^
+||zebusentour.com^
 ||zedoaryrejects.com^
 ||zedxknzlwyofh.com^
 ||zeebaith.xyz^
@@ -40805,6 +40814,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
 ||s-odx.oleads.com^
