@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-23T18:11:14.698Z
+! Last modified: 2024-08-24T00:38:13.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -12560,6 +12560,7 @@ vkcdnservice.appspot.com^
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
@@ -51990,6 +51991,13 @@ vkcdnservice.appspot.com^
 ||wfsmya.xyz^
 ||eacdf119.cn^
 ||kewrutd.top^
+||irqaci.xyz^
+||bojyvp.xyz^
+||acewdf118.cn^
+||baijs09.shop^
+||doujs09.shop^
+||nhbprf.xyz^
+||acdrewrf711.cn^
 ||pwfqjp.xyz^
 ||weacdf211.cn^
 ||tufzdj.xyz^
