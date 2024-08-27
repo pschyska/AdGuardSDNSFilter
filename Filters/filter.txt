@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-26T18:11:16.997Z
+! Last modified: 2024-08-27T00:39:55.234Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2731,6 +2731,7 @@ vkcdnservice.appspot.com^
 ||a31711123d.com^
 ||a32d9f2cc6.com^
 ||a32fc87d2f.com^
+||a34aba7b6c.com^
 ||a356ff8a25.com^
 ||a35e803f21.com^
 ||a3ion.com^
@@ -4924,6 +4925,7 @@ vkcdnservice.appspot.com^
 ||artditement.info^
 ||arterybasin.com^
 ||arteryeligiblecatchy.com^
+||artevinesor.com^
 ||artfulparrotnobody.com^
 ||arthyredir.com^
 ||articlegarlandferment.com^
@@ -5824,6 +5826,7 @@ vkcdnservice.appspot.com^
 ||barefitaiding.com^
 ||barefootedleisurelypizza.com^
 ||barelydresstraitor.com^
+||barelysobby.top^
 ||barelytwinkledelegate.com^
 ||baresi.xyz^
 ||barfsmiaowpit.com^
@@ -7246,6 +7249,7 @@ vkcdnservice.appspot.com^
 ||bu3le2lp4t45e6i.com^
 ||buatru.xyz^
 ||bubbledevotion.com^
+||bubblestownly.com^
 ||bubbly-condition.pro^
 ||bubrintta.com^
 ||buccanslabby.top^
@@ -7331,6 +7335,7 @@ vkcdnservice.appspot.com^
 ||bungeedubbah.com^
 ||bungingimpasto.com^
 ||bunintruder.com^
+||bunnslibby.com^
 ||bunquaver.com^
 ||bunth.net^
 ||buoyant-force.pro^
@@ -7765,6 +7770,7 @@ vkcdnservice.appspot.com^
 ||catharskeek.top^
 ||cathedralforgiveness.com^
 ||cathedralinthei.info^
+||cathrynslues.com^
 ||catiligh.ru^
 ||cationinin.com^
 ||cationinina.one^
@@ -8118,6 +8124,7 @@ vkcdnservice.appspot.com^
 ||chawedsonrai.top^
 ||chbujyjyvshtcr.com^
 ||chdkxgjtwflba.com^
+||cheap-celebration.pro^
 ||cheap-trip.pro^
 ||cheapcoveringpearl.com^
 ||cheapenleaving.com^
@@ -9052,6 +9059,7 @@ vkcdnservice.appspot.com^
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||consargyle.com^
 ||conscienciaecompletude.com^
 ||consciousness2.fun^
 ||consciousnessmost.com^
@@ -9976,6 +9984,7 @@ vkcdnservice.appspot.com^
 ||dausoofo.net^
 ||dautegoa.xyz^
 ||davctinijon.com^
+||davycrile.com^
 ||dawirax.com^
 ||dawmal.com^
 ||dawndadmark.live^
@@ -13322,6 +13331,7 @@ vkcdnservice.appspot.com^
 ||filese.me^
 ||filetarget.com^
 ||filetarget.net^
+||filetdeform.com^
 ||filhibohwowm.com^
 ||filletdose.com^
 ||fillingimpregnable.com^
@@ -17229,6 +17239,7 @@ vkcdnservice.appspot.com^
 ||inaccuratetreasure.com^
 ||inadmissibleinsensitive.com^
 ||inadmissiblesomehow.com^
+||inadnetwork.xyz^
 ||inaltariaon.com^
 ||inaneamenvote.com^
 ||inanitystorken.com^
@@ -23924,6 +23935,7 @@ vkcdnservice.appspot.com^
 ||oolsoudsoo.xyz^
 ||ooltakreenu.xyz^
 ||oomgnwdmzwnxn.com^
+||oomphavenger.com^
 ||oomphcorker.top^
 ||oomsijahail.com^
 ||oomsoapt.net^
@@ -24441,6 +24453,7 @@ vkcdnservice.appspot.com^
 ||ovsgalzea.com^
 ||ovsiicni.com^
 ||ovsrhikuma.com^
+||ovstfuogmni.com^
 ||ovvmptgnrskmmkr.com^
 ||ovvmrrufvhclxf.com^
 ||ow5a.net^
@@ -24862,6 +24875,7 @@ vkcdnservice.appspot.com^
 ||pausteegohoa.net^
 ||pavfazbwiap.com^
 ||paviestrewel.top^
+||pavisordjerib.com^
 ||pavymoieter.com^
 ||pawbothcompany.com^
 ||pawderstream.com^
@@ -31917,6 +31931,7 @@ vkcdnservice.appspot.com^
 ||tailalwaysunauthorized.com^
 ||tailorendorsementtranslation.com^
 ||tailorfunctionknuckle.com^
+||taimachojoba.xyz^
 ||taintvistacredulous.com^
 ||taipeivermeil.top^
 ||taisteptife.com^
@@ -32014,6 +32029,7 @@ vkcdnservice.appspot.com^
 ||tastesnlynotqui.info^
 ||tastesscalp.com^
 ||tastierxyphoid.com^
+||tasty-criticism.com^
 ||tasvagaggox.com^
 ||tat3ayogh6.com^
 ||tatersbilobed.com^
@@ -34888,6 +34904,7 @@ vkcdnservice.appspot.com^
 ||vizacasa.xyz^
 ||vizoalygrenn.com^
 ||vizofnwufqme.com^
+||vizoredcheerly.com^
 ||vizpwsh.com^
 ||vjcpvfessh.xyz^
 ||vjdciu.com^
@@ -35680,6 +35697,7 @@ vkcdnservice.appspot.com^
 ||whoachoh.com^
 ||whoajeex.xyz^
 ||whoaksoo.com^
+||whoansodroas.net^
 ||whoapsoo.com^
 ||whoartairg.com^
 ||whoavaud.net^
@@ -38953,6 +38971,7 @@ vkcdnservice.appspot.com^
 ||googlevads-cn.com^
 ! ad-shield https://github.com/List-KR/List-KR/pull/892
 ||00701059.xyz^
+||00857731.xyz^
 ||01045395.xyz^
 ||02777e.site^
 ||03180d2d.live^
@@ -39006,6 +39025,7 @@ vkcdnservice.appspot.com^
 ||485728.xyz^
 ||48a16802.site^
 ||48d8e4d6.xyz^
+||49333767.xyz^
 ||4a0e.xyz^
 ||4aae8f.site^
 ||4afa45f1.xyz^
@@ -39218,6 +39238,7 @@ vkcdnservice.appspot.com^
 ||alarmsportsnetwork.com^
 ||allsportsflix.
 ||alt63.chimeratool.com^
+||am-da.xyz^
 ||analytics.analytics-egain.com^
 ||api.140proof.com^
 ||api.bitp.it^
@@ -52077,6 +52098,10 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||weacdf411.cn^
+||xevzdl.xyz^
+||dairzih.com^
+||guifudi.com^
 ||sqszcg.top^
 ||gg3a.cc^
 ||ztzdvv.xyz^
