@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-28T06:12:22.628Z
+! Last modified: 2024-08-28T12:16:40.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||ohjlghirnbkosdh.com^
+||whudroots.net^
+||yhklljct.xyz^
+||tuftoawoo.xyz^
+||tfqvxyajkqu.xyz^
+||crrvuqgvkwffd.com^
 ||vetchesthiever.com^
 ||st.zarebasdezaley.com^
 ||pkazd.xyz^
@@ -29044,6 +29050,7 @@ vkcdnservice.appspot.com^
 ||rxtazhr.com^
 ||rxtgbihqbs99.com^
 ||rxthdr.com^
+||ryads.xyz^
 ||ryanfrqxjl.com^
 ||ryauzo.xyz^
 ||ryazabti.com^
@@ -39030,6 +39037,7 @@ vkcdnservice.appspot.com^
 ||156fd4.xyz^
 ||15752525.xyz^
 ||164de830.live^
+||16972675.xyz^
 ||19706903.xyz^
 ||1a1fb6.xyz^
 ||1c52e1e2.live^
@@ -46798,8 +46806,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Aug 2024 09:31 UTC+7
-! Version: 2408270931
+! Last modified: 28 Aug 2024 16:09 UTC+7
+! Version: 2408281609
 ! Blocked: 920 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47684,9 +47692,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 27 Aug 2024 09:32 UTC+7
-! Version: 2408270932
-! Blocked: 4,556 rules
+! Last modified: 28 Aug 2024 16:10 UTC+7
+! Version: 2408281610
+! Blocked: 4,557 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -52032,6 +52040,7 @@ vkcdnservice.appspot.com^
 ||winmomo.com^
 ||winsbank.io^
 ||wioabfwyigasfbksl.org^
+||wkkug.vcbnw.de^
 ||wmail-blog.com^
 ||wmail-blog.xyz^
 ||wmail-cdn.xyz^
@@ -52147,6 +52156,9 @@ vkcdnservice.appspot.com^
 ||jias115.com^
 ||vreqnait.com^
 ||tewruti.top^
+||baijs010.shop^
+||doujs010.shop^
+||93692zubo66936.com^
 ||weacdf411.cn^
 ||xevzdl.xyz^
 ||dairzih.com^
