@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-29T00:40:26.156Z
+! Last modified: 2024-08-29T06:12:43.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13012,6 +13012,7 @@ vkcdnservice.appspot.com^
 ||farteniuson.com^
 ||fartherpensionerassure.com^
 ||fartmoda.com^
+||farwine.com^
 ||fasciaekatcina.com^
 ||fascinateddashboard.com^
 ||fashionablegangsterexplosion.com^
@@ -23135,6 +23136,7 @@ vkcdnservice.appspot.com^
 ||nrnmsqpjghj.com^
 ||nrqppdgnhaagjq.com^
 ||nrs6ffl9w.com^
+||nrtaimyrk.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nrxdmssm.com^
@@ -52184,6 +52186,7 @@ vkcdnservice.appspot.com^
 ||acdfwe113.cn^
 ||ymwjwe.xyz^
 ||dchyjb.xyz^
+||uewrutt.top^
 ||maiysw.xyz^
 ||gsdedash9b.fun^
 ||acdwef114.cn^
