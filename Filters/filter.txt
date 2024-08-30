@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-30T06:12:32.259Z
+! Last modified: 2024-08-30T12:15:17.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,8 +22,9 @@
 !
 !
 !
+||akaroafrypan.com^
+||unbeardgorraf.top^
 ||lunse.ajscdn.com^
-||papatrol.xyz^
 ||ohjlghirnbkosdh.com^
 ||whudroots.net^
 ||yhklljct.xyz^
@@ -33,6 +34,7 @@
 ||vetchesthiever.com^
 ||st.zarebasdezaley.com^
 ||pkazd.xyz^
+||papatrol.xyz^
 ||wwcpyupbrcuhcsn.com^
 ||peenuteque.net^
 ||palaesavgs.com^
@@ -3254,6 +3256,7 @@ vkcdnservice.appspot.com^
 ||addroplet.com^
 ||addthief.com^
 ||adeditiontowri.org^
+||adelphic.net^
 ||adenza.dev^
 ||adevbom.com^
 ||adevppl.com^
@@ -5405,6 +5408,7 @@ vkcdnservice.appspot.com^
 ||aveugleghettos.top^
 ||avgive3431.fun^
 ||avglfookdjuj.com^
+||avhduwvirosl.com^
 ||avhtaapxml.com^
 ||aviationbe.com^
 ||avichigangway.top^
@@ -24168,6 +24172,7 @@ vkcdnservice.appspot.com^
 ||orchestraanticipation.com^
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
+||orcnakokt.com^
 ||ordbzeokdxku.com^
 ||ordciqczaox.com^
 ||orderlydividepawn.com^
@@ -31386,6 +31391,7 @@ vkcdnservice.appspot.com^
 ||storyblizzard.com^
 ||storyquail.com^
 ||storyrelatively.com^
+||storystaffrings.com^
 ||stotinggunne.uno^
 ||stotoowu.net^
 ||stotseepta.com^
@@ -39170,6 +39176,7 @@ vkcdnservice.appspot.com^
 ||5cc3ac02.xyz^
 ||5ceea3.xyz^
 ||5fd6bc.xyz^
+||60571086.xyz^
 ||605efe.xyz^
 ||634369.xyz^
 ||6471e7f7.xyz^
@@ -44402,7 +44409,6 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
-||avhduwvirosl.com^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^
