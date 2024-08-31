@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-30T18:11:27.969Z
+! Last modified: 2024-08-31T00:40:25.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -44418,6 +44418,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||wpiajkniqnty.com^
 ||adma.xsrv.jp^
 ||amazones-tools.com^
 ||ranklet.come.cc^
@@ -52254,6 +52255,13 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||wxsicu.xyz^
+||gedashb112.fun^
+||htxwzp.xyz^
+||skaumbp.icu^
+||bndxrr.xyz^
+||iditero.top^
+||gjmedashb0.fun^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
