@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-31T06:11:08.818Z
+! Last modified: 2024-08-31T12:14:17.116Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -35,7 +35,6 @@
 ||tfqvxyajkqu.xyz^
 ||crrvuqgvkwffd.com^
 ||vetchesthiever.com^
-||st.zarebasdezaley.com^
 ||pkazd.xyz^
 ||papatrol.xyz^
 ||wwcpyupbrcuhcsn.com^
@@ -8311,6 +8310,7 @@ vkcdnservice.appspot.com^
 ||chokupsupto.com^
 ||cholatetapalos.com^
 ||choocmailt.com^
+||choocmee.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
 ||choongou.com^
@@ -20214,6 +20214,7 @@ vkcdnservice.appspot.com^
 ||llbonxcqltulds.xyz^
 ||llboqevyazylr.top^
 ||lldkgppuwi.com^
+||lllshkre.com^
 ||llmeocaptainh.com^
 ||llohkcllkalodrb.xyz^
 ||llozybovlkekk.top^
@@ -25200,7 +25201,6 @@ vkcdnservice.appspot.com^
 ||pereliaastroid.com^
 ||perennialsecondly.com^
 ||perfb.com^
-||perfdrive.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
 ||perfectlywent.com^
@@ -33447,7 +33447,6 @@ vkcdnservice.appspot.com^
 ||truthhascudgel.com^
 ||truthordarenewsmagazine.com^
 ||truthvexedben.com^
-||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -37336,6 +37335,7 @@ vkcdnservice.appspot.com^
 ||zapunited.com^
 ||zaqxwnwwtx.com^
 ||zarame.uno^
+||zarebasdezaley.com^
 ||zarpop.com^
 ||zationservantas.info^
 ||zationsuchasr.com^
@@ -37545,6 +37545,7 @@ vkcdnservice.appspot.com^
 ||zmrrjyyeqaozq.top^
 ||zmwbrza.com^
 ||zmyjessp.com^
+||zmysashrep.com^
 ||znaptag.com^
 ||zncbitr.com^
 ||zncsdysorwms.com^
@@ -38371,6 +38372,7 @@ vkcdnservice.appspot.com^
 ||casino-zilla.com^
 ||cazamba.com^
 ||cb-content.com^
+||cdn.perfdrive.com^
 ||cdnreference.com^
 ||charltonmedia.com^
 ||chitika.com^
@@ -52278,6 +52280,7 @@ vkcdnservice.appspot.com^
 ||lewrutl.top^
 ||jditera.top^
 ||gbgedashb8.fun^
+||caqreg.xyz^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
