@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-05T00:41:02.002Z
+! Last modified: 2024-09-05T06:12:36.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||xfohaxohrjr.com^
 ||whulrima.xyz^
 ||infnexhjihlxyhf.xyz^
 ||giraingoats.net^
@@ -45645,8 +45646,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-09-01 07:25:08 CEST
-# entries:        1078
+# last updated:   2024-09-05 07:38:34 CEST
+# entries:        1079
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -45938,6 +45939,7 @@ vkcdnservice.appspot.com^
 ||img.ascontentcloud.com^
 ||img06.en25.com^
 ||insight.nikkasystems.com^
+||insights.algolia.io^
 ||interactions.sesamy.com^
 ||investerarbrevet.se^
 ||inviso.rampanel.com^
@@ -52148,6 +52150,7 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||orutvnck.top^
 ||cosouy.xyz^
 ||gedafdshb7.fun^
 ||irgxwk.xyz^
