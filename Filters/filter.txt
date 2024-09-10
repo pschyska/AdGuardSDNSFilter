@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-10T12:17:48.987Z
+! Last modified: 2024-09-10T18:11:43.662Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2649,6 +2649,7 @@ vkcdnservice.appspot.com^
 ||acoudsoarom.com^
 ||acpakrjzyamb.com^
 ||acqmeaf.com^
+||acqpizkpo.com^
 ||acquaintance423.fun^
 ||acquaintanceexemptspinach.com^
 ||acquaintanceunbearablecelebrated.com^
@@ -11251,6 +11252,7 @@ vkcdnservice.appspot.com^
 ||easelgivedolly.com^
 ||easerefrain.com^
 ||eashasvsucoc.info^
+||easierroamaccommodation.com^
 ||easilysafety.com^
 ||eastergurgle.com^
 ||eastfeukufu.info^
@@ -14162,6 +14164,7 @@ vkcdnservice.appspot.com^
 ||geechaid.xyz^
 ||geedoovu.net^
 ||geegleshoaph.com^
+||geejetag.com^
 ||geeksundigne.com^
 ||geerairu.net^
 ||geethaihoa.com^
@@ -14598,6 +14601,7 @@ vkcdnservice.appspot.com^
 ||gloutanacard.com^
 ||gloutchi.com^
 ||glouxaih.net^
+||glouxalt.net^
 ||glouzokrache.com^
 ||gloveroadmap.com^
 ||glovet.xyz^
@@ -15847,6 +15851,7 @@ vkcdnservice.appspot.com^
 ||hhvivsbiip.com^
 ||hhxfjgiyiheil.com^
 ||hhyajwolmq.com^
+||hhzcuywygcrk.com^
 ||hiadone.com^
 ||hialstrfkctx.com^
 ||hiasor.com^
@@ -16694,6 +16699,7 @@ vkcdnservice.appspot.com^
 ||ightsapph.info^
 ||iginnis.site^
 ||igjptqlywyvfveq.com^
+||iglegoarous.net^
 ||igloohq.com^
 ||iglooprin.com^
 ||ignals.com^
@@ -21789,6 +21795,7 @@ vkcdnservice.appspot.com^
 ||msyyvyle.com^
 ||mt34iofvjay.com^
 ||mtburn.com^
+||mtejadostvovn.com^
 ||mtgzlnugxej.com^
 ||mthvjim.com^
 ||mtinsqq.com^
@@ -26473,6 +26480,7 @@ vkcdnservice.appspot.com^
 ||psoopoakihou.com^
 ||psoorgou.com^
 ||psoorsen.com^
+||psootaun.com^
 ||psootchu.net^
 ||psothoms.com^
 ||psotudev.com^
@@ -28723,6 +28731,7 @@ vkcdnservice.appspot.com^
 ||rqmakkmq.com^
 ||rqnvci.com^
 ||rqr97sfd.xyz^
+||rqsaxxdbt.com^
 ||rqtrk.eu^
 ||rqwel.com^
 ||rqwyrdwlaygwxkw.com^
@@ -30616,6 +30625,7 @@ vkcdnservice.appspot.com^
 ||sophomorewilliam.com^
 ||sorboseyatvyag.top^
 ||sorcermojo.shop^
+||sordimtaulee.com^
 ||soremetropolitan.com^
 ||soritespary.com^
 ||sorningdaroo.top^
@@ -44191,6 +44201,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||dizimax2.com^
 ||siberreklam.com^
 ||baglanbize.net^
 ||revotas.com^
@@ -44869,6 +44880,10 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||xn--mts60is5y5uk.com^
+||dfqzah.xyz^
+||lafacw.xyz^
+||dadatuwz.com^
 ||cengqinglin.cn^
 ||shouldercommandmentlimitless.com^
 ||996js123.com^
