@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-12T00:41:26.675Z
+! Last modified: 2024-09-12T06:13:01.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13233,6 +13233,7 @@ vkcdnservice.appspot.com^
 ||flipool.com^
 ||flippantguilt.com^
 ||flirtatiousconsultyoung.com^
+||flirtclickmatches.life^
 ||flirtfusiontoys.toys^
 ||flitespashka.top^
 ||flixdot.com^
@@ -52330,6 +52331,9 @@ vkcdnservice.appspot.com^
 ||vdsdsf2.fun^
 ||jxjpnd.xyz^
 ||uyyquln.icu^
+||jdickea.top^
+||bnrk7esglquispx2lsluttlm.xyz^
+||fsijngnfsfk.com^
 ||wiwlqc.xyz^
 ||baigamp.icu^
 ||bnhorn.xyz^
