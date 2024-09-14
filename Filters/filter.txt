@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-13T18:11:43.900Z
+! Last modified: 2024-09-14T00:41:05.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2395,6 +2395,7 @@ vkcdnservice.appspot.com^
 ||abclefabletor.com^
 ||abcogzozbk.com^
 ||abcporntube.com^
+||abdicatebirchcoolness.com^
 ||abdicatehorrified.com^
 ||abdicatesyrupwhich.com^
 ||abdict.com^
@@ -7068,6 +7069,7 @@ vkcdnservice.appspot.com^
 ||bxikceucv.com^
 ||bxmpcfzlllej.com^
 ||bxpjpkldxrsss.xyz^
+||bxpwfdmmhlgccon.com^
 ||bxrfbsrlerio.com^
 ||bxrqdnkb.com^
 ||bxsk.site^
@@ -7680,6 +7682,7 @@ vkcdnservice.appspot.com^
 ||chaghets.net^
 ||chagrinprivata.top^
 ||chaibsoacmo.com^
+||chaidsimsubs.net^
 ||chaifortou.net^
 ||chainads.io^
 ||chainconnectivity.com^
@@ -16201,6 +16204,7 @@ vkcdnservice.appspot.com^
 ||hookpurgery.top^
 ||hookupfowlspredestination.com^
 ||hooliganmedia.com^
+||hooligs.app^
 ||hoomigri.com^
 ||hoonaptecun.com^
 ||hoood.info^
@@ -18570,6 +18574,7 @@ vkcdnservice.appspot.com^
 ||kakdgmn.com^
 ||kalauxet.com^
 ||kaleidoscopeadjacent.com^
+||kaleidoscopefingernaildigging.com^
 ||kaleidoscopepincers.com^
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
@@ -22297,6 +22302,7 @@ vkcdnservice.appspot.com^
 ||nczxuga.com^
 ||ndandinter.hair^
 ||ndaspiratiotyukn.com^
+||ndatgiicef.com^
 ||ndaymidydlesswale.info^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
@@ -28435,6 +28441,7 @@ vkcdnservice.appspot.com^
 ||rieversfidate.com^
 ||riffingwiener.com^
 ||riffledyanked.click^
+||rifjhukaqoh.com^
 ||riflesurfing.xyz^
 ||riftharp.com^
 ||rigembassyleaving.com^
@@ -52353,6 +52360,12 @@ vkcdnservice.appspot.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||gkeolwi.icu^
+||ofqvca.xyz^
+||vcxv787.fun^
+||dsads55.fun^
+||renohj.xyz^
+||fzjbsvgz.icu^
 ||cgskys.xyz^
 ||nroeoxk.icu^
 ||gdd08.com^
