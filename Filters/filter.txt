@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-16T06:13:37.129Z
+! Last modified: 2024-09-16T12:17:34.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -21968,7 +21968,7 @@ vkcdnservice.appspot.com^
 ||neshigreek.com^
 ||nessainy.net^
 ||nestledmph.com^
-||net.geo.opera.com^
+! ||net.geo.opera.com^
 ||netcatx.com^
 ||netflopin.com^
 ||nethebravero.com^
@@ -37231,6 +37231,7 @@ vkcdnservice.appspot.com^
 ||host-relendbrowseprelend.info^
 ||lookup-domain.com^
 ||mgid.com^
+! ||net.geo.opera.com^$document
 ||offergate-software20.com^
 ||openwwws.space^
 ||rockwound.site^
@@ -38559,6 +38560,7 @@ vkcdnservice.appspot.com^
 ||21274758.xyz^
 ||224cc86d.xyz^
 ||22dd31.xyz^
+||23879858.xyz^
 ||24052107.live^
 ||258104d2.live^
 ||285b0b37.xyz^
@@ -51693,6 +51695,7 @@ vkcdnservice.appspot.com^
 ||imgmin133.top^
 ||sgadkc.xyz^
 ||wdickee.top^
+||gtdf33.fun^
 ||hahaql.top^
 ||yiucfif.icu^
 ||vcxv73.fun^
