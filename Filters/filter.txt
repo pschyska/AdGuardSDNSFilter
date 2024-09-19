@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-19T12:16:32.330Z
+! Last modified: 2024-09-19T18:11:34.563Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -24789,6 +24789,7 @@ vkcdnservice.appspot.com^
 ||phumpauk.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvhnxebmrzf.com^
 ||phxnkysa.com^
@@ -30552,6 +30553,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
@@ -38618,6 +38620,7 @@ vkcdnservice.appspot.com^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
 ||814272c4.xyz^
+||83761158.xyz^
 ||83887336.xyz^
 ||84631949.xyz^
 ||88129513.xyz^
@@ -40492,6 +40495,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
@@ -51685,6 +51689,8 @@ vkcdnservice.appspot.com^
 ||dasda64.fun^
 ||iffobi.xyz^
 ||jauql.top^
+||okiterk.top^
+||786yfvedhcbxjk.top^
 ||ukitert.top^
 ||csdcfvgf4.fun^
 ||megydyk.icu^
