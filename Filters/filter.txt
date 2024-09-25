@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-25T06:13:33.428Z
+! Last modified: 2024-09-25T12:17:07.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -21796,7 +21796,6 @@ vkcdnservice.appspot.com^
 ||naive-skin.pro^
 ||naivegirlie.com^
 ||naivescorries.com^
-||nakamasweb.com^
 ||nakedfulfilhairy.com^
 ||nalhedgelnhamf.info^
 ||naliw.xyz^
@@ -51823,6 +51822,7 @@ vkcdnservice.appspot.com^
 ||vtbfgnf00.fun^
 ||xufyxhiu.icu^
 ||wpmdeo.xyz^
+||vfdvdfv77.fun^
 ||fq010.shop^
 ||jy010.shop^
 ||ewaterw.top^
