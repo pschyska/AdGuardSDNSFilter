@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-11T11:36:41.082Z
+! Last modified: 2024-11-11T12:17:24.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20308,6 +20308,7 @@ vkcdnservice.appspot.com^
 ||poolgmsd.com^
 ||poolsperlite.click^
 ||pooptoom.net^
+||pooraithacuzaum.net^
 ||poorlystepmotherresolute.com^
 ||poorlytanrubbing.com^
 ||poorstress.pro^
