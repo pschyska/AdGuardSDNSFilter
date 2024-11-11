@@ -1,3 +1,12 @@
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1780
+! Exclude domain from popup filter, leave tracking subdomains
+||getresponse.com^
+! whatfinger.com - not an ad server
+||whatfinger.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/189668
+||benelph.de^
+! https://github.com/AdguardTeam/AdguardFilters/issues/189242
+||norstatsurveys.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1752
 ||iqoption.com^
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1736
