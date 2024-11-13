@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-13T06:13:17.322Z
+! Last modified: 2024-11-13T12:17:19.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||wwwwzeraqvrej.top^
 ||mycuegxt.com^
 ||athalarilouwo.net^
 ||gxfh59u4.xyz^
@@ -32984,6 +32985,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
 ||ads-delivery.gunosy.com^
@@ -38867,9 +38869,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 926 rules
+! Last modified: 13 Nov 2024 16:12 UTC+7
+! Version: 2411131612
+! Blocked: 928 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39367,6 +39369,7 @@ vkcdnservice.appspot.com^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
+||analytics.mobiedu.vn^
 ||analytics.molistar.com^
 ||analytics.nhattao.com^
 ||analytics.ntlc.com.vn^
@@ -39725,6 +39728,7 @@ vkcdnservice.appspot.com^
 ||tvc.biphim.club^
 ||upfile16.mediaphim.com^
 ||upl.net-solutions.vn^
+||us.mplis.gov.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -39759,9 +39763,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 4,687 rules
+! Last modified: 13 Nov 2024 16:13 UTC+7
+! Version: 2411131613
+! Blocked: 4,688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42700,6 +42704,7 @@ vkcdnservice.appspot.com^
 ||sieumomo.top^
 ||sieumomo.win^
 ||sieunhitainangmua3-2022.weebly.com^
+||sieusalegiare.top^
 ||sieusao.lienquan-vgarena.com^
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
@@ -44338,6 +44343,8 @@ vkcdnservice.appspot.com^
 ||chupl.icu^
 ||cweisif.top^
 ||y0mwy.icu^
+||pxyjqea.icu^
+||xuugnuits.com^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
