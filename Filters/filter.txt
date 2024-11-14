@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-14T12:17:45.409Z
+! Last modified: 2024-11-14T18:12:49.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2476,6 +2476,7 @@ vkcdnservice.appspot.com^
 ||absentlybiddingleopard.com^
 ||absentlygratefulcamomile.com^
 ||absentlyrindbulk.com^
+||absentmissingaccept.com^
 ||abservinean.com^
 ||abskursin.com^
 ||abslroan.com^
@@ -6212,6 +6213,7 @@ vkcdnservice.appspot.com^
 ||buttersource.com^
 ||buuftxcii.com^
 ||buxbaumiaceae.sbs^
+||buxfmookn.com^
 ||buyadvupfor24.com^
 ||buyfrightencheckup.com^
 ||buylnk.com^
@@ -12080,6 +12082,7 @@ vkcdnservice.appspot.com^
 ||gloumsie.net^
 ||glounugeepse.xyz^
 ||glouseer.net^
+||glousoonomsy.xyz^
 ||gloussowu.xyz^
 ||gloustoa.net^
 ||gloutanacard.com^
@@ -19267,6 +19270,7 @@ vkcdnservice.appspot.com^
 ||outofthecath.org^
 ||outrotomr.com^
 ||outseeltor.com^
+||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outsimiseara.com^
@@ -22485,6 +22489,7 @@ vkcdnservice.appspot.com^
 ||rhinocerosobtrusive.com^
 ||rhombicsomeday.com^
 ||rhouseoyopers.info^
+||rhoxbneasg.xyz^
 ||rhrim.com^
 ||rhsorga.com^
 ||rhubarbmasterpiece.com^
@@ -26858,6 +26863,7 @@ vkcdnservice.appspot.com^
 ||umoxomv.icu^
 ||umpedshumal.com^
 ||umqmxawxnrcp.com^
+||umtchdhkrx.com^
 ||umtudo.com^
 ||umumallowecouldl.info^
 ||unacceptableclevercapable.com^
@@ -44366,6 +44372,7 @@ vkcdnservice.appspot.com^
 ||u5ps5.icu^
 ||lwvrv.icu^
 ||vnuuh.icu^
+||jweisia.top^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^
