@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-16T00:45:39.467Z
+! Last modified: 2024-11-16T06:12:42.605Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2584,6 +2584,7 @@ vkcdnservice.appspot.com^
 ||ackcdn.net^
 ||ackeysulfid.top^
 ||acknowledgecalculated.com^
+||aclemonliner.com^
 ||aclickads.com^
 ||aclktrkr.com^
 ||acloudvideos.com^
@@ -4432,6 +4433,7 @@ vkcdnservice.appspot.com^
 ||atmtaoda.com^
 ||ato.mx^
 ||atodiler.com^
+||atollanaboly.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atonato.de^
@@ -4809,6 +4811,7 @@ vkcdnservice.appspot.com^
 ||ba46b70722.com^
 ||baaomenaltho.com^
 ||babbnrs.com^
+||bablohfleshes.com^
 ||babun.club^
 ||babyboomboomads.com^
 ||babyniceshark.com^
@@ -6498,6 +6501,7 @@ vkcdnservice.appspot.com^
 ||cassetteflask.com^
 ||cassettelancefriday.com^
 ||cassettesandwicholive.com^
+||cassinamawger.top^
 ||casterpretic.com^
 ||castingmannergrim.com^
 ||castleconscienceenquired.com^
@@ -8476,6 +8480,7 @@ vkcdnservice.appspot.com^
 ||deficitsilverdisability.com^
 ||definedbootnervous.com^
 ||definitial.com^
+||deforcediau.com^
 ||defpush.com^
 ||defybrick.com^
 ||degeneratecontinued.com^
@@ -8871,6 +8876,7 @@ vkcdnservice.appspot.com^
 ||disastrousdetestablegoody.com^
 ||disastrousfinal.pro^
 ||disbeliefenvelopemeow.com^
+||disburymixy.shop^
 ||disccompose.com^
 ||discernibletickpang.com^
 ||dischargecompound.com^
@@ -11345,6 +11351,7 @@ vkcdnservice.appspot.com^
 ||freezedispense.com^
 ||freezereraserelated.com^
 ||freezescrackly.com^
+||freezyquieten.com^
 ||fregtrsatnt.com^
 ||freightopen.com^
 ||freiodablazer.com^
@@ -14495,6 +14502,7 @@ vkcdnservice.appspot.com^
 ||jambosmodesty.com^
 ||jamminds.com^
 ||jamstech.store^
+||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
 ||jangonetwork.com^
@@ -16516,6 +16524,7 @@ vkcdnservice.appspot.com^
 ||maniconclavis.com^
 ||manifefashiona.info^
 ||manipulativegraphic.com^
+||manitusbaclava.com^
 ||mannerconflict.com^
 ||manoeuvrestretchingpeer.com^
 ||manoirshrine.com^
@@ -21850,6 +21859,7 @@ vkcdnservice.appspot.com^
 ||ratificationcockywithout.com^
 ||rationallyagreement.com^
 ||ratioregarding.com^
+||rattersexpeded.com^
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
@@ -23982,6 +23992,7 @@ vkcdnservice.appspot.com^
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
+||skewserer.com^
 ||skidgleambrand.com^
 ||skieppeerical.click^
 ||skierastonishedforensics.com^
@@ -24283,6 +24294,7 @@ vkcdnservice.appspot.com^
 ||solocpm.com^
 ||solodar.ru^
 ||solubleallusion.com^
+||somaskeefs.shop^
 ||sombes.com^
 ||somedaytrip.com^
 ||somehowlighter.com^
@@ -26065,6 +26077,7 @@ vkcdnservice.appspot.com^
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||togenron.com^
 ||togetherballroom.com^
 ||toglooman.com^
@@ -26649,6 +26662,7 @@ vkcdnservice.appspot.com^
 ||tvgxhvredn.xyz^
 ||tvkaimh.com^
 ||tvprocessing.com^
+||twaitevirgal.com^
 ||twazzyoidwlfe.com^
 ||tweakarrangement.com^
 ||twelfthcomprehendgrape.com^
@@ -44378,6 +44392,7 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||qphkuua.icu^
 ||ngxzkaxf.icu^
+||qgg7e.icu^
 ||uaqdgrfr.icu^
 ||gzfsqrc.icu^
 ||kweisid.top^
