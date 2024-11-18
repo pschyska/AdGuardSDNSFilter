@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T00:49:10.088Z
+! Last modified: 2024-11-18T06:14:37.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7954,6 +7954,7 @@ vkcdnservice.appspot.com^
 ||cryingforanythi.com^
 ||cryjun.com^
 ||cryorganichash.com^
+||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
 ||cryptomaster.care^
@@ -44417,6 +44418,9 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||wsgnihbh.icu^
 ||iflucav.icu^
+||ao1118kas.top^
+||mhwy6.icu^
+||uweisit.top^
 ||mlgowell.org^
 ||ge189.com^
 ||usgowell.com^
