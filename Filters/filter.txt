@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-18T06:14:37.451Z
+! Last modified: 2024-11-18T12:18:57.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37794,8 +37794,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-11-01 06:19:15 CET
-# entries:        1089
+# last updated:   2024-11-18 07:18:38 CET
+# entries:        1090
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -38265,6 +38265,7 @@ vkcdnservice.appspot.com^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
 ||sibautomation.com^
+||smetrics.avanza.se^
 ||smtvn.112.2o7.net^
 ||source.advisible.com^
 ||sp.tinymce.com^
