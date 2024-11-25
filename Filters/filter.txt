@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-25T00:48:47.059Z
+! Last modified: 2024-11-25T06:14:38.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -44585,6 +44585,8 @@ vkcdnservice.appspot.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
 ||aizhantj.com^
+||g41i.icu^
+||tweizai.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
@@ -50655,6 +50657,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||aedi.ai^
 ||mobon.net^
 ||nhnace.com^
 ||middlepoint.co.kr^
