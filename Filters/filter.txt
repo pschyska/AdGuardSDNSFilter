@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T12:18:44.319Z
+! Last modified: 2024-11-28T18:12:54.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12579,6 +12579,7 @@ vkcdnservice.appspot.com^
 ||hentaionline.net^
 ||heoidln.com^
 ||heparlorne.org^
+||hephungoomsapoo.net^
 ||hepk-gmwitvk.world^
 ||hepsaign.com^
 ||heptix.net^
@@ -14313,6 +14314,7 @@ vkcdnservice.appspot.com^
 ||joudotee.com^
 ||jouj-equar.one^
 ||joukaglie.com^
+||joupheewuci.net^
 ||jouteetu.net^
 ||jouwaikekaivep.net^
 ||jouwhoanepoob.xyz^
@@ -14555,6 +14557,7 @@ vkcdnservice.appspot.com^
 ||keegooch.com^
 ||keemuhoagou.com^
 ||keen-slip.com^
+||keenmagwife.live^
 ||keenmosquitosadly.com^
 ||keephoamoaph.com^
 ||keepinfit.net^
@@ -14616,6 +14619,7 @@ vkcdnservice.appspot.com^
 ||kgfjrb711.com^
 ||kgfrstw.com^
 ||kgiulbvj.com^
+||kgvvvgxtvi.rocks^
 ||kgyhxdh.com^
 ||kh-bkcvqxc.online^
 ||khangalenten.click^
@@ -15079,6 +15083,7 @@ vkcdnservice.appspot.com^
 ||ldedallover.info^
 ||ldimnveryldgitwe.xyz^
 ||ldjcteyoq.com^
+||ldjudcpc-qxm.icu^
 ||ldmeukeuktyoue.com^
 ||ldrendreaming.info^
 ||ldthinkhimun.com^
@@ -20116,6 +20121,7 @@ vkcdnservice.appspot.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
+||prizefrenzy.top^
 ||prizegrantedrevision.com^
 ||prizel.com^
 ||prksism.com^
@@ -30398,6 +30404,7 @@ vkcdnservice.appspot.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^
+||ebayrtm.com^
 ||eclipse-adblocker.pro^
 ||epnt.ebay.com^
 ||escape.insites.eu^
@@ -43424,6 +43431,8 @@ vkcdnservice.appspot.com^
 ||y7ts.icu^
 ||yuanzunxs1.com^
 ||z9k7.icu^
+||hdamcsu.top^
+||qovith.com^
 ||khastreol.com^
 ||gokrafxr.icu^
 ||9xxy.icu^
