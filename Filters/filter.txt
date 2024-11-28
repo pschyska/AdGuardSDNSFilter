@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T06:14:32.001Z
+! Last modified: 2024-11-28T12:18:44.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32867,6 +32867,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
 ||broredir*s.site^
@@ -36980,7 +36981,6 @@ vkcdnservice.appspot.com^
 ||cdp-eu.customer.io^
 ||cintnetworks.com^
 ||cis.schibsted.com^
-||cision.com^
 ||cl.k5a.io^
 ||classic.avantlink.com^
 ||clientcdn.pushengage.com^
@@ -43422,6 +43422,8 @@ vkcdnservice.appspot.com^
 ||zodoth.com^
 ||tqeferty33.fun^
 ||y7ts.icu^
+||yuanzunxs1.com^
+||z9k7.icu^
 ||khastreol.com^
 ||gokrafxr.icu^
 ||9xxy.icu^
@@ -49510,6 +49512,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/1st_domains.txt
 !
+||planad.net^
 ||aedi.ai^
 ||mobon.net^
 ||nhnace.com^
