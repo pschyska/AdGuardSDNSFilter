@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-11-28T18:12:54.266Z
+! Last modified: 2024-11-29T00:48:03.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6148,6 +6148,7 @@ vkcdnservice.appspot.com^
 ||caistireew.net^
 ||caitoasece.com^
 ||caiwauchegee.net^
+||caizaipt.net^
 ||caizutoh.xyz^
 ||cakangautchus.net^
 ||calamitydisc.com^
@@ -6242,6 +6243,7 @@ vkcdnservice.appspot.com^
 ||caraganaarborescenspendula.com^
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
+||caravanremarried.com^
 ||caravelvirent.com^
 ||carbonads.com^
 ||carcflma.de^
@@ -7804,6 +7806,7 @@ vkcdnservice.appspot.com^
 ||culmedpasses.cam^
 ||cultergoy.com^
 ||culturalcollectvending.com^
+||cumbersomeduty.pro^
 ||cumbersomesteedominous.com^
 ||cunealfume.shop^
 ||cupboardbangingcaptain.com^
@@ -12014,6 +12017,7 @@ vkcdnservice.appspot.com^
 ||greecewizards.com^
 ||greedcocoatouchy.com^
 ||greedrum.net^
+||greedyfire.com^
 ||greeftougivy.com^
 ||greekmankind.com^
 ||greekroo.xyz^
@@ -13079,6 +13083,7 @@ vkcdnservice.appspot.com^
 ||humremjobvipfun.com^
 ||humro.site^
 ||humsoolt.net^
+||hunchbackconebelfry.com^
 ||hunchbackrussiancalculated.com^
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
@@ -15785,6 +15790,7 @@ vkcdnservice.appspot.com^
 ||lxkzcss.xyz^
 ||lxlpoydodf.com^
 ||lxnkuie.com^
+||lxqjy-obtr.love^
 ||lxstat.com^
 ||lycopuscris.com^
 ||lycoty.com^
@@ -17806,6 +17812,7 @@ vkcdnservice.appspot.com^
 ||nzfhloo.com^
 ||nzme-ads.co.nz^
 ||nzuebfy.com^
+||o-jmzsoafs.global^
 ||o-mvlwdxr.icu^
 ||o-oo.ooo^
 ||o18.click^
@@ -18026,6 +18033,7 @@ vkcdnservice.appspot.com^
 ||ofnkswddtp.xyz^
 ||ofphanpytor.com^
 ||ofqopmnpia.com^
+||ofredirect.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||ofsnoveran.com^
@@ -24159,6 +24167,7 @@ vkcdnservice.appspot.com^
 ||studiedabbey.com^
 ||studious-beer.com^
 ||studiouspassword.com^
+||stuffedbeforehand.com^
 ||stuffedprofessional.com^
 ||stuffinglimefuzzy.com^
 ||stuffintolerableillicit.com^
@@ -36890,7 +36899,6 @@ vkcdnservice.appspot.com^
 ||api.getlevelten.com^
 ||api.lab.eu.amplitude.com^
 ||api.retargetly.com^
-||api.rudderstack.com^
 ||api.segment.io^
 ||api3847.d41.co^
 ||app.converdiant.com^
@@ -43424,6 +43432,8 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||igabcgnh.icu^
+||saizih.com^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
