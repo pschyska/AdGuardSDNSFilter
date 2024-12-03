@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-03T12:18:36.999Z
+! Last modified: 2024-12-03T18:12:00.034Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||op3xdork.xyz^
 ||qrifhajtabcy.com^
 ||joogruphezefaul.net^
 ||legiblyosmols.top^
@@ -7327,6 +7328,7 @@ vkcdnservice.appspot.com^
 ||conative.network^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -30779,6 +30781,7 @@ vkcdnservice.appspot.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
 ||neural.myth.dev^
+||newtabextension.com^
 ||ogads-pa.googleapis.com^
 ||omegadblocker.com^
 ||onlinepromogift.com^
@@ -35344,6 +35347,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||media-advcycle.imgsmail.ru^
 ||sdk.kokocads.com^
 ||r1.ati.su^
 ||rcmjs.rambler.ru^
@@ -43764,6 +43768,8 @@ vkcdnservice.appspot.com^
 ||k5uj.icu^
 ||udamcst.top^
 ||thaqne.com^
+||q1bp.icu^
+||odamcsk.top^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
