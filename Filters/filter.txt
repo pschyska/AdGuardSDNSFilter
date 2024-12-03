@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-03T00:50:05.610Z
+! Last modified: 2024-12-03T06:14:48.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20954,6 +20954,7 @@ vkcdnservice.appspot.com^
 ||puzzlepursued.com^
 ||puzzoa.xyz^
 ||pvclouds.com^
+||pvdbkr.com^
 ||pvtqllwgu.com^
 ||pvxvazbehd.com^
 ||pwaarkac.com^
@@ -43760,6 +43761,9 @@ vkcdnservice.appspot.com^
 ||vokzqgjp.icu^
 ||sokars.com^
 ||grerzieds.com^
+||c4uy.icu^
+||k5uj.icu^
+||udamcst.top^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
