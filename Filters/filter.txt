@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-05T12:18:50.400Z
+! Last modified: 2024-12-05T18:11:46.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7868,6 +7868,7 @@ vkcdnservice.appspot.com^
 ||cudgeletc.com^
 ||cudgelsupportiveobstacle.com^
 ||cudjgcnwoo-s.icu^
+||cue-oxvpqbt.space^
 ||cuefootingrosy.com^
 ||cueistratting.com^
 ||cuesingle.com^
@@ -11336,6 +11337,7 @@ vkcdnservice.appspot.com^
 ||gafmajosxog.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gagheroinintact.com^
 ||gaghygienetheir.com^
 ||gagxsbnbu.xyz^
 ||gaibjhicxrkng.xyz^
@@ -13599,6 +13601,7 @@ vkcdnservice.appspot.com^
 ||imvjcds.com^
 ||imyanmarads.com^
 ||in-appadvertising.com^
+||in-bdcvlj.love^
 ||in-page-push.com^
 ||in-page-push.net^
 ||inabsolor.com^
@@ -38330,8 +38333,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 05 Dec 2024 10:19 UTC+7
-! Version: 2412051019
+! Last modified: 05 Dec 2024 22:50 UTC+7
+! Version: 2412052250
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39228,9 +39231,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Dec 2024 10:20 UTC+7
-! Version: 2412051020
-! Blocked: 4,694 rules
+! Last modified: 05 Dec 2024 23:11 UTC+7
+! Version: 2412052311
+! Blocked: 4,693 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -41080,7 +41083,6 @@ vkcdnservice.appspot.com^
 ||myscannappo.online^
 ||myshopee13.com^
 ||myshopee7.vip^
-||mysp.ac^
 ||nalhajarm.cfd^
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
@@ -43811,6 +43813,9 @@ vkcdnservice.appspot.com^
 ||mdamcsx.top^
 ||m6d.icu^
 ||4i1.icu^
+||q8q.icu^
+||inphais.com^
+||cjimtyf.top^
 ||vokzqgjp.icu^
 ||sokars.com^
 ||grerzieds.com^
