@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-07T06:12:53.734Z
+! Last modified: 2024-12-07T12:16:40.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37224,8 +37224,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-01 05:37:51 CET
-# entries:        1096
+# last updated:   2024-12-07 07:39:34 CET
+# entries:        1097
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -38384,8 +38384,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Dec 2024 21:29 UTC+7
-! Version: 2412062129
+! Last modified: 07 Dec 2024 16:34 UTC+7
+! Version: 2412071634
 ! Blocked: 932 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39282,9 +39282,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Dec 2024 23:11 UTC+7
-! Version: 2412052311
-! Blocked: 4,693 rules
+! Last modified: 07 Dec 2024 16:35 UTC+7
+! Version: 2412071635
+! Blocked: 4,674 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39337,7 +39337,6 @@ vkcdnservice.appspot.com^
 ||6699uu.com^
 ||66lotte.com^
 ||66mh.shop^
-||66vang.com^
 ||671djn.cyou^
 ||6788vn.com^
 ||76236osm1.ru^
@@ -39498,7 +39497,6 @@ vkcdnservice.appspot.com^
 ||asiabayshop.com^
 ||asian-tindung.com^
 ||asiashop666.com^
-||asiashop888.com^
 ||asiashop999.com^
 ||ateofakist.cfd^
 ||atlas-upd.com^
@@ -39593,7 +39591,6 @@ vkcdnservice.appspot.com^
 ||biticonsbank.com^
 ||bitrueexchange.com^
 ||bitsbankuk.com^
-||bk8vietnam.com^
 ||bloodleian.club^
 ||bluvenie.com^
 ||bm1717.com^
@@ -39808,7 +39805,6 @@ vkcdnservice.appspot.com^
 ||dangkyappbank.online^
 ||dangkycongtacvien.vn^
 ||dangkyhosotructuyen2023.com^
-||dangkykubet.vip^
 ||dangkynick.online^
 ||dangkyonline-payment.com^
 ||dangkyquetthe-tindungvn.com^
@@ -39816,7 +39812,6 @@ vkcdnservice.appspot.com^
 ||dangkysendo.vn^
 ||dangkyshopee.vn^
 ||dangkytanggiai2022.com^
-||dangkythabet.com^
 ||dangkytinchapshinhan.xyz^
 ||dangkytruyenhinhcap.com^
 ||dangkyvay-bank247.net^
@@ -40049,7 +40044,6 @@ vkcdnservice.appspot.com^
 ||fajiafu30.com^
 ||fajiafu50.com^
 ||fasebook.com.vn^
-||fb88viet.com^
 ||fbviet88.com^
 ||fc.adswt.com^
 ||fcccredit.com^
@@ -40303,7 +40297,6 @@ vkcdnservice.appspot.com^
 ||grn-memberships2021.com^
 ||groceryshootworld.com^
 ||growthtransport.com^
-||gs360.shop^
 ||gt091102204euc.click^
 ||gta5moneygen.online^
 ||gzdpae.cyou^
@@ -40547,7 +40540,6 @@ vkcdnservice.appspot.com^
 ||jaccsz.com^
 ||jaemoney.ltd^
 ||japan-shopac.asia^
-||jbovietnam.com^
 ||jetkingncsc.online^
 ||jewvvkh.cyou^
 ||jeyrkyshop.com^
@@ -41559,7 +41551,6 @@ vkcdnservice.appspot.com^
 ||pwsk11.com^
 ||pwsk88.com^
 ||qjc2vo.cyou^
-||qq8788viet.com^
 ||qqwyihwm.thjen.tech^
 ||qrsg11.com^
 ||qtaqlbt.ciofgnm.co^
@@ -41596,13 +41587,9 @@ vkcdnservice.appspot.com^
 ||quatangskin1.weebly.com^
 ||quatangsukienfreefire.com^
 ||quatangtrianff.com^
-||quatanthu.club^
 ||quatanthu.fun^
-||quatanthu.group^
 ||quatanthu.net^
-||quatanthu.online^
 ||quatanthu.vip^
-||quatanthu.xyz^
 ||quatanxuan2022.com^
 ||quatetff2020.weebly.com^
 ||quatrian123.com^
@@ -41728,7 +41715,6 @@ vkcdnservice.appspot.com^
 ||sanmomo.me^
 ||sanqua-lienminh2021.cf^
 ||saokenganhangvn.com^
-||sbetviet.com^
 ||sc0mvn.com^
 ||scb.chamsockhachhang-truc-tuyen-the.online^
 ||scb.nanghanmucthenganhangvisa.com^
@@ -42494,8 +42480,6 @@ vkcdnservice.appspot.com^
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
 ||thanhtrapcrt.online^
-||thanquay247.vip^
-||thao88.com^
 ||thebank247.ga^
 ||thechapnganhang-24h.com^
 ||thegiodidong.com.vn^
@@ -42831,7 +42815,6 @@ vkcdnservice.appspot.com^
 ||trumvang68.net^
 ||trumvipmomo.com^
 ||trungquatang.vn^
-||trungso.vip^
 ||trungtam-baohanhdienmayxanh.com^
 ||trungtam-cskh-vipham.com^
 ||trungtam-dienmayxanh.com^
@@ -43701,7 +43684,6 @@ vkcdnservice.appspot.com^
 ||vxvw11.com^
 ||vxvw22.com^
 ||vxvw55.com^
-||w88banh.com^
 ||walmartshoping.com^
 ||walmartva.icu^
 ||warrenmoneytrader.com^
@@ -43725,7 +43707,6 @@ vkcdnservice.appspot.com^
 ||webxacnhankhoanvay24h.com^
 ||wedvay.vn^
 ||wefinexvietnam.xyz^
-||wellviet.net^
 ||westcapitalbank.com^
 ||western-unions24h.weebly.com^
 ||westernbank.vn^
@@ -43864,6 +43845,10 @@ vkcdnservice.appspot.com^
 ||f7j.icu^
 ||jjimtya.top^
 ||4sq.icu^
+||shaorgs.cn^
+||krinkred.com^
+||zikeke7.com^
+||vh8.icu^
 ||khengrull.com^
 ||ugajiwft.icu^
 ||hjimtyu.top^
