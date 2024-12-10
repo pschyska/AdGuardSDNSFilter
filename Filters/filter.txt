@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-10T12:19:20.617Z
+! Last modified: 2024-12-10T18:14:00.232Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -13225,6 +13225,7 @@ vkcdnservice.appspot.com^
 ||hrczhdv.com^
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
+||hrihfiocc.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrtennaarn.com^
@@ -26405,6 +26406,7 @@ vkcdnservice.appspot.com^
 ||ufouxbwn.com^
 ||ufpcdn.com^
 ||ufphkyw.com^
+||ufvxiyewsyi.com^
 ||ufzanvc.com^
 ||ugailidsay.xyz^
 ||ugeewhee.xyz^
@@ -27494,6 +27496,7 @@ vkcdnservice.appspot.com^
 ||vulsubsaugrourg.net^
 ||vupoupay.com^
 ||vupteerairs.net^
+||vuqcteyi.com^
 ||vuqufo.uno^
 ||vursoofte.net^
 ||vuvacu.xyz^
@@ -43967,6 +43970,8 @@ vkcdnservice.appspot.com^
 ||wt6.icu^
 ||tjimtyi.top^
 ||riemutmh.com^
+||xu6.icu^
+||ujimtyt.top^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
