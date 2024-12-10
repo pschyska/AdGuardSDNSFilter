@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-09T18:14:08.153Z
+! Last modified: 2024-12-10T00:50:43.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -17449,6 +17449,7 @@ vkcdnservice.appspot.com^
 ||naupseko.com^
 ||nauthait.com^
 ||nauwheer.net^
+||nauzaphoay.net^
 ||navaidaosmic.top^
 ||navelasylumcook.com^
 ||navelfletch.com^
@@ -27534,6 +27535,7 @@ vkcdnservice.appspot.com^
 ||wailoageebivy.net^
 ||waisheph.com^
 ||waistcoataskeddone.com^
+||waisterisabel.com^
 ||wait4hour.info^
 ||waitedprowess.com^
 ||waiterregistrydelusional.com^
@@ -43944,6 +43946,8 @@ vkcdnservice.appspot.com^
 ||phainoirs.com^
 ||qjimtyy.top^
 ||3ni.icu^
+||nilipuyn.com^
+||peclevnl.icu^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
