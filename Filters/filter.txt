@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-11T06:14:41.820Z
+! Last modified: 2024-12-11T12:19:09.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33422,6 +33422,9 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||dosawes.com^
+||lusupodum.com^
+||clairpixum.com^
 ||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
@@ -39408,9 +39411,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 10 Dec 2024 16:02 UTC+7
-! Version: 2412101602
-! Blocked: 4.675 rules
+! Last modified: 11 Dec 2024 15:59 UTC+7
+! Version: 2412111559
+! Blocked: 4.688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39874,7 +39877,19 @@ vkcdnservice.appspot.com^
 ||congthongtinvidientu.com^
 ||congtykiman.org^
 ||congtytaichinhlotte.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -41641,6 +41656,7 @@ vkcdnservice.appspot.com^
 ||pkkti888.com^
 ||platinum-ruttientindung247.com^
 ||play.appgoogle.cc^
+||playgooglevn.vip^
 ||playtogethernapthe.com^
 ||playtogetherquabaotri.online^
 ||playtogethershop.com^
@@ -43972,6 +43988,7 @@ vkcdnservice.appspot.com^
 ||x4d.icu^
 ||ojimtyk.top^
 ||tteferty33.fun^
+||suzalsln.com^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
