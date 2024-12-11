@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-10T18:14:00.232Z
+! Last modified: 2024-12-11T00:49:26.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3756,6 +3756,7 @@ vkcdnservice.appspot.com^
 ||amulaswhitish.com^
 ||amuletcontext.com^
 ||amunfezanttor.com^
+||amunlhntxou.com^
 ||amused-ground.com^
 ||amusementchillyforce.com^
 ||amusementrehearseevil.com^
@@ -6636,6 +6637,7 @@ vkcdnservice.appspot.com^
 ||chambershoist.com^
 ||chambersinterdependententirely.com^
 ||chambersthanweed.com^
+||champerwatts.com^
 ||chancecorny.com^
 ||chancellorharrowbelieving.com^
 ||chancellorstocky.com^
@@ -7317,6 +7319,7 @@ vkcdnservice.appspot.com^
 ||comparativeexclusion.com^
 ||compareddiagram.com^
 ||comparedsilas.com^
+||comparepoisonous.com^
 ||compareproprietary.com^
 ||compassionatebarrowpine.com^
 ||compassionaterough.pro^
@@ -10506,6 +10509,7 @@ vkcdnservice.appspot.com^
 ||favoredkuwait.top^
 ||favorite-option.pro^
 ||favourablerecenthazardous.com^
+||fawhotoads.net^
 ||faxqaaawyb.com^
 ||fazanppq.com^
 ||fb-plus.com^
@@ -11346,6 +11350,7 @@ vkcdnservice.appspot.com^
 ||fxmnba.com^
 ||fxpqcygxjib.com^
 ||fxrbsadtui.com^
+||fxsvifnkts.com^
 ||fyblppngxdt.com^
 ||fydapcrujhguy.xyz^
 ||fyglovilo.pro^
@@ -14203,6 +14208,7 @@ vkcdnservice.appspot.com^
 ||iwantusingle.com^
 ||iwhejirurage.com^
 ||iwhoosty.com^
+||iwmavidtg.com^
 ||iwouhoft.com^
 ||iwovfiidszrk.tech^
 ||iwuh.org^
@@ -16037,6 +16043,7 @@ vkcdnservice.appspot.com^
 ||luyten-98c.com^
 ||lv5hj.top^
 ||lv9qr0g0.xyz^
+||lvbaeugc.com^
 ||lvhcqaku.com^
 ||lvodomo.info^
 ||lvojjayaaoqym.top^
@@ -22357,6 +22364,7 @@ vkcdnservice.appspot.com^
 ||rof77skt5zo0.com^
 ||rofant.com^
 ||rofitstefukhatexc.com^
+||rofxiufqch.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
 ||roiapp.net^
@@ -24254,6 +24262,7 @@ vkcdnservice.appspot.com^
 ||stackmultiple.com^
 ||stackprotectnational.com^
 ||staerlcmplks.xyz^
+||staffdisgustedducked.com^
 ||staffdollar.com^
 ||stagepopkek.com^
 ||stagerydialing.shop^
@@ -43958,6 +43967,8 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||altolsqy.com^
+||fkjdiefz.icu^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
