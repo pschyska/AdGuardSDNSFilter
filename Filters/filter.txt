@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-13T12:18:24.677Z
+! Last modified: 2024-12-13T18:13:31.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||cpngiubbcnq.love^
 ||ads.twdcgrid.com^
 ||myaudioads.com^
 ||rixengine.com^
@@ -2007,6 +2008,7 @@ vkcdnservice.appspot.com^
 ||49b6b77e56.com^
 ||49d4db4864.com^
 ||4a9517991d.com^
+||4armn.com^
 ||4b6994dfa47cee4.com^
 ||4b7140e260.com^
 ||4bad5cdf48.com^
@@ -3242,6 +3244,7 @@ vkcdnservice.appspot.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
 ||afiliapub.click^
+||afilliatetraff.com^
 ||afkearupl.com^
 ||afloatroyalty.com^
 ||afm01.com^
@@ -11198,6 +11201,7 @@ vkcdnservice.appspot.com^
 ||frettedmalta.top^
 ||frezahkthnz.com^
 ||frfetchme.com^
+||frfsjjtis.com^
 ||fri4esianewheywr90itrage.com^
 ||frictionliteral.com^
 ||frictionterritoryvacancy.com^
@@ -15018,6 +15022,7 @@ vkcdnservice.appspot.com^
 ||knownwarn.com^
 ||knpfx.life^
 ||kntodvofiyjjl.xyz^
+||knubletupgrow.shop^
 ||knutenegros.pro^
 ||koabapeed.com^
 ||koafaimoor.net^
@@ -18688,6 +18693,7 @@ vkcdnservice.appspot.com^
 ||oometermerkhet.click^
 ||oomsijahail.com^
 ||oomsoapt.net^
+||oomsurtour.net^
 ||oongouha.xyz^
 ||oonsouque.com^
 ||oopatet.com^
@@ -20501,6 +20507,7 @@ vkcdnservice.appspot.com^
 ||printerswear.com^
 ||printgrownuphail.com^
 ||printsmull.com^
+||prioraslop.com^
 ||priorityblockinghopped.com^
 ||priselapse.com^
 ||prisonfirmlyswallow.com^
@@ -27304,6 +27311,7 @@ vkcdnservice.appspot.com^
 ||villagerreporter.com^
 ||vilmgins.com^
 ||vilpujzmyhu.com^
+||vimaxckc.com^
 ||vincentagrafes.top^
 ||vindicosuite.com^
 ||vindictivegrabnautical.com^
@@ -36467,6 +36475,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||b10.justacdn.net^
 ||wkzw.me^
 ||dhkqqe.top^
 ||yruadj.top^
@@ -44039,6 +44048,8 @@ vkcdnservice.appspot.com^
 ||ctimiyf.top^
 ||8et.icu^
 ||treimphens.com^
+||zr3.icu^
+||htimiyu.top^
 ||neldatsy.com^
 ||yqlzccxn.icu^
 ||bjimtyv.top^
