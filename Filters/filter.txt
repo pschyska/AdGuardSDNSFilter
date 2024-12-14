@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-13T18:13:31.624Z
+! Last modified: 2024-12-14T00:47:12.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1557,6 +1557,7 @@ vkcdnservice.appspot.com^
 !
 ! Non-flagged (Generic blocks)
 ||00d84987c0.com^
+||00f8c4bb25.com^
 ||012024jhvjhkozekl.space^
 ||0127c96640.com^
 ||01counter.com^
@@ -1576,6 +1577,7 @@ vkcdnservice.appspot.com^
 ||05e11c9f6f.com^
 ||0676el9lskux.top^
 ||06a21eff24.com^
+||06cffaae87.com^
 ||070880.com^
 ||0760571ca9.com^
 ||07a1624bd7.com^
@@ -8027,6 +8029,7 @@ vkcdnservice.appspot.com^
 ||d0main.ru^
 ||d15a035f27.com^
 ||d1a0c6affa.com^
+||d1f76eb5a4.com^
 ||d1x9q8w2e4.xyz^
 ||d1ygczx880h5yu.cloudfront.net^
 ||d24ak3f2b.top^
@@ -27747,6 +27750,7 @@ vkcdnservice.appspot.com^
 ||wcbxugtfk.com^
 ||wcdxpxugsrk.xyz^
 ||wcgcddncqveiqia.xyz^
+||wcigmepzygad.com^
 ||wcmcs.net^
 ||wcnhhqqueu.com^
 ||wcoaswaxkrt.com^
@@ -28680,6 +28684,7 @@ vkcdnservice.appspot.com^
 ||xwqea.com^
 ||xwqvytuiko.com^
 ||xwvduxeiuv.com^
+||xwzbpkku-i.site^
 ||xx-umomfzqik.today^
 ||xxccdshj.com^
 ||xxdfexbwv.top^
@@ -44042,6 +44047,9 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||wlouqsz.xyz^
+||hcznaubp.icu^
+||truxedku.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
