@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-14T12:16:43.275Z
+! Last modified: 2024-12-14T18:12:15.724Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -36066,6 +36066,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||jp1media.com^
 ||bra.almado.jp^
 ||adsby.2bet.co.jp^
 ||indexad.net^
@@ -38576,8 +38577,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Dec 2024 17:22 UTC+7
-! Version: 2412141722
+! Last modified: 14 Dec 2024 23:08 UTC+7
+! Version: 2412142308
 ! Blocked: 934 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39476,8 +39477,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Dec 2024 17:23 UTC+7
-! Version: 2412141723
+! Last modified: 14 Dec 2024 23:08 UTC+7
+! Version: 2412142308
 ! Blocked: 4.689 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44055,6 +44056,8 @@ vkcdnservice.appspot.com^
 ||qm2.icu^
 ||itimiyo.top^
 ||vegaingi.com^
+||3lo.icu^
+||jtimiya.top^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
