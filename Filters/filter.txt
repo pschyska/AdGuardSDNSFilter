@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-15T06:13:25.582Z
+! Last modified: 2024-12-15T12:17:01.732Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5971,6 +5971,7 @@ vkcdnservice.appspot.com^
 ||bryond.com^
 ||bsantycbjnf.com^
 ||bsbrcdna.com^
+||bservr.com^
 ||bsgbd77l.de^
 ||bshrdr.com^
 ||bsilzzc.com^
@@ -12758,7 +12759,6 @@ vkcdnservice.appspot.com^
 ||heavespectaclescoefficient.com^
 ||heavyuniversecandy.com^
 ||hebenonwidegab.top^
-||hebiichigo.com^
 ||hectorfeminine.com^
 ||hectorobedient.com^
 ||hedgehoghugsyou.com^
@@ -28667,7 +28667,6 @@ vkcdnservice.appspot.com^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
-||xupalace.org^
 ||xuqza.com^
 ||xvbwvle.com^
 ||xvfyubhqjp.xyz^
@@ -44061,6 +44060,10 @@ vkcdnservice.appspot.com^
 ||aigfednd.icu^
 ||chonaesor.com^
 ||warped-bus.com^
+||ktimiyd.top^
+||a5t.icu^
+||xpicj0.icu^
+||siconoi.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
