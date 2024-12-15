@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-15T12:17:01.732Z
+! Last modified: 2024-12-15T18:12:13.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1597,6 +1597,7 @@ vkcdnservice.appspot.com^
 ||0eade9dd8d.com^
 ||0emn.com^
 ||0f461325bf56c3e1b9.com^
+||0ffaf504b2.com^
 ||0fmm.com^
 ||0gw7e6s3wrao9y3q.pro^
 ||0i0i0i0.com^
@@ -3484,6 +3485,7 @@ vkcdnservice.appspot.com^
 ||aktwusgwep.com^
 ||akutapro.com^
 ||akvqulocj.com^
+||akvvraarxa.com^
 ||al-adtech.com^
 ||alackzokor.com^
 ||alacranheugh.shop^
@@ -3743,6 +3745,7 @@ vkcdnservice.appspot.com^
 ||amnoctowlan.club^
 ||amntx1.net^
 ||amnwpircuomd.com^
+||amoberficin.top^
 ||amoddishor.com^
 ||amon1.net^
 ||amonar.com^
@@ -4090,6 +4093,7 @@ vkcdnservice.appspot.com^
 ||arithpouted.com^
 ||arkabstoppit.com^
 ||arkdcz.com^
+||arketingefifortw.com^
 ||arkfacialdaybreak.com^
 ||arkfreakyinsufficient.com^
 ||arkunexpectedtrousers.com^
@@ -4120,6 +4124,7 @@ vkcdnservice.appspot.com^
 ||arraysurvivalcarla.com^
 ||arrearsdecember.com^
 ||arrearstreatyexamples.com^
+||arrestjav182.fun^
 ||arrivaltroublesome.com^
 ||arrivedcanteen.com^
 ||arrivedeuropean.com^
@@ -4256,6 +4261,7 @@ vkcdnservice.appspot.com^
 ||assetize.com^
 ||assignedeliminatebonfire.com^
 ||assignmentlonesome.com^
+||assimilatecigarettes.com^
 ||assistancelawnthesis.com^
 ||assistantasks.com^
 ||assithgibed.shop^
@@ -4675,6 +4681,7 @@ vkcdnservice.appspot.com^
 ||aydandelion.com^
 ||ayehxorfaiqry.com^
 ||ayga.xyz^
+||aykqyjzbkkkra.top^
 ||aymobi.online^
 ||ayrather.com^
 ||aywivflptwd.com^
@@ -4869,6 +4876,7 @@ vkcdnservice.appspot.com^
 ||baobabsruesome.com^
 ||bapdvtk.com^
 ||baptrqyesunv.xyz^
+||barazasieve.click^
 ||barbabridgeoverprotective.com^
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
@@ -4946,6 +4954,7 @@ vkcdnservice.appspot.com^
 ||bauviseph.com^
 ||bauwonaujouloo.net^
 ||bauzoanu.com^
+||bavrix.top^
 ||bavxuhaxtqi.com^
 ||bawickie.com^
 ||bawixi.xyz^
@@ -5377,6 +5386,7 @@ vkcdnservice.appspot.com^
 ||binaryfailure.com^
 ||binaryrecentrecentcut.com^
 ||bincatracs.com^
+||bineukdwithme.com^
 ||bineukdwithmef.info^
 ||binomnet.com^
 ||binomnet3.com^
@@ -6308,6 +6318,7 @@ vkcdnservice.appspot.com^
 ||cap-cap-pop.com^
 ||capaciousdrewreligion.com^
 ||caperedlevi.com^
+||capesunlocks.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
 ||caphrizing.com^
@@ -6924,6 +6935,7 @@ vkcdnservice.appspot.com^
 ||citysite.net^
 ||civadsoo.net^
 ||civetformity.com^
+||civilization474.fun^
 ||civilizationfearfulsniffed.com^
 ||civilizationperspirationhoroscope.com^
 ||civilizationthose.com^
@@ -7469,6 +7481,7 @@ vkcdnservice.appspot.com^
 ||consensusindustryrepresentation.com^
 ||consessionconsessiontimber.com^
 ||consideratepronouncedcar.com^
+||consideration3x.fun^
 ||consideringscallion.com^
 ||consistedlovedstimulate.com^
 ||consistpromised.com^
@@ -8249,6 +8262,7 @@ vkcdnservice.appspot.com^
 ||dc-feed.com^
 ||dc-rotator.com^
 ||dcfnihzg81pa.com^
+||dcgjpojm.space^
 ||dchxxtrxhsjnr.com^
 ||dcjaefrbn.xyz^
 ||dd0122893e.com^
@@ -9207,6 +9221,7 @@ vkcdnservice.appspot.com^
 ||drizzlepose.com^
 ||drizzlerules.com^
 ||drkness.net^
+||drleez.xyz^
 ||dromoicassida.com^
 ||dronediscussed.com^
 ||dronetmango.com^
@@ -10672,6 +10687,7 @@ vkcdnservice.appspot.com^
 ||fhepiqajsdap.com^
 ||fhgh9sd.com^
 ||fhisladyloveh.xyz^
+||fhldb.site^
 ||fhsmtrnsfnt.com^
 ||fhv00rxa2.com^
 ||fhyazslzuaw.com^
@@ -12509,6 +12525,7 @@ vkcdnservice.appspot.com^
 ||h5lwvwj.top^
 ||h5r2dzdwqk.com^
 ||h74v6kerf.com^
+||h827r1qbhk12pt.click^
 ||h8brccv4zf5h.com^
 ||haamumvxavsxwac.xyz^
 ||habirimodioli.com^
@@ -13835,6 +13852,7 @@ vkcdnservice.appspot.com^
 ||inhabitsensationdeadline.com^
 ||inhaleecstatic.com^
 ||inhanceego.com^
+||inherentdecide.com^
 ||inheritancepillar.com^
 ||inheritedgeneralrailroad.com^
 ||inheritedgravysuspected.com^
@@ -14564,6 +14582,7 @@ vkcdnservice.appspot.com^
 ||joopaish.com^
 ||jootizud.net^
 ||jopbvpsglwfm.com^
+||joqowqyaarewj.top^
 ||jorbfstarn.com^
 ||jorttiuyng.com^
 ||josephineravine.com^
@@ -15516,6 +15535,7 @@ vkcdnservice.appspot.com^
 ||levityheartinstrument.com^
 ||levityquestionshandcuff.com^
 ||levyteenagercrushing.com^
+||lewdl.com^
 ||lewlanderpurgan.com^
 ||lexicoggeegaw.website^
 ||lf8q.online^
@@ -18039,6 +18059,7 @@ vkcdnservice.appspot.com^
 ||nsdsvc.com^
 ||nservantasrela.info^
 ||nsfwadds.com^
+||nsfxopckqflk.com^
 ||nsjyfpo.com^
 ||nskwqto.com^
 ||nsmartad.com^
@@ -23890,6 +23911,7 @@ vkcdnservice.appspot.com^
 ||snebbubbled.com^
 ||sneernodaccommodating.com^
 ||sneezeboring.com^
+||snhcnjjxrlqkml.com^
 ||snhtvtp.com^
 ||sninancukanki.com^
 ||snipersex.com^
@@ -27143,6 +27165,7 @@ vkcdnservice.appspot.com^
 ||venusfritter.com^
 ||veoxphl.com^
 ||verandahcrease.com^
+||verbwarilyclotted.com^
 ||vereforhedidno.info^
 ||vergi-gwc.com^
 ||verifiablevolume.com^
@@ -28959,6 +28982,7 @@ vkcdnservice.appspot.com^
 ||yukpxxp.com^
 ||yulunanews.name^
 ||yumenetworks.com^
+||yummycdn.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppads.com^
@@ -29018,6 +29042,7 @@ vkcdnservice.appspot.com^
 ||zangaisempo.net^
 ||zangocash.com^
 ||zanoogha.com^
+||zaokko.com^
 ||zaparena.com^
 ||zaphakesleigh.com^
 ||zaphararidged.com^
@@ -36065,6 +36090,8 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||axesslove.mixh.jp^
+||kaomanko.axesslove.com^
 ||jp1media.com^
 ||bra.almado.jp^
 ||adsby.2bet.co.jp^
@@ -38576,8 +38603,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 15 Dec 2024 10:21 UTC+7
-! Version: 2412151021
+! Last modified: 15 Dec 2024 22:36 UTC+7
+! Version: 2412152236
 ! Blocked: 934 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39476,8 +39503,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 15 Dec 2024 10:22 UTC+7
-! Version: 2412151022
+! Last modified: 15 Dec 2024 22:35 UTC+7
+! Version: 2412152235
 ! Blocked: 4.689 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44064,6 +44091,8 @@ vkcdnservice.appspot.com^
 ||a5t.icu^
 ||xpicj0.icu^
 ||siconoi.com^
+||z8t.icu^
+||stimiyb.top^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
