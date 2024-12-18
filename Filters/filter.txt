@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-18T00:46:34.182Z
+! Last modified: 2024-12-18T06:13:49.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -9129,6 +9129,7 @@ vkcdnservice.appspot.com^
 ||dovictinian.com^
 ||down1oads.com^
 ||download-adblock-zen.com^
+||download-privacybear.com^
 ||download-ready.net^
 ||download4.cfd^
 ||download4allfree.com^
@@ -44059,6 +44060,13 @@ vkcdnservice.appspot.com^
 ||screspoy.com^
 ||ua2.icu^
 ||ttimiyi.top^
+||elloisny.com^
+||zabpgtjh.icu^
+||utimiyt.top^
+||ee5.icu^
+||pofbpx.icu^
+||sckyf.com^
+||ppio12181ios.top^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
