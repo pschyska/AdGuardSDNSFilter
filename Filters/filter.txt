@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-18T12:18:27.197Z
+! Last modified: 2024-12-18T18:13:39.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||kljhsanvj.com^
+||leegreemula.net^
 ||ldjyvegage.com^
 ||skhmjezzj.com^
 ||predictivadnetwork.com^
@@ -44070,6 +44072,8 @@ vkcdnservice.appspot.com^
 ||sckyf.com^
 ||ppio12181ios.top^
 ||stongors.com^
+||4we.icu^
+||otimiyk.top^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
