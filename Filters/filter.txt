@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-19T18:12:49.798Z
+! Last modified: 2024-12-20T00:44:28.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10545,6 +10545,7 @@ vkcdnservice.appspot.com^
 ||fastnativead.com^
 ||fatalityplatinumthing.com^
 ||fatalityreel.com^
+||fatalshould.com^
 ||fatchilli.media^
 ||fatenoticemayhem.com^
 ||fatheemt.com^
@@ -44080,6 +44081,11 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||grmzwc.icu^
+||ppio12200ios.top^
+||ondraits.com^
+||lhxolz.icu^
+||tdzqoewz.icu^
 ||threkuth.com^
 ||nrbwzh.icu^
 ||32n.icu^
