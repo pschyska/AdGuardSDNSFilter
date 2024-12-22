@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-22T12:15:19.647Z
+! Last modified: 2024-12-22T18:11:09.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38120,9 +38120,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 21 Dec 2024 14:49 UTC+7
-! Version: 2412211449
-! Blocked: 935 rules
+! Last modified: 22 Dec 2024 23:53 UTC+7
+! Version: 2412222353
+! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38414,7 +38414,6 @@ vkcdnservice.appspot.com^
 ||trackingsea.zingplay.com^
 ||trackingvn.zingplay.com^
 ||trk-pcweb.api.zaloapp.com^
-||urekamedia.com^
 ||v20.cnnd.vn^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
@@ -38686,15 +38685,10 @@ vkcdnservice.appspot.com^
 ||counter.ntdvn.net^
 ||cpx.vnecdn.com^
 ||cre-ads.com^
-||crm.bizfly.vn^
-||crm.englishtown.edu.vn^
-||crmbizfly.todo.vn^
-||crmx.eqvn.net^
-||cskh-hcm.fpt.edu.vn^
-||cskh.onlinecrm.vn^
 ||csmads.gameclick.vn^
 ||delecpuzz.com^
 ||delivery.doisongphapluat.com.vn^
+||delivery.upremium.asia^
 ||demopage.me^
 ||deqik.com^
 ||digi.vinut.com.vn^
@@ -38837,6 +38831,8 @@ vkcdnservice.appspot.com^
 ||nstat.headlines.pw^
 ||offerwall.headlines.pw^
 ||openx.motgame.vn^
+||optimize.ulinq.asia^
+||optimize.urekamedia.com^
 ||ox1.vietstock.vn^
 ||pixel.innocom.vn^
 ||plausible.vucar.vn^
@@ -39002,8 +38998,6 @@ vkcdnservice.appspot.com^
 ||web-analytic.ghtk.vn^
 ||web-analytics.mona.host^
 ||webchat.caresoft.vn^
-||webpush.bizfly.vn^
-||webpush.todo.vn^
 ||webpush.vn^
 ||webstag.kplus.vn^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
@@ -43600,6 +43594,8 @@ vkcdnservice.appspot.com^
 ||ir4.icu^
 ||jwilmia.top^
 ||niecarsg.com^
+||4fr.icu^
+||kwilmid.top^
 ||rktjxj.icu^
 ||orodsmnu.com^
 ||muiuim.icu^
