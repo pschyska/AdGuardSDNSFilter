@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-23T06:14:08.654Z
+! Last modified: 2024-12-23T12:17:40.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28819,6 +28819,7 @@ vkcdnservice.appspot.com^
 ||zoawufoy.net^
 ||zodiacdinner.com^
 ||zodiacranbehalf.com^
+||zoeacaring.com^
 ||zoeaegyral.com^
 ||zoeaethenar.com^
 ||zofitsou.com^
@@ -43683,6 +43684,7 @@ vkcdnservice.appspot.com^
 ||ndlwtl.icu^
 ||swilmib.top^
 ||nx8.icu^
+||irgidshiv.com^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
@@ -49799,6 +49801,8 @@ analytics-*.aasaam.com
 ! cdn.rozetka.com.ua is blocked by CNAME 'rozetka-cdn.exponea.com'
 @@||cdn.rozetka.com.ua^|
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309 honto link
+@@||vcentry2.valuecommerce.ne.jp^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1569
 @@||recommender.scarabresearch.com^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167622
