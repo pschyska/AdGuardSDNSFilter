@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-24T00:44:22.199Z
+! Last modified: 2024-12-24T06:13:18.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7054,6 +7054,7 @@ vkcdnservice.appspot.com^
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clmbtech.com^
 ||clnk.me^
 ||cloakedpsyche.click^
@@ -9137,6 +9138,7 @@ vkcdnservice.appspot.com^
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
@@ -43738,6 +43740,9 @@ vkcdnservice.appspot.com^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||beenedsl.com^
+||tghrfv.icu^
+||wwilmie.top^
+||k9u.icu^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^
