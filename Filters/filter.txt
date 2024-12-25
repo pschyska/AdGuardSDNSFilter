@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-25T12:16:48.174Z
+! Last modified: 2024-12-25T18:12:03.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,9 @@
 !
 !
 !
+||gsrgjsmymkwt.com^
+||zeecajichaiw.net^
+||server.megabrain.co^
 ||cf.adxcel.com^
 ||cda7k-ddok.com^
 ||sat.cellordion3.net^
@@ -1016,6 +1019,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^
 ||ctent.povvverz.one^
 ||az-neverblock.aznude.workers.dev^
@@ -6451,6 +6455,7 @@ vkcdnservice.appspot.com^
 ||centalkochab.com^
 ||centeredfailinghotline.com^
 ||centeredmotorcycle.com^
+||centlyhavebed.com^
 ||centralnervous.net^
 ||centredrag.com^
 ||centrenicelyteaching.com^
@@ -7881,6 +7886,7 @@ vkcdnservice.appspot.com^
 ||cynoidfudging.shop^
 ||cypfdxbynb.com^
 ||cypresslocum.com^
+||cyrociest.shop^
 ||cytomecruor.top^
 ||cyuyvjwyfvn.com^
 ||cyvjmnu.com^
@@ -9535,6 +9541,7 @@ vkcdnservice.appspot.com^
 ||ehpxmsqghx.xyz^
 ||ehrydnmdoe.com^
 ||ehutzaug.life^
+||eibzywva.com^
 ||eidoscruster.com^
 ||eighteenderived.com^
 ||eighteenprofit.com^
@@ -13247,6 +13254,7 @@ vkcdnservice.appspot.com^
 ||iarrowtoldilim.info^
 ||iasbetaffiliates.com^
 ||iasrv.com^
+||ibbmkdooqkj.com^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||iboobeelt.net^
@@ -14109,6 +14117,7 @@ vkcdnservice.appspot.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
 ||jamstech.store^
+||janads.shop^
 ||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
@@ -20445,6 +20454,7 @@ vkcdnservice.appspot.com^
 ||protawe.com^
 ||protectonlinenow.com^
 ||protectorincorporatehush.com^
+||protectwborcn.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
 ||proteininnovationpioneer.com^
@@ -22903,6 +22913,7 @@ vkcdnservice.appspot.com^
 ||sehlicegxy.com^
 ||seibertspart.com^
 ||seichesditali.click^
+||seishinyoga.com^
 ||seizecrashsophia.com^
 ||seizefortunesdefiant.com^
 ||seizeshoot.com^
@@ -23590,6 +23601,7 @@ vkcdnservice.appspot.com^
 ||smhmayvtwii.xyz^
 ||smigdxy.com^
 ||smigro.info^
+||smileesidesuk.com^
 ||smileoffennec.com^
 ||smilesalesmanhorrified.com^
 ||smilewanted.com^
@@ -37825,7 +37837,6 @@ vkcdnservice.appspot.com^
 ||wct-2.com^
 ||webbannons.ntm.eu^
 ||webbplatsanalys.goteborg.se^
-||webpower.eu^
 ||websdk.appsflyer.com^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
@@ -43748,6 +43759,8 @@ vkcdnservice.appspot.com^
 ||r4u.icu^
 ||bpxxgkoj.icu^
 ||gmso12251oka.top^
+||6cs.icu^
+||uwilmit.top^
 ||beenedsl.com^
 ||tghrfv.icu^
 ||wwilmie.top^
@@ -48709,6 +48722,9 @@ analytics-*.aasaam.com
 
 # >> Y <<
 ||yelloadwise.ir^
+
+||sentry.yektanet.tech^
+
 ||yekbux.com^
 
 # >> Z <<
