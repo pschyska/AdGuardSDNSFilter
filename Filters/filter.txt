@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-26T12:17:06.921Z
+! Last modified: 2024-12-26T18:12:26.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38285,8 +38285,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 23 Dec 2024 22:57 UTC+7
-! Version: 2412232257
+! Last modified: 26 Dec 2024 22:56 UTC+7
+! Version: 2412262256
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39181,9 +39181,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 23 Dec 2024 22:54 UTC+7
-! Version: 2412232254
-! Blocked: 4.689 rules
+! Last modified: 26 Dec 2024 22:56 UTC+7
+! Version: 2412262256
+! Blocked: 4.691 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -39574,6 +39574,7 @@ vkcdnservice.appspot.com^
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chovayfecredit.com^
 ||chovaynhanh.online^
 ||chovaytiengopsg.com^
@@ -41455,6 +41456,7 @@ vkcdnservice.appspot.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profileid.info^
 ||prolicensekeys.com^
 ||promomobilsuzukijakarta.com^
 ||provider.giize.com^
@@ -43762,6 +43764,8 @@ vkcdnservice.appspot.com^
 ||zaeqrath.com^
 ||qovunx.com^
 ||lurefq.com^
+||5ik.icu^
+||lwilmil.top^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
