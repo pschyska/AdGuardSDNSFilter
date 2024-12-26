@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-26T06:13:39.475Z
+! Last modified: 2024-12-26T12:17:06.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5366,6 +5366,7 @@ vkcdnservice.appspot.com^
 ||blanddish.pro^
 ||blank-tune.pro^
 ||blareclockwisebead.com^
+||blaring-chocolate.com^
 ||blarnyzizzles.shop^
 ||blasphemebelfry.com^
 ||blastcahs.com^
@@ -6652,6 +6653,7 @@ vkcdnservice.appspot.com^
 ||chijauqybb.xyz^
 ||childbirthabolishment.com^
 ||childbirthprivaterouge.com^
+||childhoodstudioconversation.com^
 ||childhoodtilt.com^
 ||childishenough.com^
 ||childlessporcupinevaluables.com^
@@ -9324,7 +9326,6 @@ vkcdnservice.appspot.com^
 ||eastfeukufunde.com^
 ||eastrk-dn.com^
 ||eastrk-lg.com^
-||eastyewebaried.info^
 ||easy-dating.org^
 ||easyaccess.mobi^
 ||easyad.com^
@@ -10413,6 +10414,7 @@ vkcdnservice.appspot.com^
 ||fdelphaswcealifornica.com^
 ||fdiirjong.com^
 ||fdmmgwlcg.com^
+||fdxbilemeofrx.com^
 ||fe7qygqi2p2h.com^
 ||feadbe5b97.com^
 ||feadrope.net^
@@ -11749,7 +11751,6 @@ vkcdnservice.appspot.com^
 ||glokta.info^
 ||gloltaiz.xyz^
 ||glomocon.xyz^
-||glomtipagrou.xyz^
 ||glonsophe.com^
 ||gloodsie.com^
 ||glooftezoad.net^
@@ -14996,7 +14997,6 @@ vkcdnservice.appspot.com^
 ||kxkqqycs.xyz^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
-||kxsvelr.com^
 ||kxxdxikksc.space^
 ||kymirasite.pro^
 ||kypjzznihczh.online^
@@ -15593,7 +15593,6 @@ vkcdnservice.appspot.com^
 ||locallycompare.com^
 ||localslutsnearme.com^
 ||localsnaughty.com^
-||locatchi.xyz^
 ||locatedstructure.com^
 ||locationaircondition.com^
 ||lockdowncautionmentally.com^
@@ -16585,7 +16584,6 @@ vkcdnservice.appspot.com^
 ||mimicdivineconstable.com^
 ||mimicvrows.com^
 ||mimilcnf.pro^
-||mimosaavior.top
 ||mimosaavior.top^
 ||mimsossopet.com^
 ||mimtelurdeghaul.net^
@@ -17558,7 +17556,6 @@ vkcdnservice.appspot.com^
 ||nightclubconceivedmanuscript.com^
 ||nighter.club^
 ||nightfallroad.com^
-||nighthereflewovert.info^
 ||nightmarerelive.com^
 ||nightspickcough.com^
 ||nigmen.com^
@@ -18244,7 +18241,6 @@ vkcdnservice.appspot.com^
 ||ojapanelm.xyz^
 ||ojkduzbm.com^
 ||ojmvywz.com^
-||ojoglir.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
 ||ojsxtysilofk.com^
@@ -18667,6 +18663,7 @@ vkcdnservice.appspot.com^
 ||orthcurium.com^
 ||ortwaukthwaeals.com^
 ||oruxdwhatijun.info^
+||orysyisn.com^
 ||osadooffinegold.com^
 ||osarmapa.net^
 ||oscohkajcjz.com^
@@ -20365,7 +20362,6 @@ vkcdnservice.appspot.com^
 ||professionalswebcheck.com^
 ||professorrevealingoctopus.com^
 ||professtrespass.com^
-||proffering.xyz
 ||proffering.xyz^
 ||profilingerror.online^
 ||profitablecpmgate.com^
@@ -22060,7 +22056,6 @@ vkcdnservice.appspot.com^
 ||ripheeksirg.net^
 ||ripplebuiltinpinching.com^
 ||ripplecauliflowercock.com^
-||rirteelraibsou.net
 ||rirteelraibsou.net^
 ||rirtoojoaw.net^
 ||risausso.com^
@@ -25675,7 +25670,6 @@ vkcdnservice.appspot.com^
 ||trackcherry.com^
 ||tracker-2.com^
 ||tracker-sav.space^
-||tracker-tds.info
 ||tracker-tds.info^
 ||trackerrr.com^
 ||trackeverything.co^
@@ -29021,12 +29015,16 @@ vkcdnservice.appspot.com^
 ||doubleadsclick.com^
 ||downzoner.xyz^
 ||duuuyqiwqc.xyz^
+||eastyewebaried.info^
 ||edpl9v.pro^
 ||findrpc.sh^
+||glomtipagrou.xyz^
 ||hhju87yhn7.top^
 ||jscdnweb.pages.dev^
 ||kapitalberg.com^
 ||kbumnvc.com^
+||kxsvelr.com^
+||locatchi.xyz^
 ||metamask.blog^
 ||moralis-node.dev^
 ||my-hub.top^
@@ -29036,9 +29034,11 @@ vkcdnservice.appspot.com^
 ||nftfastapi.com^
 ||nfts-opensea.web.app^
 ||nginxxx.xyz^
+||nighthereflewovert.info^
 ||nodeclaim.com^
 ||obosnovano.su^
 ||oeubqjx.com^
+||ojoglir.com^
 ||olopruy.com^
 ||openweatherapi.com^
 ||phgotof2.com^
@@ -30077,6 +30077,7 @@ vkcdnservice.appspot.com^
 ||reomanager.pl^
 ||reonews.pl^
 ||republer.com^
+||revbid.net^
 ||revenueflex.com^
 ||revive-adserver.net^
 ||reyden-x.com^
@@ -43756,6 +43757,11 @@ vkcdnservice.appspot.com^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
+||gmso12261oka.top^
+||dhnnbfok.icu^
+||zaeqrath.com^
+||qovunx.com^
+||lurefq.com^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
@@ -44009,7 +44015,6 @@ vkcdnservice.appspot.com^
 ||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
-||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
 ||wcwkcus.top^
