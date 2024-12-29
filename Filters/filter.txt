@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-29T12:15:16.840Z
+! Last modified: 2024-12-29T18:11:04.736Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3162,6 +3162,7 @@ vkcdnservice.appspot.com^
 ||afgtrwd1.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
+||afi-thor.com^
 ||afiliapub.click^
 ||afilliatetraff.com^
 ||afkearupl.com^
@@ -9395,6 +9396,7 @@ vkcdnservice.appspot.com^
 ||eckleinlienic.click^
 ||eckonturricalsbu.org^
 ||eclkmpbn.com^
+||eclqhkyjqpcv.com^
 ||ecoastandhei.org^
 ||econenectedith.info^
 ||economyhave.com^
@@ -14479,6 +14481,7 @@ vkcdnservice.appspot.com^
 ||jsontdsexit.com^
 ||jsretra.com^
 ||jssearch.net^
+||jssejsnvdy.com^
 ||jswww.net^
 ||jubacasziel.shop^
 ||jubnaadserve.com^
@@ -17043,6 +17046,7 @@ vkcdnservice.appspot.com^
 ||mtejadostvovn.com^
 ||mthvjim.com^
 ||mtkgyrzfygdh.com^
+||mtptaewihgbzcq.com^
 ||mtuvr.life^
 ||mtypitea.net^
 ||mtysrtgur.com^
@@ -18213,6 +18217,7 @@ vkcdnservice.appspot.com^
 ||ogeeztf.com^
 ||ogercron.com^
 ||ogetherefwukoul.info^
+||ogfaqwwux.com^
 ||ogfba.net^
 ||ogfbb.net^
 ||ogfbc.net^
@@ -21566,6 +21571,7 @@ vkcdnservice.appspot.com^
 ||recyclinganticipated.com^
 ||recyclingbees.com^
 ||recyclingproverbintroduce.com^
+||red-just-fit.click^
 ||red-track.xyz^
 ||redadisappoi.info^
 ||redadisappointed.com^
@@ -23940,6 +23946,7 @@ vkcdnservice.appspot.com^
 ||spentjerseydelve.com^
 ||sperans-beactor.com^
 ||spheredkapas.com^
+||spice-sugar.net^
 ||spiceethnic.com^
 ||spicy-combination.pro^
 ||spicy-effect.com^
@@ -24207,6 +24214,7 @@ vkcdnservice.appspot.com^
 ||steessay.com^
 ||steetchouwu.com^
 ||steinfqwe6782beck.com^
+||stella-nova.click^
 ||stellar-dating2.fun^
 ||stellarmingle.store^
 ||stelsarg.net^
@@ -28387,6 +28395,7 @@ vkcdnservice.appspot.com^
 ||xporn.in^
 ||xppedxgjxcajuae.xyz^
 ||xpxsfejcf.com^
+||xqdbitceeeixnw.com^
 ||xqeoitqw.site^
 ||xqmvzmt.com^
 ||xqwcryh.com^
@@ -35840,7 +35849,6 @@ vkcdnservice.appspot.com^
 ||seo.linel.top^
 ||compass-fit.jp^
 ||gs-ad.jp^
-||afi-thor.com^
 ||afbhub.net^
 ||advortex.cloud^
 ||dlp4luwpus5kr.cloudfront.net^
@@ -38329,8 +38337,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 28 Dec 2024 15:38 UTC+7
-! Version: 2412281538
+! Last modified: 30 Dec 2024 00:24 UTC+7
+! Version: 2412300024
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -39225,8 +39233,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 28 Dec 2024 15:30 UTC+7
-! Version: 2412281530
+! Last modified: 30 Dec 2024 00:24 UTC+7
+! Version: 2412300024
 ! Blocked: 4.692 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -43808,6 +43816,8 @@ vkcdnservice.appspot.com^
 ||iclimio.top^
 ||ljjhfw34.fun^
 ||scrugokl.com^
+||6ku.icu^
+||jclimia.top^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
