@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-12-30T06:13:55.862Z
+! Last modified: 2024-12-30T12:17:27.324Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||expensivefire.com^
 ||hellerraucous.top^
 ||pm.chetahtalc.com^
 ||jhu8u9.pro^
@@ -32111,6 +32112,7 @@ vkcdnservice.appspot.com^
 ||steamtraffic.com^
 ||streamateaccess.com^
 ||stripsaver.com^
+||sultrytraffic.com^
 ||supuv3.com^
 ||sv2.biz^
 ||sweetmedia.org^
