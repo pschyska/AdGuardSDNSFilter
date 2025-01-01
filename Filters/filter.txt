@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-01T00:50:19.030Z
+! Last modified: 2025-01-01T06:13:44.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37215,8 +37215,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-12-30 05:09:15 CET
-# entries:        1104
+# last updated:   2025-01-01 04:50:02 CET
+# entries:        1097
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -37486,7 +37486,6 @@ vkcdnservice.appspot.com^
 ||fraagesport.com^
 ||freegeoip.app^
 ||freespee.com^
-||frugalrushcap.com^
 ||funnelytics.io^
 ||fusion.bonniertidskrifter.se^
 ||ga.getresponse.com^
@@ -37597,7 +37596,6 @@ vkcdnservice.appspot.com^
 ||norranstats.azurewebsites.net^
 ||npario-inc.net^
 ||ntrfr.expekt.se^
-||ntrfr.pixel.bet^
 ||nucleusanalytics.io^
 ||offer-go.com^
 ||omni-ad-blocket.herokuapp.com^
@@ -37630,7 +37628,6 @@ vkcdnservice.appspot.com^
 ||pushcrew.com^
 ||pxl.host^
 ||r.existenz.se^
-||reauthenticator.com^
 ||recirculation.spot.im^
 ||redistats.com^
 ||region1.google-analytics.com^
@@ -37732,7 +37729,6 @@ vkcdnservice.appspot.com^
 ||stats.med.lu.se^
 ||stats.playoncenter.com^
 ||stats.poddtoppen.se^
-||stats.proff.se^
 ||stats.tipser.com^
 ||stats.userneeds.com^
 ||stats.wpmucdn.com^
@@ -43856,6 +43852,8 @@ vkcdnservice.appspot.com^
 ||nnfbxz.icu^
 ||gmso01010oka.top^
 ||bxheifoe.icu^
+||8fo.icu^
+||qclimiy.top^
 ||crigroik.com^
 ||vopzhl.icu^
 ||ltvutlyu.icu^
