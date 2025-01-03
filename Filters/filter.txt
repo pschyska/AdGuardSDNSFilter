@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-02T18:12:44.886Z
+! Last modified: 2025-01-03T00:44:15.131Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4917,6 +4917,7 @@ vkcdnservice.appspot.com^
 ||bekrookodilechan.com^
 ||belamicash.com^
 ||belatedsafety.pro^
+||belatedwricht.com^
 ||belavoplay.com^
 ||beleafwens.shop^
 ||belengougha.com^
@@ -6155,6 +6156,7 @@ vkcdnservice.appspot.com^
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
 ||caravanremarried.com^
+||caravelvirent.com^
 ||carbonads.com^
 ||carcflma.de^
 ||careersletbacks.com^
@@ -8391,6 +8393,7 @@ vkcdnservice.appspot.com^
 ||detour.click^
 ||deturbcordies.com^
 ||devastatedshorthandpleasantly.com^
+||devcre.site^
 ||developmentbulletinglorious.com^
 ||developmentgoat.com^
 ||devgottia.github.io^
@@ -8810,6 +8813,7 @@ vkcdnservice.appspot.com^
 ||dolehum.com^
 ||dolemeasuringscratched.com^
 ||doleyorpinc.website^
+||dolils.click^
 ||dollarade.com^
 ||dolohen.com^
 ||dolphinabberantleaflet.com^
@@ -10790,6 +10794,7 @@ vkcdnservice.appspot.com^
 ||foaglaid.xyz^
 ||foagrucheedauza.net^
 ||foakiwhazoja.com^
+||foaloocasho.net^
 ||foalwoollenwolves.com^
 ||foamingemda.top^
 ||foapsovi.net^
@@ -11910,6 +11915,7 @@ vkcdnservice.appspot.com^
 ||gooods4you.com^
 ||goosebomb.com^
 ||goosierappetit.com^
+||goothoozuptut.net^
 ||goourl.me^
 ||gophykopta.com^
 ||goplayhere.com^
@@ -13335,6 +13341,7 @@ vkcdnservice.appspot.com^
 ||ihavenewdomain.xyz^
 ||ihdcnwbcmw.com^
 ||ihhqwaurke.com^
+||ihiptootchouds.xyz^
 ||ihkybtde.com^
 ||ihnhnpz.com^
 ||ihoolrun.net^
@@ -14114,6 +14121,7 @@ vkcdnservice.appspot.com^
 ||janzmuarcst.com^
 ||japanbros.com^
 ||japegr.click^
+||japootchust.net^
 ||japw.cloud^
 ||jaqxaqoxwhce.com^
 ||jareechargu.xyz^
@@ -16108,6 +16116,7 @@ vkcdnservice.appspot.com^
 ||malurusoenone.top^
 ||mamaunweft.click^
 ||mamblubamblua.com^
+||mamimp.click^
 ||mammaclassesofficer.com^
 ||mammaldealbustle.com^
 ||mammalsidewaysthankful.com^
@@ -17312,6 +17321,7 @@ vkcdnservice.appspot.com^
 ||naupsakiwhy.com^
 ||naupseko.com^
 ||nauthait.com^
+||nautijutheest.net^
 ||nauwheer.net^
 ||nauzaphoay.net^
 ||navaidaosmic.top^
@@ -18704,6 +18714,7 @@ vkcdnservice.appspot.com^
 ||oscohkajcjz.com^
 ||osdmuxzag.com^
 ||osekwacuoxt.xyz^
+||oselamousey.com^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
 ||osgsijvkoap.com^
@@ -18828,6 +18839,7 @@ vkcdnservice.appspot.com^
 ||outcrycaseate.com^
 ||outdilateinterrupt.com^
 ||outelectrodean.com^
+||outfeatjamshid.com^
 ||outflednailbin.com^
 ||outfoxnapalms.com^
 ||outgratingknack.com^
@@ -21683,6 +21695,7 @@ vkcdnservice.appspot.com^
 ||registercherryheadquarter.com^
 ||registration423.fun^
 ||regiveshollas.shop^
+||reglazepatriae.com^
 ||regnicmow.xyz^
 ||regretfactor.com^
 ||regretuneasy.com^
@@ -22059,6 +22072,7 @@ vkcdnservice.appspot.com^
 ||richwebmedia.com^
 ||rickerrotal.com^
 ||riddleloud.com^
+||ridgerkimono.com^
 ||ridiculousegoismaspirin.com^
 ||ridikoptil.net^
 ||ridingdisguisessuffix.com^
@@ -24516,6 +24530,7 @@ vkcdnservice.appspot.com^
 ||subjectamazement.com^
 ||subjectedburglar.com^
 ||subjectscooter.com^
+||subjectsfaintly.com^
 ||subjectslisted.com^
 ||submarinefortressacceptable.com^
 ||submarinestooped.com^
@@ -25460,6 +25475,7 @@ vkcdnservice.appspot.com^
 ||timeforagreement.com^
 ||timelymongol.com^
 ||timeone.pro^
+||timersbedbug.com^
 ||timesroadmapwed.com^
 ||timetableitemvariables.com^
 ||timetoagree.com^
@@ -27182,6 +27198,7 @@ vkcdnservice.appspot.com^
 ||virtuousescape.pro^
 ||visariomedia.com^
 ||viscountquality.com^
+||viscusumgang.shop^
 ||visfirst.com^
 ||visiads.com^
 ||visibilitycrochetreflected.com^
@@ -28068,6 +28085,7 @@ vkcdnservice.appspot.com^
 ||woaniphud.com^
 ||woapheer.com^
 ||woapimaugu.net^
+||woareejoaley.net^
 ||wocwibkfutrj.com^
 ||woefifty.com^
 ||woespoke.com^
@@ -28535,6 +28553,7 @@ vkcdnservice.appspot.com^
 ||xylomavivat.com^
 ||xyooepktyy.xyz^
 ||xysgfqnara.xyz^
+||xyxz.site^
 ||xyz0k4gfs.xyz^
 ||xzezapozghp.com^
 ||xzqpz.com^
@@ -28559,6 +28578,7 @@ vkcdnservice.appspot.com^
 ||yarningbursal.com^
 ||yashi.com^
 ||yauperstote.top^
+||yauponbotone.com^
 ||yausbprxfft.xyz^
 ||yavaflocker.shop^
 ||yavli.com^
@@ -29968,6 +29988,7 @@ vkcdnservice.appspot.com^
 ||jobbio.com^
 ||journeymv.com^
 ||jubna.com^
+||juicyads.com^
 ||kaprila.com^
 ||kargo.com^
 ||kiosked.com^
@@ -31429,6 +31450,7 @@ vkcdnservice.appspot.com^
 ||d2ywv53s25fi6c.cloudfront.net^
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zbpgxs57sg1k.cloudfront.net^
+||d2zbrsgwxpxcye.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d2zf5gu5e5mp87.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
@@ -43887,6 +43909,10 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||rhndvagz.icu^
+||okpp01030.xyz^
+||cuvedyqs.com^
+||jthotb.icu^
 ||qhatarsl.com^
 ||lqlwjr.icu^
 ||ppxndfgf.icu^
