@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-03T18:12:40.823Z
+! Last modified: 2025-01-04T00:43:32.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -43937,6 +43937,11 @@ vkcdnservice.appspot.com^
 ||drandoxo.com^
 ||h5r.icu^
 ||bclimiv.top^
+||katoleiy.com^
+||okpp01040.xyz^
+||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
@@ -48647,6 +48652,8 @@ analytics-*.aasaam.com
 ||tracker.jabama.com^
 
 # >> K <<
+||logapi.karbord.io^
+
 ||kar-sentry.karnameh.com^
 
 # https://github.com/MasterKia/PersianBlocker/issues/101
