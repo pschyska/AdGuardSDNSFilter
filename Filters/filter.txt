@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-05T12:15:42.456Z
+! Last modified: 2025-01-05T18:11:20.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7008,7 +7008,6 @@ vkcdnservice.appspot.com^
 ||coagrohos.com^
 ||coalbandmanicure.com^
 ||coalitionfits.com^
-||coalkitchen.com^
 ||coaphauk.net^
 ||coarseauthorization.com^
 ||coashoohathaija.net^
@@ -7618,7 +7617,6 @@ vkcdnservice.appspot.com^
 ||creativeformatsnetwork.com^
 ||creativelardyprevailed.com^
 ||creativesumo.com^
-||creatorpassenger.com^
 ||creaturescoinsbang.com^
 ||creaturespendsfreak.com^
 ||crechecatholicclaimed.com^
@@ -8805,7 +8803,6 @@ vkcdnservice.appspot.com^
 ||doesbitesizeadvantages.com^
 ||doflygonan.com^
 ||dofrogadiera.com^
-||dogcollarfavourbluff.com^
 ||dogecalloo.com^
 ||doghasta.com^
 ||dogiedimepupae.com^
@@ -10745,7 +10742,6 @@ vkcdnservice.appspot.com^
 ||flounderhomemade.com^
 ||flounderpillowspooky.com^
 ||flourishbriefing.com^
-||flourishingcollaboration.com^
 ||flourishinghardwareinhibit.com^
 ||flousecuprate.top^
 ||flower1266.fun^
@@ -11547,7 +11543,6 @@ vkcdnservice.appspot.com^
 ||ghlyrecomemurg.com^
 ||ghnvfncbleiu.xyz^
 ||ghostchisel.com^
-||ghostgenie.com^
 ||ghostnewz.com^
 ||ghosttardy.com^
 ||ghsheukwasa.com^
@@ -16456,7 +16451,6 @@ vkcdnservice.appspot.com^
 ||memorableanticruel.com^
 ||memorablecutletbet.com^
 ||memorableeditor.com^
-||memorizematch.com^
 ||mempoonsoftoow.net^
 ||menacehabit.com^
 ||menacing-awareness.pro^
@@ -19621,7 +19615,6 @@ vkcdnservice.appspot.com^
 ||phokukse.com^
 ||phomoach.net^
 ||phoneboothsabledomesticated.com^
-||phonicsblitz.com^
 ||phoobsoalrie.com^
 ||phoognol.com^
 ||phoojeex.xyz^
@@ -20128,7 +20121,6 @@ vkcdnservice.appspot.com^
 ||possibilityformal.com^
 ||possibilityfoundationwallpaper.com^
 ||possibilityrespectivelyenglish.com^
-||possiblepencil.com^
 ||post-redirecting.com^
 ||postalfranticallyfriendship.com^
 ||postaoz.xyz^
@@ -21416,7 +21408,6 @@ vkcdnservice.appspot.com^
 ||rapolok.com^
 ||rapturemeddle.com^
 ||rar-vpn.com^
-||rarestcandy.com^
 ||rarrwcfe.com^
 ||rascalbygone.com^
 ||rashbarnabas.com^
@@ -23063,7 +23054,6 @@ vkcdnservice.appspot.com^
 ||sentenceinformedveil.com^
 ||sentientfog.com^
 ||sentimenthailstonesubjective.com^
-||sentinelp.com^
 ||seo-overview.com^
 ||separatepattern.pro^
 ||separationalphabet.com^
@@ -23588,7 +23578,6 @@ vkcdnservice.appspot.com^
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
-||skullmagnets.com^
 ||skunscold.top^
 ||skvxbool.xyz^
 ||skyadsmart.com^
@@ -24218,7 +24207,6 @@ vkcdnservice.appspot.com^
 ||startappexchange.com^
 ||startd0wnload22x.com^
 ||starterblackened.com^
-||startercost.com^
 ||startfinishthis.com^
 ||startpagea.com^
 ||startperfectsolutions.com^
@@ -27090,7 +27078,6 @@ vkcdnservice.appspot.com^
 ||viatechonline.com^
 ||viatepigan.com^
 ||vibanioa.com^
-||vibrantvale.com^
 ||vibrateapologiesshout.com^
 ||vic-m.co^
 ||vicious-instruction.pro^
@@ -43948,6 +43935,8 @@ vkcdnservice.appspot.com^
 ||hdyurliu.top^
 ||en6.icu^
 ||cachusrw.com^
+||u57.icu^
+||idyurlio.top^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^
@@ -47323,7 +47312,6 @@ vkcdnservice.appspot.com^
 ||a.baomihua.com^
 ||a.nowscore.com^
 ||a.xywy.com^
-||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||abc.hkepc.com^
@@ -47565,6 +47553,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
