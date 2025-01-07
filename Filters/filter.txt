@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-07T06:13:49.077Z
+! Last modified: 2025-01-07T12:17:49.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||bjjky.cfd^
 ||dsfvmx.click^
 ||mentionideablit.com^
 ||dzliege.com^
@@ -43938,6 +43939,8 @@ vkcdnservice.appspot.com^
 ||aos01070ss.xyz^
 ||sdyurlib.top^
 ||lbfuvlyp.icu^
+||staivoiks.com^
+||gheslosy.com^
 ||jjplaqyo.icu^
 ||tixoilll.com^
 ||hitalsli.com^
@@ -49720,6 +49723,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/194309
+@@||cl.link-ag.net^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1784
 @@||action.metaffiliation.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1773
