@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-09T00:44:29.973Z
+! Last modified: 2025-01-09T12:17:37.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -27429,6 +27429,7 @@ vkcdnservice.appspot.com^
 ||vrcvuqtijiwgemi.com^
 ||vrgvugostlyhewo.info^
 ||vrime.xyz^
+||vrizead.com^
 ||vroomedbedroll.shop^
 ||vrplynsfcr.xyz^
 ||vrtzads.com^
@@ -32825,7 +32826,6 @@ vkcdnservice.appspot.com^
 ||cads.scalemonk.com^
 ||adspot.tfgapps.com^
 ||analytics.scalemonk.com^
-||vrizead.com^
 ||adpopcorn.com^
 ||pangle.io^
 ||pubnative.info^
@@ -36016,6 +36016,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||sb-hip-happy.ourservice.jp^
 ||carrier202205.tokyo^
 ||axesslove.mixh.jp^
 ||kaomanko.axesslove.com^
@@ -38530,8 +38531,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Jan 2025 22:58 UTC+7
-! Version: 2501062258
+! Last modified: 09 Jan 2025 15:58 UTC+7
+! Version: 2501091558
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -44010,11 +44011,15 @@ vkcdnservice.appspot.com^
 ||ztlkngyj.icu^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
+||xxaks01091sspao.xyz^
 ||tu6.icu^
 ||xukanvyl.com^
 ||nyjelh.icu^
 ||blbtibqk.icu^
+||chumealq.com^
+||o8s.icu^
 ||wf7.icu^
+||ercoils.com^
 ||jfrrnf.icu^
 ||e50.icu^
 ||aos01070ss.xyz^
