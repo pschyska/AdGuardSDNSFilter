@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-08T18:12:49.566Z
+! Last modified: 2025-01-09T00:44:29.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10385,6 +10385,7 @@ vkcdnservice.appspot.com^
 ||fauphesh.com^
 ||fauphoaglu.net^
 ||fausamoawhisi.net^
+||fauseepetoozuk.xyz^
 ||fausothaur.com^
 ||favoredkuwait.top^
 ||favorite-option.pro^
@@ -14936,6 +14937,7 @@ vkcdnservice.appspot.com^
 ||kouceeptait.com^
 ||koucerie.com^
 ||kouphouwhajee.net^
+||koupuchoust.net^
 ||koushauwhie.xyz^
 ||kousjcignye.com^
 ||koutobey.net^
@@ -17237,6 +17239,7 @@ vkcdnservice.appspot.com^
 ||mymembermatchmagic.life^
 ||myniceposts.com^
 ||myolnyr5bsk18.com^
+||myosoteruins.com^
 ||myperfect2give.com^
 ||mypopadpro.com^
 ||mypopads.com^
@@ -24627,6 +24630,7 @@ vkcdnservice.appspot.com^
 ||suchroused.com^
 ||suckae.xyz^
 ||suckfaintlybooking.com^
+||sucreexpos.com^
 ||suctionautomobile.com^
 ||suctionpoker.com^
 ||suddenvampire.com^
@@ -25014,6 +25018,7 @@ vkcdnservice.appspot.com^
 ||tapioni.com^
 ||tapixesa.pro^
 ||tapjoyads.com^
+||taposalett.top^
 ||tapproveofchild.info^
 ||taproximo.com^
 ||taprtopcldfa.co^
@@ -28836,6 +28841,7 @@ vkcdnservice.appspot.com^
 ||youservit.com^
 ||youtube.local^
 ||youtubecenter.net^
+||yowdenfalcial.com^
 ||yowlnibble.shop^
 ||yoyadsdom.com^
 ||ypersonalrecome.com^
@@ -44005,6 +44011,9 @@ vkcdnservice.appspot.com^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
 ||tu6.icu^
+||xukanvyl.com^
+||nyjelh.icu^
+||blbtibqk.icu^
 ||wf7.icu^
 ||jfrrnf.icu^
 ||e50.icu^
