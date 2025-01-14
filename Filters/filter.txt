@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-14T06:13:05.372Z
+! Last modified: 2025-01-14T12:16:57.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -644,7 +644,6 @@
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/196097
 ||tn.porngo.xxx^$badfilter
-||tn.porngo.xxx^
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189721
 ! Opera promo on third-party sites
@@ -44160,6 +44159,11 @@ vkcdnservice.appspot.com^
 ||eskux.xyz^
 ||kdomsid.top^
 ||4wm.fun^
+||kychq.cn^
+||xmvxo.xyz^
+||geuba.xyz^
+||brephras.com^
+||7zb.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^
