@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-14T00:42:40.795Z
+! Last modified: 2025-01-14T06:13:05.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37517,8 +37517,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-01-06 05:34:18 CET
-# entries:        1100
+# last updated:   2025-01-14 05:42:13 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -37639,6 +37639,7 @@ vkcdnservice.appspot.com^
 ||b.ns1p.net^
 ||b1.trickyrock.com^
 ||backend.qimtek.se^
+||banner.bet365partners.com^
 ||banners.instaforex.com^
 ||banners.wsnonline.dk^
 ||barbours.com.se^
@@ -37869,7 +37870,9 @@ vkcdnservice.appspot.com^
 ||matomo.vibb.ax^
 ||maxetise.net^
 ||mcgtrack.herokuapp.com^
+||media.comeon.com^
 ||media.hajper.com^
+||media.snabbare.com^
 ||mediaglacier.com^
 ||mediakraft.se^
 ||mediaserver.entainpartners.com^
@@ -44152,6 +44155,11 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||lazzrv.icu^
 ||geinkroll.com^
+||wusfa.xyz^
+||vmcnl.xyz^
+||eskux.xyz^
+||kdomsid.top^
+||4wm.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^
@@ -49268,6 +49276,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
 !
+||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
 ||sv.govkorea24.com^
@@ -49430,6 +49439,7 @@ analytics-*.aasaam.com
 !
 ! DOMAIN-REFRESHER: START
 !
+||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
