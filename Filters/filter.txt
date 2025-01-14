@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-14T12:16:57.196Z
+! Last modified: 2025-01-14T18:12:12.339Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5511,6 +5511,7 @@ vkcdnservice.appspot.com^
 ||bolssc.com^
 ||bolteffecteddanger.com^
 ||boltepse.com^
+||bomqonpfzx.com^
 ||bonad.io^
 ||bonafides.club^
 ||bondagecoexist.com^
@@ -9496,6 +9497,7 @@ vkcdnservice.appspot.com^
 ||eejersenset.net^
 ||eejipukaijy.net^
 ||eekeeghoolsy.com^
+||eekqdetpwnlj.com^
 ||eekreeng.com^
 ||eekrogrameety.net^
 ||eeksoabo.com^
@@ -21504,6 +21506,7 @@ vkcdnservice.appspot.com^
 ||raigroashoan.net^
 ||raijigrip.com^
 ||raikijausa.net^
+||railingperformance.com^
 ||railroadfatherenlargement.com^
 ||railroadlineal.com^
 ||railroadmanytwitch.com^
@@ -28231,6 +28234,7 @@ vkcdnservice.appspot.com^
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
 ||wivtuhoftat.com^
+||wiwarrkazg.com^
 ||wizardscharityvisa.com^
 ||wizardunstablecommissioner.com^
 ||wizkrdxivl.com^
@@ -35891,6 +35895,8 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||dahmnrmhyhsjxx.com^
+||rogxwgqovb.com^
 ||ds.macellan.online^
 ||kops1.site^
 ||kingbaba.org^
