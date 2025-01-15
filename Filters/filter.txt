@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-15T00:43:34.973Z
+! Last modified: 2025-01-15T06:13:14.134Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -44175,6 +44175,7 @@ vkcdnservice.appspot.com^
 ||tovbus.cn^
 ||17282.org^
 ||btcili.top^
+||04o.fun^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
@@ -49465,6 +49466,7 @@ analytics-*.aasaam.com
 !
 ! DOMAIN-REFRESHER: START
 !
+||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
