@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-15T12:16:51.219Z
+! Last modified: 2025-01-15T18:12:12.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -44177,6 +44177,7 @@ vkcdnservice.appspot.com^
 ||btcili.top^
 ||04o.fun^
 ||nagvaxvy.com^
+||epxlt.xyz^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
