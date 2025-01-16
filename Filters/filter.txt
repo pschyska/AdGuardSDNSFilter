@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-16T00:43:12.468Z
+! Last modified: 2025-01-16T06:13:13.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11062,6 +11062,7 @@ vkcdnservice.appspot.com^
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourteenthcongratulate.com^
 ||fouwheepoh.com^
@@ -16500,6 +16501,7 @@ vkcdnservice.appspot.com^
 ||measuredshared.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
+||meatabdicatedelicatessen.com^
 ||meatjav11.fun^
 ||meawo.cloud^
 ||mechaelpaceway.com^
@@ -20523,6 +20525,7 @@ vkcdnservice.appspot.com^
 ||privacycounter.com^
 ||privacynicerresumed.com^
 ||privacysearching.com^
+||private-stage.com^
 ||privateappealingsymphony.com^
 ||privatelydevotionrewind.com^
 ||privilegedmansfieldvaguely.com^
@@ -23443,6 +23446,7 @@ vkcdnservice.appspot.com^
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
 ||sheschemetraitor.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -24538,6 +24542,7 @@ vkcdnservice.appspot.com^
 ||stixeepou.com^
 ||stjpezyt.com^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
@@ -44187,6 +44192,7 @@ vkcdnservice.appspot.com^
 ||cralphal.com^
 ||ptrmnx.icu^
 ||iwpkp.xyz^
+||4gu.fun^
 ||zxpaa.xyz^
 ||etallkiq.com^
 ||tbyfz.xyz^
