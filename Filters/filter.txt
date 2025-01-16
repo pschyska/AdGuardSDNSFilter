@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-15T18:12:12.763Z
+! Last modified: 2025-01-16T00:43:12.468Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3401,6 +3401,7 @@ vkcdnservice.appspot.com^
 ||alingrethertantin.info^
 ||aliposite.site^
 ||aliquidalgesic.top^
+||aliteartful.com^
 ||alitems.co^
 ||alitems.site^
 ||alivebald.com^
@@ -5116,6 +5117,7 @@ vkcdnservice.appspot.com^
 ||betrayedrecorderresidence.com^
 ||betrendatimon.top^
 ||betriolua.com^
+||betrustdoms.com^
 ||betshucklean.com^
 ||bett2you.net^
 ||bett2you.org^
@@ -7743,6 +7745,7 @@ vkcdnservice.appspot.com^
 ||crudelouisa.com^
 ||crudemonarchychill.com^
 ||crudequeenrome.com^
+||crudyfilters.com^
 ||crueltysugar.shop^
 ||cruiserx.net^
 ||crumblerefunddiana.com^
@@ -12262,6 +12265,7 @@ vkcdnservice.appspot.com^
 ||groampez.xyz^
 ||groamsal.net^
 ||groaxonsoow.net^
+||groazaimsadroa.xyz^
 ||grobido.info^
 ||grobungairdoul.net^
 ||grobuveexeb.net^
@@ -12728,6 +12732,7 @@ vkcdnservice.appspot.com^
 ||heiressscore.com^
 ||heiresstolerance.com^
 ||heirloomreasoning.com^
+||heirsacost.com^
 ||heixidor.com^
 ||hejqtbnmwze.com^
 ||hekowutus.com^
@@ -18192,6 +18197,7 @@ vkcdnservice.appspot.com^
 ||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
+||oarsoathaihoamt.net^
 ||oarsparttimeparent.com^
 ||oarssamgrandparents.com^
 ||oarswithdraw.com^
@@ -20477,6 +20483,7 @@ vkcdnservice.appspot.com^
 ||prfctmney.com^
 ||prfwhite.com^
 ||prhdvhx.com^
+||priceyawol.com^
 ||pricklyachetongs.com^
 ||pridenovicescammer.com^
 ||priestboundsay.com^
@@ -21011,6 +21018,7 @@ vkcdnservice.appspot.com^
 ||purgescholars.com^
 ||purgoaho.xyz^
 ||purifybaptism.guru^
+||purlingresews.com^
 ||purpleads.io^
 ||purpleflag.net^
 ||purplepatch.online^
@@ -26632,6 +26640,7 @@ vkcdnservice.appspot.com^
 ||uncoverarching.com^
 ||uncrobator.com^
 ||uncrownarmenic.com^
+||undatedifreal.com^
 ||under2given.com^
 ||underaccredited.com^
 ||underagebeneath.com^
@@ -27094,6 +27103,7 @@ vkcdnservice.appspot.com^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||variouspheasantjerk.com^
+||varletsngaio.com^
 ||varnishmosquitolocust.com^
 ||varshacundy.com^
 ||vartoken.com^
@@ -27112,6 +27122,7 @@ vkcdnservice.appspot.com^
 ||vastsneezevirtually.com^
 ||vatanclick.ir^
 ||vatcertaininject.com^
+||vaufekonaub.net^
 ||vaugroar.com^
 ||vaukoloon.net^
 ||vauloops.net^
@@ -27983,6 +27994,7 @@ vkcdnservice.appspot.com^
 ||whampamp.com^
 ||whandpolista.com^
 ||wharployn.com^
+||wharrownecia.com^
 ||wharvemotet.com^
 ||whateyesight.com^
 ||whatisnewappforyou.top^
@@ -29061,6 +29073,7 @@ vkcdnservice.appspot.com^
 ||z54a.xyz^
 ||z5x.net^
 ||zaamgqlgdhac.love^
+||zabaismtempi.top^
 ||zabanit.xyz^
 ||zachunsears.com^
 ||zacleporis.com^
@@ -44168,6 +44181,12 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||ztgha.xyz^
+||djsxm.xyz^
+||0vc.fun^
+||cralphal.com^
+||ptrmnx.icu^
+||iwpkp.xyz^
 ||zxpaa.xyz^
 ||etallkiq.com^
 ||tbyfz.xyz^
