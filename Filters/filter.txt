@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-17T00:43:01.211Z
+! Last modified: 2025-01-17T06:13:12.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7809,6 +7809,7 @@ vkcdnservice.appspot.com^
 ||ctsdwm.com^
 ||ctubhxbaew.com^
 ||ctvnmxl.com^
+||ctwmcd.com^
 ||cubchillysail.com^
 ||cubeuptownpert.com^
 ||cubiclerunner.com^
@@ -9485,6 +9486,7 @@ vkcdnservice.appspot.com^
 ||edtheparllase.com^
 ||edtotigainare.info^
 ||edttmar.com^
+||edttwm.com^
 ||edu-lib.com^
 ||edua29146y.com^
 ||educatedcoercive.com^
@@ -9495,6 +9497,7 @@ vkcdnservice.appspot.com^
 ||edutechlearners.com^
 ||edvfwlacluo.com^
 ||edvxygh.com^
+||edwmpt.com^
 ||ee625e4b1d.com^
 ||eebuksaicmirte.net^
 ||eecd.xyz^
@@ -11753,6 +11756,7 @@ vkcdnservice.appspot.com^
 ||gladsince.com^
 ||glaghoowingauck.net^
 ||glaickoxaksy.com^
+||glaicmauxoah.net^
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
@@ -11845,6 +11849,7 @@ vkcdnservice.appspot.com^
 ||glochisprp.com^
 ||glodsaccate.com^
 ||glofodazoass.com^
+||gloghauzolso.xyz^
 ||glogoowo.net^
 ||glogopse.net^
 ||glokta.info^
@@ -12406,6 +12411,7 @@ vkcdnservice.appspot.com^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
 ||gumon.site^
+||gunlockpepped.shop^
 ||gunwaleneedsly.com^
 ||gunzblazingpromo.com^
 ||guptetoowheerta.net^
@@ -13998,6 +14004,7 @@ vkcdnservice.appspot.com^
 ||inventionwere.com^
 ||inventionyolk.com^
 ||inventoryproducedjustice.com^
+||inventsloosely.com^
 ||investcoma.com^
 ||investigationsuperbprone.com^
 ||invibravaa.com^
@@ -14019,6 +14026,7 @@ vkcdnservice.appspot.com^
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
+||ionogenbakutu.shop^
 ||iononetravoy.com^
 ||ionscormationwind.info^
 ||ionwindonpetropic.info^
@@ -20733,6 +20741,7 @@ vkcdnservice.appspot.com^
 ||prplads.com^
 ||prpops.com^
 ||prre.ru^
+||prtawe.com^
 ||prtord.com^
 ||prtrackings.com^
 ||prtydqs.com^
@@ -20770,6 +20779,7 @@ vkcdnservice.appspot.com^
 ||pschentinfile.com^
 ||psclicks.com^
 ||psdn.xyz^
+||psedwm.com^
 ||pseeckotees.com^
 ||pseegroah.com^
 ||pseempep.com^
@@ -23053,6 +23063,7 @@ vkcdnservice.appspot.com^
 ||scoopmaria.com^
 ||scootcomely.com^
 ||scopefile.com^
+||scopingrile.com^
 ||scorchstrung.com^
 ||score-feed.com^
 ||scoreasleepbother.com^
@@ -27720,6 +27731,7 @@ vkcdnservice.appspot.com^
 ||wallowwholikedto.info^
 ||wallpapersfacts.com^
 ||wallstrads.com^
+||waltzersurvise.com^
 ||waltzprescriptionplate.com^
 ||wanalnatnwto.com^
 ||wanderingchimneypainting.com^
@@ -28310,6 +28322,7 @@ vkcdnservice.appspot.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
 ||wmccd.com^
+||wmcdct.com^
 ||wmcdpt.com^
 ||wmdzefk.com^
 ||wmeqobozarbjm.top^
@@ -28324,6 +28337,7 @@ vkcdnservice.appspot.com^
 ||wmptctl.com^
 ||wmpted.com^
 ||wmptengate.com^
+||wmptpr.com^
 ||wmpuem.com^
 ||wmtten.com^
 ||wmudsraxwj.xyz^
@@ -32427,7 +32441,6 @@ vkcdnservice.appspot.com^
 ||protect-x.com^
 ||protizer.ru^
 ||prscripts.com^
-||prtawe.com^
 ||psma01.com^
 ||psma03.com^
 ||ptclassic.com^
@@ -44222,6 +44235,7 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||lagzoids.com^
 ||njnhzh.icu^
+||8u0.fun^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^
