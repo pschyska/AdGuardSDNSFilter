@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-17T12:16:34.317Z
+! Last modified: 2025-01-17T18:12:01.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29832,6 +29832,7 @@ vkcdnservice.appspot.com^
 ||affiliategroove.com^
 ||affilimatejs.com^
 ||affilist.com^
+||affilizz.com^
 ||afishamedia.net^
 ||afp.ai^
 ||afrikad.com^
@@ -30839,6 +30840,7 @@ vkcdnservice.appspot.com^
 ||34475780.xyz^
 ||36833185.xyz^
 ||37066957.xyz^
+||38167473.xyz^
 ||38835571.xyz^
 ||38941752.xyz^
 ||3a55f02d.xyz^
@@ -30851,6 +30853,7 @@ vkcdnservice.appspot.com^
 ||4602306b.xyz^
 ||46276192.xyz^
 ||466c4d0f.xyz^
+||47235645.xyz^
 ||47296536.xyz^
 ||47415889.xyz^
 ||48304789.xyz^
