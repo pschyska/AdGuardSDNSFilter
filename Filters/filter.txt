@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-18T06:11:40.010Z
+! Last modified: 2025-01-18T12:14:47.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29022,6 +29022,7 @@ vkcdnservice.appspot.com^
 ||yoomanies.com^
 ||yopard.com^
 ||yoredi.com^
+||yorkvillemarketing.net^
 ||yoshatia.com^
 ||yottacash.com^
 ||you4cdn.com^
@@ -44261,6 +44262,8 @@ vkcdnservice.appspot.com^
 ||tmjzlr.icu^
 ||orkreats.com^
 ||2hl.fun^
+||oqidsgkq.com^
+||uewzjy.xyz^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^
