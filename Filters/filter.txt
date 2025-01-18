@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-17T18:12:01.960Z
+! Last modified: 2025-01-18T00:41:43.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3824,6 +3824,7 @@ vkcdnservice.appspot.com^
 ||apologizingrigorousmorally.com^
 ||aporasal.net^
 ||aporodiko.com^
+||apostilprinks.com^
 ||apostlegrievepomp.com^
 ||apostropheammunitioninjure.com^
 ||app.tippp.io^
@@ -5371,6 +5372,7 @@ vkcdnservice.appspot.com^
 ||blcdog.com^
 ||bleaborahmagtgi.org^
 ||bleachimpartialtrusted.com^
+||blearspellaea.shop^
 ||bleedingofficecontagion.com^
 ||blehcourt.com^
 ||blendedbird.com^
@@ -8133,6 +8135,7 @@ vkcdnservice.appspot.com^
 ||dawnfilthscribble.com^
 ||dawplm.com^
 ||dawtittalky.shop^
+||daybookclags.com^
 ||daybreakarchitecture.com^
 ||dayqy.space^
 ||daytimeentreatyalternate.com^
@@ -12468,6 +12471,7 @@ vkcdnservice.appspot.com^
 ||gypperywyling.com^
 ||gypsiedjilt.com^
 ||gypsitenevi.com^
+||gypsumsnocks.com^
 ||gypufahuyhov.xyz^
 ||gytlingpaint.top^
 ||gyvwigvwqkm.com^
@@ -13107,6 +13111,7 @@ vkcdnservice.appspot.com^
 ||hoo1luha.com^
 ||hoodboth.com^
 ||hoodentangle.com^
+||hoodingluster.com^
 ||hoodoosdonsky.com^
 ||hoofexcessively.com^
 ||hoofsduke.com^
@@ -14126,6 +14131,7 @@ vkcdnservice.appspot.com^
 ||italianforesee.com^
 ||italianhackwary.com^
 ||italianout.com^
+||italitecasbah.com^
 ||itblisseyer.com^
 ||itcameruptr.com^
 ||itchhandwritingimpetuous.com^
@@ -14542,6 +14548,7 @@ vkcdnservice.appspot.com^
 ||josephineravine.com^
 ||josfrvq.com^
 ||josiehopeless.com^
+||josiepigroot.com^
 ||josieunethical.com^
 ||josjrhtot.com^
 ||jotterswirrah.com^
@@ -19174,6 +19181,7 @@ vkcdnservice.appspot.com^
 ||oxidetoward.com^
 ||oxjexkubhvwn.xyz^
 ||oxkgcefteo.com^
+||oxlipbegan.com^
 ||oxmoonlint.com^
 ||oxmopobypviuy.com^
 ||oxmqzeszyo.com^
@@ -22357,6 +22365,7 @@ vkcdnservice.appspot.com^
 ||riskelaborate.com^
 ||riskhector.com^
 ||riskymuzzlebiopsy.com^
+||rissoidkyaung.com^
 ||rivacathood.com^
 ||rivalpout.com^
 ||rivatedqualizebruisi.info^
@@ -23241,6 +23250,7 @@ vkcdnservice.appspot.com^
 ||sellerher.com^
 ||sellerignateignate.com^
 ||sellingmombookstore.com^
+||sellisteatin.com^
 ||selornews.com^
 ||selunemtr.online^
 ||selwrite.com^
@@ -23398,6 +23408,7 @@ vkcdnservice.appspot.com^
 ||shaihucmesa.com^
 ||shaimsaijels.com^
 ||shaimsoo.net^
+||shaissugritit.net^
 ||shaitakroaks.net^
 ||shaitchergu.net^
 ||shaiwourtijogno.net^
@@ -23852,6 +23863,7 @@ vkcdnservice.appspot.com^
 ||slippersappointed.com^
 ||slippersphoto.com^
 ||slipperydeliverance.com^
+||slitingfears.com^
 ||slivmux.com^
 ||slk594.com^
 ||slobgrandmadryer.com^
@@ -27549,6 +27561,7 @@ vkcdnservice.appspot.com^
 ||voicerdefeats.com^
 ||voidmodificationdough.com^
 ||vokaunget.xyz^
+||volapiepalped.com^
 ||volatintptr.com^
 ||volcanoexhibitmeaning.com^
 ||volcanostricken.com^
@@ -27786,6 +27799,7 @@ vkcdnservice.appspot.com^
 ||washedgrimlyhill.com^
 ||washingchew.com^
 ||washingoccasionally.com^
+||wasoolekretche.xyz^
 ||wasortg.com^
 ||wasp-182b.com^
 ||waspdiana.com^
@@ -44244,6 +44258,7 @@ vkcdnservice.appspot.com^
 ||8u0.fun^
 ||pheetuth.com^
 ||4ve.fun^
+||tmjzlr.icu^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^
