@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-20T06:13:40.462Z
+! Last modified: 2025-01-20T12:17:24.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -21835,6 +21835,7 @@ vkcdnservice.appspot.com^
 ||reddockbedman.com^
 ||redeemforest.com^
 ||redetaailshiletteri.com^
+||redexamination.com^
 ||redfootcoclea.shop^
 ||redheadinfluencedchill.com^
 ||redheadpublicityjug.com^
@@ -29549,7 +29550,9 @@ vkcdnservice.appspot.com^
 ||try.opera.com^
 ||visualmirage.co^
 ||vpn-offers.org^
+||xml-v4.lensgard-3.online^
 ||xstalkx.ru^
+||zavirand.com^
 ! Third-party
 ||123date.me^
 ||2beon.co.kr^
@@ -44264,6 +44267,7 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||y0o.fun^
 ||hp7.fun^
 ||tuvrutsnf.com^
 ||rpfuvj.icu^
@@ -44273,6 +44277,9 @@ vkcdnservice.appspot.com^
 ||ccokamif.top^
 ||saelphol.com^
 ||pfbmht.icu^
+||31y.fun^
+||hcokamiu.top^
+||sterkisg.com^
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
