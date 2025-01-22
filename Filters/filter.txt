@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-22T06:13:37.620Z
+! Last modified: 2025-01-22T12:17:13.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -44325,6 +44325,9 @@ vkcdnservice.appspot.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
+||qo2.fun^
+||01221sop.xyz^
+||thangrurs.com^
 ||y0o.fun^
 ||icokamio.top^
 ||thrumulr.com^
@@ -50230,6 +50233,9 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1822
+@@|www.daraz.pk^|
+@@|daraz.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1820
 @@||sbs.demdex.net^|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/194309
