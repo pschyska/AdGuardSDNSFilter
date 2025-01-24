@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-24T06:13:16.529Z
+! Last modified: 2025-01-24T12:16:48.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8376,6 +8376,7 @@ vkcdnservice.appspot.com^
 ||delusionpenal.com^
 ||delutza.com^
 ||deluxe-download.com^
+||delveactivity.com^
 ||demanding-application.pro^
 ||demba.xyz^
 ||demeanourgrade.com^
@@ -27235,6 +27236,7 @@ vkcdnservice.appspot.com^
 ||vanirausones.shop^
 ||vanishedentrails.com^
 ||vanishedpatriot.com^
+||vannaxacqpm.com^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vapourfertile.com^
@@ -36796,6 +36798,9 @@ vkcdnservice.appspot.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||1iuh5l.com^
+||ydxdg.xyz^
+||aafns.xyz^
 ||zbb.bbb.*.pics^
 ||towmfs.com^
 ||hfisngksng.com^
@@ -44379,6 +44384,7 @@ vkcdnservice.appspot.com^
 ||pevpbx.icu^
 ||e1s.fun^
 ||nvpokyko.icu^
+||xulkervf.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
