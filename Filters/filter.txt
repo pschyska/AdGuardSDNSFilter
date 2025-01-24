@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-23T18:12:40.200Z
+! Last modified: 2025-01-24T00:43:34.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4282,6 +4282,7 @@ vkcdnservice.appspot.com^
 ||atthewonderfu.com^
 ||atticepuces.com^
 ||atticshepherd.com^
+||attingepicrate.com^
 ||attractioninvincibleendurance.com^
 ||attractivesurveys.com^
 ||attractwarningkeel.com^
@@ -4754,6 +4755,7 @@ vkcdnservice.appspot.com^
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
 ||bardatm.ru^
+||bardeearmsize.com^
 ||bardicjazzed.com^
 ||barecurldiscovering.com^
 ||barefootedleisurelypizza.com^
@@ -5067,6 +5069,7 @@ vkcdnservice.appspot.com^
 ||berush.com^
 ||berwickveered.shop^
 ||besandileom.com^
+||besaylecran.com^
 ||besidesparties.com^
 ||besitreggae.com^
 ||besmeargleor.com^
@@ -19227,6 +19230,7 @@ vkcdnservice.appspot.com^
 ||owlerydominos.cam^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownhoodmucro.shop^
 ||ownzzohggdfb.com^
 ||owojqopr.com^
 ||owppijqakeo.com^
@@ -21716,6 +21720,7 @@ vkcdnservice.appspot.com^
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
+||rauheestuma.xyz^
 ||raujouca.com^
 ||raumipti.net^
 ||raunooligais.net^
@@ -23237,6 +23242,7 @@ vkcdnservice.appspot.com^
 ||seatedparanoiaenslave.com^
 ||seatrackingdomain.com^
 ||seatsrehearseinitial.com^
+||seawantyroma.com^
 ||seayipsex.com^
 ||sebateastrier.com^
 ||sebkhapaction.com^
@@ -24237,6 +24243,7 @@ vkcdnservice.appspot.com^
 ||sourceconvey.com^
 ||sourishpuler.com^
 ||sourne.com^
+||southeestais.net^
 ||southmailboxdeduct.com^
 ||southolaitha.com^
 ||southsturdy.com^
@@ -44364,9 +44371,11 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||01240sop.xyz^
 ||01231sop.xyz^
 ||kruraits.com^
 ||6lx.fun^
+||brerkols.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
