@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-26T00:44:40.003Z
+! Last modified: 2025-01-26T06:12:06.941Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31028,6 +31028,7 @@ vkcdnservice.appspot.com^
 ||00771944.xyz^
 ||00857731.xyz^
 ||01045395.xyz^
+||02085170.xyz^
 ||02777e.site^
 ||03180d2d.live^
 ||0395d1.xyz^
@@ -31109,6 +31110,7 @@ vkcdnservice.appspot.com^
 ||4602306b.xyz^
 ||46276192.xyz^
 ||466c4d0f.xyz^
+||47206262.xyz^
 ||47235645.xyz^
 ||47296536.xyz^
 ||47415889.xyz^
@@ -31138,6 +31140,7 @@ vkcdnservice.appspot.com^
 ||5fd6bc.xyz^
 ||60571086.xyz^
 ||605efe.xyz^
+||62842068.xyz^
 ||634369.xyz^
 ||6471e7f7.xyz^
 ||65035033.xyz^
@@ -36503,6 +36506,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||adreq.eagle-insight.com^
 ||ranmaotome.com^
 ||sb-hip-happy.ourservice.jp^
 ||carrier202205.tokyo^
@@ -44512,6 +44516,7 @@ vkcdnservice.appspot.com^
 ||irkrellw.com^
 ||txnczz.icu^
 ||dklnxtcj.icu^
+||h3d.fun^
 ||01240sop.xyz^
 ||01231sop.xyz^
 ||kruraits.com^
