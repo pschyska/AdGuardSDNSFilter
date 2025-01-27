@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-27T06:13:56.858Z
+! Last modified: 2025-01-27T12:17:42.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33062,6 +33062,8 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||r0.mail.ru^
+||r0.mradx.net^
 ||serveraddr.service.kugou.com^
 ||d.kugou.com^
 ||nbcollect.kugou.com^
@@ -44513,6 +44515,10 @@ vkcdnservice.appspot.com^
 ||xxsmad5.com^
 ||hostolhg.com^
 ||4zn.fun^
+||rajxjj.icu^
+||as01271kkp.xyz^
+||veilengh.com^
+||fcbdpock.icu^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
