@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-28T12:17:05.228Z
+! Last modified: 2025-01-28T18:12:23.041Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||land.izuchai.dance^
 ||parteonroll.xyz^
 ||qjvksieybn.vip^
 ||wobbly-birth.com^
@@ -44549,6 +44550,7 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||v4p.fun^
 ||addalzq.com^
+||6qo.fun^
 ||hdinmiu.top^
 ||xxsmad5.com^
 ||hostolhg.com^
@@ -48352,6 +48354,7 @@ vkcdnservice.appspot.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||reke.at.sohu.com^
 ||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
