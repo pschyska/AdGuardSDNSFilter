@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-29T00:43:31.006Z
+! Last modified: 2025-01-29T06:13:13.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -16060,6 +16060,7 @@ vkcdnservice.appspot.com^
 ||losingfunk.com^
 ||losingoldfry.com^
 ||losingtiger.com^
+||losobo.xyz^
 ||lossactivity.com^
 ||lostdormitory.com^
 ||lostinfuture.com^
@@ -44566,6 +44567,8 @@ vkcdnservice.appspot.com^
 ||vtbkhl.icu^
 ||vmxvcjuf.icu^
 ||jdinmia.top^
+||0592.mobi^
+||kdinmid.top^
 ||hdinmiu.top^
 ||xxsmad5.com^
 ||hostolhg.com^
