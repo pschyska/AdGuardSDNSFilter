@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-29T06:13:13.649Z
+! Last modified: 2025-01-29T12:17:06.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||hotbbuvifu.cc^
 ||land.izuchai.dance^
 ||parteonroll.xyz^
 ||qjvksieybn.vip^
@@ -33959,6 +33960,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn.dmtgvn.com^
 ||llet787bww.com^
 ||1463.info^
@@ -36561,6 +36563,7 @@ vkcdnservice.appspot.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||amawidget.yutbr.com^
 ||adreq.eagle-insight.com^
 ||ranmaotome.com^
 ||sb-hip-happy.ourservice.jp^
@@ -44569,6 +44572,7 @@ vkcdnservice.appspot.com^
 ||jdinmia.top^
 ||0592.mobi^
 ||kdinmid.top^
+||ghairqin.com^
 ||hdinmiu.top^
 ||xxsmad5.com^
 ||hostolhg.com^
