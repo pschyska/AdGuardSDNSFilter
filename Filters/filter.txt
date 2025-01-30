@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-30T06:13:08.940Z
+! Last modified: 2025-01-30T12:17:37.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -14398,6 +14398,7 @@ vkcdnservice.appspot.com^
 ||izoaghiwoft.net^
 ||izrnvo.com^
 ||izumoukraumsew.net^
+||j-mxponyz.love^
 ||j45.webringporn.com^
 ||j6mn99mr0m2n.com^
 ||j6rudlybdy.com^
@@ -17652,6 +17653,7 @@ vkcdnservice.appspot.com^
 ||namol.xyz^
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
+||nanai-clw.com^
 ||nanakotrilith.com^
 ||nanborderrocket.com^
 ||nancontrast.com^
@@ -24080,6 +24082,7 @@ vkcdnservice.appspot.com^
 ||skylindo.com^
 ||skymobi.agency^
 ||skyscraperearnings.com^
+||skyscrapertowel.com^
 ||skytraf.xyz^
 ||skyxqbbv.xyz^
 ||slabreasonablyportions.com^
