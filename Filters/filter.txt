@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-31T12:16:50.241Z
+! Last modified: 2025-01-31T18:12:25.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,10 @@
 !
 !
 !
+||sapsobughoatch.net^
+||xszjh.tech^
+||vamqt.vip^
+||speedybytes.cfd^
 ||vhbeyeqaukjui.xyz^
 ||bjsvp35.space^
 ||gyklvfxbpt.com^
@@ -8657,6 +8661,7 @@ vkcdnservice.appspot.com^
 ||dialoguemarvellouswound.com^
 ||dialogueshipwreck.com^
 ||diametersunglassesbranch.com^
+||dianilinfant.top^
 ||dianomioffers.co.uk^
 ||dibbuksnoonlit.shop^
 ||dibrachndoderm.com^
@@ -14858,6 +14863,7 @@ vkcdnservice.appspot.com^
 ||junmediadirect.com^
 ||junmediadirect1.com^
 ||jupabwmocgqxeo.com^
+||jurantsepinine.shop^
 ||jurgeeph.net^
 ||juricts.xyz^
 ||jurisdiction423.fun^
@@ -18996,6 +19002,7 @@ vkcdnservice.appspot.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
 ||opclck.com^
+||opclumbcuqze.com^
 ||opcnflku.com^
 ||opdomains.space^
 ||opdowvamjv.com^
@@ -20331,6 +20338,7 @@ vkcdnservice.appspot.com^
 ||pliblc.com^
 ||plinksplanet.com^
 ||plirkep.com^
+||pljhaiftxr.com^
 ||pllah.com^
 ||plmwsl.com^
 ||plocap.com^
@@ -20491,6 +20499,7 @@ vkcdnservice.appspot.com^
 ||pookaipssurvey.space^
 ||pooksys.site^
 ||poolgmsd.com^
+||poolirido.com^
 ||pooptoom.net^
 ||pooraithacuzaum.net^
 ||poorlystepmotherresolute.com^
@@ -23211,7 +23220,6 @@ vkcdnservice.appspot.com^
 ||santuao.xyz^
 ||sapfailedfelon.com^
 ||saplvvogahhc.xyz^
-||sapsobughoatch.net^
 ||saptiledispatch.com^
 ||saptorge.com^
 ||sarcasmadvisor.com^
@@ -23888,6 +23896,7 @@ vkcdnservice.appspot.com^
 ||showdoyoukno.info^
 ||showedinburgh.com^
 ||showedprovisional.com^
+||showierberetta.com^
 ||showilycola.shop^
 ||showjav11.fun^
 ||showmebars.com^
@@ -27561,6 +27570,7 @@ vkcdnservice.appspot.com^
 ||vdopia.com^
 ||vdzna.com^
 ||ve6k5.top^
+||vealedincite.com^
 ||vebadu.com^
 ||vebv8me7q.com^
 ||vecohgmpl.info^
@@ -27905,6 +27915,7 @@ vkcdnservice.appspot.com^
 ||vocationalenquired.com^
 ||vodlpsf.com^
 ||vodobyve.pro^
+||vodsoamsoun.net^
 ||vohqpgsdn.xyz^
 ||voicebeddingtaint.com^
 ||voicedstart.com^
@@ -38772,7 +38783,6 @@ vkcdnservice.appspot.com^
 ||epeex.io^
 ||hbagency.it^
 ||justearn.it^
-||natexo-programmatic.com^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||tjekscores.dk^
@@ -38781,23 +38791,15 @@ vkcdnservice.appspot.com^
 ||ad4mat.it^
 ||adagionet.com^
 ||adasta.it^
-||adbrawl.com^
 ||adbreak.ch^
-||addyon.com^
 ||adnext.it^
-||adpartner.it^
-||adresponse.it^
 ||adsolutions.nl^
 ||adspro.it^
-||adultsadv.com^
 ||adventertainment.it^
 ||advhits.com^
 ||advit.it^
 ||advplace.com^
-||affiliago.it^
 ||affiliationpartner.it^
-||affiliazioni.me^
-||affiliazioniweb.com^
 ||atomikad.com^
 ||bannerconnect.biz^
 ||bannerexplosion.it^
@@ -38806,8 +38808,6 @@ vkcdnservice.appspot.com^
 ||bannerporno.com^
 ||bannerpress.it^
 ||bannerpromotion.it^
-||banzaiadv.it^
-||beead.it^
 ||break-even.it^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
@@ -38821,7 +38821,6 @@ vkcdnservice.appspot.com^
 ||digitalbees.it^
 ||easymarketcrs.it^
 ||ebuzzing.it^
-||edinetadv.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
@@ -38829,35 +38828,24 @@ vkcdnservice.appspot.com^
 ||inaffiliago.it^
 ||ioladv.it^
 ||iperbanner.com^
-||leaderaffiliation.com^
 ||leonardoadv.it^
-||linkto.org^
 ||livepartners.it^
 ||lopfly.com^
 ||mediamond.it^
 ||mondoecommerce.it^
-||mycookies.it^
 ||netszex.com^
 ||newclick.com^
 ||noddus.com^
 ||novadv.com^
 ||open-up.it^
-||overbrowser.com^
-||ovoadv.com^
-||pagetvu.com^
 ||panea.it^
 ||partypartners.it^
-||paypublicity.it^
 ||pirchio.com^
 ||plavid.com^
 ||preludeadv.it^
-||pronostici.app^
 ||prontocampaign.com^
 ||publy.net^
 ||pushly.it^
-||raddoppia-bitcoin.click^
-||raddoppia-bitcoin.pro^
-||radxcomm.com^
 ||rcsadv.it^
 ||reachadv.it^
 ||rizzonelli.it^
@@ -38865,16 +38853,13 @@ vkcdnservice.appspot.com^
 ||s-p-o-n-s-o-r.com^
 ||sbanner.com^
 ||scambiobanner.it^
-||scambiobanner.org^
 ||scambiobanner.tv^
 ||scambiositi.com^
 ||seolabadv.it^
 ||seowebbs.com^
-||simpleview.it^
 ||softwareplanet.net^
 ||soluzionibio.it^
 ||spicciolo.com^
-||sunaffiliation.com^
 ||superbanner.org^
 ||tagvideo.eu^
 ||tgadv.it^
@@ -38884,7 +38869,6 @@ vkcdnservice.appspot.com^
 ||viralbeat.com^
 ||wailay.com^
 ||wbusiness.fr^
-||widebanner.com^
 ||worldfilia.net^
 ||zariumhb.com^
 ||zodiakactive.com^
@@ -44645,6 +44629,7 @@ vkcdnservice.appspot.com^
 ||pw2.fun^
 ||lwtupzua.icu^
 ||drustren.com^
+||1qv.fun^
 ||bodhalqg.com^
 ||xedlxeuz.icu^
 ||twxftd.icu^
