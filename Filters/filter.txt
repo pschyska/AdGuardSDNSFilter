@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-02T18:11:18.213Z
+! Last modified: 2025-02-03T00:44:56.886Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6027,7 +6027,6 @@ vkcdnservice.appspot.com^
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull3t.co^
-||bullads.net^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
 ||bullfeeding.com^
@@ -44650,6 +44649,9 @@ vkcdnservice.appspot.com^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
 ||gumnus.com^
+||krirkroins.com^
+||xutvbt.icu^
+||bctuapia.icu^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
