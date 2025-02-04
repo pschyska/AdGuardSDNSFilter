@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-04T00:43:44.869Z
+! Last modified: 2025-02-04T06:14:01.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -37081,6 +37081,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
+||ad.datadeliver.net^
 ||ad.firestorage.jp^
 ||mbada.nan.co.jp^
 ||ads.nicovideo.jp^
@@ -44653,6 +44654,7 @@ vkcdnservice.appspot.com^
 ||tciqgx.xyz^
 ||crolerl.com^
 ||vxpnld.icu^
+||dzzdspiu.icu^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
 ||gumnus.com^
