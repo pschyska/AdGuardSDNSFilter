@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-04T06:14:01.378Z
+! Last modified: 2025-02-04T12:18:01.866Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -44650,6 +44650,7 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||hdinmau.top^
 ||feronyv.com^
 ||tciqgx.xyz^
 ||crolerl.com^
@@ -50669,6 +50670,8 @@ analytics-*.aasaam.com
 @@||f-gear.ec-optimizer.com^|
 !
 ! Blocked by CNAME unbouncepages.com
+! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1826
+@@||get.neofinancial.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1765
 @@||hidive.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1817
