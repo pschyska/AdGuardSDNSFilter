@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-05T06:13:27.295Z
+! Last modified: 2025-02-05T12:17:35.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -13952,6 +13952,7 @@ vkcdnservice.appspot.com^
 ||inconsequential-working.com^
 ||inconsistencygasdifficult.com^
 ||inconveniencemimic.com^
+||incorddrag.com^
 ||incorphishor.com^
 ||increaseplanneddoubtful.com^
 ||increaseprincipal.com^
@@ -19407,6 +19408,7 @@ vkcdnservice.appspot.com^
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
+||ouveedaiz.net^
 ||ouvertrenewed.com^
 ||ouvrefth.shop^
 ||ouweessougleji.net^
@@ -23689,6 +23691,7 @@ vkcdnservice.appspot.com^
 ||sermonoccupied.com^
 ||serpentinelay.pro^
 ||serpentreplica.com^
+||sertingglucid.com^
 ||serv-selectmedia.com^
 ||serv01001.xyz^
 ||serv1for.pro^
@@ -28736,6 +28739,7 @@ vkcdnservice.appspot.com^
 ||winterolivia.com^
 ||wintjaywolf.org^
 ||wintrck.com^
+||winzessolicit.com^
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
 ||wipepeepcyclist.com^
@@ -33306,6 +33310,10 @@ vkcdnservice.appspot.com^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||adx-sg-req.bridgeoos.com^
+||adx-os.bridgeoos.com^
+||api.kickoffo.site^
+||api.bridgeoos.com^
 ||r0.mail.ru^
 ||r0.mradx.net^
 ||serveraddr.service.kugou.com^
@@ -44679,6 +44687,7 @@ vkcdnservice.appspot.com^
 ||qhaccid.com^
 ||tnlixn.icu^
 ||u7y.pw^
+||ommatht.com^
 ||hdinmau.top^
 ||shaenphiks.com^
 ||feronyv.com^
