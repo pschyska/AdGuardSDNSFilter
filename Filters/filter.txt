@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-05T00:44:02.918Z
+! Last modified: 2025-02-05T06:13:27.295Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39248,8 +39248,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 03 Feb 2025 15:54 UTC+7
-! Version: 2502031554
+! Last modified: 05 Feb 2025 09:33 UTC+7
+! Version: 2502050933
 ! Blocked: 873 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -40089,9 +40089,9 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 03 Feb 2025 15:54 UTC+7
-! Version: 2502031554
-! Blocked: 4.698 rules
+! Last modified: 05 Feb 2025 09:34 UTC+7
+! Version: 2502050934
+! Blocked: 4.700 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -44638,7 +44638,9 @@ vkcdnservice.appspot.com^
 ||yunduofei.xyz^
 ||yxjsibeugmmj.com^
 ||zSmhlV.zgbv.tech^
+||zalo-web.me^
 ||zalorashop.com^
+||zaloweb.pro^
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
@@ -44675,6 +44677,8 @@ vkcdnservice.appspot.com^
 ||is02050qqp.xyz^
 ||is02041qqp.xyz^
 ||qhaccid.com^
+||tnlixn.icu^
+||u7y.pw^
 ||hdinmau.top^
 ||shaenphiks.com^
 ||feronyv.com^
