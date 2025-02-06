@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-06T12:17:52.781Z
+! Last modified: 2025-02-06T18:12:33.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29276,6 +29276,7 @@ vkcdnservice.appspot.com^
 ||xoilactv123.gdn^
 ||xoilactvcj.cc^
 ||xolen.xyz^
+||xoqod.sbs^
 ||xovdrxkog.xyz^
 ||xoyrxawri.com^
 ||xpollo.com^
@@ -37518,6 +37519,7 @@ vkcdnservice.appspot.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||x9t7g4m2qk2.azurewebsites.net^
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||content2.nrc.nl^
 ||aa.hwigroup.com^
@@ -44728,6 +44730,9 @@ vkcdnservice.appspot.com^
 ||rqhajf.icu^
 ||trellq.com^
 ||tjvcffap.icu^
+||mtfc8.com^
+||apk02061oo.xyz^
+||edinmaw.top^
 ||rrptnkao.icu^
 ||is02050qqp.xyz^
 ||is02041qqp.xyz^
