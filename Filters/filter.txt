@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-06T18:12:33.021Z
+! Last modified: 2025-02-07T00:44:12.706Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38936,6 +38936,7 @@ vkcdnservice.appspot.com^
 ||hbagency.it^
 ||justearn.it^
 ||rtbuzz.net^
+||seowebbs.com^
 ||shoppydoo.com^
 ||tjekscores.dk^
 ||yobee.it^
@@ -39009,7 +39010,6 @@ vkcdnservice.appspot.com^
 ||scambiobanner.tv^
 ||scambiositi.com^
 ||seolabadv.it^
-||seowebbs.com^
 ||softwareplanet.net^
 ||soluzionibio.it^
 ||spicciolo.com^
@@ -44726,6 +44726,9 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||xtdvvp.icu^
+||vbllxaaj.icu^
+||apk02070oo.xyz^
 ||fagrirtn.com^
 ||rqhajf.icu^
 ||trellq.com^
