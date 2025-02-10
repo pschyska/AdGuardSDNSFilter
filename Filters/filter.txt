@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-10T06:14:10.012Z
+! Last modified: 2025-02-10T12:17:35.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,14 @@
 !
 !
 !
+||loowhujoom.net^
+||glugherg.net^
+||louthicoozit.net^
+||feckurteg.net^
+||octo25.me^
+||vidscriptshark.com^
+||threewoodslose.com^
+||sharkfirelife.com^
 ||videocdnmetrika.com^
 ||pkyffuewwuhnld.com^
 ||phahifoobsie.net^
@@ -12180,7 +12188,6 @@ vkcdnservice.appspot.com^
 ||glsfreeads.com^
 ||glssp.net^
 ||gludqoqmuwbc.com^
-||glugherg.net^
 ||glugreez.com^
 ||gluilyepacme.shop^
 ||glukropi.com^
@@ -33603,7 +33610,7 @@ vkcdnservice.appspot.com^
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
 ||contextualadv.com^
-||prebid-cache.ifunny.co^
+||prebid-cache*.ifunny.co^
 ||tk0x1.com^
 ||itdsmr.com^
 ||external-api.impression-neo.naver.com^
@@ -34324,7 +34331,6 @@ vkcdnservice.appspot.com^
 ||dosawes.com^
 ||lusupodum.com^
 ||clairpixum.com^
-||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
@@ -34356,7 +34362,6 @@ vkcdnservice.appspot.com^
 ||miradres.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
-||vidscriptshark.com^
 ||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
@@ -44839,6 +44844,7 @@ vkcdnservice.appspot.com^
 ||brornaeq.com^
 ||strakuty.com^
 ||zcrddj.icu^
+||nonguds.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
