@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-14T06:13:25.373Z
+! Last modified: 2025-02-14T12:17:15.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||splendid-concert.com^
 ||engine.trialhd.com^
 ||getwptag.org^
 ||directone.xyz^
@@ -33978,6 +33979,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||showsclick.com^
 ||7kprtners.com^
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn.dmtgvn.com^
@@ -44511,6 +44513,8 @@ vkcdnservice.appspot.com^
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
+||qhunetsq.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
