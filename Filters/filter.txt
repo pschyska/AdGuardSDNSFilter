@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-14T18:12:46.975Z
+! Last modified: 2025-02-15T00:43:46.382Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -26080,7 +26080,6 @@ vkcdnservice.appspot.com^
 ||tiglonhominy.top^
 ||tignuget.net^
 ||tigreanreshew.com^
-||tigris.dev^
 ||tigroulseedsipt.net^
 ||tiktakz.xyz^
 ||tilesmuzarab.com^
@@ -44540,6 +44539,9 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||sholxorw.com^
+||xehyjx.icu^
+||jgxirv.icu^
 ||saddarue.com^
 ||scinmab.top^
 ||stroveiks.com^
