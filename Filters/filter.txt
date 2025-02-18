@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-18T00:44:08.722Z
+! Last modified: 2025-02-18T06:13:26.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -35620,8 +35620,8 @@ vkcdnservice.appspot.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2025-02-01 05:12:35 CET
-# entries:        1102
+# last updated:   2025-02-18 05:42:39 CET
+# entries:        1103
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -36269,6 +36269,7 @@ vkcdnservice.appspot.com^
 ||tracking.klt.nu^
 ||tracking.kpwebben.se^
 ||tracking.kristianstadsbladet.se^
+||tracking.livesport.expressen.se^
 ||tracking.ljusdalsposten.se^
 ||tracking.ljusnan.se^
 ||tracking.ltz.se^
@@ -36755,8 +36756,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 17 Feb 2025 15:19 UTC+7
-! Version: 2502171519
+! Last modified: 18 Feb 2025 09:41 UTC+7
+! Version: 2502180941
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -37597,8 +37598,8 @@ vkcdnservice.appspot.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 16 Feb 2025 16:02 UTC+7
-! Version: 2502161602
+! Last modified: 18 Feb 2025 09:41 UTC+7
+! Version: 2502180941
 ! Blocked: 4.710 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -42193,6 +42194,8 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||zavgrj.icu^
 ||stogmos.com^
+||lclqbh.icu^
+||qnhi.cn^
 ||aegzoils.com^
 ||bxzlfr.icu^
 ||shudi8.com^
