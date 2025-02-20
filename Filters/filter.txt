@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-20T12:18:02.393Z
+! Last modified: 2025-02-20T18:13:09.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||adtarget.biz^
 ||signamentswithd.com^
 ||kdnvieos.my^
 ||ufbcrgms.com^
@@ -3567,6 +3568,7 @@ vkcdnservice.appspot.com^
 ||amusing-location.pro^
 ||amyfixesfelicity.com^
 ||amylo.site^
+||amyrinbitume.com^
 ||amzbtuolwp.com^
 ||anacampaign.com^
 ||anadignity.com^
@@ -4882,6 +4884,7 @@ vkcdnservice.appspot.com^
 ||bestadsrv.com^
 ||bestafffaiir.com^
 ||bestafffaiir.net^
+||bestainmoble.com^
 ||bestaryua.com^
 ||bestchainconnection.com^
 ||bestcleaner.online^
@@ -5393,6 +5396,7 @@ vkcdnservice.appspot.com^
 ||bottleselement.com^
 ||bottomthoughtvow.com^
 ||boudja.com^
+||boufigoaglem.net^
 ||boufikesha.net^
 ||boughtjovialamnesty.com^
 ||bouhoagy.net^
@@ -6454,6 +6458,7 @@ vkcdnservice.appspot.com^
 ||chrantary-vocking.com^
 ||chrisignateignatedescend.com^
 ||christeningfathom.com^
+||christmascalled.com^
 ||chronicads.com^
 ||chroniclesugar.com^
 ||chroococcoid.sbs^
@@ -6508,6 +6513,7 @@ vkcdnservice.appspot.com^
 ||cisheeng.com^
 ||citadelpathstatue.com^
 ||citatumpity.com^
+||citharahemps.shop^
 ||cithernassorts.com^
 ||citizenhid.com^
 ||citizenshadowrequires.com^
@@ -9584,6 +9590,7 @@ vkcdnservice.appspot.com^
 ||eu5qwt3o.beauty^
 ||euauosx.xyz^
 ||euchresgryllus.com^
+||euconicungaro.top^
 ||eucosiaepeiric.com^
 ||eudoxia-myr.com^
 ||eudstudio.com^
@@ -11978,6 +11985,7 @@ vkcdnservice.appspot.com^
 ||hash-hash-tag.com^
 ||hashidsookoksee.net^
 ||hashpreside.com^
+||hashtstrout.com^
 ||hasomsdcoojm.com^
 ||hastecoat.com^
 ||hatagashira.com^
@@ -13635,6 +13643,7 @@ vkcdnservice.appspot.com^
 ||jergocast.com^
 ||jerkisle.com^
 ||jeroud.com^
+||jerriddraine.com^
 ||jerseydisplayed.com^
 ||jerusalemstatedstill.com^
 ||jerust.com^
@@ -13935,6 +13944,7 @@ vkcdnservice.appspot.com^
 ||jygcv.sbs^
 ||jygotubvpyguak.com^
 ||jyusesoionsglear.info^
+||jyvkwqjremjbj.top^
 ||jywczbx.com^
 ||jyzkut.com^
 ||jzeapwlruols.com^
@@ -14237,6 +14247,7 @@ vkcdnservice.appspot.com^
 ||koafaimoor.net^
 ||koalaups.com^
 ||koaneeto.xyz^
+||koanewhaideeb.com^
 ||koaphestoaglouw.net^
 ||koaphoocouph.net^
 ||koapsout.com^
@@ -16319,6 +16330,7 @@ vkcdnservice.appspot.com^
 ||mudrouraung.net^
 ||muendakutyfore.info^
 ||mufflercypress.com^
+||mugglesskyfte.com^
 ||mugleafly.com^
 ||mugpothop.com^
 ||mukhtarproving.com^
@@ -17876,6 +17888,7 @@ vkcdnservice.appspot.com^
 ||ornatecomputer.com^
 ||orqrdm.com^
 ||orquideassp.com^
+||orthcurium.com^
 ||ortwaukthwaeals.com^
 ||oruxdwhatijun.info^
 ||osadooffinegold.com^
@@ -18685,6 +18698,7 @@ vkcdnservice.appspot.com^
 ||philosophicalurgegreece.com^
 ||philosophydictation.com^
 ||phitchoord.com^
+||phiwheegnis.xyz^
 ||phkucgq.com^
 ||phkwimm.com^
 ||phloxsub73ulata.com^
@@ -19004,6 +19018,7 @@ vkcdnservice.appspot.com^
 ||pnwawbwwx.com^
 ||pnyf1.top^
 ||poacawhe.net^
+||poachostistour.net^
 ||poapeecujiji.com^
 ||poaptapuwhu.com^
 ||poasotha.com^
@@ -19139,6 +19154,7 @@ vkcdnservice.appspot.com^
 ||popxyz.com^
 ||porailbond.com^
 ||poratweb.com^
+||porbzpfmverzb.today^
 ||porcelainviolationshe.com^
 ||poredii.com^
 ||porkpielepidin.com^
@@ -20892,6 +20908,7 @@ vkcdnservice.appspot.com^
 ||retoxo.com^
 ||retreatregular.com^
 ||retrievereasoninginjure.com^
+||retripmoppers.com^
 ||retrostingychemical.com^
 ||retryngs.com^
 ||retsifergoumti.net^
@@ -25405,6 +25422,7 @@ vkcdnservice.appspot.com^
 ||uptimecdn.com^
 ||uptownrecycle.com^
 ||uptraindustmen.top^
+||uptrendragshag.com^
 ||upuplet.net^
 ||upush.co^
 ||upwardbodies.com^
@@ -25571,6 +25589,7 @@ vkcdnservice.appspot.com^
 ||valueslinear.com^
 ||valuethemarkets.info^
 ||valvyre.com^
+||vamgggllztusk.love^
 ||vampedcortine.com^
 ||vampingrichest.shop^
 ||vandalismundermineshock.com^
@@ -26158,6 +26177,7 @@ vkcdnservice.appspot.com^
 ||wanglesscions.shop^
 ||wangrocery.pro^
 ||wanintrudeabbey.com^
+||wanionsoblongs.com^
 ||wanlyavower.com^
 ||wannessdebus.com^
 ||wanodtbfif.com^
@@ -26373,6 +26393,7 @@ vkcdnservice.appspot.com^
 ||welfaremarsh.com^
 ||wellexpressionrumble.com^
 ||wellhello.com^
+||welliesazoxime.com^
 ||welllwrite.com^
 ||wellmov.com^
 ||wellpdy.com^
@@ -26708,6 +26729,7 @@ vkcdnservice.appspot.com^
 ||wlafx4trk.com^
 ||wllqotfmkhlhx.xyz^
 ||wlrkcefll.com^
+||wlxbbnkkwlppkq.com^
 ||wlyfiii.com^
 ||wlzzwzekkbkaj.top^
 ||wma.io^
@@ -27030,6 +27052,7 @@ vkcdnservice.appspot.com^
 ||xcinilwpypp.com^
 ||xclicks.net^
 ||xcowuheclvwryh.com^
+||xctrnkoncscg.xyz^
 ||xcuffrzha.com^
 ||xcvidvdatemsjh.com^
 ||xcxbqohm.xyz^
@@ -28492,6 +28515,7 @@ vkcdnservice.appspot.com^
 ||guitaralliance.com^
 ||gumgum.com^
 ||gururevenue.com^
+||harvesttraffic.com^
 ||havetohave.com^
 ||hbwrapper.com^
 ||headbidder.net^
@@ -28966,6 +28990,7 @@ vkcdnservice.appspot.com^
 ||vidoomy.com^
 ||vidverto.io^
 ||viewtraff.com^
+||viralnugget.com^
 ||vlyby.com^
 ||vupulse.com^
 ||w00tmedia.net^
@@ -36595,6 +36620,7 @@ vkcdnservice.appspot.com^
 ||adplay.it^
 ||adspro.it^
 ||affiliation.software^
+||bannerbuy.it^
 ||break-even.it^
 ||broadbandy.net^
 ||brznetwork.com^
@@ -42370,6 +42396,7 @@ vkcdnservice.appspot.com^
 ||sg7.pw^
 ||jcinvda.top^
 ||dbdophuz.icu^
+||qogrux.com^
 ||dhannaq.com^
 ||xqrydt.icu^
 ||rsohvot.xyz^
@@ -47398,6 +47425,7 @@ analytics-*.aasaam.com
 ! Source name: List-KR filter third-party ad servers
 ! Source: https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filters-share/3rd_domains.txt
 !
+||ad.api.adwiser.kr^
 ||recoshopping.naver.com^
 ||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
