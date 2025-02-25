@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-24T18:13:25.445Z
+! Last modified: 2025-02-25T00:45:43.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -8784,6 +8784,7 @@ vkcdnservice.appspot.com^
 ||drunkendecembermediocre.com^
 ||drunkindigenouswaitress.com^
 ||drybariums.shop^
+||drydwezfas.com^
 ||drylnk.com^
 ||ds3.biz^
 ||ds7hds92.de^
@@ -10126,6 +10127,7 @@ vkcdnservice.appspot.com^
 ||feghijupvucw.com^
 ||feignoccasionedmound.com^
 ||feignthat.com^
+||feilbeclaw.com^
 ||feintelbowsburglar.com^
 ||feistyhelicopter.com^
 ||fejla.com^
@@ -25535,6 +25537,7 @@ vkcdnservice.appspot.com^
 ||universaltrout.com^
 ||universityofinternetscience.com^
 ||universitypermanentlyhusk.com^
+||unjuicypeal.com^
 ||unkinpaynim.com^
 ||unkinpigsty.com^
 ||unknownhormonesafeguard.com^
@@ -42682,6 +42685,11 @@ vkcdnservice.appspot.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||druqodrly.com^
+||bidotz.icu^
+||nktydx.icu^
+||scohmallt.com^
+||lvnr.cn^
 ||dfhthh.icu^
 ||chuundads.com^
 ||xvvfpsmp.icu^
