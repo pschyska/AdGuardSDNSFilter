@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-02-26T00:45:23.748Z
+! Last modified: 2025-02-26T06:14:29.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29072,6 +29072,7 @@ vkcdnservice.appspot.com^
 ||nster.net^
 ||ntent.com^
 ||numbers.md^
+||o.socoms.net^
 ||oboxads.com^
 ||oceanwebcraft.com^
 ||ocelot.studio^
@@ -42748,6 +42749,7 @@ vkcdnservice.appspot.com^
 ||zlzgfj.icu^
 ||lnptph.icu^
 ||pisb.cn^
+||dyyygyg.top^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
@@ -42756,6 +42758,7 @@ vkcdnservice.appspot.com^
 ||znlvhnej.icu^
 ||okwjmii.top^
 ||onjncgq.top^
+||o02260aokk.com^
 ||o02251aokk.com^
 ||pheidheat.com^
 ||thampheth.com^
