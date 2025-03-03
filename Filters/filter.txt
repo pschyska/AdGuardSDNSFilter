@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-03T12:18:25.690Z
+! Last modified: 2025-03-03T18:12:57.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4693,6 +4693,7 @@ vkcdnservice.appspot.com^
 ||baubogla.com^
 ||baucheedoa.net^
 ||bauchleredries.com^
+||baucuptaugo.com^
 ||bauptost.net^
 ||baushoaptauw.net^
 ||bauwonaujouloo.net^
