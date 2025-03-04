@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-04T12:18:20.052Z
+! Last modified: 2025-03-04T18:13:27.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4125,6 +4125,7 @@ vkcdnservice.appspot.com^
 ||ateamplayera.com^
 ||ateaudiblydriving.com^
 ||atedlitytlement.info^
+||atefpurga.top^
 ||aterroppop.com^
 ||atethebenefitsshe.com^
 ||atgallader.com^
@@ -4140,6 +4141,7 @@ vkcdnservice.appspot.com^
 ||atholicncesispe.info^
 ||athyimemediat.com^
 ||athyimemediates.info^
+||athyimemediates.org^
 ||aticalfelixstownrus.info^
 ||atinsolutions.com^
 ||ationforeahyouglas.com^
@@ -8376,6 +8378,7 @@ vkcdnservice.appspot.com^
 ||dikeaxillas.com^
 ||dikersballo.shop^
 ||dikkoplida.cam^
+||dil4q0t0blrf8.cloudfront.net^
 ||dilatenine.com^
 ||dilateriotcosmetic.com^
 ||dilowhang.com^
@@ -8675,6 +8678,7 @@ vkcdnservice.appspot.com^
 ||dolphinabberantleaflet.com^
 ||dolphincdn.xyz^
 ||doltishapodes.shop^
+||dolularhenewrev.org^
 ||domainanalyticsapi.com^
 ||domaincntrol.com^
 ||domainparkingmanager.it^
@@ -13712,6 +13716,7 @@ vkcdnservice.appspot.com^
 ||itemolgaer.com^
 ||itemperrycreek.com^
 ||itenalif.shop^
+||iterantunacute.shop^
 ||itespurrom.com^
 ||itflorgesan.com^
 ||itgiblean.com^
@@ -13768,6 +13773,7 @@ vkcdnservice.appspot.com^
 ||iwhoosty.com^
 ||iwouhoft.com^
 ||iwovfiidszrk.tech^
+||iwtdbhvgvk.com^
 ||iwuh.org^
 ||iwyrldaeiyv.com^
 ||ixafr.com^
@@ -13927,6 +13933,7 @@ vkcdnservice.appspot.com^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
 ||jellyprehistoricpersevere.com^
+||jelokerrvvkqj.top^
 ||jemonews.com^
 ||jeniz.xyz^
 ||jenkincraved.com^
@@ -14701,6 +14708,7 @@ vkcdnservice.appspot.com^
 ||kviglxabhwwhf.xyz^
 ||kvoiiedftqzyb.com^
 ||kvovs.xyz^
+||kvpbsnkgjy.xyz^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
 ||kvymlsb.com^
@@ -14836,6 +14844,7 @@ vkcdnservice.appspot.com^
 ||larkenjoyedborn.com^
 ||larnox.info^
 ||larrenpicture.pro^
+||larryhagbut.top^
 ||las4srv.com^
 ||lascivioushelpfulstool.com^
 ||lasciviousregardedherald.com^
@@ -15981,6 +15990,7 @@ vkcdnservice.appspot.com^
 ||mayule.xyz^
 ||mazcicni.com^
 ||mazefoam.com^
+||mazerflush.shop^
 ||mb-npltfpro.com^
 ||mb01.com^
 ||mb102.com^
@@ -16751,6 +16761,7 @@ vkcdnservice.appspot.com^
 ||muriheem.net^
 ||murkybrashly.com^
 ||murkymouse.online^
+||murmursutta.shop^
 ||murolwsi.com^
 ||murriesforsee.shop^
 ||musclesadmonishment.com^
@@ -18973,6 +18984,7 @@ vkcdnservice.appspot.com^
 ||penitenceuniversityinvoke.com^
 ||penitentarduous.com^
 ||penitentiaryoverdosetumble.com^
+||penjxqxbieezy.top^
 ||penniedtache.com^
 ||pennilesscomingall.com^
 ||pennilesspictorial.com^
@@ -48114,7 +48126,6 @@ analytics-*.aasaam.com
 ||displayad.zum.com^
 ||networkad.nate.com^
 ||cyad1.nate.com^
-||adimg.nate.com^
 ||ad-api.enuri.info^
 ||ad.newspim.com^
 ||ad.imp.joins.com^
