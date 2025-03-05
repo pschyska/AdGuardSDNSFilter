@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-05T06:14:10.955Z
+! Last modified: 2025-03-05T12:18:26.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,17 +11,7 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
 !
-!
-! This section contains the list of third-party advertising networks domains.
-! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
-! The rules with hints are at the end of file.
-!
-! Good: ||doubleclick.net^$third-party
-! Bad: /banner.jpg (should be in general_url.txt)
-! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
-!
-!
-!
+||banner-iframe.com^
 ||pnwrs5xz.click^
 ||demand.supply^
 ||seeptoafuko.com^
@@ -12836,6 +12826,7 @@ vkcdnservice.appspot.com^
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjbylofyso.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrtennaarn.com^
@@ -14247,6 +14238,7 @@ vkcdnservice.appspot.com^
 ||justrelevant.com^
 ||justservingfiles.net^
 ||jutyledu.pro^
+||juvjimicwbauuw.com^
 ||juzaugleed.com^
 ||juztjtsxbojdj.com^
 ||jvcjnmd.com^
@@ -18254,6 +18246,7 @@ vkcdnservice.appspot.com^
 ||optyruntchan.com^
 ||optzsrv.com^
 ||opvanillishan.com^
+||opzvalfafh.com^
 ||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqejupqb.xyz^
@@ -21678,6 +21671,7 @@ vkcdnservice.appspot.com^
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkksbrkwdqbop.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -23046,6 +23040,7 @@ vkcdnservice.appspot.com^
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skewserer.com^
+||skgpzivadwdte.buzz^
 ||skhmjezzj.com^
 ||skibbybester.top^
 ||skidgleambrand.com^
@@ -24532,6 +24527,7 @@ vkcdnservice.appspot.com^
 ||tediousgorgefirst.com^
 ||tedtaxi.com^
 ||tedtug.com^
+||teedastoowu.net^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
@@ -26525,6 +26521,7 @@ vkcdnservice.appspot.com^
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
+||vihbuposxci.com^
 ||vihub.ru^
 ||viibest.com^
 ||viibmmqc.com^
@@ -32696,6 +32693,7 @@ vkcdnservice.appspot.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||nanthou.life^
 ||video.agenteimmobiliare.info^
 ||wrapper.bracdn.online^
 ||bolayaros.com^
@@ -43172,6 +43170,8 @@ vkcdnservice.appspot.com^
 ||cnzz.trafficmanager.net^
 ||hbxmdf.icu^
 ||ojmv.cn^
+||rvgtaai.top^
+||vwvj.cn^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
