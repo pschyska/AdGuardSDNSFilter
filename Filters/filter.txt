@@ -3,7 +3,7 @@
 ! Description: AdguardTeam/AdguardSDNSFilter with tracking-related sources removed.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-05T18:13:48.913Z
+! Last modified: 2025-03-06T00:46:40.644Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -43206,6 +43206,9 @@ vkcdnservice.appspot.com^
 ||rvgtaai.top^
 ||vwvj.cn^
 ||fpfhtr.icu^
+||frthpp.icu^
+||ixtu.cn^
+||gjinuqg.top^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
@@ -48126,7 +48129,6 @@ analytics-*.aasaam.com
 ||cyad.nate.com^
 ||ads.gamemeca.com^
 ||adcdn.gamemeca.com^
-||trendpick.shopping.naver.com^
 ||powerclick.about.co.kr^
 ||ads.tapzin.com^
 ||advod.sbs.co.kr^
